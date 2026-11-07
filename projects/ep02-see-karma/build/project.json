@@ -1,0 +1,5832 @@
+{
+ "version": 1,
+ "style": "B1",
+ "width": 1280,
+ "height": 720,
+ "fps": 30,
+ "voice": {
+  "path": "narration.wav",
+  "lead": 0.15,
+  "tail": 5
+ },
+ "captions": [
+  {
+   "start": 0.15,
+   "end": 1.01,
+   "text": "You wake up,"
+  },
+  {
+   "start": 1.23,
+   "end": 1.79,
+   "text": "look in the mirror,"
+  },
+  {
+   "start": 2.05,
+   "end": 4.55,
+   "text": "and there's a number above your head again."
+  },
+  {
+   "start": 5.03,
+   "end": 5.85,
+   "text": "But this time,"
+  },
+  {
+   "start": 6.13,
+   "end": 6.79,
+   "text": "it isn't money."
+  },
+  {
+   "start": 7.71,
+   "end": 9.35,
+   "text": "Plus seventy-three."
+  },
+  {
+   "start": 9.35,
+   "end": 10.11,
+   "text": "It's your karma."
+  },
+  {
+   "start": 10.99,
+   "end": 12.73,
+   "text": "Every kind thing you've ever done,"
+  },
+  {
+   "start": 12.81,
+   "end": 14.31,
+   "text": "minus every cruel one,"
+  },
+  {
+   "start": 14.61,
+   "end": 15.75,
+   "text": "added into a single score."
+  },
+  {
+   "start": 16.81,
+   "end": 17.67,
+   "text": "Everyone has one."
+  },
+  {
+   "start": 18.53,
+   "end": 19.61,
+   "text": "For the next seven days,"
+  },
+  {
+   "start": 19.81,
+   "end": 21.81,
+   "text": "you can see exactly how good,"
+  },
+  {
+   "start": 21.81,
+   "end": 22.75,
+   "text": "or how bad,"
+  },
+  {
+   "start": 22.75,
+   "end": 24.25,
+   "text": "everyone really is."
+  },
+  {
+   "start": 24.69,
+   "end": 25.89,
+   "text": "And by day seven,"
+  },
+  {
+   "start": 25.97,
+   "end": 28.05,
+   "text": "the lowest number in the city will"
+  },
+  {
+   "start": 28.05,
+   "end": 30.07,
+   "text": "belong to someone you'd never expect."
+  },
+  {
+   "start": 30.99,
+   "end": 32.63,
+   "text": "At first, it's just fascinating."
+  },
+  {
+   "start": 33.29,
+   "end": 34.95,
+   "text": "The barista who remembers everyone's"
+  },
+  {
+   "start": 34.95,
+   "end": 37.27,
+   "text": "name is at plus four hundred and ten."
+  },
+  {
+   "start": 37.27,
+   "end": 40.23,
+   "text": "The man yelling at his phone is at minus thirty-eight."
+  },
+  {
+   "start": 40.23,
+   "end": 40.61,
+   "text": "Fair enough."
+  },
+  {
+   "start": 41.37,
+   "end": 43.87,
+   "text": "But then you see the man in the expensive suit."
+  },
+  {
+   "start": 44.41,
+   "end": 45.55,
+   "text": "The one who looks like he'd step"
+  },
+  {
+   "start": 45.55,
+   "end": 46.87,
+   "text": "over you to catch a taxi."
+  },
+  {
+   "start": 47.67,
+   "end": 49.32,
+   "text": "Plus two thousand,"
+  },
+  {
+   "start": 49.32,
+   "end": 50.53,
+   "text": "three hundred."
+  },
+  {
+   "start": 50.53,
+   "end": 51.61,
+   "text": "You don't know what he did."
+  },
+  {
+   "start": 51.95,
+   "end": 52.67,
+   "text": "You'll never know."
+  },
+  {
+   "start": 53.15,
+   "end": 54.29,
+   "text": "But he did a lot of it."
+  },
+  {
+   "start": 54.29,
+   "end": 57.35,
+   "text": "And the little girl holding her mum's hand?"
+  },
+  {
+   "start": 58.01,
+   "end": 59.35,
+   "text": "Plus ninety."
+  },
+  {
+   "start": 59.35,
+   "end": 60.45,
+   "text": "Already beating you."
+  },
+  {
+   "start": 61.27,
+   "end": 62.41,
+   "text": "Lesson one, before breakfast:"
+  },
+  {
+   "start": 63.03,
+   "end": 63.61,
+   "text": "just like money,"
+  },
+  {
+   "start": 63.61,
+   "end": 65.95,
+   "text": "you can't see goodness from the outside."
+  },
+  {
+   "start": 67.13,
+   "end": 68.03,
+   "text": "Then you walk into work."
+  },
+  {
+   "start": 68.83,
+   "end": 69.43,
+   "text": "And there's Kevin."
+  },
+  {
+   "start": 69.43,
+   "end": 72.67,
+   "text": "Kevin, who forwards your emails and calls it teamwork."
+  },
+  {
+   "start": 73.39,
+   "end": 76.47,
+   "text": "Kevin is at plus eight hundred and eighty."
+  },
+  {
+   "start": 76.47,
+   "end": 78.23,
+   "text": "That's more than ten times your number."
+  },
+  {
+   "start": 78.23,
+   "end": 80.03,
+   "text": "You can't stop staring,"
+  },
+  {
+   "start": 80.19,
+   "end": 80.93,
+   "text": "so at lunch,"
+  },
+  {
+   "start": 80.93,
+   "end": 81.61,
+   "text": "you ask around."
+  },
+  {
+   "start": 82.33,
+   "end": 84.05,
+   "text": "Kevin covers night shifts for a"
+  },
+  {
+   "start": 84.05,
+   "end": 85.43,
+   "text": "coworker whose kid is sick."
+  },
+  {
+   "start": 86.15,
+   "end": 86.71,
+   "text": "Every week."
+  },
+  {
+   "start": 87.23,
+   "end": 88.41,
+   "text": "He never mentioned it."
+  },
+  {
+   "start": 88.99,
+   "end": 90.35,
+   "text": "You ask him why he never told anyone."
+  },
+  {
+   "start": 91.21,
+   "end": 91.63,
+   "text": "He shrugs."
+  },
+  {
+   "start": 92.63,
+   "end": 94.56,
+   "text": "\"Didn't seem like the kind of thing you announce.\""
+  },
+  {
+   "start": 94.56,
+   "end": 97.39,
+   "text": "You've spent years deciding who Kevin was"
+  },
+  {
+   "start": 97.39,
+   "end": 99.11,
+   "text": "from the tiny part of him you could see."
+  },
+  {
+   "start": 99.75,
+   "end": 101.45,
+   "text": "You were wrong about his salary last week."
+  },
+  {
+   "start": 102.15,
+   "end": 103.15,
+   "text": "You were wrong about this,"
+  },
+  {
+   "start": 103.15,
+   "end": 103.41,
+   "text": "too."
+  },
+  {
+   "start": 104.27,
+   "end": 105.23,
+   "text": "On day three,"
+  },
+  {
+   "start": 105.23,
+   "end": 107.55,
+   "text": "a man at the mall hands you a free sample."
+  },
+  {
+   "start": 108.23,
+   "end": 110.57,
+   "text": "He's smiling, but his number doesn't move."
+  },
+  {
+   "start": 110.69,
+   "end": 111.85,
+   "text": "Not even by one."
+  },
+  {
+   "start": 112.35,
+   "end": 113.83,
+   "text": "Because karma, you realize,"
+  },
+  {
+   "start": 113.99,
+   "end": 116.67,
+   "text": "can tell the difference between a gift and a hook."
+  },
+  {
+   "start": 117.41,
+   "end": 118.21,
+   "text": "And the hook works."
+  },
+  {
+   "start": 118.75,
+   "end": 119.65,
+   "text": "In a famous experiment,"
+  },
+  {
+   "start": 119.85,
+   "end": 122.45,
+   "text": "a researcher bought people a can of Coke as a small,"
+  },
+  {
+   "start": 122.45,
+   "end": 123.41,
+   "text": "unexpected favor."
+  },
+  {
+   "start": 123.91,
+   "end": 125.55,
+   "text": "Later, he asked them to buy raffle tickets."
+  },
+  {
+   "start": 126.11,
+   "end": 127.29,
+   "text": "The people who got the Coke bought"
+  },
+  {
+   "start": 127.29,
+   "end": 129.15,
+   "text": "about twice as many tickets."
+  },
+  {
+   "start": 129.49,
+   "end": 131.19,
+   "text": "Even the ones who didn't like him."
+  },
+  {
+   "start": 131.19,
+   "end": 132.95,
+   "text": "A small favor makes us feel"
+  },
+  {
+   "start": 132.95,
+   "end": 134.37,
+   "text": "like we owe something back."
+  },
+  {
+   "start": 134.91,
+   "end": 136.07,
+   "text": "It's called reciprocity."
+  },
+  {
+   "start": 136.49,
+   "end": 138.51,
+   "text": "It's one of the strongest forces in human behaviour,"
+  },
+  {
+   "start": 138.51,
+   "end": 140.43,
+   "text": "and salespeople know it."
+  },
+  {
+   "start": 140.71,
+   "end": 143.05,
+   "text": "Ever wondered why supermarkets hand out free samples?"
+  },
+  {
+   "start": 143.79,
+   "end": 144.53,
+   "text": "Now you know."
+  },
+  {
+   "start": 145.15,
+   "end": 146.19,
+   "text": "You buy the thing anyway."
+  },
+  {
+   "start": 146.69,
+   "end": 147.95,
+   "text": "Your number drops by one,"
+  },
+  {
+   "start": 148.47,
+   "end": 149.89,
+   "text": "for buying something you didn't need"
+  },
+  {
+   "start": 149.89,
+   "end": 151.71,
+   "text": "with money you'd promised to save."
+  },
+  {
+   "start": 152.69,
+   "end": 153.75,
+   "text": "So on day four,"
+  },
+  {
+   "start": 153.95,
+   "end": 154.91,
+   "text": "you come up with a plan."
+  },
+  {
+   "start": 155.31,
+   "end": 156.91,
+   "text": "You're going to farm karma."
+  },
+  {
+   "start": 157.53,
+   "end": 159.23,
+   "text": "You help an old man carry his groceries."
+  },
+  {
+   "start": 159.23,
+   "end": 160.39,
+   "text": "You hold doors."
+  },
+  {
+   "start": 160.39,
+   "end": 162.43,
+   "text": "You tell everyone their haircut looks great."
+  },
+  {
+   "start": 162.43,
+   "end": 163.84,
+   "text": "Your number goes up."
+  },
+  {
+   "start": 164.49,
+   "end": 165.59,
+   "text": "Plus seventy-four."
+  },
+  {
+   "start": 165.59,
+   "end": 166.97,
+   "text": "Plus seventy-five."
+  },
+  {
+   "start": 166.97,
+   "end": 167.43,
+   "text": "Slowly."
+  },
+  {
+   "start": 168.15,
+   "end": 168.99,
+   "text": "Painfully slowly."
+  },
+  {
+   "start": 169.67,
+   "end": 171.27,
+   "text": "By evening, you've helped eleven people,"
+  },
+  {
+   "start": 171.55,
+   "end": 172.19,
+   "text": "your feet hurt,"
+  },
+  {
+   "start": 172.29,
+   "end": 173.55,
+   "text": "and you've gained four points."
+  },
+  {
+   "start": 174.11,
+   "end": 175.83,
+   "text": "It's almost like the number knows"
+  },
+  {
+   "start": 175.83,
+   "end": 177.45,
+   "text": "when kindness is a performance."
+  },
+  {
+   "start": 178.45,
+   "end": 179.53,
+   "text": "Then, on the way home,"
+  },
+  {
+   "start": 179.65,
+   "end": 180.73,
+   "text": "you buy two hot chocolates,"
+  },
+  {
+   "start": 181.17,
+   "end": 182.61,
+   "text": "and for no reason at all,"
+  },
+  {
+   "start": 182.83,
+   "end": 185.25,
+   "text": "you hand one to a stranger shivering at the bus stop."
+  },
+  {
+   "start": 185.77,
+   "end": 188.01,
+   "text": "She looks at you like you just handed her the moon."
+  },
+  {
+   "start": 188.65,
+   "end": 189.31,
+   "text": "Plus six."
+  },
+  {
+   "start": 189.97,
+   "end": 190.73,
+   "text": "In one second."
+  },
+  {
+   "start": 190.73,
+   "end": 192.99,
+   "text": "Psychologists actually tested this."
+  },
+  {
+   "start": 193.35,
+   "end": 194.41,
+   "text": "They had people give hot chocolate"
+  },
+  {
+   "start": 194.41,
+   "end": 195.49,
+   "text": "to strangers in a park,"
+  },
+  {
+   "start": 195.65,
+   "end": 197.67,
+   "text": "then asked them to guess how the strangers would feel."
+  },
+  {
+   "start": 198.45,
+   "end": 199.47,
+   "text": "The givers guessed wrong."
+  },
+  {
+   "start": 199.79,
+   "end": 200.53,
+   "text": "Every time."
+  },
+  {
+   "start": 201.05,
+   "end": 202.15,
+   "text": "The strangers felt much better"
+  },
+  {
+   "start": 202.15,
+   "end": 203.07,
+   "text": "than the givers predicted."
+  },
+  {
+   "start": 203.73,
+   "end": 205.79,
+   "text": "We constantly underestimate how much a"
+  },
+  {
+   "start": 205.79,
+   "end": 208.05,
+   "text": "small kindness means to someone else."
+  },
+  {
+   "start": 208.95,
+   "end": 209.97,
+   "text": "On day five,"
+  },
+  {
+   "start": 210.19,
+   "end": 210.83,
+   "text": "you see her again."
+  },
+  {
+   "start": 211.11,
+   "end": 212.23,
+   "text": "The woman from the bus stop."
+  },
+  {
+   "start": 212.91,
+   "end": 214.25,
+   "text": "She's at the hospital entrance,"
+  },
+  {
+   "start": 214.25,
+   "end": 216.15,
+   "text": "holding the door for a man on crutches."
+  },
+  {
+   "start": 216.89,
+   "end": 217.79,
+   "text": "The man on crutches,"
+  },
+  {
+   "start": 217.79,
+   "end": 218.85,
+   "text": "ten minutes later,"
+  },
+  {
+   "start": 219.05,
+   "end": 220.13,
+   "text": "lets a mother with a crying"
+  },
+  {
+   "start": 220.13,
+   "end": 221.47,
+   "text": "baby go ahead of him in line."
+  },
+  {
+   "start": 222.01,
+   "end": 222.57,
+   "text": "And the mother,"
+  },
+  {
+   "start": 222.73,
+   "end": 223.53,
+   "text": "on her way out,"
+  },
+  {
+   "start": 223.77,
+   "end": 225.83,
+   "text": "pays for the coffee of the person behind her."
+  },
+  {
+   "start": 226.25,
+   "end": 227.17,
+   "text": "One hot chocolate."
+  },
+  {
+   "start": 228.03,
+   "end": 229.65,
+   "text": "Three more good things you"
+  },
+  {
+   "start": 229.65,
+   "end": 230.83,
+   "text": "never would have known about."
+  },
+  {
+   "start": 230.91,
+   "end": 233.05,
+   "text": "And none of them will ever know it started with you."
+  },
+  {
+   "start": 233.93,
+   "end": 235.33,
+   "text": "Scientists have found something"
+  },
+  {
+   "start": 235.33,
+   "end": 236.39,
+   "text": "like this in experiments."
+  },
+  {
+   "start": 236.39,
+   "end": 238.31,
+   "text": "When people played games where"
+  },
+  {
+   "start": 238.31,
+   "end": 239.55,
+   "text": "they could share with a group,"
+  },
+  {
+   "start": 239.93,
+   "end": 241.95,
+   "text": "generosity spread from person to person,"
+  },
+  {
+   "start": 241.95,
+   "end": 243.21,
+   "text": "up to three steps away."
+  },
+  {
+   "start": 243.69,
+   "end": 246.21,
+   "text": "Each extra bit of sharing ended up multiplied,"
+  },
+  {
+   "start": 246.21,
+   "end": 247.71,
+   "text": "as others copied it."
+  },
+  {
+   "start": 248.25,
+   "end": 249.85,
+   "text": "But here's the uncomfortable part."
+  },
+  {
+   "start": 250.49,
+   "end": 252.35,
+   "text": "Selfishness spread just as easily."
+  },
+  {
+   "start": 253.01,
+   "end": 255.07,
+   "text": "Every day, you're starting a chain reaction."
+  },
+  {
+   "start": 255.37,
+   "end": 256.85,
+   "text": "You just never get to see where it ends."
+  },
+  {
+   "start": 257.45,
+   "end": 259.13,
+   "text": "The only choice is which kind."
+  },
+  {
+   "start": 260.05,
+   "end": 261.25,
+   "text": "Then, on day six,"
+  },
+  {
+   "start": 261.31,
+   "end": 262.09,
+   "text": "something changes."
+  },
+  {
+   "start": 262.87,
+   "end": 264.53,
+   "text": "Everyone can see everyone's karma."
+  },
+  {
+   "start": 264.53,
+   "end": 266.57,
+   "text": "And the world goes a little crazy."
+  },
+  {
+   "start": 267.33,
+   "end": 269.21,
+   "text": "People start doing good deeds for the camera."
+  },
+  {
+   "start": 269.93,
+   "end": 271.53,
+   "text": "Restaurants only let in high numbers."
+  },
+  {
+   "start": 272.15,
+   "end": 273.51,
+   "text": "Dating apps sort by karma."
+  },
+  {
+   "start": 273.51,
+   "end": 275.65,
+   "text": "Within hours, someone builds an app"
+  },
+  {
+   "start": 275.65,
+   "end": 277.25,
+   "text": "that ranks everyone in the city,"
+  },
+  {
+   "start": 277.71,
+   "end": 278.01,
+   "text": "live."
+  },
+  {
+   "start": 278.59,
+   "end": 280.11,
+   "text": "That evening, Leo calls you."
+  },
+  {
+   "start": 280.43,
+   "end": 282.53,
+   "text": "His number dropped after he snapped at a waiter,"
+  },
+  {
+   "start": 282.53,
+   "end": 284.29,
+   "text": "and now strangers are staring at him."
+  },
+  {
+   "start": 284.51,
+   "end": 285.35,
+   "text": "He sounds scared."
+  },
+  {
+   "start": 286.23,
+   "end": 288.51,
+   "text": "\"What if people only ever see the worst thing I did?\""
+  },
+  {
+   "start": 289.43,
+   "end": 290.51,
+   "text": "And people with low numbers"
+  },
+  {
+   "start": 290.51,
+   "end": 291.49,
+   "text": "get treated like criminals."
+  },
+  {
+   "start": 292.31,
+   "end": 293.55,
+   "text": "Then something strange happens."
+  },
+  {
+   "start": 294.11,
+   "end": 295.95,
+   "text": "A man in your building loses his job."
+  },
+  {
+   "start": 296.35,
+   "end": 297.13,
+   "text": "And the neighbours whisper,"
+  },
+  {
+   "start": 297.57,
+   "end": 298.77,
+   "text": "\"He must have deserved it.\""
+  },
+  {
+   "start": 299.01,
+   "end": 300.29,
+   "text": "But you can see his number."
+  },
+  {
+   "start": 300.71,
+   "end": 301.777,
+   "text": "Plus one thousand,"
+  },
+  {
+   "start": 301.777,
+   "end": 303.39,
+   "text": "nine hundred and fifty."
+  },
+  {
+   "start": 303.39,
+   "end": 305.67,
+   "text": "Psychologists call this the just-world belief."
+  },
+  {
+   "start": 306.11,
+   "end": 307.85,
+   "text": "We want to believe the world is fair,"
+  },
+  {
+   "start": 308.15,
+   "end": 309.55,
+   "text": "that good things happen to good people"
+  },
+  {
+   "start": 309.77,
+   "end": 311.17,
+   "text": "and bad things happen to bad ones."
+  },
+  {
+   "start": 311.77,
+   "end": 313.49,
+   "text": "So when something bad happens to someone,"
+  },
+  {
+   "start": 313.87,
+   "end": 315.85,
+   "text": "we quietly assume they earned it."
+  },
+  {
+   "start": 315.85,
+   "end": 317.45,
+   "text": "It makes us feel safe."
+  },
+  {
+   "start": 318.03,
+   "end": 319.19,
+   "text": "And it makes us cruel."
+  },
+  {
+   "start": 319.79,
+   "end": 321.17,
+   "text": "Sometimes, bad things happen to"
+  },
+  {
+   "start": 321.17,
+   "end": 322.11,
+   "text": "people with great numbers."
+  },
+  {
+   "start": 323.15,
+   "end": 325.11,
+   "text": "Remember the lowest number in the city?"
+  },
+  {
+   "start": 325.71,
+   "end": 327.33,
+   "text": "The one you were never supposed to expect?"
+  },
+  {
+   "start": 327.33,
+   "end": 328.81,
+   "text": "On day seven,"
+  },
+  {
+   "start": 329.13,
+   "end": 330.13,
+   "text": "you finally find it."
+  },
+  {
+   "start": 331.01,
+   "end": 332.67,
+   "text": "It's above a woman in a grey uniform,"
+  },
+  {
+   "start": 333.11,
+   "end": 334.49,
+   "text": "standing next to a parking meter."
+  },
+  {
+   "start": 335.25,
+   "end": 336.743,
+   "text": "Minus four thousand,"
+  },
+  {
+   "start": 336.743,
+   "end": 338.85,
+   "text": "one hundred and twenty."
+  },
+  {
+   "start": 338.85,
+   "end": 340.07,
+   "text": "She's a parking officer."
+  },
+  {
+   "start": 340.85,
+   "end": 342.11,
+   "text": "Every day, people curse at her,"
+  },
+  {
+   "start": 342.41,
+   "end": 343.23,
+   "text": "slam their car doors,"
+  },
+  {
+   "start": 343.33,
+   "end": 344.21,
+   "text": "and wish her the worst."
+  },
+  {
+   "start": 345.01,
+   "end": 345.91,
+   "text": "But here's the thing."
+  },
+  {
+   "start": 346.55,
+   "end": 348.39,
+   "text": "Her number isn't low because of what she's done."
+  },
+  {
+   "start": 349.07,
+   "end": 350.11,
+   "text": "It's low because of what"
+  },
+  {
+   "start": 350.11,
+   "end": 351.83,
+   "text": "everyone else has said to her."
+  },
+  {
+   "start": 352.47,
+   "end": 353.59,
+   "text": "And when you look closer,"
+  },
+  {
+   "start": 353.59,
+   "end": 355.09,
+   "text": "the number flickers."
+  },
+  {
+   "start": 355.63,
+   "end": 357.31,
+   "text": "Underneath, faint and small,"
+  },
+  {
+   "start": 357.87,
+   "end": 358.89,
+   "text": "there's a second one."
+  },
+  {
+   "start": 359.43,
+   "end": 360.8,
+   "text": "Plus three thousand,"
+  },
+  {
+   "start": 360.8,
+   "end": 361.83,
+   "text": "six hundred."
+  },
+  {
+   "start": 361.83,
+   "end": 362.65,
+   "text": "Her real karma."
+  },
+  {
+   "start": 363.59,
+   "end": 365.39,
+   "text": "The big red number was never hers."
+  },
+  {
+   "start": 365.39,
+   "end": 366.85,
+   "text": "It was ours."
+  },
+  {
+   "start": 367.97,
+   "end": 368.65,
+   "text": "You walk over,"
+  },
+  {
+   "start": 369.23,
+   "end": 371.45,
+   "text": "and you tell her she's doing a hard job well."
+  },
+  {
+   "start": 372.17,
+   "end": 372.71,
+   "text": "She laughs."
+  },
+  {
+   "start": 373.35,
+   "end": 376.09,
+   "text": "She says nobody has said that to her in eleven years."
+  },
+  {
+   "start": 376.85,
+   "end": 378.19,
+   "text": "Then she tells you about a man who"
+  },
+  {
+   "start": 378.19,
+   "end": 379.35,
+   "text": "once thanked her for a ticket,"
+  },
+  {
+   "start": 379.35,
+   "end": 381.33,
+   "text": "because it reminded him to fix his brakes"
+  },
+  {
+   "start": 381.33,
+   "end": 382.97,
+   "text": "before a long drive with his kids."
+  },
+  {
+   "start": 383.57,
+   "end": 384.85,
+   "text": "She still remembers his face."
+  },
+  {
+   "start": 385.91,
+   "end": 387.79,
+   "text": "At midnight, the numbers fade."
+  },
+  {
+   "start": 388.41,
+   "end": 390.73,
+   "text": "The last one you see is your own."
+  },
+  {
+   "start": 391.03,
+   "end": 392.65,
+   "text": "Plus eighty-one."
+  },
+  {
+   "start": 392.65,
+   "end": 393.39,
+   "text": "Not huge."
+  },
+  {
+   "start": 393.77,
+   "end": 394.43,
+   "text": "Not perfect."
+  },
+  {
+   "start": 394.97,
+   "end": 396.57,
+   "text": "But higher than a week ago."
+  },
+  {
+   "start": 397.39,
+   "end": 398.85,
+   "text": "And you realize what moved it"
+  },
+  {
+   "start": 398.85,
+   "end": 400.29,
+   "text": "most wasn't the grand gestures."
+  },
+  {
+   "start": 400.89,
+   "end": 402.55,
+   "text": "It was a hot chocolate."
+  },
+  {
+   "start": 403.39,
+   "end": 405.45,
+   "text": "A text to Leo asking if he was okay."
+  },
+  {
+   "start": 406.31,
+   "end": 409.71,
+   "text": "One kind sentence to a woman everyone else yells at."
+  },
+  {
+   "start": 410.33,
+   "end": 411.31,
+   "text": "So before bed,"
+  },
+  {
+   "start": 411.43,
+   "end": 412.85,
+   "text": "you send one more message."
+  },
+  {
+   "start": 413.35,
+   "end": 414.59,
+   "text": "A thank-you to your mum,"
+  },
+  {
+   "start": 414.59,
+   "end": 416.75,
+   "text": "for something she did fifteen years"
+  },
+  {
+   "start": 416.75,
+   "end": 418.29,
+   "text": "ago that you never mentioned."
+  },
+  {
+   "start": 419.09,
+   "end": 420.55,
+   "text": "Then Kevin texts you a photo."
+  },
+  {
+   "start": 421.05,
+   "end": 422.27,
+   "text": "He's covering another night shift,"
+  },
+  {
+   "start": 422.27,
+   "end": 425.17,
+   "text": "and the office coffee machine is broken again."
+  },
+  {
+   "start": 425.91,
+   "end": 427.51,
+   "text": "You laugh, grab your coat,"
+  },
+  {
+   "start": 427.51,
+   "end": 428.69,
+   "text": "and bring him a coffee."
+  },
+  {
+   "start": 429.97,
+   "end": 431.89,
+   "text": "Some numbers you'll never see go up."
+  },
+  {
+   "start": 432.31,
+   "end": 434.33,
+   "text": "Some kindness nobody will ever count."
+  },
+  {
+   "start": 434.97,
+   "end": 435.69,
+   "text": "That's fine."
+  },
+  {
+   "start": 436.25,
+   "end": 436.95,
+   "text": "It still counts."
+  },
+  {
+   "start": 438.07,
+   "end": 440.41,
+   "text": "There's a famous study that found people"
+  },
+  {
+   "start": 440.41,
+   "end": 442.53,
+   "text": "who spent money on others felt happier"
+  },
+  {
+   "start": 442.53,
+   "end": 444.25,
+   "text": "than people who spent it on themselves."
+  },
+  {
+   "start": 444.85,
+   "end": 446.57,
+   "text": "A later attempt to repeat it"
+  },
+  {
+   "start": 446.57,
+   "end": 447.83,
+   "text": "didn't find the same effect,"
+  },
+  {
+   "start": 448.25,
+   "end": 450.17,
+   "text": "so scientists are still arguing about it."
+  },
+  {
+   "start": 450.47,
+   "end": 452.65,
+   "text": "But you don't need a study for this one."
+  },
+  {
+   "start": 453.23,
+   "end": 454.83,
+   "text": "Here's what seven days of seeing"
+  },
+  {
+   "start": 454.83,
+   "end": 456.39,
+   "text": "everyone's karma taught you."
+  },
+  {
+   "start": 457.11,
+   "end": 458.91,
+   "text": "You can't see goodness from the outside."
+  },
+  {
+   "start": 459.73,
+   "end": 461.87,
+   "text": "Small kindness travels further than you think."
+  },
+  {
+   "start": 462.63,
+   "end": 464.67,
+   "text": "Bad luck doesn't mean a bad person."
+  },
+  {
+   "start": 465.25,
+   "end": 467.77,
+   "text": "And sometimes, the lowest number is"
+  },
+  {
+   "start": 467.77,
+   "end": 469.37,
+   "text": "just the one everyone else wrote."
+  },
+  {
+   "start": 470.23,
+   "end": 471.89,
+   "text": "Tomorrow, the numbers are gone."
+  },
+  {
+   "start": 472.45,
+   "end": 474.17,
+   "text": "But you wake up hearing whispers."
+  },
+  {
+   "start": 475.27,
+   "end": 477.27,
+   "text": "Everything everyone says about you,"
+  },
+  {
+   "start": 477.27,
+   "end": 478.55,
+   "text": "when you're not in the room."
+  },
+  {
+   "start": 479.23,
+   "end": 480.35,
+   "text": "If you want to hear it too,"
+  },
+  {
+   "start": 480.69,
+   "end": 481.11,
+   "text": "subscribe."
+  },
+  {
+   "start": 481.81,
+   "end": 483.93,
+   "text": "Because tomorrow, the whispers begin."
+  }
+ ],
+ "shots": [
+  {
+   "start": 0,
+   "end": 5,
+   "layers": [
+    {
+     "type": "image",
+     "path": "art/mirror.png",
+     "x": 760,
+     "y": 50,
+     "w": 380
+    },
+    {
+     "type": "image",
+     "path": "art/you-sleepy.png",
+     "x": 213,
+     "y": 39,
+     "w": 434,
+     "to": 2.05
+    },
+    {
+     "type": "image",
+     "path": "art/you-startled.png",
+     "x": 213,
+     "y": 39,
+     "w": 434,
+     "from": 2.05
+    },
+    {
+     "type": "image",
+     "path": "art/you-sleepy-m.png",
+     "x": 803,
+     "y": 135,
+     "w": 294,
+     "to": 2.05
+    },
+    {
+     "type": "image",
+     "path": "art/you-startled-m.png",
+     "x": 803,
+     "y": 135,
+     "w": 294,
+     "from": 2.05
+    },
+    {
+     "type": "image",
+     "path": "art/sink.png",
+     "x": 800,
+     "y": 400,
+     "w": 300
+    },
+    {
+     "type": "text",
+     "text": "+73",
+     "x": 900,
+     "y": 120,
+     "size": 48,
+     "bold": true,
+     "color": "#2F8A4A",
+     "from": 2.3,
+     "keys": [
+      {
+       "t": 2.3,
+       "y": 138,
+       "alpha": 0
+      },
+      {
+       "t": 2.55,
+       "y": 120,
+       "alpha": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 5,
+   "end": 10.5,
+   "layers": [
+    {
+     "type": "text",
+     "text": "NOT MONEY.",
+     "x": 100,
+     "y": 80,
+     "size": 54,
+     "bold": true,
+     "color": "#EC4338",
+     "from": 0.5,
+     "keys": [
+      {
+       "t": 0.5,
+       "y": 98,
+       "alpha": 0
+      },
+      {
+       "t": 0.75,
+       "y": 80,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "+73",
+     "x": 100,
+     "y": 160,
+     "size": 110,
+     "bold": true,
+     "color": "#2F8A4A",
+     "from": 2.6,
+     "keys": [
+      {
+       "t": 2.6,
+       "y": 178,
+       "alpha": 0
+      },
+      {
+       "t": 2.85,
+       "y": 160,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "underline",
+     "x": 105,
+     "y": 295,
+     "w": 220,
+     "color": "#2F8A4A",
+     "keys": [
+      {
+       "t": 2.7,
+       "progress": 0
+      },
+      {
+       "t": 3.4,
+       "progress": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "YOUR KARMA.",
+     "x": 100,
+     "y": 320,
+     "size": 58,
+     "bold": true,
+     "from": 4.3,
+     "keys": [
+      {
+       "t": 4.3,
+       "y": 338,
+       "alpha": 0
+      },
+      {
+       "t": 4.55,
+       "y": 320,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "+73",
+     "x": 885,
+     "y": 49,
+     "size": 38,
+     "bold": true,
+     "color": "#2F8A4A"
+    },
+    {
+     "type": "image",
+     "path": "art/you-swat-a.png",
+     "x": 733,
+     "y": 39,
+     "w": 434,
+     "to": 0.6
+    },
+    {
+     "type": "image",
+     "path": "art/you-swat-b.png",
+     "x": 733,
+     "y": 39,
+     "w": 434,
+     "from": 0.6,
+     "to": 0.84
+    },
+    {
+     "type": "image",
+     "path": "art/you-swat-a.png",
+     "x": 733,
+     "y": 39,
+     "w": 434,
+     "from": 0.84,
+     "to": 1.08
+    },
+    {
+     "type": "image",
+     "path": "art/you-swat-b.png",
+     "x": 733,
+     "y": 39,
+     "w": 434,
+     "from": 1.08,
+     "to": 1.32
+    },
+    {
+     "type": "image",
+     "path": "art/you-swat-a.png",
+     "x": 733,
+     "y": 39,
+     "w": 434,
+     "from": 1.32,
+     "to": 1.56
+    },
+    {
+     "type": "image",
+     "path": "art/you-swat-b.png",
+     "x": 733,
+     "y": 39,
+     "w": 434,
+     "from": 1.56,
+     "to": 1.8
+    },
+    {
+     "type": "image",
+     "path": "art/you-swat-a.png",
+     "x": 733,
+     "y": 39,
+     "w": 434,
+     "from": 1.8,
+     "to": 2.04
+    },
+    {
+     "type": "image",
+     "path": "art/you-swat-b.png",
+     "x": 733,
+     "y": 39,
+     "w": 434,
+     "from": 2.04,
+     "to": 2.28
+    },
+    {
+     "type": "image",
+     "path": "art/you-swat-a.png",
+     "x": 733,
+     "y": 39,
+     "w": 434,
+     "from": 2.28,
+     "to": 2.52
+    },
+    {
+     "type": "image",
+     "path": "art/you-swat-b.png",
+     "x": 733,
+     "y": 39,
+     "w": 434,
+     "from": 2.52,
+     "to": 2.76
+    },
+    {
+     "type": "image",
+     "path": "art/you-swat-a.png",
+     "x": 733,
+     "y": 39,
+     "w": 434,
+     "from": 2.76,
+     "to": 3
+    },
+    {
+     "type": "image",
+     "path": "art/you-swat-b.png",
+     "x": 733,
+     "y": 39,
+     "w": 434,
+     "from": 3,
+     "to": 3.24
+    },
+    {
+     "type": "image",
+     "path": "art/you-swat-a.png",
+     "x": 733,
+     "y": 39,
+     "w": 434,
+     "from": 3.24,
+     "to": 3.48
+    },
+    {
+     "type": "image",
+     "path": "art/you-swat-b.png",
+     "x": 733,
+     "y": 39,
+     "w": 434,
+     "from": 3.48,
+     "to": 3.72
+    },
+    {
+     "type": "image",
+     "path": "art/you-swat-a.png",
+     "x": 733,
+     "y": 39,
+     "w": 434,
+     "from": 3.72,
+     "to": 3.96
+    },
+    {
+     "type": "image",
+     "path": "art/you-swat-b.png",
+     "x": 733,
+     "y": 39,
+     "w": 434,
+     "from": 3.96,
+     "to": 4.2
+    },
+    {
+     "type": "image",
+     "path": "art/you-swat-a.png",
+     "x": 733,
+     "y": 39,
+     "w": 434,
+     "from": 4.2,
+     "to": 4.44
+    },
+    {
+     "type": "image",
+     "path": "art/you-swat-b.png",
+     "x": 733,
+     "y": 39,
+     "w": 434,
+     "from": 4.44,
+     "to": 4.68
+    },
+    {
+     "type": "image",
+     "path": "art/you-swat-a.png",
+     "x": 733,
+     "y": 39,
+     "w": 434,
+     "from": 4.68,
+     "to": 4.92
+    },
+    {
+     "type": "image",
+     "path": "art/you-swat-b.png",
+     "x": 733,
+     "y": 39,
+     "w": 434,
+     "from": 4.92,
+     "to": 5.16
+    },
+    {
+     "type": "image",
+     "path": "art/you-swat-a.png",
+     "x": 733,
+     "y": 39,
+     "w": 434,
+     "from": 5.16,
+     "to": 5.4
+    },
+    {
+     "type": "image",
+     "path": "art/you-swat-b.png",
+     "x": 733,
+     "y": 39,
+     "w": 434,
+     "from": 5.4,
+     "to": 5.5
+    }
+   ]
+  },
+  {
+   "start": 10.5,
+   "end": 16.5,
+   "layers": [
+    {
+     "type": "text",
+     "text": "EVERY KIND THING.",
+     "x": 80,
+     "y": 60,
+     "size": 48,
+     "bold": true,
+     "color": "#2F8A4A"
+    },
+    {
+     "type": "text",
+     "text": "MINUS EVERY CRUEL ONE.",
+     "x": 80,
+     "y": 125,
+     "size": 42,
+     "bold": true,
+     "color": "#EC4338",
+     "from": 2.3,
+     "keys": [
+      {
+       "t": 2.3,
+       "y": 143,
+       "alpha": 0
+      },
+      {
+       "t": 2.55,
+       "y": 125,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "art/scale-tip.png",
+     "x": 460,
+     "y": 210,
+     "w": 320
+    },
+    {
+     "type": "image",
+     "path": "art/you-think.png",
+     "x": -3,
+     "y": 75,
+     "w": 406
+    },
+    {
+     "type": "image",
+     "path": "art/heart.png",
+     "x": 440,
+     "y": 200,
+     "w": 70,
+     "from": 0.8,
+     "keys": [
+      {
+       "t": 0.8,
+       "y": 218,
+       "alpha": 0
+      },
+      {
+       "t": 1.05,
+       "y": 200,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "SINGLE SCORE: +73",
+     "x": 820,
+     "y": 320,
+     "size": 42,
+     "bold": true,
+     "color": "#2F8A4A",
+     "w": 420,
+     "from": 4.2,
+     "keys": [
+      {
+       "t": 4.2,
+       "y": 338,
+       "alpha": 0
+      },
+      {
+       "t": 4.45,
+       "y": 320,
+       "alpha": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 16.5,
+   "end": 18.5,
+   "layers": [
+    {
+     "type": "image",
+     "path": "art/balloon.png",
+     "x": 940,
+     "y": 260,
+     "w": 65
+    },
+    {
+     "type": "image",
+     "path": "art/shouter.png",
+     "x": 25,
+     "y": 148,
+     "w": 350
+    },
+    {
+     "type": "text",
+     "text": "-38",
+     "x": 171.5,
+     "y": 191,
+     "size": 34,
+     "bold": true,
+     "color": "#EC4338",
+     "w": 260,
+     "from": 0.05,
+     "keys": [
+      {
+       "t": 0.05,
+       "y": 209,
+       "alpha": 0
+      },
+      {
+       "t": 0.3,
+       "y": 191,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "art/salesman.png",
+     "x": 285,
+     "y": 148,
+     "w": 350
+    },
+    {
+     "type": "text",
+     "text": "+0",
+     "x": 441,
+     "y": 191,
+     "size": 34,
+     "bold": true,
+     "color": "#7A8288",
+     "w": 260,
+     "from": 0.3,
+     "keys": [
+      {
+       "t": 0.3,
+       "y": 209,
+       "alpha": 0
+      },
+      {
+       "t": 0.55,
+       "y": 191,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "art/oldman.png",
+     "x": 545,
+     "y": 148,
+     "w": 350
+    },
+    {
+     "type": "text",
+     "text": "+1,400",
+     "x": 663,
+     "y": 191,
+     "size": 34,
+     "bold": true,
+     "color": "#2F8A4A",
+     "w": 260,
+     "from": 0.55,
+     "keys": [
+      {
+       "t": 0.55,
+       "y": 209,
+       "alpha": 0
+      },
+      {
+       "t": 0.8,
+       "y": 191,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "art/girl.png",
+     "x": 805,
+     "y": 148,
+     "w": 350
+    },
+    {
+     "type": "text",
+     "text": "+90",
+     "x": 951.5,
+     "y": 191,
+     "size": 34,
+     "bold": true,
+     "color": "#2F8A4A",
+     "w": 260,
+     "from": 0.8,
+     "keys": [
+      {
+       "t": 0.8,
+       "y": 209,
+       "alpha": 0
+      },
+      {
+       "t": 1.05,
+       "y": 191,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "art/mum-kid.png",
+     "x": 965,
+     "y": 148,
+     "w": 350
+    },
+    {
+     "type": "text",
+     "text": "+210",
+     "x": 1102,
+     "y": 191,
+     "size": 34,
+     "bold": true,
+     "color": "#2F8A4A",
+     "w": 260,
+     "from": 1.05,
+     "keys": [
+      {
+       "t": 1.05,
+       "y": 209,
+       "alpha": 0
+      },
+      {
+       "t": 1.3,
+       "y": 191,
+       "alpha": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 18.5,
+   "end": 24.5,
+   "layers": [
+    {
+     "type": "text",
+     "text": "7 DAYS.",
+     "x": 90,
+     "y": 60,
+     "size": 66,
+     "bold": true
+    },
+    {
+     "type": "image",
+     "path": "art/calendar.png",
+     "x": 90,
+     "y": 170,
+     "w": 560,
+     "keys": [
+      {
+       "t": 0,
+       "alpha": 0
+      },
+      {
+       "t": 0.35,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "EVERY KARMA.",
+     "x": 90,
+     "y": 455,
+     "size": 52,
+     "bold": true,
+     "color": "#EC4338",
+     "from": 2.5,
+     "keys": [
+      {
+       "t": 2.5,
+       "y": 473,
+       "alpha": 0
+      },
+      {
+       "t": 2.75,
+       "y": 455,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "art/you-amazed.png",
+     "x": 743,
+     "y": 39,
+     "w": 434
+    }
+   ]
+  },
+  {
+   "start": 24.5,
+   "end": 30.5,
+   "layers": [
+    {
+     "type": "text",
+     "text": "7 DAYS.",
+     "x": 90,
+     "y": 60,
+     "size": 66,
+     "bold": true
+    },
+    {
+     "type": "image",
+     "path": "art/calendar.png",
+     "x": 90,
+     "y": 170,
+     "w": 560,
+     "to": 0.45
+    },
+    {
+     "type": "image",
+     "path": "art/calendar-day7.png",
+     "x": 90,
+     "y": 170,
+     "w": 560,
+     "from": 0.45
+    },
+    {
+     "type": "text",
+     "text": "- ?,???",
+     "x": 720,
+     "y": 62,
+     "size": 62,
+     "bold": true,
+     "color": "#EC4338",
+     "from": 1.5,
+     "keys": [
+      {
+       "t": 1.5,
+       "y": 80,
+       "alpha": 0
+      },
+      {
+       "t": 1.75,
+       "y": 62,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "THE LOWEST NUMBER IN THE CITY",
+     "x": 640,
+     "y": 200,
+     "size": 34,
+     "bold": true,
+     "color": "#EC4338",
+     "w": 600,
+     "from": 2.6,
+     "keys": [
+      {
+       "t": 2.6,
+       "y": 218,
+       "alpha": 0
+      },
+      {
+       "t": 2.85,
+       "y": 200,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "art/you-amazed.png",
+     "x": 743,
+     "y": 39,
+     "w": 434,
+     "to": 2.2
+    },
+    {
+     "type": "image",
+     "path": "art/you-nervous.png",
+     "x": 743,
+     "y": 39,
+     "w": 434,
+     "from": 2.2
+    }
+   ]
+  },
+  {
+   "start": 30.5,
+   "end": 33.29,
+   "layers": [
+    {
+     "type": "text",
+     "text": "DAY 1",
+     "x": 80,
+     "y": 40,
+     "size": 70,
+     "bold": true,
+     "color": "#EC4338"
+    },
+    {
+     "type": "underline",
+     "x": 82,
+     "y": 118,
+     "w": 200,
+     "color": "#EC4338",
+     "keys": [
+      {
+       "t": 0,
+       "progress": 0
+      },
+      {
+       "t": 0.5,
+       "progress": 1
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-a.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 0,
+     "to": 0.35
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-b.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 0.35,
+     "to": 0.7
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-a.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 0.7,
+     "to": 1.05
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-b.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 1.05,
+     "to": 1.4
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-a.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 1.4,
+     "to": 1.75
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-b.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 1.75,
+     "to": 2.1
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-a.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 2.1,
+     "to": 2.45
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-b.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 2.45,
+     "to": 2.789
+    },
+    {
+     "type": "text",
+     "text": "+73",
+     "x": 613,
+     "y": 53,
+     "size": 34,
+     "bold": true,
+     "color": "#2F8A4A",
+     "w": 400
+    },
+    {
+     "type": "image",
+     "path": "art/building.png",
+     "x": 980,
+     "y": 150,
+     "w": 230
+    },
+    {
+     "type": "image",
+     "path": "art/building.png",
+     "x": 60,
+     "y": 190,
+     "w": 190
+    }
+   ]
+  },
+  {
+   "start": 33.29,
+   "end": 37.27,
+   "layers": [
+    {
+     "type": "image",
+     "path": "art/salesman.png",
+     "x": 67,
+     "y": 102,
+     "w": 385
+    },
+    {
+     "type": "image",
+     "path": "art/coffee.png",
+     "x": 320,
+     "y": 330,
+     "w": 60
+    },
+    {
+     "type": "text",
+     "text": "+410",
+     "x": 220,
+     "y": 147,
+     "size": 38,
+     "bold": true,
+     "color": "#2F8A4A",
+     "w": 400,
+     "from": 1.66,
+     "keys": [
+      {
+       "t": 1.66,
+       "y": 165,
+       "alpha": 0
+      },
+      {
+       "t": 1.91,
+       "y": 147,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-a.png",
+     "x": 683,
+     "y": 39,
+     "w": 434,
+     "to": 1
+    },
+    {
+     "type": "image",
+     "path": "art/you-skeptic.png",
+     "x": 683,
+     "y": 39,
+     "w": 434,
+     "from": 1
+    },
+    {
+     "type": "text",
+     "text": "+73",
+     "x": 873,
+     "y": 53,
+     "size": 34,
+     "bold": true,
+     "color": "#2F8A4A",
+     "w": 400
+    }
+   ]
+  },
+  {
+   "start": 37.27,
+   "end": 41.37,
+   "layers": [
+    {
+     "type": "image",
+     "path": "art/shouter.png",
+     "x": 157,
+     "y": 75,
+     "w": 406
+    },
+    {
+     "type": "text",
+     "text": "-38",
+     "x": 327,
+     "y": 121,
+     "size": 42,
+     "bold": true,
+     "color": "#EC4338",
+     "w": 400,
+     "from": 0,
+     "keys": [
+      {
+       "t": 0,
+       "y": 139,
+       "alpha": 0
+      },
+      {
+       "t": 0.25,
+       "y": 121,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "art/you-skeptic.png",
+     "x": 663,
+     "y": 39,
+     "w": 434
+    },
+    {
+     "type": "text",
+     "text": "+73",
+     "x": 853,
+     "y": 53,
+     "size": 34,
+     "bold": true,
+     "color": "#2F8A4A",
+     "w": 400
+    },
+    {
+     "type": "text",
+     "text": "FAIR ENOUGH.",
+     "x": 740,
+     "y": 60,
+     "size": 48,
+     "bold": true,
+     "from": 2.96,
+     "keys": [
+      {
+       "t": 2.96,
+       "y": 78,
+       "alpha": 0
+      },
+      {
+       "t": 3.21,
+       "y": 60,
+       "alpha": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 41.37,
+   "end": 54.29,
+   "layers": [
+    {
+     "type": "image",
+     "path": "art/cutter.png",
+     "x": 210,
+     "y": 57,
+     "w": 420
+    },
+    {
+     "type": "text",
+     "text": "+2,300",
+     "x": 348,
+     "y": 103,
+     "size": 46,
+     "bold": true,
+     "color": "#2F8A4A",
+     "w": 400,
+     "from": 6.3,
+     "keys": [
+      {
+       "t": 6.3,
+       "y": 121,
+       "alpha": 0
+      },
+      {
+       "t": 6.55,
+       "y": 103,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "art/you-skeptic.png",
+     "x": 733,
+     "y": 39,
+     "w": 434,
+     "to": 6.3
+    },
+    {
+     "type": "image",
+     "path": "art/you-surprised.png",
+     "x": 733,
+     "y": 39,
+     "w": 434,
+     "from": 6.3
+    },
+    {
+     "type": "text",
+     "text": "+73",
+     "x": 923,
+     "y": 53,
+     "size": 34,
+     "bold": true,
+     "color": "#2F8A4A",
+     "w": 400
+    },
+    {
+     "type": "text",
+     "text": "YOU DON'T KNOW WHAT HE DID.",
+     "x": 80,
+     "y": 60,
+     "size": 44,
+     "bold": true,
+     "from": 9.16,
+     "keys": [
+      {
+       "t": 9.16,
+       "y": 78,
+       "alpha": 0
+      },
+      {
+       "t": 9.41,
+       "y": 60,
+       "alpha": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 54.29,
+   "end": 61.27,
+   "layers": [
+    {
+     "type": "image",
+     "path": "art/mum-kid.png",
+     "x": 187,
+     "y": 102,
+     "w": 385
+    },
+    {
+     "type": "image",
+     "path": "art/girl.png",
+     "x": 363,
+     "y": 193,
+     "w": 315
+    },
+    {
+     "type": "image",
+     "path": "art/balloon.png",
+     "x": 470,
+     "y": 260,
+     "w": 65
+    },
+    {
+     "type": "text",
+     "text": "+90",
+     "x": 492,
+     "y": 220,
+     "size": 36,
+     "bold": true,
+     "color": "#2F8A4A",
+     "w": 400,
+     "from": 3.72,
+     "keys": [
+      {
+       "t": 3.72,
+       "y": 238,
+       "alpha": 0
+      },
+      {
+       "t": 3.97,
+       "y": 220,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "art/you-confused.png",
+     "x": 743,
+     "y": 39,
+     "w": 434
+    },
+    {
+     "type": "text",
+     "text": "+73",
+     "x": 933,
+     "y": 53,
+     "size": 34,
+     "bold": true,
+     "color": "#2F8A4A",
+     "w": 400
+    },
+    {
+     "type": "text",
+     "text": "Already beating you.",
+     "x": 760,
+     "y": 120,
+     "size": 38,
+     "bold": true,
+     "color": "#EC4338",
+     "from": 5.06,
+     "keys": [
+      {
+       "t": 5.06,
+       "y": 138,
+       "alpha": 0
+      },
+      {
+       "t": 5.31,
+       "y": 120,
+       "alpha": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 61.27,
+   "end": 67.13,
+   "layers": [
+    {
+     "type": "text",
+     "text": "LESSON ONE",
+     "x": 80,
+     "y": 70,
+     "size": 54,
+     "bold": true,
+     "color": "#EC4338"
+    },
+    {
+     "type": "text",
+     "text": "YOU CAN'T SEE GOODNESS",
+     "x": 80,
+     "y": 180,
+     "size": 78,
+     "bold": true,
+     "from": 0.5,
+     "keys": [
+      {
+       "t": 0.5,
+       "y": 198,
+       "alpha": 0
+      },
+      {
+       "t": 0.75,
+       "y": 180,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "FROM THE OUTSIDE.",
+     "x": 80,
+     "y": 280,
+     "size": 78,
+     "bold": true,
+     "color": "#2F8A4A",
+     "from": 2.34,
+     "keys": [
+      {
+       "t": 2.34,
+       "y": 298,
+       "alpha": 0
+      },
+      {
+       "t": 2.59,
+       "y": 280,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "art/shouter.png",
+     "x": 705,
+     "y": 148,
+     "w": 350
+    },
+    {
+     "type": "text",
+     "text": "-38",
+     "x": 853,
+     "y": 187,
+     "size": 34,
+     "bold": true,
+     "color": "#EC4338",
+     "w": 400
+    },
+    {
+     "type": "image",
+     "path": "art/cutter.png",
+     "x": 905,
+     "y": 148,
+     "w": 350
+    },
+    {
+     "type": "text",
+     "text": "+2,300",
+     "x": 1027,
+     "y": 187,
+     "size": 34,
+     "bold": true,
+     "color": "#2F8A4A",
+     "w": 400
+    }
+   ]
+  },
+  {
+   "start": 67.13,
+   "end": 73.39,
+   "layers": [
+    {
+     "type": "text",
+     "text": "DAY 2",
+     "x": 80,
+     "y": 40,
+     "size": 70,
+     "bold": true,
+     "color": "#EC4338"
+    },
+    {
+     "type": "underline",
+     "x": 82,
+     "y": 118,
+     "w": 200,
+     "color": "#EC4338",
+     "keys": [
+      {
+       "t": 0,
+       "progress": 0
+      },
+      {
+       "t": 0.5,
+       "progress": 1
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "art/desk.png",
+     "x": 330,
+     "y": 270,
+     "w": 400
+    },
+    {
+     "type": "image",
+     "path": "art/chair.png",
+     "x": 300,
+     "y": 380,
+     "w": 120
+    },
+    {
+     "type": "image",
+     "path": "art/you-sit-type.png",
+     "x": 163,
+     "y": 129,
+     "w": 434
+    },
+    {
+     "type": "text",
+     "text": "+73",
+     "x": 353,
+     "y": 143,
+     "size": 34,
+     "bold": true,
+     "color": "#2F8A4A",
+     "w": 400
+    },
+    {
+     "type": "image",
+     "path": "art/building.png",
+     "x": 1000,
+     "y": 160,
+     "w": 200,
+     "from": 0,
+     "to": 0.6
+    },
+    {
+     "type": "image",
+     "path": "art/building.png",
+     "x": 1000,
+     "y": 162,
+     "w": 200,
+     "from": 0.6,
+     "to": 1.2
+    },
+    {
+     "type": "image",
+     "path": "art/building.png",
+     "x": 1000,
+     "y": 160,
+     "w": 200,
+     "from": 1.2,
+     "to": 1.8
+    },
+    {
+     "type": "image",
+     "path": "art/building.png",
+     "x": 1000,
+     "y": 162,
+     "w": 200,
+     "from": 1.8,
+     "to": 2.4
+    },
+    {
+     "type": "image",
+     "path": "art/building.png",
+     "x": 1000,
+     "y": 160,
+     "w": 200,
+     "from": 2.4,
+     "to": 3
+    },
+    {
+     "type": "image",
+     "path": "art/building.png",
+     "x": 1000,
+     "y": 162,
+     "w": 200,
+     "from": 3,
+     "to": 3.6
+    },
+    {
+     "type": "image",
+     "path": "art/building.png",
+     "x": 1000,
+     "y": 160,
+     "w": 200,
+     "from": 3.6,
+     "to": 4.2
+    },
+    {
+     "type": "image",
+     "path": "art/building.png",
+     "x": 1000,
+     "y": 162,
+     "w": 200,
+     "from": 4.2,
+     "to": 4.8
+    },
+    {
+     "type": "image",
+     "path": "art/building.png",
+     "x": 1000,
+     "y": 160,
+     "w": 200,
+     "from": 4.8,
+     "to": 5.4
+    },
+    {
+     "type": "image",
+     "path": "art/building.png",
+     "x": 1000,
+     "y": 162,
+     "w": 200,
+     "from": 5.4,
+     "to": 6
+    },
+    {
+     "type": "image",
+     "path": "art/building.png",
+     "x": 1000,
+     "y": 160,
+     "w": 200,
+     "from": 6,
+     "to": 6.26
+    }
+   ]
+  },
+  {
+   "start": 73.39,
+   "end": 82.33,
+   "layers": [
+    {
+     "type": "image",
+     "path": "art/desk.png",
+     "x": 80,
+     "y": 270,
+     "w": 360
+    },
+    {
+     "type": "image",
+     "path": "art/you-sit-type.png",
+     "x": -53,
+     "y": 192,
+     "w": 385,
+     "to": 1.2
+    },
+    {
+     "type": "image",
+     "path": "art/you-sit-snap.png",
+     "x": -53,
+     "y": 192,
+     "w": 385,
+     "from": 1.2
+    },
+    {
+     "type": "text",
+     "text": "+73",
+     "x": 113,
+     "y": 198,
+     "size": 34,
+     "bold": true,
+     "color": "#2F8A4A",
+     "w": 400
+    },
+    {
+     "type": "image",
+     "path": "art/desk.png",
+     "x": 720,
+     "y": 270,
+     "w": 400
+    },
+    {
+     "type": "image",
+     "path": "art/kevin-phone.png",
+     "x": 783,
+     "y": 129,
+     "w": 434
+    },
+    {
+     "type": "text",
+     "text": "+880",
+     "x": 934,
+     "y": 181,
+     "size": 44,
+     "bold": true,
+     "color": "#2F8A4A",
+     "w": 400,
+     "from": 0.1,
+     "keys": [
+      {
+       "t": 0.1,
+       "y": 199,
+       "alpha": 0
+      },
+      {
+       "t": 0.35,
+       "y": 181,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "KEVIN.",
+     "x": 760,
+     "y": 50,
+     "size": 60,
+     "bold": true,
+     "from": 0,
+     "keys": [
+      {
+       "t": 0,
+       "y": 68,
+       "alpha": 0
+      },
+      {
+       "t": 0.25,
+       "y": 50,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "> 10× YOUR NUMBER",
+     "x": 400,
+     "y": 160,
+     "size": 46,
+     "bold": true,
+     "color": "#EC4338",
+     "from": 3.08,
+     "keys": [
+      {
+       "t": 3.08,
+       "y": 178,
+       "alpha": 0
+      },
+      {
+       "t": 3.33,
+       "y": 160,
+       "alpha": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 82.33,
+   "end": 105.23,
+   "layers": [
+    {
+     "type": "image",
+     "path": "art/clock.png",
+     "x": 120,
+     "y": 80,
+     "w": 120
+    },
+    {
+     "type": "text",
+     "text": "2:00 AM",
+     "x": 130,
+     "y": 230,
+     "size": 32,
+     "bold": true
+    },
+    {
+     "type": "image",
+     "path": "art/kevin-stand.png",
+     "x": 297,
+     "y": 75,
+     "w": 406
+    },
+    {
+     "type": "image",
+     "path": "art/coffee.png",
+     "x": 560,
+     "y": 340,
+     "w": 55
+    },
+    {
+     "type": "text",
+     "text": "+880",
+     "x": 465,
+     "y": 129,
+     "size": 34,
+     "bold": true,
+     "color": "#2F8A4A",
+     "w": 400
+    },
+    {
+     "type": "image",
+     "path": "art/you-think.png",
+     "x": 763,
+     "y": 39,
+     "w": 434
+    },
+    {
+     "type": "text",
+     "text": "+73",
+     "x": 953,
+     "y": 53,
+     "size": 34,
+     "bold": true,
+     "color": "#2F8A4A",
+     "w": 400
+    },
+    {
+     "type": "text",
+     "text": "\"Didn't seem like the kind of thing you announce.\"",
+     "x": 260,
+     "y": 450,
+     "size": 36,
+     "bold": true,
+     "color": "#2F8A4A",
+     "w": 800,
+     "from": 10.3,
+     "keys": [
+      {
+       "t": 10.3,
+       "y": 468,
+       "alpha": 0
+      },
+      {
+       "t": 10.55,
+       "y": 450,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "YOU WERE WRONG ABOUT THIS, TOO.",
+     "x": 120,
+     "y": 50,
+     "size": 48,
+     "bold": true,
+     "color": "#EC4338",
+     "from": 17.42,
+     "keys": [
+      {
+       "t": 17.42,
+       "y": 68,
+       "alpha": 0
+      },
+      {
+       "t": 17.67,
+       "y": 50,
+       "alpha": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 105.23,
+   "end": 119.85,
+   "layers": [
+    {
+     "type": "text",
+     "text": "DAY 3",
+     "x": 80,
+     "y": 40,
+     "size": 70,
+     "bold": true,
+     "color": "#EC4338"
+    },
+    {
+     "type": "underline",
+     "x": 82,
+     "y": 118,
+     "w": 200,
+     "color": "#EC4338",
+     "keys": [
+      {
+       "t": 0,
+       "progress": 0
+      },
+      {
+       "t": 0.5,
+       "progress": 1
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "art/kiosk.png",
+     "x": 260,
+     "y": 200,
+     "w": 300
+    },
+    {
+     "type": "image",
+     "path": "art/salesman.png",
+     "x": 187,
+     "y": 102,
+     "w": 385
+    },
+    {
+     "type": "text",
+     "text": "+0",
+     "x": 361,
+     "y": 149,
+     "size": 36,
+     "bold": true,
+     "color": "#7A8288",
+     "w": 400,
+     "from": 0.5,
+     "keys": [
+      {
+       "t": 0.5,
+       "y": 167,
+       "alpha": 0
+      },
+      {
+       "t": 0.75,
+       "y": 149,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "art/sign-sample.png",
+     "x": 140,
+     "y": 100,
+     "w": 180
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-a.png",
+     "x": 683,
+     "y": 39,
+     "w": 434
+    },
+    {
+     "type": "text",
+     "text": "+73",
+     "x": 873,
+     "y": 53,
+     "size": 34,
+     "bold": true,
+     "color": "#2F8A4A",
+     "w": 400
+    },
+    {
+     "type": "text",
+     "text": "A GIFT OR A HOOK?",
+     "x": 550,
+     "y": 60,
+     "size": 50,
+     "bold": true,
+     "color": "#EC4338",
+     "from": 8.76,
+     "keys": [
+      {
+       "t": 8.76,
+       "y": 78,
+       "alpha": 0
+      },
+      {
+       "t": 9.01,
+       "y": 60,
+       "alpha": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 119.85,
+   "end": 134.91,
+   "layers": [
+    {
+     "type": "text",
+     "text": "THE RECIPROCITY EXPERIMENT",
+     "x": 80,
+     "y": 50,
+     "size": 48,
+     "bold": true
+    },
+    {
+     "type": "image",
+     "path": "art/can.png",
+     "x": 180,
+     "y": 260,
+     "w": 90
+    },
+    {
+     "type": "text",
+     "text": "FAVOR",
+     "x": 185,
+     "y": 430,
+     "size": 32,
+     "bold": true
+    },
+    {
+     "type": "image",
+     "path": "art/tickets-1.png",
+     "x": 480,
+     "y": 240,
+     "w": 160
+    },
+    {
+     "type": "text",
+     "text": "NO COKE",
+     "x": 520,
+     "y": 460,
+     "size": 30,
+     "bold": true
+    },
+    {
+     "type": "image",
+     "path": "art/tickets-2.png",
+     "x": 760,
+     "y": 200,
+     "w": 160,
+     "from": 7.44,
+     "keys": [
+      {
+       "t": 7.44,
+       "y": 218,
+       "alpha": 0
+      },
+      {
+       "t": 7.69,
+       "y": 200,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "2× TICKETS SOLD",
+     "x": 740,
+     "y": 460,
+     "size": 32,
+     "bold": true,
+     "color": "#2F8A4A",
+     "from": 7.44,
+     "keys": [
+      {
+       "t": 7.44,
+       "y": 478,
+       "alpha": 0
+      },
+      {
+       "t": 7.69,
+       "y": 460,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "art/you-think.png",
+     "x": 925,
+     "y": 148,
+     "w": 350
+    },
+    {
+     "type": "text",
+     "text": "+73",
+     "x": 1073,
+     "y": 148,
+     "size": 34,
+     "bold": true,
+     "color": "#2F8A4A",
+     "w": 400
+    }
+   ]
+  },
+  {
+   "start": 134.91,
+   "end": 146.69,
+   "layers": [
+    {
+     "type": "text",
+     "text": "RECIPROCITY",
+     "x": 80,
+     "y": 60,
+     "size": 62,
+     "bold": true,
+     "color": "#EC4338"
+    },
+    {
+     "type": "text",
+     "text": "When someone gives you something, you feel forced to give back.",
+     "x": 80,
+     "y": 160,
+     "size": 38,
+     "w": 1100,
+     "from": 0.8,
+     "keys": [
+      {
+       "t": 0.8,
+       "y": 178,
+       "alpha": 0
+      },
+      {
+       "t": 1.05,
+       "y": 160,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "Supermarkets do not give free food to be nice.",
+     "x": 80,
+     "y": 250,
+     "size": 40,
+     "bold": true,
+     "color": "#2F8A4A",
+     "w": 1100,
+     "from": 5.8,
+     "keys": [
+      {
+       "t": 5.8,
+       "y": 268,
+       "alpha": 0
+      },
+      {
+       "t": 6.05,
+       "y": 250,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "art/sign-sample.png",
+     "x": 540,
+     "y": 350,
+     "w": 220
+    }
+   ]
+  },
+  {
+   "start": 146.69,
+   "end": 155.31,
+   "layers": [
+    {
+     "type": "image",
+     "path": "art/you-nervous.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 0
+    },
+    {
+     "type": "text",
+     "text": "+72",
+     "x": 640,
+     "y": 53,
+     "size": 44,
+     "bold": true,
+     "color": "#2F8A4A",
+     "from": 0,
+     "keys": [
+      {
+       "t": 0,
+       "y": 71,
+       "alpha": 0
+      },
+      {
+       "t": 0.25,
+       "y": 53,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "-1 FOR BUYING STUFF YOU DIDN'T NEED",
+     "x": 120,
+     "y": 32,
+     "size": 44,
+     "bold": true,
+     "color": "#EC4338",
+     "from": 0,
+     "keys": [
+      {
+       "t": 0,
+       "y": 50,
+       "alpha": 0
+      },
+      {
+       "t": 0.25,
+       "y": 32,
+       "alpha": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 155.31,
+   "end": 169.67,
+   "layers": [
+    {
+     "type": "text",
+     "text": "DAY 4",
+     "x": 80,
+     "y": 40,
+     "size": 70,
+     "bold": true,
+     "color": "#EC4338"
+    },
+    {
+     "type": "underline",
+     "x": 82,
+     "y": 118,
+     "w": 200,
+     "color": "#EC4338",
+     "keys": [
+      {
+       "t": 0,
+       "progress": 0
+      },
+      {
+       "t": 0.5,
+       "progress": 1
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "art/you-cape.png",
+     "x": 23,
+     "y": 39,
+     "w": 434
+    },
+    {
+     "type": "text",
+     "text": "+72",
+     "x": 213,
+     "y": 53,
+     "size": 34,
+     "bold": true,
+     "color": "#2F8A4A",
+     "w": 400
+    },
+    {
+     "type": "text",
+     "text": "FARMING KARMA",
+     "x": 500,
+     "y": 60,
+     "size": 56,
+     "bold": true,
+     "color": "#EC4338"
+    },
+    {
+     "type": "image",
+     "path": "art/oldman.png",
+     "x": 505,
+     "y": 148,
+     "w": 350,
+     "from": 1.5,
+     "keys": [
+      {
+       "t": 1.5,
+       "y": 166,
+       "alpha": 0
+      },
+      {
+       "t": 1.75,
+       "y": 148,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "art/groceries.png",
+     "x": 640,
+     "y": 420,
+     "w": 110,
+     "from": 1.5,
+     "keys": [
+      {
+       "t": 1.5,
+       "y": 438,
+       "alpha": 0
+      },
+      {
+       "t": 1.75,
+       "y": 420,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "art/door-woman.png",
+     "x": 805,
+     "y": 148,
+     "w": 350,
+     "from": 2.8,
+     "keys": [
+      {
+       "t": 2.8,
+       "y": 166,
+       "alpha": 0
+      },
+      {
+       "t": 3.05,
+       "y": 148,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "+74... +75...",
+     "x": 500,
+     "y": 160,
+     "size": 46,
+     "bold": true,
+     "color": "#2F8A4A",
+     "from": 9.18,
+     "keys": [
+      {
+       "t": 9.18,
+       "y": 178,
+       "alpha": 0
+      },
+      {
+       "t": 9.43,
+       "y": 160,
+       "alpha": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 169.67,
+   "end": 179.65,
+   "layers": [
+    {
+     "type": "image",
+     "path": "art/you-sit-sad.png",
+     "x": 423,
+     "y": 129,
+     "w": 434
+    },
+    {
+     "type": "text",
+     "text": "+75",
+     "x": 613,
+     "y": 143,
+     "size": 34,
+     "bold": true,
+     "color": "#2F8A4A",
+     "w": 400
+    },
+    {
+     "type": "text",
+     "text": "11 PEOPLE HELPED. +4 POINTS.",
+     "x": 200,
+     "y": 70,
+     "size": 50,
+     "bold": true,
+     "color": "#EC4338"
+    },
+    {
+     "type": "text",
+     "text": "Kindness as a performance barely counts.",
+     "x": 240,
+     "y": 160,
+     "size": 42,
+     "bold": true,
+     "w": 800,
+     "from": 6.16,
+     "keys": [
+      {
+       "t": 6.16,
+       "y": 178,
+       "alpha": 0
+      },
+      {
+       "t": 6.41,
+       "y": 160,
+       "alpha": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 179.65,
+   "end": 188.65,
+   "layers": [
+    {
+     "type": "image",
+     "path": "art/busstop.png",
+     "x": 180,
+     "y": 140,
+     "w": 360
+    },
+    {
+     "type": "image",
+     "path": "art/cold-woman.png",
+     "x": 147,
+     "y": 102,
+     "w": 385
+    },
+    {
+     "type": "text",
+     "text": "-2",
+     "x": 322,
+     "y": 151,
+     "size": 34,
+     "bold": true,
+     "color": "#EC4338",
+     "w": 400
+    },
+    {
+     "type": "image",
+     "path": "art/you-give.png",
+     "x": 563,
+     "y": 39,
+     "w": 434
+    },
+    {
+     "type": "text",
+     "text": "+75",
+     "x": 753,
+     "y": 53,
+     "size": 34,
+     "bold": true,
+     "color": "#2F8A4A",
+     "w": 400
+    },
+    {
+     "type": "image",
+     "path": "art/hotcocoa.png",
+     "x": 700,
+     "y": 380,
+     "w": 80
+    }
+   ]
+  },
+  {
+   "start": 188.65,
+   "end": 190.73,
+   "layers": [
+    {
+     "type": "image",
+     "path": "art/busstop.png",
+     "x": 180,
+     "y": 140,
+     "w": 360
+    },
+    {
+     "type": "image",
+     "path": "art/warm-woman.png",
+     "x": 147,
+     "y": 102,
+     "w": 385
+    },
+    {
+     "type": "image",
+     "path": "art/heart.png",
+     "x": 320,
+     "y": 180,
+     "w": 70,
+     "from": 0.1,
+     "keys": [
+      {
+       "t": 0.1,
+       "y": 198,
+       "alpha": 0
+      },
+      {
+       "t": 0.35,
+       "y": 180,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "+12",
+     "x": 313,
+     "y": 151,
+     "size": 34,
+     "bold": true,
+     "color": "#2F8A4A",
+     "w": 400
+    },
+    {
+     "type": "image",
+     "path": "art/you-surprised.png",
+     "x": 563,
+     "y": 39,
+     "w": 434
+    },
+    {
+     "type": "text",
+     "text": "+81",
+     "x": 743,
+     "y": 39,
+     "size": 48,
+     "bold": true,
+     "color": "#2F8A4A",
+     "w": 400,
+     "from": 0.1,
+     "keys": [
+      {
+       "t": 0.1,
+       "y": 57,
+       "alpha": 0
+      },
+      {
+       "t": 0.35,
+       "y": 39,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "+6 IN ONE SECOND.",
+     "x": 480,
+     "y": 12,
+     "size": 60,
+     "bold": true,
+     "color": "#2F8A4A",
+     "from": 0.2,
+     "keys": [
+      {
+       "t": 0.2,
+       "y": 30,
+       "alpha": 0
+      },
+      {
+       "t": 0.45,
+       "y": 12,
+       "alpha": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 190.73,
+   "end": 211.11,
+   "layers": [
+    {
+     "type": "text",
+     "text": "KUMAR & EPLEY (2022)",
+     "x": 80,
+     "y": 50,
+     "size": 48,
+     "bold": true
+    },
+    {
+     "type": "text",
+     "text": "WE CONSTANTLY UNDERESTIMATE",
+     "x": 80,
+     "y": 160,
+     "size": 60,
+     "bold": true,
+     "from": 0.5,
+     "keys": [
+      {
+       "t": 0.5,
+       "y": 178,
+       "alpha": 0
+      },
+      {
+       "t": 0.75,
+       "y": 160,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "HOW MUCH SMALL KINDNESS MEANS.",
+     "x": 80,
+     "y": 260,
+     "size": 60,
+     "bold": true,
+     "color": "#2F8A4A",
+     "from": 13,
+     "keys": [
+      {
+       "t": 13,
+       "y": 278,
+       "alpha": 0
+      },
+      {
+       "t": 13.25,
+       "y": 260,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "art/you-cheer.png",
+     "x": 757,
+     "y": 75,
+     "w": 406
+    }
+   ]
+  },
+  {
+   "start": 211.11,
+   "end": 214.25,
+   "layers": [
+    {
+     "type": "text",
+     "text": "DAY 5",
+     "x": 80,
+     "y": 40,
+     "size": 70,
+     "bold": true,
+     "color": "#EC4338"
+    },
+    {
+     "type": "underline",
+     "x": 82,
+     "y": 118,
+     "w": 200,
+     "color": "#EC4338",
+     "keys": [
+      {
+       "t": 0,
+       "progress": 0
+      },
+      {
+       "t": 0.5,
+       "progress": 1
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "art/sign-hospital.png",
+     "x": 120,
+     "y": 60,
+     "w": 260
+    },
+    {
+     "type": "image",
+     "path": "art/door-woman.png",
+     "x": 328,
+     "y": 102,
+     "w": 385
+    },
+    {
+     "type": "text",
+     "text": "+15",
+     "x": 493,
+     "y": 151,
+     "size": 34,
+     "bold": true,
+     "color": "#2F8A4A",
+     "w": 400
+    },
+    {
+     "type": "image",
+     "path": "art/crutch-man.png",
+     "x": 588,
+     "y": 102,
+     "w": 385
+    },
+    {
+     "type": "image",
+     "path": "art/crutches.png",
+     "x": 740,
+     "y": 360,
+     "w": 90
+    },
+    {
+     "type": "text",
+     "text": "+80",
+     "x": 753,
+     "y": 151,
+     "size": 34,
+     "bold": true,
+     "color": "#2F8A4A",
+     "w": 400
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-a.png",
+     "x": 925,
+     "y": 148,
+     "w": 350
+    },
+    {
+     "type": "text",
+     "text": "+81",
+     "x": 1073,
+     "y": 148,
+     "size": 34,
+     "bold": true,
+     "color": "#2F8A4A",
+     "w": 400
+    }
+   ]
+  },
+  {
+   "start": 214.25,
+   "end": 223.77,
+   "layers": [
+    {
+     "type": "text",
+     "text": "THE CHAIN CONTINUES...",
+     "x": 80,
+     "y": 60,
+     "size": 48,
+     "bold": true
+    },
+    {
+     "type": "image",
+     "path": "art/crutch-man.png",
+     "x": 107,
+     "y": 102,
+     "w": 385
+    },
+    {
+     "type": "text",
+     "text": "+84",
+     "x": 273,
+     "y": 151,
+     "size": 34,
+     "bold": true,
+     "color": "#2F8A4A",
+     "w": 400
+    },
+    {
+     "type": "image",
+     "path": "art/baby-mum.png",
+     "x": 468,
+     "y": 102,
+     "w": 385
+    },
+    {
+     "type": "image",
+     "path": "art/baby.png",
+     "x": 710,
+     "y": 380,
+     "w": 85
+    },
+    {
+     "type": "text",
+     "text": "+220",
+     "x": 625,
+     "y": 151,
+     "size": 34,
+     "bold": true,
+     "color": "#2F8A4A",
+     "w": 400
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-a.png",
+     "x": 885,
+     "y": 148,
+     "w": 350
+    },
+    {
+     "type": "text",
+     "text": "+81",
+     "x": 1033,
+     "y": 148,
+     "size": 34,
+     "bold": true,
+     "color": "#2F8A4A",
+     "w": 400
+    }
+   ]
+  },
+  {
+   "start": 223.77,
+   "end": 239.93,
+   "layers": [
+    {
+     "type": "text",
+     "text": "ONE HOT CHOCOLATE STARTED THIS.",
+     "x": 120,
+     "y": 60,
+     "size": 50,
+     "bold": true,
+     "color": "#2F8A4A"
+    },
+    {
+     "type": "image",
+     "path": "art/hotcocoa.png",
+     "x": 160,
+     "y": 280,
+     "w": 100
+    },
+    {
+     "type": "text",
+     "text": "→",
+     "x": 320,
+     "y": 320,
+     "size": 60,
+     "bold": true
+    },
+    {
+     "type": "image",
+     "path": "art/sign-hospital.png",
+     "x": 380,
+     "y": 280,
+     "w": 180
+    },
+    {
+     "type": "text",
+     "text": "→",
+     "x": 610,
+     "y": 320,
+     "size": 60,
+     "bold": true
+    },
+    {
+     "type": "image",
+     "path": "art/baby.png",
+     "x": 670,
+     "y": 290,
+     "w": 100
+    },
+    {
+     "type": "text",
+     "text": "→",
+     "x": 820,
+     "y": 320,
+     "size": 60,
+     "bold": true
+    },
+    {
+     "type": "image",
+     "path": "art/coffee.png",
+     "x": 880,
+     "y": 280,
+     "w": 80
+    },
+    {
+     "type": "text",
+     "text": "3 more good things you never saw.",
+     "x": 280,
+     "y": 480,
+     "size": 42,
+     "bold": true,
+     "from": 4.26,
+     "keys": [
+      {
+       "t": 4.26,
+       "y": 498,
+       "alpha": 0
+      },
+      {
+       "t": 4.51,
+       "y": 480,
+       "alpha": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 239.93,
+   "end": 250.49,
+   "layers": [
+    {
+     "type": "text",
+     "text": "FOWLER & CHRISTAKIS (PNAS)",
+     "x": 80,
+     "y": 50,
+     "size": 48,
+     "bold": true
+    },
+    {
+     "type": "text",
+     "text": "GENEROSITY SPREADS 3 STEPS AWAY.",
+     "x": 80,
+     "y": 160,
+     "size": 56,
+     "bold": true,
+     "color": "#2F8A4A",
+     "from": 0.6,
+     "keys": [
+      {
+       "t": 0.6,
+       "y": 178,
+       "alpha": 0
+      },
+      {
+       "t": 0.85,
+       "y": 160,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "Each extra bit of sharing multiplied across groups.",
+     "x": 80,
+     "y": 270,
+     "size": 38,
+     "w": 1100,
+     "from": 3.76,
+     "keys": [
+      {
+       "t": 3.76,
+       "y": 288,
+       "alpha": 0
+      },
+      {
+       "t": 4.01,
+       "y": 270,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "art/you-cheer.png",
+     "x": 788,
+     "y": 102,
+     "w": 385
+    }
+   ]
+  },
+  {
+   "start": 250.49,
+   "end": 261.31,
+   "layers": [
+    {
+     "type": "text",
+     "text": "SELFISHNESS SPREADS JUST AS EASILY.",
+     "x": 80,
+     "y": 50,
+     "size": 52,
+     "bold": true,
+     "color": "#EC4338"
+    },
+    {
+     "type": "image",
+     "path": "art/cutter.png",
+     "x": 45,
+     "y": 148,
+     "w": 350
+    },
+    {
+     "type": "text",
+     "text": "-15",
+     "x": 193,
+     "y": 187,
+     "size": 34,
+     "bold": true,
+     "color": "#EC4338",
+     "w": 400
+    },
+    {
+     "type": "text",
+     "text": "→",
+     "x": 380,
+     "y": 340,
+     "size": 60,
+     "bold": true,
+     "color": "#EC4338"
+    },
+    {
+     "type": "image",
+     "path": "art/shover.png",
+     "x": 365,
+     "y": 148,
+     "w": 350
+    },
+    {
+     "type": "text",
+     "text": "-30",
+     "x": 513,
+     "y": 187,
+     "size": 34,
+     "bold": true,
+     "color": "#EC4338",
+     "w": 400
+    },
+    {
+     "type": "text",
+     "text": "→",
+     "x": 700,
+     "y": 340,
+     "size": 60,
+     "bold": true,
+     "color": "#EC4338"
+    },
+    {
+     "type": "image",
+     "path": "art/shouter.png",
+     "x": 685,
+     "y": 148,
+     "w": 350
+    },
+    {
+     "type": "text",
+     "text": "-50",
+     "x": 833,
+     "y": 187,
+     "size": 34,
+     "bold": true,
+     "color": "#EC4338",
+     "w": 400
+    },
+    {
+     "type": "text",
+     "text": "WHICH CHAIN ARE YOU STARTING TODAY?",
+     "x": 120,
+     "y": 500,
+     "size": 46,
+     "bold": true,
+     "color": "#EC4338",
+     "from": 6.96,
+     "keys": [
+      {
+       "t": 6.96,
+       "y": 518,
+       "alpha": 0
+      },
+      {
+       "t": 7.21,
+       "y": 500,
+       "alpha": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 261.31,
+   "end": 267.33,
+   "layers": [
+    {
+     "type": "text",
+     "text": "DAY 6",
+     "x": 80,
+     "y": 40,
+     "size": 70,
+     "bold": true,
+     "color": "#EC4338"
+    },
+    {
+     "type": "underline",
+     "x": 82,
+     "y": 118,
+     "w": 200,
+     "color": "#EC4338",
+     "keys": [
+      {
+       "t": 0,
+       "progress": 0
+      },
+      {
+       "t": 0.5,
+       "progress": 1
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "art/tv.png",
+     "x": 420,
+     "y": 180,
+     "w": 440
+    },
+    {
+     "type": "text",
+     "text": "BREAKING: EVERYONE CAN SEE KARMA",
+     "x": 140,
+     "y": 80,
+     "size": 46,
+     "bold": true,
+     "color": "#EC4338",
+     "from": 0.5,
+     "keys": [
+      {
+       "t": 0.5,
+       "y": 98,
+       "alpha": 0
+      },
+      {
+       "t": 0.75,
+       "y": 80,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "art/you-startled.png",
+     "x": 833,
+     "y": 39,
+     "w": 434
+    },
+    {
+     "type": "text",
+     "text": "+81",
+     "x": 1023,
+     "y": 53,
+     "size": 34,
+     "bold": true,
+     "color": "#2F8A4A",
+     "w": 400
+    }
+   ]
+  },
+  {
+   "start": 267.33,
+   "end": 278.59,
+   "layers": [
+    {
+     "type": "text",
+     "text": "THE WORLD GOES CRAZY",
+     "x": 80,
+     "y": 50,
+     "size": 54,
+     "bold": true,
+     "color": "#EC4338"
+    },
+    {
+     "type": "image",
+     "path": "art/filmer.png",
+     "x": 5,
+     "y": 148,
+     "w": 350
+    },
+    {
+     "type": "text",
+     "text": "+45",
+     "x": 153,
+     "y": 187,
+     "size": 34,
+     "bold": true,
+     "color": "#2F8A4A",
+     "w": 400
+    },
+    {
+     "type": "image",
+     "path": "art/leaderboard.png",
+     "x": 440,
+     "y": 180,
+     "w": 300
+    },
+    {
+     "type": "image",
+     "path": "art/sign-500.png",
+     "x": 840,
+     "y": 240,
+     "w": 220
+    },
+    {
+     "type": "text",
+     "text": "GOOD DEEDS FOR THE CAMERA",
+     "x": 120,
+     "y": 540,
+     "size": 42,
+     "bold": true,
+     "from": 0.8,
+     "keys": [
+      {
+       "t": 0.8,
+       "y": 558,
+       "alpha": 0
+      },
+      {
+       "t": 1.05,
+       "y": 540,
+       "alpha": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 278.59,
+   "end": 294.11,
+   "layers": [
+    {
+     "type": "image",
+     "path": "art/leo-phone.png",
+     "x": 150,
+     "y": 57,
+     "w": 420
+    },
+    {
+     "type": "text",
+     "text": "-14",
+     "x": 327,
+     "y": 107,
+     "size": 42,
+     "bold": true,
+     "color": "#EC4338",
+     "w": 400
+    },
+    {
+     "type": "image",
+     "path": "art/you-phone.png",
+     "x": 663,
+     "y": 39,
+     "w": 434
+    },
+    {
+     "type": "text",
+     "text": "+81",
+     "x": 853,
+     "y": 53,
+     "size": 34,
+     "bold": true,
+     "color": "#2F8A4A",
+     "w": 400
+    },
+    {
+     "type": "text",
+     "text": "\"What if people only ever see the worst thing I did?\"",
+     "x": 180,
+     "y": 100,
+     "size": 40,
+     "bold": true,
+     "color": "#EC4338",
+     "w": 900,
+     "from": 7.64,
+     "keys": [
+      {
+       "t": 7.64,
+       "y": 118,
+       "alpha": 0
+      },
+      {
+       "t": 7.89,
+       "y": 100,
+       "alpha": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 294.11,
+   "end": 303.39,
+   "layers": [
+    {
+     "type": "image",
+     "path": "art/jobless.png",
+     "x": 67,
+     "y": 102,
+     "w": 385
+    },
+    {
+     "type": "image",
+     "path": "art/officebox.png",
+     "x": 310,
+     "y": 430,
+     "w": 120
+    },
+    {
+     "type": "text",
+     "text": "+1,950",
+     "x": 201,
+     "y": 147,
+     "size": 38,
+     "bold": true,
+     "color": "#2F8A4A",
+     "w": 400
+    },
+    {
+     "type": "image",
+     "path": "art/whisper-a.png",
+     "x": 505,
+     "y": 148,
+     "w": 350
+    },
+    {
+     "type": "image",
+     "path": "art/whisper-b.png",
+     "x": 665,
+     "y": 148,
+     "w": 350
+    },
+    {
+     "type": "text",
+     "text": "\"He must have deserved it.\"",
+     "x": 600,
+     "y": 150,
+     "size": 38,
+     "bold": true,
+     "color": "#EC4338",
+     "from": 3.46,
+     "keys": [
+      {
+       "t": 3.46,
+       "y": 168,
+       "alpha": 0
+      },
+      {
+       "t": 3.71,
+       "y": 150,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "art/you-skeptic.png",
+     "x": 925,
+     "y": 148,
+     "w": 350
+    },
+    {
+     "type": "text",
+     "text": "+81",
+     "x": 1073,
+     "y": 148,
+     "size": 34,
+     "bold": true,
+     "color": "#2F8A4A",
+     "w": 400
+    }
+   ]
+  },
+  {
+   "start": 303.39,
+   "end": 323.15,
+   "layers": [
+    {
+     "type": "text",
+     "text": "THE JUST-WORLD BELIEF",
+     "x": 80,
+     "y": 50,
+     "size": 54,
+     "bold": true,
+     "color": "#EC4338"
+    },
+    {
+     "type": "image",
+     "path": "art/scale-tip.png",
+     "x": 460,
+     "y": 200,
+     "w": 340
+    },
+    {
+     "type": "text",
+     "text": "BAD LUCK ≠ BAD PERSON.",
+     "x": 80,
+     "y": 170,
+     "size": 60,
+     "bold": true,
+     "from": 0.6,
+     "keys": [
+      {
+       "t": 0.6,
+       "y": 188,
+       "alpha": 0
+      },
+      {
+       "t": 0.85,
+       "y": 170,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "We blame victims because it makes us feel safe.",
+     "x": 80,
+     "y": 270,
+     "size": 40,
+     "w": 1100,
+     "from": 12.46,
+     "keys": [
+      {
+       "t": 12.46,
+       "y": 288,
+       "alpha": 0
+      },
+      {
+       "t": 12.71,
+       "y": 270,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "AND IT MAKES US CRUEL.",
+     "x": 80,
+     "y": 360,
+     "size": 54,
+     "bold": true,
+     "color": "#EC4338",
+     "from": 14.64,
+     "keys": [
+      {
+       "t": 14.64,
+       "y": 378,
+       "alpha": 0
+      },
+      {
+       "t": 14.89,
+       "y": 360,
+       "alpha": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 323.15,
+   "end": 333.11,
+   "layers": [
+    {
+     "type": "text",
+     "text": "DAY 7",
+     "x": 80,
+     "y": 40,
+     "size": 70,
+     "bold": true,
+     "color": "#EC4338"
+    },
+    {
+     "type": "underline",
+     "x": 82,
+     "y": 118,
+     "w": 200,
+     "color": "#EC4338",
+     "keys": [
+      {
+       "t": 0,
+       "progress": 0
+      },
+      {
+       "t": 0.5,
+       "progress": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "- ?,???",
+     "x": 560,
+     "y": 140,
+     "size": 70,
+     "bold": true,
+     "color": "#EC4338"
+    },
+    {
+     "type": "image",
+     "path": "art/you-confused.png",
+     "x": 743,
+     "y": 39,
+     "w": 434
+    },
+    {
+     "type": "text",
+     "text": "+81",
+     "x": 933,
+     "y": 53,
+     "size": 34,
+     "bold": true,
+     "color": "#2F8A4A",
+     "w": 400
+    },
+    {
+     "type": "text",
+     "text": "WHO HAS THE LOWEST NUMBER?",
+     "x": 120,
+     "y": 60,
+     "size": 50,
+     "bold": true,
+     "from": 0.5,
+     "keys": [
+      {
+       "t": 0.5,
+       "y": 78,
+       "alpha": 0
+      },
+      {
+       "t": 0.75,
+       "y": 60,
+       "alpha": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 333.11,
+   "end": 355.63,
+   "layers": [
+    {
+     "type": "image",
+     "path": "art/meter.png",
+     "x": 340,
+     "y": 260,
+     "w": 110
+    },
+    {
+     "type": "image",
+     "path": "art/officer.png",
+     "x": 297,
+     "y": 75,
+     "w": 406
+    },
+    {
+     "type": "text",
+     "text": "-4,120",
+     "x": 425,
+     "y": 115,
+     "size": 48,
+     "bold": true,
+     "color": "#EC4338",
+     "w": 400
+    },
+    {
+     "type": "text",
+     "text": "HER NUMBER ISN'T HER.",
+     "x": 100,
+     "y": 60,
+     "size": 58,
+     "bold": true,
+     "color": "#EC4338",
+     "from": 13.44,
+     "keys": [
+      {
+       "t": 13.44,
+       "y": 78,
+       "alpha": 0
+      },
+      {
+       "t": 13.69,
+       "y": 60,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-a.png",
+     "x": 763,
+     "y": 39,
+     "w": 434
+    },
+    {
+     "type": "text",
+     "text": "+81",
+     "x": 953,
+     "y": 53,
+     "size": 34,
+     "bold": true,
+     "color": "#2F8A4A",
+     "w": 400
+    }
+   ]
+  },
+  {
+   "start": 355.63,
+   "end": 369.23,
+   "layers": [
+    {
+     "type": "image",
+     "path": "art/meter.png",
+     "x": 340,
+     "y": 260,
+     "w": 110
+    },
+    {
+     "type": "image",
+     "path": "art/officer.png",
+     "x": 297,
+     "y": 75,
+     "w": 406
+    },
+    {
+     "type": "text",
+     "text": "-4,120",
+     "x": 425,
+     "y": 115,
+     "size": 48,
+     "bold": true,
+     "color": "#EC4338",
+     "w": 400
+    },
+    {
+     "type": "text",
+     "text": "+3,600",
+     "x": 441,
+     "y": 125,
+     "size": 38,
+     "bold": true,
+     "color": "#2F8A4A",
+     "w": 400,
+     "from": 0.2,
+     "keys": [
+      {
+       "t": 0.2,
+       "y": 143,
+       "alpha": 0
+      },
+      {
+       "t": 0.45,
+       "y": 125,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "THE RED NUMBER WAS OURS.",
+     "x": 100,
+     "y": 60,
+     "size": 58,
+     "bold": true,
+     "color": "#EC4338",
+     "from": 9.76,
+     "keys": [
+      {
+       "t": 9.76,
+       "y": 78,
+       "alpha": 0
+      },
+      {
+       "t": 10.01,
+       "y": 60,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "art/you-skeptic.png",
+     "x": 763,
+     "y": 39,
+     "w": 434
+    },
+    {
+     "type": "text",
+     "text": "+81",
+     "x": 953,
+     "y": 53,
+     "size": 34,
+     "bold": true,
+     "color": "#2F8A4A",
+     "w": 400
+    }
+   ]
+  },
+  {
+   "start": 369.23,
+   "end": 385.91,
+   "layers": [
+    {
+     "type": "image",
+     "path": "art/officer-smile.png",
+     "x": 237,
+     "y": 75,
+     "w": 406
+    },
+    {
+     "type": "text",
+     "text": "+3,600",
+     "x": 381,
+     "y": 125,
+     "size": 38,
+     "bold": true,
+     "color": "#2F8A4A",
+     "w": 400
+    },
+    {
+     "type": "image",
+     "path": "art/you-kind.png",
+     "x": 583,
+     "y": 39,
+     "w": 434
+    },
+    {
+     "type": "text",
+     "text": "+81",
+     "x": 773,
+     "y": 53,
+     "size": 34,
+     "bold": true,
+     "color": "#2F8A4A",
+     "w": 400
+    },
+    {
+     "type": "text",
+     "text": "\"Nobody has said that in 11 years.\"",
+     "x": 240,
+     "y": 100,
+     "size": 42,
+     "bold": true,
+     "color": "#2F8A4A",
+     "from": 0.8,
+     "keys": [
+      {
+       "t": 0.8,
+       "y": 118,
+       "alpha": 0
+      },
+      {
+       "t": 1.05,
+       "y": 100,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "A ticket reminded a father to fix his brakes before a family trip.",
+     "x": 180,
+     "y": 480,
+     "size": 36,
+     "bold": true,
+     "w": 900,
+     "from": 10.12,
+     "keys": [
+      {
+       "t": 10.12,
+       "y": 498,
+       "alpha": 0
+      },
+      {
+       "t": 10.37,
+       "y": 480,
+       "alpha": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 385.91,
+   "end": 391.03,
+   "layers": [
+    {
+     "type": "text",
+     "text": "MIDNIGHT.",
+     "x": 80,
+     "y": 60,
+     "size": 60,
+     "bold": true
+    },
+    {
+     "type": "text",
+     "text": "+410",
+     "x": 200,
+     "y": 240,
+     "size": 44,
+     "bold": true,
+     "color": "#2F8A4A",
+     "keys": [
+      {
+       "t": 1,
+       "alpha": 1
+      },
+      {
+       "t": 2.5,
+       "alpha": 0
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "-38",
+     "x": 500,
+     "y": 240,
+     "size": 44,
+     "bold": true,
+     "color": "#EC4338",
+     "keys": [
+      {
+       "t": 1,
+       "alpha": 1
+      },
+      {
+       "t": 2.5,
+       "alpha": 0
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "+880",
+     "x": 800,
+     "y": 240,
+     "size": 44,
+     "bold": true,
+     "color": "#2F8A4A",
+     "keys": [
+      {
+       "t": 1,
+       "alpha": 1
+      },
+      {
+       "t": 2.5,
+       "alpha": 0
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "THE NUMBERS FADE AWAY.",
+     "x": 80,
+     "y": 160,
+     "size": 52,
+     "bold": true,
+     "from": 0.5,
+     "keys": [
+      {
+       "t": 0.5,
+       "y": 178,
+       "alpha": 0
+      },
+      {
+       "t": 0.75,
+       "y": 160,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "art/you-calm.png",
+     "x": 763,
+     "y": 39,
+     "w": 434
+    },
+    {
+     "type": "text",
+     "text": "+81",
+     "x": 953,
+     "y": 53,
+     "size": 34,
+     "bold": true,
+     "color": "#2F8A4A",
+     "w": 400
+    }
+   ]
+  },
+  {
+   "start": 391.03,
+   "end": 411.43,
+   "layers": [
+    {
+     "type": "image",
+     "path": "art/mirror.png",
+     "x": 760,
+     "y": 50,
+     "w": 380
+    },
+    {
+     "type": "image",
+     "path": "art/you-calm.png",
+     "x": 213,
+     "y": 39,
+     "w": 434
+    },
+    {
+     "type": "image",
+     "path": "art/you-calm-m.png",
+     "x": 803,
+     "y": 135,
+     "w": 294
+    },
+    {
+     "type": "image",
+     "path": "art/sink.png",
+     "x": 800,
+     "y": 400,
+     "w": 300
+    },
+    {
+     "type": "text",
+     "text": "+81",
+     "x": 917,
+     "y": 118,
+     "size": 42,
+     "bold": true,
+     "color": "#2F8A4A",
+     "w": 400
+    },
+    {
+     "type": "text",
+     "text": "+81. HIGHER THAN A WEEK AGO.",
+     "x": 80,
+     "y": 32,
+     "size": 46,
+     "bold": true,
+     "color": "#2F8A4A",
+     "from": 0.2,
+     "keys": [
+      {
+       "t": 0.2,
+       "y": 50,
+       "alpha": 0
+      },
+      {
+       "t": 0.45,
+       "y": 32,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "It wasn't the grand gestures.",
+     "x": 80,
+     "y": 180,
+     "size": 42,
+     "bold": true,
+     "from": 7.82,
+     "keys": [
+      {
+       "t": 7.82,
+       "y": 198,
+       "alpha": 0
+      },
+      {
+       "t": 8.07,
+       "y": 180,
+       "alpha": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 411.43,
+   "end": 422.27,
+   "layers": [
+    {
+     "type": "image",
+     "path": "art/msg-mum.png",
+     "x": 460,
+     "y": 160,
+     "w": 360
+    },
+    {
+     "type": "image",
+     "path": "art/you-phone.png",
+     "x": -17,
+     "y": 39,
+     "w": 434
+    },
+    {
+     "type": "text",
+     "text": "+81",
+     "x": 173,
+     "y": 53,
+     "size": 34,
+     "bold": true,
+     "color": "#2F8A4A",
+     "w": 400
+    },
+    {
+     "type": "image",
+     "path": "art/heart.png",
+     "x": 680,
+     "y": 340,
+     "w": 80,
+     "from": 1.8,
+     "keys": [
+      {
+       "t": 1.8,
+       "y": 358,
+       "alpha": 0
+      },
+      {
+       "t": 2.05,
+       "y": 340,
+       "alpha": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 422.27,
+   "end": 454.83,
+   "layers": [
+    {
+     "type": "text",
+     "text": "ONE MORE COFFEE FOR KEVIN.",
+     "x": 140,
+     "y": 60,
+     "size": 50,
+     "bold": true
+    },
+    {
+     "type": "image",
+     "path": "art/kevin-grin.png",
+     "x": 177,
+     "y": 75,
+     "w": 406
+    },
+    {
+     "type": "image",
+     "path": "art/you-give.png",
+     "x": 543,
+     "y": 39,
+     "w": 434
+    },
+    {
+     "type": "image",
+     "path": "art/coffee.png",
+     "x": 680,
+     "y": 380,
+     "w": 60
+    },
+    {
+     "type": "text",
+     "text": "SOME KINDNESS NOBODY WILL COUNT.",
+     "x": 120,
+     "y": 480,
+     "size": 44,
+     "bold": true,
+     "color": "#2F8A4A",
+     "from": 10.04,
+     "keys": [
+      {
+       "t": 10.04,
+       "y": 498,
+       "alpha": 0
+      },
+      {
+       "t": 10.29,
+       "y": 480,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "IT STILL COUNTS.",
+     "x": 440,
+     "y": 540,
+     "size": 50,
+     "bold": true,
+     "color": "#2F8A4A",
+     "from": 13.98,
+     "keys": [
+      {
+       "t": 13.98,
+       "y": 558,
+       "alpha": 0
+      },
+      {
+       "t": 14.23,
+       "y": 540,
+       "alpha": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 454.83,
+   "end": 472.45,
+   "layers": [
+    {
+     "type": "text",
+     "text": "7 DAYS TAUGHT YOU:",
+     "x": 80,
+     "y": 45,
+     "size": 56,
+     "bold": true,
+     "color": "#EC4338"
+    },
+    {
+     "type": "text",
+     "text": "1. YOU CAN'T SEE GOODNESS FROM THE OUTSIDE.",
+     "x": 80,
+     "y": 140,
+     "size": 40,
+     "bold": true,
+     "color": "#191916",
+     "w": 1120,
+     "from": 2.28,
+     "keys": [
+      {
+       "t": 2.28,
+       "y": 158,
+       "alpha": 0
+      },
+      {
+       "t": 2.53,
+       "y": 140,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "2. SMALL KINDNESS TRAVELS FURTHER THAN YOU THINK.",
+     "x": 80,
+     "y": 220,
+     "size": 40,
+     "bold": true,
+     "color": "#2F8A4A",
+     "w": 1120,
+     "from": 4.9,
+     "keys": [
+      {
+       "t": 4.9,
+       "y": 238,
+       "alpha": 0
+      },
+      {
+       "t": 5.15,
+       "y": 220,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "3. BAD LUCK DOESN'T MEAN A BAD PERSON.",
+     "x": 80,
+     "y": 300,
+     "size": 40,
+     "bold": true,
+     "color": "#191916",
+     "w": 1120,
+     "from": 7.8,
+     "keys": [
+      {
+       "t": 7.8,
+       "y": 318,
+       "alpha": 0
+      },
+      {
+       "t": 8.05,
+       "y": 300,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "4. SOMETIMES THE LOWEST NUMBER WAS WRITTEN BY OTHERS.",
+     "x": 80,
+     "y": 380,
+     "size": 40,
+     "bold": true,
+     "color": "#2F8A4A",
+     "w": 1120,
+     "from": 10.42,
+     "keys": [
+      {
+       "t": 10.42,
+       "y": 398,
+       "alpha": 0
+      },
+      {
+       "t": 10.67,
+       "y": 380,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "BE THE GOOD PART OF SOMEONE'S DAY.",
+     "x": 140,
+     "y": 500,
+     "size": 50,
+     "bold": true,
+     "color": "#EC4338",
+     "from": 1,
+     "keys": [
+      {
+       "t": 1,
+       "y": 518,
+       "alpha": 0
+      },
+      {
+       "t": 1.25,
+       "y": 500,
+       "alpha": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 472.45,
+   "end": 480.69,
+   "layers": [
+    {
+     "type": "image",
+     "path": "art/you-ear.png",
+     "x": 423,
+     "y": 39,
+     "w": 434
+    },
+    {
+     "type": "image",
+     "path": "art/whisper-a.png",
+     "x": 65,
+     "y": 148,
+     "w": 350,
+     "from": 0.8,
+     "keys": [
+      {
+       "t": 0.8,
+       "y": 166,
+       "alpha": 0
+      },
+      {
+       "t": 1.05,
+       "y": 148,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "art/whisper-b.png",
+     "x": 865,
+     "y": 148,
+     "w": 350,
+     "from": 1.2,
+     "keys": [
+      {
+       "t": 1.2,
+       "y": 166,
+       "alpha": 0
+      },
+      {
+       "t": 1.45,
+       "y": 148,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "NEXT: WHAT IF YOU COULD HEAR",
+     "x": 120,
+     "y": 60,
+     "size": 52,
+     "bold": true,
+     "color": "#EC4338",
+     "from": 0.2,
+     "keys": [
+      {
+       "t": 0.2,
+       "y": 78,
+       "alpha": 0
+      },
+      {
+       "t": 0.45,
+       "y": 60,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "WHAT EVERYONE SAYS BEHIND YOUR BACK?",
+     "x": 80,
+     "y": 130,
+     "size": 46,
+     "bold": true,
+     "color": "#EC4338",
+     "from": 0.8,
+     "keys": [
+      {
+       "t": 0.8,
+       "y": 148,
+       "alpha": 0
+      },
+      {
+       "t": 1.05,
+       "y": 130,
+       "alpha": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 480.69,
+   "end": 489.27,
+   "layers": [
+    {
+     "type": "image",
+     "path": "art/subscribe.png",
+     "x": 470,
+     "y": 280,
+     "w": 340,
+     "from": 0,
+     "keys": [
+      {
+       "t": 0,
+       "y": 298,
+       "alpha": 0
+      },
+      {
+       "t": 0.25,
+       "y": 280,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "art/you-calm.png",
+     "x": 83,
+     "y": 39,
+     "w": 434,
+     "to": 0.3
+    },
+    {
+     "type": "image",
+     "path": "art/you-tap.png",
+     "x": 83,
+     "y": 39,
+     "w": 434,
+     "from": 0.3
+    },
+    {
+     "type": "text",
+     "text": "WHAT IF YOU COULD HEAR EVERY WHISPER?",
+     "x": 100,
+     "y": 70,
+     "size": 48,
+     "bold": true,
+     "color": "#EC4338",
+     "from": 0.2,
+     "keys": [
+      {
+       "t": 0.2,
+       "y": 88,
+       "alpha": 0
+      },
+      {
+       "t": 0.45,
+       "y": 70,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "tomorrow, the whispers begin...",
+     "x": 460,
+     "y": 450,
+     "size": 42,
+     "bold": true,
+     "from": 1.12,
+     "keys": [
+      {
+       "t": 1.12,
+       "y": 468,
+       "alpha": 0
+      },
+      {
+       "t": 1.37,
+       "y": 450,
+       "alpha": 1
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "sfx": [
+  {
+   "time": 2.35,
+   "kind": "pop",
+   "gain": 0.18
+  },
+  {
+   "time": 5.6,
+   "kind": "paper",
+   "gain": 0.12
+  },
+  {
+   "time": 7.7,
+   "kind": "chime",
+   "gain": 0.14
+  },
+  {
+   "time": 9.4,
+   "kind": "tap",
+   "gain": 0.12
+  },
+  {
+   "time": 11.3,
+   "kind": "tap",
+   "gain": 0.1
+  },
+  {
+   "time": 12.9,
+   "kind": "tap",
+   "gain": 0.1
+  },
+  {
+   "time": 14.8,
+   "kind": "chime",
+   "gain": 0.12
+  },
+  {
+   "time": 16.6,
+   "kind": "pop",
+   "gain": 0.08
+  },
+  {
+   "time": 16.85,
+   "kind": "pop",
+   "gain": 0.08
+  },
+  {
+   "time": 17.1,
+   "kind": "pop",
+   "gain": 0.08
+  },
+  {
+   "time": 17.35,
+   "kind": "pop",
+   "gain": 0.08
+  },
+  {
+   "time": 17.6,
+   "kind": "pop",
+   "gain": 0.08
+  },
+  {
+   "time": 18.7,
+   "kind": "paper",
+   "gain": 0.1
+  },
+  {
+   "time": 21,
+   "kind": "chime",
+   "gain": 0.12
+  },
+  {
+   "time": 25,
+   "kind": "tap",
+   "gain": 0.12
+  },
+  {
+   "time": 26.1,
+   "kind": "pop",
+   "gain": 0.14
+  },
+  {
+   "time": 33.39,
+   "kind": "pop",
+   "gain": 0.1
+  },
+  {
+   "time": 35.05,
+   "kind": "chime",
+   "gain": 0.12
+  },
+  {
+   "time": 37.27,
+   "kind": "pop",
+   "gain": 0.14
+  },
+  {
+   "time": 40.23,
+   "kind": "tap",
+   "gain": 0.1
+  },
+  {
+   "time": 47.67,
+   "kind": "chime",
+   "gain": 0.15
+  },
+  {
+   "time": 58.01,
+   "kind": "pop",
+   "gain": 0.12
+  },
+  {
+   "time": 63.61,
+   "kind": "paper",
+   "gain": 0.1
+  },
+  {
+   "time": 73.49,
+   "kind": "pop",
+   "gain": 0.12
+  },
+  {
+   "time": 74.89,
+   "kind": "paper",
+   "gain": 0.1
+  },
+  {
+   "time": 83.33,
+   "kind": "tap",
+   "gain": 0.1
+  },
+  {
+   "time": 91.21,
+   "kind": "paper",
+   "gain": 0.1
+  },
+  {
+   "time": 105.33,
+   "kind": "pop",
+   "gain": 0.1
+  },
+  {
+   "time": 123.91,
+   "kind": "pop",
+   "gain": 0.12
+  },
+  {
+   "time": 135.11,
+   "kind": "paper",
+   "gain": 0.1
+  },
+  {
+   "time": 146.69,
+   "kind": "tap",
+   "gain": 0.12
+  },
+  {
+   "time": 155.41,
+   "kind": "chime",
+   "gain": 0.15
+  },
+  {
+   "time": 169.87,
+   "kind": "tap",
+   "gain": 0.12
+  },
+  {
+   "time": 182.83,
+   "kind": "pop",
+   "gain": 0.12
+  },
+  {
+   "time": 188.75,
+   "kind": "chime",
+   "gain": 0.18
+  },
+  {
+   "time": 190.93,
+   "kind": "paper",
+   "gain": 0.1
+  },
+  {
+   "time": 211.31,
+   "kind": "pop",
+   "gain": 0.1
+  },
+  {
+   "time": 214.45,
+   "kind": "pop",
+   "gain": 0.1
+  },
+  {
+   "time": 223.97,
+   "kind": "chime",
+   "gain": 0.12
+  },
+  {
+   "time": 240.13,
+   "kind": "paper",
+   "gain": 0.1
+  },
+  {
+   "time": 250.59,
+   "kind": "tap",
+   "gain": 0.15
+  },
+  {
+   "time": 261.41,
+   "kind": "chime",
+   "gain": 0.15
+  },
+  {
+   "time": 267.53,
+   "kind": "pop",
+   "gain": 0.12
+  },
+  {
+   "time": 278.69,
+   "kind": "pop",
+   "gain": 0.12
+  },
+  {
+   "time": 294.31,
+   "kind": "pop",
+   "gain": 0.1
+  },
+  {
+   "time": 303.59,
+   "kind": "paper",
+   "gain": 0.1
+  },
+  {
+   "time": 323.25,
+   "kind": "tap",
+   "gain": 0.12
+  },
+  {
+   "time": 333.31,
+   "kind": "pop",
+   "gain": 0.15
+  },
+  {
+   "time": 355.83,
+   "kind": "chime",
+   "gain": 0.15
+  },
+  {
+   "time": 370.23,
+   "kind": "chime",
+   "gain": 0.12
+  },
+  {
+   "time": 386.11,
+   "kind": "paper",
+   "gain": 0.1
+  },
+  {
+   "time": 391.13,
+   "kind": "chime",
+   "gain": 0.12
+  },
+  {
+   "time": 411.63,
+   "kind": "pop",
+   "gain": 0.12
+  },
+  {
+   "time": 412.43,
+   "kind": "chime",
+   "gain": 0.1
+  },
+  {
+   "time": 422.47,
+   "kind": "chime",
+   "gain": 0.12
+  },
+  {
+   "time": 457.11,
+   "kind": "tap",
+   "gain": 0.1
+  },
+  {
+   "time": 459.73,
+   "kind": "tap",
+   "gain": 0.1
+  },
+  {
+   "time": 462.63,
+   "kind": "tap",
+   "gain": 0.1
+  },
+  {
+   "time": 465.25,
+   "kind": "tap",
+   "gain": 0.1
+  },
+  {
+   "time": 472.55,
+   "kind": "chime",
+   "gain": 0.16
+  },
+  {
+   "time": 481.09,
+   "kind": "tap",
+   "gain": 0.16
+  }
+ ]
+}
