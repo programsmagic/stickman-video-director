@@ -3,6 +3,7 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import crypto from 'node:crypto';
+import {getGeminiKeys} from './env.mjs';
 const [kind, ...args] = process.argv.slice(2);
 const value = flag => args[args.indexOf(flag) + 1];
 const required = flag => { if (!args.includes(flag) || !value(flag) || value(flag).startsWith('--')) throw new Error(`Required ${flag}`); return value(flag); };
@@ -13,7 +14,8 @@ async function main() {
   if (!['speech', 'image'].includes(kind)) throw new Error('Use speech or image');
   if (kind === 'speech' && args.includes('--direction')) throw new Error('Autopilot uses the selected named voice without extra voice/style instructions; remove --direction');
   if (!args.includes('--allow-network')) throw new Error('Network disabled; require explicit --allow-network after user authorization');
-  const key = process.env.GEMINI_API_KEY; if (!key) throw new Error('Set GEMINI_API_KEY in the environment; do not paste it in chat');
+  const keys = getGeminiKeys();
+  if (keys.length === 0) throw new Error('Set GEMINI_API_KEY in the environment; do not paste it in chat');
   const model = required('--model'); if (!/^[a-zA-Z0-9._-]+$/.test(model)) throw new Error('Invalid model ID');
   const output = path.resolve(required('--output')), receipt = `${output}.request.json`;
   if (fs.existsSync(output) || fs.existsSync(receipt)) throw new Error('Output or prior request receipt exists; inspect it before any retry');
@@ -30,8 +32,28 @@ async function main() {
   const record = {kind, model, requested_at: new Date().toISOString(), request_id: crypto.randomUUID(), status: 'submitted_or_unknown', warning: 'One request only; inspect provider history before retrying'};
   fs.writeFileSync(receipt, JSON.stringify(record, null, 2), {flag: 'wx'});
   try {
-    const response = await fetch(`https://generativelanguage.googleapis.com/v1beta/models/${model}:generateContent`, {method: 'POST', headers: {'Content-Type': 'application/json', 'x-goog-api-key': key}, body: JSON.stringify({contents: [{role: 'user', parts}], generationConfig: config}), signal: AbortSignal.timeout(180000)});
+    let response = null;
+    let usedKeyIndex = 0;
+    for (let i = 0; i < keys.length; i++) {
+      usedKeyIndex = i;
+      response = await fetch(`https://generativelanguage.googleapis.com/v1beta/models/${model}:generateContent`, {
+        method: 'POST',
+        headers: {'Content-Type': 'application/json', 'x-goog-api-key': keys[i]},
+        body: JSON.stringify({contents: [{role: 'user', parts}], generationConfig: config}),
+        signal: AbortSignal.timeout(180000)
+      });
+      if (response.status === 429 && i + 1 < keys.length) {
+        console.warn(`[gemini-media] Key #${i + 1} quota exceeded (HTTP 429). Rotating to Key #${i + 2}...`);
+        continue;
+      }
+      if ((response.status === 403 || response.status === 400) && i + 1 < keys.length) {
+        console.warn(`[gemini-media] Key #${i + 1} rejected (HTTP ${response.status}). Rotating to Key #${i + 2}...`);
+        continue;
+      }
+      break;
+    }
     if (!response.ok) throw new Error(`Provider HTTP ${response.status}; response body deliberately omitted`);
+    record.key_index = usedKeyIndex + 1;
     const data = await response.json(), candidates = data.candidates?.[0]?.content?.parts || [];
     const payload = candidates.map(p => p.inlineData || p.inline_data).find(p => p && (kind === 'speech' ? p.mimeType?.startsWith('audio/') : p.mimeType?.startsWith('image/')));
     if (!payload?.data) throw new Error('No native media payload returned; inspect request receipt/provider history');

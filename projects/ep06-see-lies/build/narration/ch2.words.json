@@ -1,0 +1,915 @@
+{
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.24,
+      "word": " By"
+    },
+    {
+      "start": 0.24,
+      "end": 0.44,
+      "word": " noon"
+    },
+    {
+      "start": 0.44,
+      "end": 0.64,
+      "word": " on"
+    },
+    {
+      "start": 0.64,
+      "end": 0.84,
+      "word": " day"
+    },
+    {
+      "start": 0.84,
+      "end": 1.24,
+      "word": " one,"
+    },
+    {
+      "start": 1.48,
+      "end": 1.56,
+      "word": " you"
+    },
+    {
+      "start": 1.56,
+      "end": 1.74,
+      "word": " are"
+    },
+    {
+      "start": 1.74,
+      "end": 1.96,
+      "word": " sitting"
+    },
+    {
+      "start": 1.96,
+      "end": 2.16,
+      "word": " in"
+    },
+    {
+      "start": 2.16,
+      "end": 2.28,
+      "word": " a"
+    },
+    {
+      "start": 2.28,
+      "end": 2.54,
+      "word": " team"
+    },
+    {
+      "start": 2.54,
+      "end": 2.8,
+      "word": " meeting"
+    },
+    {
+      "start": 2.8,
+      "end": 3.12,
+      "word": " at"
+    },
+    {
+      "start": 3.12,
+      "end": 3.52,
+      "word": " work."
+    },
+    {
+      "start": 3.76,
+      "end": 3.92,
+      "word": " Your"
+    },
+    {
+      "start": 3.92,
+      "end": 4.28,
+      "word": " manager"
+    },
+    {
+      "start": 4.28,
+      "end": 4.64,
+      "word": " clicks"
+    },
+    {
+      "start": 4.64,
+      "end": 4.9,
+      "word": " to"
+    },
+    {
+      "start": 4.9,
+      "end": 5.0,
+      "word": " the"
+    },
+    {
+      "start": 5.0,
+      "end": 5.36,
+      "word": " next"
+    },
+    {
+      "start": 5.36,
+      "end": 5.66,
+      "word": " slide"
+    },
+    {
+      "start": 5.66,
+      "end": 5.9,
+      "word": " and"
+    },
+    {
+      "start": 5.9,
+      "end": 6.42,
+      "word": " says,"
+    },
+    {
+      "start": 6.64,
+      "end": 7.02,
+      "word": " really"
+    },
+    {
+      "start": 7.02,
+      "end": 7.58,
+      "word": " appreciate"
+    },
+    {
+      "start": 7.58,
+      "end": 8.38,
+      "word": " everyone's"
+    },
+    {
+      "start": 8.38,
+      "end": 8.7,
+      "word": " extra"
+    },
+    {
+      "start": 8.7,
+      "end": 8.98,
+      "word": " hours"
+    },
+    {
+      "start": 8.98,
+      "end": 9.16,
+      "word": " on"
+    },
+    {
+      "start": 9.16,
+      "end": 9.4,
+      "word": " this"
+    },
+    {
+      "start": 9.4,
+      "end": 10.0,
+      "word": " launch."
+    },
+    {
+      "start": 10.4,
+      "end": 10.78,
+      "word": " Crimson"
+    },
+    {
+      "start": 10.78,
+      "end": 11.04,
+      "word": " Tag"
+    },
+    {
+      "start": 11.04,
+      "end": 11.62,
+      "word": " Lie."
+    },
+    {
+      "start": 12.02,
+      "end": 12.14,
+      "word": " He"
+    },
+    {
+      "start": 12.14,
+      "end": 12.38,
+      "word": " only"
+    },
+    {
+      "start": 12.38,
+      "end": 12.7,
+      "word": " cares"
+    },
+    {
+      "start": 12.7,
+      "end": 13.0,
+      "word": " about"
+    },
+    {
+      "start": 13.0,
+      "end": 13.32,
+      "word": " his"
+    },
+    {
+      "start": 13.32,
+      "end": 13.64,
+      "word": " quarterly"
+    },
+    {
+      "start": 13.64,
+      "end": 14.14,
+      "word": " bonus."
+    },
+    {
+      "start": 14.56,
+      "end": 14.76,
+      "word": " A"
+    },
+    {
+      "start": 14.76,
+      "end": 15.08,
+      "word": " colleague"
+    },
+    {
+      "start": 15.08,
+      "end": 15.38,
+      "word": " leans"
+    },
+    {
+      "start": 15.38,
+      "end": 15.62,
+      "word": " over"
+    },
+    {
+      "start": 15.62,
+      "end": 15.88,
+      "word": " and"
+    },
+    {
+      "start": 15.88,
+      "end": 16.14,
+      "word": " whispers,"
+    },
+    {
+      "start": 16.64,
+      "end": 16.8,
+      "word": " don't"
+    },
+    {
+      "start": 16.8,
+      "end": 17.2,
+      "word": " worry,"
+    },
+    {
+      "start": 17.5,
+      "end": 17.68,
+      "word": " your"
+    },
+    {
+      "start": 17.68,
+      "end": 18.28,
+      "word": " presentation"
+    },
+    {
+      "start": 18.28,
+      "end": 18.66,
+      "word": " was"
+    },
+    {
+      "start": 18.66,
+      "end": 19.3,
+      "word": " fantastic."
+    },
+    {
+      "start": 19.9,
+      "end": 20.3,
+      "word": " Crimson"
+    },
+    {
+      "start": 20.3,
+      "end": 20.7,
+      "word": " Tag"
+    },
+    {
+      "start": 20.7,
+      "end": 21.12,
+      "word": " Lie."
+    },
+    {
+      "start": 21.48,
+      "end": 21.68,
+      "word": " She"
+    },
+    {
+      "start": 21.68,
+      "end": 21.94,
+      "word": " did"
+    },
+    {
+      "start": 21.94,
+      "end": 22.08,
+      "word": " not"
+    },
+    {
+      "start": 22.08,
+      "end": 22.42,
+      "word": " listen"
+    },
+    {
+      "start": 22.42,
+      "end": 22.66,
+      "word": " to"
+    },
+    {
+      "start": 22.66,
+      "end": 22.72,
+      "word": " a"
+    },
+    {
+      "start": 22.72,
+      "end": 23.02,
+      "word": " single"
+    },
+    {
+      "start": 23.02,
+      "end": 23.56,
+      "word": " word."
+    },
+    {
+      "start": 23.96,
+      "end": 24.56,
+      "word": " Psychologist"
+    },
+    {
+      "start": 24.56,
+      "end": 24.94,
+      "word": " Robert"
+    },
+    {
+      "start": 24.94,
+      "end": 25.38,
+      "word": " Feldman"
+    },
+    {
+      "start": 25.38,
+      "end": 25.92,
+      "word": " discovered"
+    },
+    {
+      "start": 25.92,
+      "end": 26.18,
+      "word": " that"
+    },
+    {
+      "start": 26.18,
+      "end": 26.32,
+      "word": " in"
+    },
+    {
+      "start": 26.32,
+      "end": 26.46,
+      "word": " an"
+    },
+    {
+      "start": 26.46,
+      "end": 26.76,
+      "word": " ordinary"
+    },
+    {
+      "start": 26.76,
+      "end": 27.16,
+      "word": " 10"
+    },
+    {
+      "start": 27.16,
+      "end": 27.42,
+      "word": " minute"
+    },
+    {
+      "start": 27.42,
+      "end": 28.14,
+      "word": " conversation,"
+    },
+    {
+      "start": 28.14,
+      "end": 28.74,
+      "word": " the"
+    },
+    {
+      "start": 28.74,
+      "end": 29.1,
+      "word": " average"
+    },
+    {
+      "start": 29.1,
+      "end": 29.52,
+      "word": " human"
+    },
+    {
+      "start": 29.52,
+      "end": 29.82,
+      "word": " tells"
+    },
+    {
+      "start": 29.82,
+      "end": 30.14,
+      "word": " 2"
+    },
+    {
+      "start": 30.14,
+      "end": 30.28,
+      "word": " to"
+    },
+    {
+      "start": 30.28,
+      "end": 30.58,
+      "word": " 3"
+    },
+    {
+      "start": 30.58,
+      "end": 31.08,
+      "word": " lies."
+    },
+    {
+      "start": 31.24,
+      "end": 31.46,
+      "word": " We"
+    },
+    {
+      "start": 31.46,
+      "end": 31.66,
+      "word": " do"
+    },
+    {
+      "start": 31.66,
+      "end": 31.9,
+      "word": " not"
+    },
+    {
+      "start": 31.9,
+      "end": 32.1,
+      "word": " do"
+    },
+    {
+      "start": 32.1,
+      "end": 32.22,
+      "word": " it"
+    },
+    {
+      "start": 32.22,
+      "end": 32.46,
+      "word": " because"
+    },
+    {
+      "start": 32.46,
+      "end": 32.78,
+      "word": " we"
+    },
+    {
+      "start": 32.78,
+      "end": 32.94,
+      "word": " are"
+    },
+    {
+      "start": 32.94,
+      "end": 33.3,
+      "word": " monsters."
+    },
+    {
+      "start": 33.84,
+      "end": 33.96,
+      "word": " We"
+    },
+    {
+      "start": 33.96,
+      "end": 34.16,
+      "word": " do"
+    },
+    {
+      "start": 34.16,
+      "end": 34.32,
+      "word": " it"
+    },
+    {
+      "start": 34.32,
+      "end": 34.64,
+      "word": " because"
+    },
+    {
+      "start": 34.64,
+      "end": 35.06,
+      "word": " radical"
+    },
+    {
+      "start": 35.06,
+      "end": 35.58,
+      "word": " honesty"
+    },
+    {
+      "start": 35.58,
+      "end": 35.82,
+      "word": " is"
+    },
+    {
+      "start": 35.82,
+      "end": 36.26,
+      "word": " psychological"
+    },
+    {
+      "start": 36.26,
+      "end": 37.12,
+      "word": " warfare."
+    },
+    {
+      "start": 37.34,
+      "end": 37.7,
+      "word": " Imagine"
+    },
+    {
+      "start": 37.7,
+      "end": 37.94,
+      "word": " if"
+    },
+    {
+      "start": 37.94,
+      "end": 38.34,
+      "word": " everyone"
+    },
+    {
+      "start": 38.34,
+      "end": 38.98,
+      "word": " said,"
+    },
+    {
+      "start": 39.24,
+      "end": 39.42,
+      "word": " am"
+    },
+    {
+      "start": 39.42,
+      "end": 39.62,
+      "word": " bored"
+    },
+    {
+      "start": 39.62,
+      "end": 39.82,
+      "word": " of"
+    },
+    {
+      "start": 39.82,
+      "end": 40.08,
+      "word": " talking"
+    },
+    {
+      "start": 40.08,
+      "end": 40.38,
+      "word": " to"
+    },
+    {
+      "start": 40.38,
+      "end": 40.78,
+      "word": " you."
+    },
+    {
+      "start": 40.94,
+      "end": 41.06,
+      "word": " Your"
+    },
+    {
+      "start": 41.06,
+      "end": 41.36,
+      "word": " new"
+    },
+    {
+      "start": 41.36,
+      "end": 41.68,
+      "word": " haircut"
+    },
+    {
+      "start": 41.68,
+      "end": 42.08,
+      "word": " looks"
+    },
+    {
+      "start": 42.08,
+      "end": 42.48,
+      "word": " terrible."
+    },
+    {
+      "start": 42.9,
+      "end": 43.06,
+      "word": " I"
+    },
+    {
+      "start": 43.06,
+      "end": 43.36,
+      "word": " only"
+    },
+    {
+      "start": 43.36,
+      "end": 43.82,
+      "word": " invited"
+    },
+    {
+      "start": 43.82,
+      "end": 44.02,
+      "word": " you"
+    },
+    {
+      "start": 44.02,
+      "end": 44.28,
+      "word": " because"
+    },
+    {
+      "start": 44.28,
+      "end": 44.6,
+      "word": " I"
+    },
+    {
+      "start": 44.6,
+      "end": 44.9,
+      "word": " felt"
+    },
+    {
+      "start": 44.9,
+      "end": 45.62,
+      "word": " obligated."
+    },
+    {
+      "start": 46.14,
+      "end": 46.74,
+      "word": " Civilization"
+    },
+    {
+      "start": 46.74,
+      "end": 47.08,
+      "word": " survives"
+    },
+    {
+      "start": 47.08,
+      "end": 47.48,
+      "word": " on"
+    },
+    {
+      "start": 47.48,
+      "end": 47.72,
+      "word": " tiny"
+    },
+    {
+      "start": 47.72,
+      "end": 48.02,
+      "word": " white"
+    },
+    {
+      "start": 48.02,
+      "end": 48.3,
+      "word": " lies"
+    },
+    {
+      "start": 48.3,
+      "end": 48.6,
+      "word": " like"
+    },
+    {
+      "start": 48.6,
+      "end": 48.72,
+      "word": " an"
+    },
+    {
+      "start": 48.72,
+      "end": 49.02,
+      "word": " engine"
+    },
+    {
+      "start": 49.02,
+      "end": 49.4,
+      "word": " survives"
+    },
+    {
+      "start": 49.4,
+      "end": 49.74,
+      "word": " on"
+    },
+    {
+      "start": 49.74,
+      "end": 50.0,
+      "word": " motor"
+    },
+    {
+      "start": 50.0,
+      "end": 50.48,
+      "word": " oil."
+    },
+    {
+      "start": 50.68,
+      "end": 50.92,
+      "word": " Without"
+    },
+    {
+      "start": 50.92,
+      "end": 51.2,
+      "word": " that"
+    },
+    {
+      "start": 51.2,
+      "end": 51.66,
+      "word": " oil,"
+    },
+    {
+      "start": 51.92,
+      "end": 52.16,
+      "word": " human"
+    },
+    {
+      "start": 52.16,
+      "end": 52.88,
+      "word": " conversation"
+    },
+    {
+      "start": 52.88,
+      "end": 53.54,
+      "word": " grinds"
+    },
+    {
+      "start": 53.54,
+      "end": 53.86,
+      "word": " together"
+    },
+    {
+      "start": 53.86,
+      "end": 54.22,
+      "word": " until"
+    },
+    {
+      "start": 54.22,
+      "end": 54.48,
+      "word": " the"
+    },
+    {
+      "start": 54.48,
+      "end": 54.76,
+      "word": " gear's"
+    },
+    {
+      "start": 54.76,
+      "end": 55.1,
+      "word": " shatter."
+    },
+    {
+      "start": 55.32,
+      "end": 55.58,
+      "word": " By"
+    },
+    {
+      "start": 55.58,
+      "end": 55.76,
+      "word": " the"
+    },
+    {
+      "start": 55.76,
+      "end": 55.94,
+      "word": " end"
+    },
+    {
+      "start": 55.94,
+      "end": 56.08,
+      "word": " of"
+    },
+    {
+      "start": 56.08,
+      "end": 56.2,
+      "word": " your"
+    },
+    {
+      "start": 56.2,
+      "end": 56.58,
+      "word": " second"
+    },
+    {
+      "start": 56.58,
+      "end": 57.14,
+      "word": " day,"
+    },
+    {
+      "start": 57.14,
+      "end": 57.64,
+      "word": " you"
+    },
+    {
+      "start": 57.64,
+      "end": 57.66,
+      "word": " are"
+    },
+    {
+      "start": 57.66,
+      "end": 58.02,
+      "word": " terrified"
+    },
+    {
+      "start": 58.02,
+      "end": 58.32,
+      "word": " to"
+    },
+    {
+      "start": 58.32,
+      "end": 58.74,
+      "word": " speak"
+    },
+    {
+      "start": 58.74,
+      "end": 59.36,
+      "word": " because"
+    },
+    {
+      "start": 59.36,
+      "end": 59.66,
+      "word": " every"
+    },
+    {
+      "start": 59.66,
+      "end": 60.08,
+      "word": " time"
+    },
+    {
+      "start": 60.08,
+      "end": 60.44,
+      "word": " someone"
+    },
+    {
+      "start": 60.44,
+      "end": 60.72,
+      "word": " is"
+    },
+    {
+      "start": 60.72,
+      "end": 60.96,
+      "word": " nice"
+    },
+    {
+      "start": 60.96,
+      "end": 61.14,
+      "word": " to"
+    },
+    {
+      "start": 61.14,
+      "end": 61.6,
+      "word": " you,"
+    },
+    {
+      "start": 61.6,
+      "end": 61.86,
+      "word": " the"
+    },
+    {
+      "start": 61.86,
+      "end": 62.06,
+      "word": " glowing"
+    },
+    {
+      "start": 62.06,
+      "end": 62.4,
+      "word": " red"
+    },
+    {
+      "start": 62.4,
+      "end": 62.64,
+      "word": " badge"
+    },
+    {
+      "start": 62.64,
+      "end": 62.94,
+      "word": " tells"
+    },
+    {
+      "start": 62.94,
+      "end": 63.46,
+      "word": " you"
+    },
+    {
+      "start": 63.46,
+      "end": 63.78,
+      "word": " they"
+    },
+    {
+      "start": 63.78,
+      "end": 63.92,
+      "word": " are"
+    },
+    {
+      "start": 63.92,
+      "end": 64.3,
+      "word": " only"
+    },
+    {
+      "start": 64.3,
+      "end": 64.54,
+      "word": " trying"
+    },
+    {
+      "start": 64.54,
+      "end": 64.74,
+      "word": " to"
+    },
+    {
+      "start": 64.74,
+      "end": 65.06,
+      "word": " survive"
+    },
+    {
+      "start": 65.06,
+      "end": 65.34,
+      "word": " the"
+    },
+    {
+      "start": 65.34,
+      "end": 65.92,
+      "word": " interaction."
+    }
+  ],
+  "method": "openai-whisper word_timestamps; human text/timing review required"
+}

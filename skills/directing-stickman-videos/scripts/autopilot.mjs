@@ -3,16 +3,18 @@ import fs from 'node:fs';
 import path from 'node:path';
 import {ROOT, STYLES, FFMPEG, FFPROBE, run, probe, loadProject, outputDir, save, json, hashFile, groupWords} from './autopilot-core.mjs';
 import {BRIAN} from './b4-runtime.mjs';
+import {getGeminiKeys} from './env.mjs';
 
 const [command, ...args] = process.argv.slice(2);
 const option = (flag, fallback) => args.includes(flag) ? args[args.indexOf(flag) + 1] : fallback;
 async function main() {
   if (command === 'doctor') {
+    const keys = getGeminiKeys();
     const checks = {node: Number(process.versions.node.split('.')[0]) >= 20};
     for (const [name, exe] of [['ffmpeg', FFMPEG], ['ffprobe', FFPROBE]]) try { run(exe, ['-version']); checks[name] = true; } catch { checks[name] = false; }
     try { await import('@napi-rs/canvas'); checks.canvas = true; } catch { checks.canvas = false; }
     checks.fonts = ['Caveat.ttf', 'NotoSans.ttf'].every(f => { const file = path.join(ROOT, 'assets/fonts', f); return fs.existsSync(file) && fs.statSync(file).size > 10000; });
-    console.log(JSON.stringify({checks, gemini_key_present: Boolean(process.env.GEMINI_API_KEY), network_checked: false, note: 'Key presence is not quota/billing verification'}, null, 2));
+    console.log(JSON.stringify({checks, gemini_key_present: keys.length > 0, gemini_keys_count: keys.length, network_checked: false, note: 'Key presence is not quota/billing verification'}, null, 2));
     if (Object.values(checks).some(v => !v)) process.exitCode = 1;
   } else if (command === 'probe') console.log(JSON.stringify(probe(path.resolve(args[0])), null, 2));
   else if (command === 'init') {

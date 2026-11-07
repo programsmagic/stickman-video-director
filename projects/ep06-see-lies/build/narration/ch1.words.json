@@ -1,0 +1,805 @@
+{
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.18,
+      "word": " You"
+    },
+    {
+      "start": 0.18,
+      "end": 0.32,
+      "word": " wake"
+    },
+    {
+      "start": 0.32,
+      "end": 0.54,
+      "word": " up"
+    },
+    {
+      "start": 0.54,
+      "end": 0.78,
+      "word": " at"
+    },
+    {
+      "start": 0.78,
+      "end": 1.0,
+      "word": " seven"
+    },
+    {
+      "start": 1.0,
+      "end": 1.18,
+      "word": " in"
+    },
+    {
+      "start": 1.18,
+      "end": 1.3,
+      "word": " the"
+    },
+    {
+      "start": 1.3,
+      "end": 1.52,
+      "word": " morning"
+    },
+    {
+      "start": 1.52,
+      "end": 1.78,
+      "word": " and"
+    },
+    {
+      "start": 1.78,
+      "end": 1.96,
+      "word": " pour"
+    },
+    {
+      "start": 1.96,
+      "end": 2.34,
+      "word": " yourself"
+    },
+    {
+      "start": 2.34,
+      "end": 2.64,
+      "word": " a"
+    },
+    {
+      "start": 2.64,
+      "end": 2.9,
+      "word": " glass"
+    },
+    {
+      "start": 2.9,
+      "end": 3.14,
+      "word": " of"
+    },
+    {
+      "start": 3.14,
+      "end": 3.72,
+      "word": " water."
+    },
+    {
+      "start": 3.88,
+      "end": 4.02,
+      "word": " Your"
+    },
+    {
+      "start": 4.02,
+      "end": 4.38,
+      "word": " roommate"
+    },
+    {
+      "start": 4.38,
+      "end": 4.84,
+      "word": " walks"
+    },
+    {
+      "start": 4.84,
+      "end": 5.12,
+      "word": " into"
+    },
+    {
+      "start": 5.12,
+      "end": 5.32,
+      "word": " the"
+    },
+    {
+      "start": 5.32,
+      "end": 5.72,
+      "word": " kitchen,"
+    },
+    {
+      "start": 6.16,
+      "end": 6.28,
+      "word": " rubs"
+    },
+    {
+      "start": 6.28,
+      "end": 6.5,
+      "word": " his"
+    },
+    {
+      "start": 6.5,
+      "end": 6.9,
+      "word": " eyes,"
+    },
+    {
+      "start": 7.22,
+      "end": 7.44,
+      "word": " and"
+    },
+    {
+      "start": 7.44,
+      "end": 7.7,
+      "word": " smiles."
+    },
+    {
+      "start": 8.38,
+      "end": 8.64,
+      "word": " Morning,"
+    },
+    {
+      "start": 9.14,
+      "end": 9.3,
+      "word": " did"
+    },
+    {
+      "start": 9.3,
+      "end": 9.44,
+      "word": " you"
+    },
+    {
+      "start": 9.44,
+      "end": 9.64,
+      "word": " sleep"
+    },
+    {
+      "start": 9.64,
+      "end": 10.38,
+      "word": " well?\""
+    },
+    {
+      "start": 10.38,
+      "end": 10.54,
+      "word": " he"
+    },
+    {
+      "start": 10.54,
+      "end": 10.98,
+      "word": " asks."
+    },
+    {
+      "start": 11.42,
+      "end": 11.76,
+      "word": " Yeah,"
+    },
+    {
+      "start": 12.16,
+      "end": 12.34,
+      "word": " slept"
+    },
+    {
+      "start": 12.34,
+      "end": 12.66,
+      "word": " like"
+    },
+    {
+      "start": 12.66,
+      "end": 12.84,
+      "word": " a"
+    },
+    {
+      "start": 12.84,
+      "end": 13.12,
+      "word": " rock."
+    },
+    {
+      "start": 13.56,
+      "end": 13.9,
+      "word": " reply."
+    },
+    {
+      "start": 14.38,
+      "end": 14.54,
+      "word": " And"
+    },
+    {
+      "start": 14.54,
+      "end": 14.74,
+      "word": " right"
+    },
+    {
+      "start": 14.74,
+      "end": 14.94,
+      "word": " above"
+    },
+    {
+      "start": 14.94,
+      "end": 15.18,
+      "word": " your"
+    },
+    {
+      "start": 15.18,
+      "end": 15.62,
+      "word": " lips,"
+    },
+    {
+      "start": 15.9,
+      "end": 16.04,
+      "word": " a"
+    },
+    {
+      "start": 16.04,
+      "end": 16.24,
+      "word": " bright"
+    },
+    {
+      "start": 16.24,
+      "end": 16.7,
+      "word": " crimson"
+    },
+    {
+      "start": 16.7,
+      "end": 17.08,
+      "word": " box"
+    },
+    {
+      "start": 17.08,
+      "end": 17.52,
+      "word": " flashes."
+    },
+    {
+      "start": 18.04,
+      "end": 18.3,
+      "word": " Lie,"
+    },
+    {
+      "start": 18.68,
+      "end": 18.92,
+      "word": " rated"
+    },
+    {
+      "start": 18.92,
+      "end": 20.28,
+      "word": " 84%."
+    },
+    {
+      "start": 20.28,
+      "end": 20.56,
+      "word": " You"
+    },
+    {
+      "start": 20.56,
+      "end": 20.84,
+      "word": " freeze."
+    },
+    {
+      "start": 21.3,
+      "end": 21.48,
+      "word": " Your"
+    },
+    {
+      "start": 21.48,
+      "end": 21.9,
+      "word": " roommate"
+    },
+    {
+      "start": 21.9,
+      "end": 22.24,
+      "word": " looks"
+    },
+    {
+      "start": 22.24,
+      "end": 22.52,
+      "word": " at"
+    },
+    {
+      "start": 22.52,
+      "end": 22.62,
+      "word": " the"
+    },
+    {
+      "start": 22.62,
+      "end": 22.98,
+      "word": " breakfast"
+    },
+    {
+      "start": 22.98,
+      "end": 23.32,
+      "word": " you"
+    },
+    {
+      "start": 23.32,
+      "end": 23.5,
+      "word": " made"
+    },
+    {
+      "start": 23.5,
+      "end": 23.72,
+      "word": " and"
+    },
+    {
+      "start": 23.72,
+      "end": 24.18,
+      "word": " says,"
+    },
+    {
+      "start": 24.42,
+      "end": 24.94,
+      "word": " thanks."
+    },
+    {
+      "start": 25.28,
+      "end": 25.5,
+      "word": " This"
+    },
+    {
+      "start": 25.5,
+      "end": 25.76,
+      "word": " tastes"
+    },
+    {
+      "start": 25.76,
+      "end": 26.5,
+      "word": " amazing."
+    },
+    {
+      "start": 26.84,
+      "end": 27.1,
+      "word": " Floating"
+    },
+    {
+      "start": 27.1,
+      "end": 27.5,
+      "word": " right"
+    },
+    {
+      "start": 27.5,
+      "end": 27.66,
+      "word": " above"
+    },
+    {
+      "start": 27.66,
+      "end": 27.9,
+      "word": " his"
+    },
+    {
+      "start": 27.9,
+      "end": 28.14,
+      "word": " mouth"
+    },
+    {
+      "start": 28.14,
+      "end": 28.32,
+      "word": " in"
+    },
+    {
+      "start": 28.32,
+      "end": 28.5,
+      "word": " bold"
+    },
+    {
+      "start": 28.5,
+      "end": 28.8,
+      "word": " red"
+    },
+    {
+      "start": 28.8,
+      "end": 29.2,
+      "word": " letters."
+    },
+    {
+      "start": 29.2,
+      "end": 29.8,
+      "word": " Lie,"
+    },
+    {
+      "start": 30.18,
+      "end": 30.32,
+      "word": " he"
+    },
+    {
+      "start": 30.32,
+      "end": 30.66,
+      "word": " thinks"
+    },
+    {
+      "start": 30.66,
+      "end": 30.8,
+      "word": " it"
+    },
+    {
+      "start": 30.8,
+      "end": 31.02,
+      "word": " is"
+    },
+    {
+      "start": 31.02,
+      "end": 31.22,
+      "word": " cold"
+    },
+    {
+      "start": 31.22,
+      "end": 31.48,
+      "word": " and"
+    },
+    {
+      "start": 31.48,
+      "end": 31.92,
+      "word": " bland."
+    },
+    {
+      "start": 32.2,
+      "end": 32.32,
+      "word": " For"
+    },
+    {
+      "start": 32.32,
+      "end": 32.44,
+      "word": " the"
+    },
+    {
+      "start": 32.44,
+      "end": 32.76,
+      "word": " next"
+    },
+    {
+      "start": 32.76,
+      "end": 33.14,
+      "word": " seven"
+    },
+    {
+      "start": 33.14,
+      "end": 33.72,
+      "word": " days,"
+    },
+    {
+      "start": 34.0,
+      "end": 34.16,
+      "word": " every"
+    },
+    {
+      "start": 34.16,
+      "end": 34.58,
+      "word": " spoken"
+    },
+    {
+      "start": 34.58,
+      "end": 34.94,
+      "word": " word"
+    },
+    {
+      "start": 34.94,
+      "end": 35.08,
+      "word": " in"
+    },
+    {
+      "start": 35.08,
+      "end": 35.24,
+      "word": " your"
+    },
+    {
+      "start": 35.24,
+      "end": 35.56,
+      "word": " world"
+    },
+    {
+      "start": 35.56,
+      "end": 35.86,
+      "word": " comes"
+    },
+    {
+      "start": 35.86,
+      "end": 36.08,
+      "word": " with"
+    },
+    {
+      "start": 36.08,
+      "end": 36.16,
+      "word": " a"
+    },
+    {
+      "start": 36.16,
+      "end": 36.58,
+      "word": " verified"
+    },
+    {
+      "start": 36.58,
+      "end": 37.04,
+      "word": " truth"
+    },
+    {
+      "start": 37.04,
+      "end": 37.58,
+      "word": " rating."
+    },
+    {
+      "start": 37.98,
+      "end": 38.16,
+      "word": " Green"
+    },
+    {
+      "start": 38.16,
+      "end": 38.42,
+      "word": " for"
+    },
+    {
+      "start": 38.42,
+      "end": 38.82,
+      "word": " absolute"
+    },
+    {
+      "start": 38.82,
+      "end": 39.46,
+      "word": " truth."
+    },
+    {
+      "start": 39.88,
+      "end": 40.08,
+      "word": " Bright"
+    },
+    {
+      "start": 40.08,
+      "end": 40.52,
+      "word": " crimson"
+    },
+    {
+      "start": 40.52,
+      "end": 40.8,
+      "word": " for"
+    },
+    {
+      "start": 40.8,
+      "end": 41.26,
+      "word": " deception."
+    },
+    {
+      "start": 41.78,
+      "end": 41.9,
+      "word": " You"
+    },
+    {
+      "start": 41.9,
+      "end": 42.14,
+      "word": " think"
+    },
+    {
+      "start": 42.14,
+      "end": 42.38,
+      "word": " this"
+    },
+    {
+      "start": 42.38,
+      "end": 42.64,
+      "word": " power"
+    },
+    {
+      "start": 42.64,
+      "end": 42.88,
+      "word": " will"
+    },
+    {
+      "start": 42.88,
+      "end": 43.0,
+      "word": " give"
+    },
+    {
+      "start": 43.0,
+      "end": 43.22,
+      "word": " you"
+    },
+    {
+      "start": 43.22,
+      "end": 43.34,
+      "word": " the"
+    },
+    {
+      "start": 43.34,
+      "end": 43.7,
+      "word": " ultimate"
+    },
+    {
+      "start": 43.7,
+      "end": 44.34,
+      "word": " advantage."
+    },
+    {
+      "start": 44.84,
+      "end": 45.02,
+      "word": " You"
+    },
+    {
+      "start": 45.02,
+      "end": 45.26,
+      "word": " think"
+    },
+    {
+      "start": 45.26,
+      "end": 45.38,
+      "word": " you"
+    },
+    {
+      "start": 45.38,
+      "end": 45.58,
+      "word": " will"
+    },
+    {
+      "start": 45.58,
+      "end": 45.9,
+      "word": " finally"
+    },
+    {
+      "start": 45.9,
+      "end": 46.18,
+      "word": " know"
+    },
+    {
+      "start": 46.18,
+      "end": 46.36,
+      "word": " who"
+    },
+    {
+      "start": 46.36,
+      "end": 46.62,
+      "word": " to"
+    },
+    {
+      "start": 46.62,
+      "end": 47.02,
+      "word": " trust."
+    },
+    {
+      "start": 47.28,
+      "end": 47.82,
+      "word": " Instead,"
+    },
+    {
+      "start": 48.0,
+      "end": 48.3,
+      "word": " by"
+    },
+    {
+      "start": 48.3,
+      "end": 48.48,
+      "word": " day"
+    },
+    {
+      "start": 48.48,
+      "end": 49.0,
+      "word": " seven,"
+    },
+    {
+      "start": 49.14,
+      "end": 49.34,
+      "word": " you"
+    },
+    {
+      "start": 49.34,
+      "end": 49.52,
+      "word": " will"
+    },
+    {
+      "start": 49.52,
+      "end": 49.96,
+      "word": " understand"
+    },
+    {
+      "start": 49.96,
+      "end": 50.28,
+      "word": " the"
+    },
+    {
+      "start": 50.28,
+      "end": 50.7,
+      "word": " terrifying"
+    },
+    {
+      "start": 50.7,
+      "end": 51.3,
+      "word": " truth."
+    },
+    {
+      "start": 51.62,
+      "end": 51.98,
+      "word": " Honesty"
+    },
+    {
+      "start": 51.98,
+      "end": 52.26,
+      "word": " does"
+    },
+    {
+      "start": 52.26,
+      "end": 52.4,
+      "word": " not"
+    },
+    {
+      "start": 52.4,
+      "end": 52.78,
+      "word": " save"
+    },
+    {
+      "start": 52.78,
+      "end": 53.64,
+      "word": " relationships."
+    },
+    {
+      "start": 53.64,
+      "end": 54.66,
+      "word": " Kindness"
+    },
+    {
+      "start": 54.66,
+      "end": 55.08,
+      "word": " does,"
+    },
+    {
+      "start": 55.4,
+      "end": 55.58,
+      "word": " and"
+    },
+    {
+      "start": 55.58,
+      "end": 55.8,
+      "word": " polite"
+    },
+    {
+      "start": 55.8,
+      "end": 56.18,
+      "word": " lies"
+    },
+    {
+      "start": 56.18,
+      "end": 56.38,
+      "word": " are"
+    },
+    {
+      "start": 56.38,
+      "end": 56.54,
+      "word": " the"
+    },
+    {
+      "start": 56.54,
+      "end": 56.74,
+      "word": " only"
+    },
+    {
+      "start": 56.74,
+      "end": 57.1,
+      "word": " reason"
+    },
+    {
+      "start": 57.1,
+      "end": 57.76,
+      "word": " society"
+    },
+    {
+      "start": 57.76,
+      "end": 58.08,
+      "word": " has"
+    },
+    {
+      "start": 58.08,
+      "end": 58.36,
+      "word": " not"
+    },
+    {
+      "start": 58.36,
+      "end": 58.58,
+      "word": " burned"
+    },
+    {
+      "start": 58.58,
+      "end": 58.78,
+      "word": " to"
+    },
+    {
+      "start": 58.78,
+      "end": 58.88,
+      "word": " the"
+    },
+    {
+      "start": 58.88,
+      "end": 59.22,
+      "word": " ground."
+    }
+  ],
+  "method": "openai-whisper word_timestamps; human text/timing review required"
+}

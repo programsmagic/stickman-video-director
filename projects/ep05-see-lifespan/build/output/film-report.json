@@ -1,0 +1,102 @@
+{
+  "fingerprint": "93612192f8246e586b6c1aba9783684efc3d2806949e0a61f04cbe5d16416ed1",
+  "preview_seconds": null,
+  "output": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep05-see-lifespan/build/output/film.mp4",
+  "output_sha256": "9b9b1f755edb4459f55c99c8a1b08f4e576b140725096adb1e880bd9827e0dba",
+  "original_voice_sha256": "b42f945b9e108c5bf17926c4834fbea38b00fb7e16b718a9f4e33371f641db7b",
+  "original_voice_duration": 446.293708,
+  "voice_rate": "unchanged; leading/trailing padding only",
+  "frames": 13544,
+  "duration": 451.466667,
+  "cache_hits": 4,
+  "shot_count": 21,
+  "full_decode": "pass",
+  "caption_count": 237,
+  "human_review": "required; technical checks are not acceptance",
+  "inputs": [
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep05-see-lifespan/build/art/building.png",
+      "sha256": "68ef95dd8593049073f4523000cef658ca31790d68dd952b38393e7d9b06de67"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep05-see-lifespan/build/art/car.png",
+      "sha256": "e5bd309ee8067b4d2c27335b7fc485cb7d03729f2dc826002cdf166bf38cad20"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep05-see-lifespan/build/art/courier.png",
+      "sha256": "16df867f27632d687958e37dd385d06753b05e3bb22d24782416b23e22d5effd"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep05-see-lifespan/build/art/dad-crossword.png",
+      "sha256": "f9c3d8c1db1bc01531e36eb97598f35966069776d149fc4817f56cde06934272"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep05-see-lifespan/build/art/jogger.png",
+      "sha256": "f64ed0d9eebecb3aa6039f75b7ebb359af1c54508445271d482f10d6bc49a2da"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep05-see-lifespan/build/art/mirror.png",
+      "sha256": "52470fc1e69fef91282addead44b4b917848119dd9970be11e56ad6853436752"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep05-see-lifespan/build/art/mum-kitchen.png",
+      "sha256": "d9e6a9a789e430b177e1c281151737cda697888cf7f0baa8576edb98768da48d"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep05-see-lifespan/build/art/student.png",
+      "sha256": "1365f7a656e4b93edf7d0220d612ef73bd2f7365f980015ff11ee3668cbb2734"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep05-see-lifespan/build/art/you-amazed.png",
+      "sha256": "a9c8bb37257d5744eb4e3529bd53d0f813266d5effffb89914c5d41a13e31b69"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep05-see-lifespan/build/art/you-calm.png",
+      "sha256": "7de1dfa7a8cf298afe33a565c1c79b2fe9cfa037d2871ff9861bed7e0e03ed1f"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep05-see-lifespan/build/art/you-kind.png",
+      "sha256": "2c0824fdc6067ae2a3d39d8f0d889872a9a2d0882760a455cfb4b3917b04c0b5"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep05-see-lifespan/build/art/you-listen-close.png",
+      "sha256": "345880702e51005129322588e645518e4d03a5f325d272851e7991c6c46f0877"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep05-see-lifespan/build/art/you-nervous.png",
+      "sha256": "524fb366594ecd9d69a02b5be32d2053df213d169bccb22a5172cd92c63e5038"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep05-see-lifespan/build/art/you-relieved.png",
+      "sha256": "4da90bbff4bef819d894c8c3104800ecaaed6311b298678363d06785b52dd435"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep05-see-lifespan/build/art/you-sad.png",
+      "sha256": "8369ae66615e5f2346f158bc924db9bef4f2a888056ed52dddd3d30ad116d815"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep05-see-lifespan/build/art/you-shocked.png",
+      "sha256": "35dfdeb211183cde43e7974aa3742c8279d9ec6a12f6b58a37d0ca525ee85694"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep05-see-lifespan/build/art/you-skeptic.png",
+      "sha256": "6c5a8fae10ed561e8cddc8f4fc20c17893bc288a39ae62aad90fd1ab6c9a9db2"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep05-see-lifespan/build/art/you-sleepy.png",
+      "sha256": "c73dc8621b936fd73f7a64ad90afce40bc01f76d68703e5aaa14ad3128d7c683"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep05-see-lifespan/build/narration.wav",
+      "sha256": "b42f945b9e108c5bf17926c4834fbea38b00fb7e16b718a9f4e33371f641db7b"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/skills/directing-stickman-videos/assets/fonts/Caveat.ttf",
+      "sha256": "0bdb6b660482d31531b3945849fba5916b3ef8695da7024a9e6b9ee3c4157988"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/skills/directing-stickman-videos/assets/fonts/NotoSans.ttf",
+      "sha256": "bfb7bb691513f12e734dc346c03a03f784912432d7e3fa8e56efcf906fe86b3d"
+    }
+  ]
+}

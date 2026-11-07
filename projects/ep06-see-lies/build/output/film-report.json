@@ -1,0 +1,130 @@
+{
+  "fingerprint": "e22619235cba760e35fddf948e34a1bc6426d5e6d867e1b78418ecf30cbfc356",
+  "preview_seconds": null,
+  "output": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep06-see-lies/build/output/film.mp4",
+  "output_sha256": "7cddac292f7d389c459092dcb3af1902ffe6bebfd2731f33790cf8a1ed6f7107",
+  "original_voice_sha256": "40296651fac5d8ba07d29352db836dcb82d5f820733c5691d970d0a013b3e560",
+  "original_voice_duration": 328.003167,
+  "voice_rate": "unchanged; leading/trailing padding only",
+  "frames": 9995,
+  "duration": 333.166667,
+  "cache_hits": 4,
+  "shot_count": 27,
+  "full_decode": "pass",
+  "caption_count": 170,
+  "human_review": "required; technical checks are not acceptance",
+  "inputs": [
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep06-see-lies/build/art/barista.png",
+      "sha256": "24b12f9a3051926ea74b6203a9b19299ff6baf247123dcec206e2bf5ad99124a"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep06-see-lies/build/art/boss.png",
+      "sha256": "dbd1c8ce50b8695372594fa6513b337e316c85115cb0483de6c457ba0e830d64"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep06-see-lies/build/art/coffee.png",
+      "sha256": "c0fb633b47f803c14181c0867d5290eea87d4e6cd4977ba161adfcb2584c247d"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep06-see-lies/build/art/colleague-whisper.png",
+      "sha256": "bd302f0c049a36aa9dd40cba98f5a5ba30c6ae57b0fb48bcb5e25a8b58dfac7e"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep06-see-lies/build/art/friend-confused.png",
+      "sha256": "eda5116e51dd2981541aa2345dffd65878e85a5fc5ef30e877cfd7a69613bf87"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep06-see-lies/build/art/friend-vulnerable.png",
+      "sha256": "0aff675edd649c4b3c096b1ed1546fc420759d3d4984ff820e039e977915bbeb"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep06-see-lies/build/art/mirror.png",
+      "sha256": "52470fc1e69fef91282addead44b4b917848119dd9970be11e56ad6853436752"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep06-see-lies/build/art/mug.png",
+      "sha256": "028d322a9c5a2ae4d0abb61768089f494ed2d22ec55451f59d20381878762968"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep06-see-lies/build/art/roommate-eating.png",
+      "sha256": "b5695c3ecc588793c5ddeb3d65b7b45717042f7e9537f076efbb5f9e071f7cf1"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep06-see-lies/build/art/roommate.png",
+      "sha256": "28207c8a21d9ebb3cfb5239f5f95df7ade11753ef204406368bacf80ed130d27"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep06-see-lies/build/art/you-amazed.png",
+      "sha256": "a9c8bb37257d5744eb4e3529bd53d0f813266d5effffb89914c5d41a13e31b69"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep06-see-lies/build/art/you-calm.png",
+      "sha256": "7de1dfa7a8cf298afe33a565c1c79b2fe9cfa037d2871ff9861bed7e0e03ed1f"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep06-see-lies/build/art/you-confident.png",
+      "sha256": "4df47211705a05c47580f6863a9cbb891c3b85293d3c23ced0c02cdf77661d04"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep06-see-lies/build/art/you-confused.png",
+      "sha256": "eeace63bf1ac6a05048ca66980895b44e7bda31a3849e0fd8dc9539da04ca09e"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep06-see-lies/build/art/you-cry.png",
+      "sha256": "6ef5a9fb7651ec6bdbcaa4243c52f618549fcae331db1f3719313169bf232744"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep06-see-lies/build/art/you-grin.png",
+      "sha256": "040bb11f7dbc620b448e8cabfe0e3c11497af7be403059a5b000aa55da846246"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep06-see-lies/build/art/you-listen-close.png",
+      "sha256": "345880702e51005129322588e645518e4d03a5f325d272851e7991c6c46f0877"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep06-see-lies/build/art/you-nervous.png",
+      "sha256": "524fb366594ecd9d69a02b5be32d2053df213d169bccb22a5172cd92c63e5038"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep06-see-lies/build/art/you-relieved.png",
+      "sha256": "4da90bbff4bef819d894c8c3104800ecaaed6311b298678363d06785b52dd435"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep06-see-lies/build/art/you-sad.png",
+      "sha256": "8369ae66615e5f2346f158bc924db9bef4f2a888056ed52dddd3d30ad116d815"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep06-see-lies/build/art/you-shocked.png",
+      "sha256": "35dfdeb211183cde43e7974aa3742c8279d9ec6a12f6b58a37d0ca525ee85694"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep06-see-lies/build/art/you-skeptic.png",
+      "sha256": "6c5a8fae10ed561e8cddc8f4fc20c17893bc288a39ae62aad90fd1ab6c9a9db2"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep06-see-lies/build/art/you-sleepy.png",
+      "sha256": "c73dc8621b936fd73f7a64ad90afce40bc01f76d68703e5aaa14ad3128d7c683"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep06-see-lies/build/art/you-smile.png",
+      "sha256": "bd5042f2a9cd4c0aadac63ade5db9ac7e193544a8c39a298401c236ceb3f93e4"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep06-see-lies/build/art/you-think.png",
+      "sha256": "78d8f6d57c4578fdfa2bb67cdd04a1ed792041e652938270ad399e187bf461fa"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep06-see-lies/build/narration.wav",
+      "sha256": "40296651fac5d8ba07d29352db836dcb82d5f820733c5691d970d0a013b3e560"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/skills/directing-stickman-videos/assets/fonts/Caveat.ttf",
+      "sha256": "0bdb6b660482d31531b3945849fba5916b3ef8695da7024a9e6b9ee3c4157988"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/skills/directing-stickman-videos/assets/fonts/NotoSans.ttf",
+      "sha256": "bfb7bb691513f12e734dc346c03a03f784912432d7e3fa8e56efcf906fe86b3d"
+    }
+  ]
+}

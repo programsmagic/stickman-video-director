@@ -1,0 +1,54 @@
+{
+  "fingerprint": "82718e35c3d8e29cb452f4cd6e90223a5259f694a915ebe7db7887f1689db11e",
+  "preview_seconds": 31.01,
+  "output": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep05-see-lifespan/build/output/preview.mp4",
+  "output_sha256": "aa3908aa5e5bc52e79e90ac7f7c6d56b303a5b254577e7a4601a75db06c49d4b",
+  "original_voice_sha256": "b42f945b9e108c5bf17926c4834fbea38b00fb7e16b718a9f4e33371f641db7b",
+  "original_voice_duration": 446.293708,
+  "voice_rate": "unchanged; leading/trailing padding only",
+  "frames": 931,
+  "duration": 31.033333,
+  "cache_hits": 0,
+  "shot_count": 5,
+  "full_decode": "pass",
+  "caption_count": 18,
+  "human_review": "required; technical checks are not acceptance",
+  "inputs": [
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep05-see-lifespan/build/art/building.png",
+      "sha256": "68ef95dd8593049073f4523000cef658ca31790d68dd952b38393e7d9b06de67"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep05-see-lifespan/build/art/mirror.png",
+      "sha256": "52470fc1e69fef91282addead44b4b917848119dd9970be11e56ad6853436752"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep05-see-lifespan/build/art/you-amazed.png",
+      "sha256": "a9c8bb37257d5744eb4e3529bd53d0f813266d5effffb89914c5d41a13e31b69"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep05-see-lifespan/build/art/you-calm.png",
+      "sha256": "7de1dfa7a8cf298afe33a565c1c79b2fe9cfa037d2871ff9861bed7e0e03ed1f"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep05-see-lifespan/build/art/you-skeptic.png",
+      "sha256": "6c5a8fae10ed561e8cddc8f4fc20c17893bc288a39ae62aad90fd1ab6c9a9db2"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep05-see-lifespan/build/art/you-sleepy.png",
+      "sha256": "c73dc8621b936fd73f7a64ad90afce40bc01f76d68703e5aaa14ad3128d7c683"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep05-see-lifespan/build/narration.wav",
+      "sha256": "b42f945b9e108c5bf17926c4834fbea38b00fb7e16b718a9f4e33371f641db7b"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/skills/directing-stickman-videos/assets/fonts/Caveat.ttf",
+      "sha256": "0bdb6b660482d31531b3945849fba5916b3ef8695da7024a9e6b9ee3c4157988"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/skills/directing-stickman-videos/assets/fonts/NotoSans.ttf",
+      "sha256": "bfb7bb691513f12e734dc346c03a03f784912432d7e3fa8e56efcf906fe86b3d"
+    }
+  ]
+}

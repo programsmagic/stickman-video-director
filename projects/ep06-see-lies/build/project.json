@@ -1,0 +1,2956 @@
+{
+ "version": 1,
+ "style": "B1",
+ "width": 1280,
+ "height": 720,
+ "fps": 30,
+ "voice": {
+  "path": "narration.wav",
+  "lead": 0.15,
+  "tail": 5
+ },
+ "captions": [
+  {
+   "start": 0.15,
+   "end": 1.67,
+   "text": "You wake up at seven in the morning"
+  },
+  {
+   "start": 1.67,
+   "end": 3.87,
+   "text": "and pour yourself a glass of water."
+  },
+  {
+   "start": 4.03,
+   "end": 5.87,
+   "text": "Your roommate walks into the kitchen,"
+  },
+  {
+   "start": 6.31,
+   "end": 7.05,
+   "text": "rubs his eyes,"
+  },
+  {
+   "start": 7.37,
+   "end": 7.85,
+   "text": "and smiles."
+  },
+  {
+   "start": 8.53,
+   "end": 8.79,
+   "text": "Morning."
+  },
+  {
+   "start": 9.29,
+   "end": 10.53,
+   "text": "Did you sleep well,"
+  },
+  {
+   "start": 10.53,
+   "end": 11.13,
+   "text": "he asks."
+  },
+  {
+   "start": 11.57,
+   "end": 13.27,
+   "text": "Yeah, slept like a rock,"
+  },
+  {
+   "start": 13.27,
+   "end": 14.05,
+   "text": "you reply."
+  },
+  {
+   "start": 14.53,
+   "end": 15.77,
+   "text": "And right above your lips,"
+  },
+  {
+   "start": 16.05,
+   "end": 17.67,
+   "text": "a bright crimson box flashes:"
+  },
+  {
+   "start": 18.19,
+   "end": 18.45,
+   "text": "Lie."
+  },
+  {
+   "start": 18.83,
+   "end": 20.43,
+   "text": "Rated eighty-four percent."
+  },
+  {
+   "start": 20.43,
+   "end": 20.99,
+   "text": "You freeze."
+  },
+  {
+   "start": 21.45,
+   "end": 22.77,
+   "text": "Your roommate looks at the"
+  },
+  {
+   "start": 22.77,
+   "end": 24.33,
+   "text": "breakfast you made and says,"
+  },
+  {
+   "start": 24.57,
+   "end": 26.65,
+   "text": "thanks, this tastes amazing."
+  },
+  {
+   "start": 26.99,
+   "end": 29.35,
+   "text": "Floating right above his mouth in bold red letters:"
+  },
+  {
+   "start": 29.35,
+   "end": 29.95,
+   "text": "Lie."
+  },
+  {
+   "start": 30.33,
+   "end": 32.07,
+   "text": "He thinks it is cold and bland."
+  },
+  {
+   "start": 32.35,
+   "end": 33.87,
+   "text": "For the next seven days,"
+  },
+  {
+   "start": 34.15,
+   "end": 36.01,
+   "text": "every spoken word in your world comes"
+  },
+  {
+   "start": 36.01,
+   "end": 37.73,
+   "text": "with a verified truth rating."
+  },
+  {
+   "start": 38.13,
+   "end": 39.61,
+   "text": "Green for absolute truth."
+  },
+  {
+   "start": 40.03,
+   "end": 41.41,
+   "text": "Bright crimson for deception."
+  },
+  {
+   "start": 41.93,
+   "end": 43.15,
+   "text": "You think this power will give"
+  },
+  {
+   "start": 43.15,
+   "end": 44.49,
+   "text": "you the ultimate advantage."
+  },
+  {
+   "start": 44.99,
+   "end": 47.17,
+   "text": "You think you will finally know who to trust."
+  },
+  {
+   "start": 47.43,
+   "end": 49.15,
+   "text": "Instead, by day seven,"
+  },
+  {
+   "start": 49.29,
+   "end": 51.45,
+   "text": "you will understand the terrifying truth:"
+  },
+  {
+   "start": 51.77,
+   "end": 53.79,
+   "text": "Honesty does not save relationships."
+  },
+  {
+   "start": 53.79,
+   "end": 55.23,
+   "text": "Kindness does."
+  },
+  {
+   "start": 55.55,
+   "end": 57.25,
+   "text": "And polite lies are the only reason"
+  },
+  {
+   "start": 57.25,
+   "end": 59.37,
+   "text": "society has not burned to the ground."
+  },
+  {
+   "start": 60.11,
+   "end": 61.35,
+   "text": "By noon on day one,"
+  },
+  {
+   "start": 61.59,
+   "end": 63.63,
+   "text": "you are sitting in a team meeting at work."
+  },
+  {
+   "start": 63.87,
+   "end": 66.53,
+   "text": "Your manager clicks to the next slide and says,"
+  },
+  {
+   "start": 66.53,
+   "end": 68.49,
+   "text": "I really appreciate everyone's"
+  },
+  {
+   "start": 68.49,
+   "end": 70.11,
+   "text": "extra hours on this launch."
+  },
+  {
+   "start": 70.51,
+   "end": 71.73,
+   "text": "Crimson tag: Lie."
+  },
+  {
+   "start": 72.13,
+   "end": 74.25,
+   "text": "He only cares about his quarterly bonus."
+  },
+  {
+   "start": 74.67,
+   "end": 76.25,
+   "text": "A colleague leans over and whispers,"
+  },
+  {
+   "start": 76.75,
+   "end": 79.41,
+   "text": "don't worry, your presentation was fantastic."
+  },
+  {
+   "start": 80.01,
+   "end": 81.23,
+   "text": "Crimson tag: Lie."
+  },
+  {
+   "start": 81.59,
+   "end": 83.67,
+   "text": "She did not listen to a single word."
+  },
+  {
+   "start": 84.07,
+   "end": 86.29,
+   "text": "Psychologist Robert Feldman discovered that"
+  },
+  {
+   "start": 86.29,
+   "end": 88.25,
+   "text": "in an ordinary ten-minute conversation,"
+  },
+  {
+   "start": 88.25,
+   "end": 91.19,
+   "text": "the average human tells two to three lies."
+  },
+  {
+   "start": 91.35,
+   "end": 93.41,
+   "text": "We do not do it because we are monsters."
+  },
+  {
+   "start": 93.95,
+   "end": 95.69,
+   "text": "We do it because radical honesty"
+  },
+  {
+   "start": 95.69,
+   "end": 97.23,
+   "text": "is psychological warfare."
+  },
+  {
+   "start": 97.45,
+   "end": 99.09,
+   "text": "Imagine if everyone said,"
+  },
+  {
+   "start": 99.09,
+   "end": 100.89,
+   "text": "I am bored of talking to you."
+  },
+  {
+   "start": 101.05,
+   "end": 102.59,
+   "text": "Your new haircut looks terrible."
+  },
+  {
+   "start": 103.01,
+   "end": 105.73,
+   "text": "I only invited you because I felt obligated."
+  },
+  {
+   "start": 106.25,
+   "end": 108.41,
+   "text": "Civilization survives on tiny white lies"
+  },
+  {
+   "start": 108.41,
+   "end": 110.59,
+   "text": "like an engine survives on motor oil."
+  },
+  {
+   "start": 110.79,
+   "end": 111.77,
+   "text": "Without that oil,"
+  },
+  {
+   "start": 112.03,
+   "end": 113.97,
+   "text": "human conversation grinds together"
+  },
+  {
+   "start": 113.97,
+   "end": 115.21,
+   "text": "until the gears shatter."
+  },
+  {
+   "start": 115.43,
+   "end": 117.25,
+   "text": "By the end of your second day,"
+  },
+  {
+   "start": 117.25,
+   "end": 118.85,
+   "text": "you are terrified to speak."
+  },
+  {
+   "start": 118.85,
+   "end": 121.71,
+   "text": "Because every time someone is nice to you,"
+  },
+  {
+   "start": 121.71,
+   "end": 123.57,
+   "text": "the glowing red badge tells you:"
+  },
+  {
+   "start": 123.57,
+   "end": 126.03,
+   "text": "They are only trying to survive the interaction."
+  },
+  {
+   "start": 126.782,
+   "end": 127.702,
+   "text": "By day four,"
+  },
+  {
+   "start": 127.882,
+   "end": 130.162,
+   "text": "the small white lies stop bothering you."
+  },
+  {
+   "start": 130.362,
+   "end": 133.062,
+   "text": "It is the deeper lies that begin to tear you apart."
+  },
+  {
+   "start": 133.322,
+   "end": 135.302,
+   "text": "You meet your closest friend for coffee."
+  },
+  {
+   "start": 135.662,
+   "end": 138.342,
+   "text": "You ask him how he has been doing since his breakup."
+  },
+  {
+   "start": 138.682,
+   "end": 139.962,
+   "text": "He smiles and says,"
+  },
+  {
+   "start": 140.182,
+   "end": 142.482,
+   "text": "honestly, I am completely over it."
+  },
+  {
+   "start": 142.682,
+   "end": 144.142,
+   "text": "I feel freer than ever."
+  },
+  {
+   "start": 144.302,
+   "end": 145.162,
+   "text": "Above his chest,"
+  },
+  {
+   "start": 145.382,
+   "end": 146.762,
+   "text": "a soft red glow pulses:"
+  },
+  {
+   "start": 147.342,
+   "end": 147.482,
+   "text": "Lie."
+  },
+  {
+   "start": 147.862,
+   "end": 150.162,
+   "text": "He cries himself to sleep every night."
+  },
+  {
+   "start": 150.542,
+   "end": 152.822,
+   "text": "Here, the crimson tag is not malice."
+  },
+  {
+   "start": 153.122,
+   "end": 153.902,
+   "text": "It is shame."
+  },
+  {
+   "start": 154.222,
+   "end": 156.302,
+   "text": "Humans lie to hide their bleeding wounds."
+  },
+  {
+   "start": 156.302,
+   "end": 158.182,
+   "text": "We lie so our friends will not"
+  },
+  {
+   "start": 158.182,
+   "end": 160.162,
+   "text": "see how fragile we really are."
+  },
+  {
+   "start": 160.302,
+   "end": 161.762,
+   "text": "Then comes the real shock."
+  },
+  {
+   "start": 162.042,
+   "end": 162.942,
+   "text": "You ask him,"
+  },
+  {
+   "start": 163.022,
+   "end": 163.682,
+   "text": "are we good?"
+  },
+  {
+   "start": 163.922,
+   "end": 165.142,
+   "text": "You felt distant lately."
+  },
+  {
+   "start": 165.602,
+   "end": 167.522,
+   "text": "He pauses, looks at the table,"
+  },
+  {
+   "start": 167.522,
+   "end": 170.262,
+   "text": "and says: I was envious of your promotion."
+  },
+  {
+   "start": 170.742,
+   "end": 173.402,
+   "text": "And I hated myself for feeling that way."
+  },
+  {
+   "start": 173.502,
+   "end": 174.382,
+   "text": "Above his words,"
+  },
+  {
+   "start": 174.602,
+   "end": 175.822,
+   "text": "there is no red tag."
+  },
+  {
+   "start": 176.062,
+   "end": 178.302,
+   "text": "A soft emerald light illuminates the air:"
+  },
+  {
+   "start": 178.302,
+   "end": 178.867,
+   "text": "Truth."
+  },
+  {
+   "start": 178.867,
+   "end": 180.562,
+   "text": "One hundred percent."
+  },
+  {
+   "start": 180.562,
+   "end": 182.542,
+   "text": "It hits you like a physical shock."
+  },
+  {
+   "start": 182.802,
+   "end": 185.102,
+   "text": "Hearing an ugly truth feels ten times more"
+  },
+  {
+   "start": 185.102,
+   "end": 187.002,
+   "text": "loving than hearing a beautiful lie."
+  },
+  {
+   "start": 187.222,
+   "end": 189.322,
+   "text": "Because for the first time in your life,"
+  },
+  {
+   "start": 189.562,
+   "end": 191.622,
+   "text": "you are meeting a human being without armor."
+  },
+  {
+   "start": 192.179,
+   "end": 193.919,
+   "text": "On the evening of day six,"
+  },
+  {
+   "start": 193.919,
+   "end": 196.799,
+   "text": "you walk back to your apartment in complete silence."
+  },
+  {
+   "start": 196.979,
+   "end": 198.399,
+   "text": "You realize that you have spent"
+  },
+  {
+   "start": 198.399,
+   "end": 200.259,
+   "text": "five days judging the world."
+  },
+  {
+   "start": 200.459,
+   "end": 201.759,
+   "text": "You analyzed your boss."
+  },
+  {
+   "start": 202.059,
+   "end": 203.459,
+   "text": "You tested your friends."
+  },
+  {
+   "start": 203.739,
+   "end": 205.779,
+   "text": "You graded every stranger on the subway."
+  },
+  {
+   "start": 206.179,
+   "end": 207.779,
+   "text": "So you walk into your bathroom."
+  },
+  {
+   "start": 208.339,
+   "end": 209.299,
+   "text": "You lock the door."
+  },
+  {
+   "start": 209.299,
+   "end": 211.619,
+   "text": "And you look straight into your own reflection."
+  },
+  {
+   "start": 212.039,
+   "end": 214.119,
+   "text": "I am happy with where I am in life,"
+  },
+  {
+   "start": 214.379,
+   "end": 214.819,
+   "text": "you whisper."
+  },
+  {
+   "start": 215.239,
+   "end": 216.739,
+   "text": "Crimson flash: Lie."
+  },
+  {
+   "start": 217.119,
+   "end": 219.439,
+   "text": "I do not care what people think of me."
+  },
+  {
+   "start": 219.719,
+   "end": 221.219,
+   "text": "Crimson flash: Lie."
+  },
+  {
+   "start": 221.219,
+   "end": 223.959,
+   "text": "I have forgiven everyone who hurt me."
+  },
+  {
+   "start": 224.079,
+   "end": 225.379,
+   "text": "A violent red pulse:"
+  },
+  {
+   "start": 225.719,
+   "end": 225.939,
+   "text": "Lie."
+  },
+  {
+   "start": 226.359,
+   "end": 228.419,
+   "text": "The tears start running down your cheeks."
+  },
+  {
+   "start": 228.739,
+   "end": 230.799,
+   "text": "The most dangerous deceiver in your life"
+  },
+  {
+   "start": 230.799,
+   "end": 232.719,
+   "text": "was never your coworker or your partner."
+  },
+  {
+   "start": 233.079,
+   "end": 233.799,
+   "text": "It was you."
+  },
+  {
+   "start": 233.999,
+   "end": 236.579,
+   "text": "We tell ourselves comfortable fairy tales so"
+  },
+  {
+   "start": 236.579,
+   "end": 238.819,
+   "text": "we do not have to face our fear of failure,"
+  },
+  {
+   "start": 239.179,
+   "end": 240.899,
+   "text": "our grief, and our loneliness."
+  },
+  {
+   "start": 241.479,
+   "end": 243.699,
+   "text": "You stare into the mirror and finally say the"
+  },
+  {
+   "start": 243.699,
+   "end": 246.019,
+   "text": "one thing you have avoided for ten years:"
+  },
+  {
+   "start": 246.159,
+   "end": 247.999,
+   "text": "I am terrified of being alone."
+  },
+  {
+   "start": 248.139,
+   "end": 249.859,
+   "text": "And I am trying my best."
+  },
+  {
+   "start": 249.859,
+   "end": 251.479,
+   "text": "For the first time all week,"
+  },
+  {
+   "start": 251.779,
+   "end": 252.779,
+   "text": "the crimson vanishes."
+  },
+  {
+   "start": 253.259,
+   "end": 255.739,
+   "text": "A deep, tranquil green envelops the glass:"
+  },
+  {
+   "start": 256.159,
+   "end": 256.479,
+   "text": "Truth."
+  },
+  {
+   "start": 256.879,
+   "end": 257.499,
+   "text": "Absolute."
+  },
+  {
+   "start": 258.021,
+   "end": 260.041,
+   "text": "Midnight arrives on the seventh day."
+  },
+  {
+   "start": 260.261,
+   "end": 262.821,
+   "text": "The glowing tags fade into the quiet night air."
+  },
+  {
+   "start": 262.941,
+   "end": 264.541,
+   "text": "Over the last six weeks,"
+  },
+  {
+   "start": 264.801,
+   "end": 267.281,
+   "text": "you have experienced every impossible power:"
+  },
+  {
+   "start": 267.501,
+   "end": 269.261,
+   "text": "You saw the salaries of every neighbor"
+  },
+  {
+   "start": 269.261,
+   "end": 271.181,
+   "text": "and realized wealth buys comfort,"
+  },
+  {
+   "start": 271.601,
+   "end": 272.221,
+   "text": "not peace."
+  },
+  {
+   "start": 272.501,
+   "end": 274.221,
+   "text": "You saw the karma scores and learned"
+  },
+  {
+   "start": 274.221,
+   "end": 276.041,
+   "text": "that morality is an inward discipline,"
+  },
+  {
+   "start": 276.401,
+   "end": 277.621,
+   "text": "not a public spectacle."
+  },
+  {
+   "start": 278.001,
+   "end": 280.341,
+   "text": "You heard what people whispered behind your back"
+  },
+  {
+   "start": 280.341,
+   "end": 282.581,
+   "text": "and found the freedom of not needing applause."
+  },
+  {
+   "start": 282.581,
+   "end": 284.721,
+   "text": "You tasted infinite save points and"
+  },
+  {
+   "start": 284.721,
+   "end": 286.481,
+   "text": "discovered that life's beauty exists"
+  },
+  {
+   "start": 286.481,
+   "end": 288.601,
+   "text": "only because mistakes are permanent."
+  },
+  {
+   "start": 288.961,
+   "end": 291.081,
+   "text": "You saw the countdown clocks of mortality"
+  },
+  {
+   "start": 291.081,
+   "end": 292.961,
+   "text": "and learned that our limited time is"
+  },
+  {
+   "start": 292.961,
+   "end": 294.561,
+   "text": "what makes every moment sacred."
+  },
+  {
+   "start": 294.941,
+   "end": 296.981,
+   "text": "And now, seeing every lie has"
+  },
+  {
+   "start": 296.981,
+   "end": 298.421,
+   "text": "taught you the ultimate lesson:"
+  },
+  {
+   "start": 298.701,
+   "end": 300.341,
+   "text": "Truth without empathy is cruelty."
+  },
+  {
+   "start": 300.701,
+   "end": 302.241,
+   "text": "And honesty without vulnerability"
+  },
+  {
+   "start": 302.241,
+   "end": 303.801,
+   "text": "is just another weapon."
+  },
+  {
+   "start": 304.061,
+   "end": 306.301,
+   "text": "You step outside onto the morning sidewalk."
+  },
+  {
+   "start": 306.761,
+   "end": 308.961,
+   "text": "The barista hands you your cup and says,"
+  },
+  {
+   "start": 309.021,
+   "end": 310.381,
+   "text": "have a wonderful day."
+  },
+  {
+   "start": 310.381,
+   "end": 311.801,
+   "text": "There is no green tag."
+  },
+  {
+   "start": 312.141,
+   "end": 313.221,
+   "text": "There is no red tag."
+  },
+  {
+   "start": 313.361,
+   "end": 315.601,
+   "text": "Just two strangers on a spinning rock,"
+  },
+  {
+   "start": 315.601,
+   "end": 317.621,
+   "text": "trying to be kind to each other."
+  },
+  {
+   "start": 317.901,
+   "end": 319.141,
+   "text": "You smile back at her,"
+  },
+  {
+   "start": 319.321,
+   "end": 320.721,
+   "text": "take a sip of hot coffee,"
+  },
+  {
+   "start": 320.721,
+   "end": 322.641,
+   "text": "and whisper: Thank you."
+  },
+  {
+   "start": 322.861,
+   "end": 323.741,
+   "text": "And this time,"
+  },
+  {
+   "start": 323.921,
+   "end": 324.701,
+   "text": "in your heart,"
+  },
+  {
+   "start": 324.921,
+   "end": 326.641,
+   "text": "you know it is the absolute truth."
+  }
+ ],
+ "shots": [
+  {
+   "start": 0,
+   "end": 8.53,
+   "layers": [
+    {
+     "type": "image",
+     "path": "art/you-sleepy.png",
+     "x": 203,
+     "y": 39,
+     "w": 434,
+     "to": 3.5
+    },
+    {
+     "type": "image",
+     "path": "art/you-calm.png",
+     "x": 203,
+     "y": 39,
+     "w": 434,
+     "from": 3.5
+    },
+    {
+     "type": "image",
+     "path": "art/mug.png",
+     "x": 450,
+     "y": 420,
+     "w": 100
+    },
+    {
+     "type": "text",
+     "text": "7:00 AM",
+     "x": 100,
+     "y": 100,
+     "size": 56,
+     "bold": true,
+     "color": "#3D7DD8",
+     "from": 1,
+     "keys": [
+      {
+       "t": 1,
+       "y": 118,
+       "alpha": 0
+      },
+      {
+       "t": 1.25,
+       "y": 100,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "A QUIET MORNING IN THE KITCHEN",
+     "x": 100,
+     "y": 180,
+     "size": 42,
+     "bold": true,
+     "color": "#7A8288",
+     "from": 3.5,
+     "keys": [
+      {
+       "t": 3.5,
+       "y": 198,
+       "alpha": 0
+      },
+      {
+       "t": 3.75,
+       "y": 180,
+       "alpha": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 8.53,
+   "end": 14.53,
+   "layers": [
+    {
+     "type": "image",
+     "path": "art/roommate.png",
+     "x": 663,
+     "y": 39,
+     "w": 434
+    },
+    {
+     "type": "image",
+     "path": "art/you-calm.png",
+     "x": 133,
+     "y": 39,
+     "w": 434
+    },
+    {
+     "type": "text",
+     "text": "\"MORNING. SLEEP WELL?\"",
+     "x": 550,
+     "y": 120,
+     "size": 44,
+     "bold": true,
+     "from": 1.5,
+     "keys": [
+      {
+       "t": 1.5,
+       "y": 138,
+       "alpha": 0
+      },
+      {
+       "t": 1.75,
+       "y": 120,
+       "alpha": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 14.53,
+   "end": 21.45,
+   "layers": [
+    {
+     "type": "image",
+     "path": "art/you-amazed.png",
+     "x": 183,
+     "y": 39,
+     "w": 434
+    },
+    {
+     "type": "image",
+     "path": "art/roommate.png",
+     "x": 663,
+     "y": 39,
+     "w": 434
+    },
+    {
+     "type": "text",
+     "text": "[ LIE: 84% ]",
+     "x": 280,
+     "y": 102,
+     "size": 64,
+     "bold": true,
+     "color": "#EC4338",
+     "from": 3.6,
+     "keys": [
+      {
+       "t": 3.6,
+       "y": 120,
+       "alpha": 0
+      },
+      {
+       "t": 3.85,
+       "y": 102,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "CRIMSON TAG FLASHING",
+     "x": 280,
+     "y": 230,
+     "size": 42,
+     "bold": true,
+     "color": "#EC4338",
+     "from": 4.8,
+     "keys": [
+      {
+       "t": 4.8,
+       "y": 248,
+       "alpha": 0
+      },
+      {
+       "t": 5.05,
+       "y": 230,
+       "alpha": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 21.45,
+   "end": 26.99,
+   "layers": [
+    {
+     "type": "image",
+     "path": "art/you-shocked.png",
+     "x": 133,
+     "y": 39,
+     "w": 434
+    },
+    {
+     "type": "image",
+     "path": "art/roommate-eating.png",
+     "x": 663,
+     "y": 39,
+     "w": 434
+    },
+    {
+     "type": "text",
+     "text": "\"THANKS, THIS TASTES AMAZING\"",
+     "x": 480,
+     "y": 120,
+     "size": 42,
+     "bold": true,
+     "from": 2,
+     "keys": [
+      {
+       "t": 2,
+       "y": 138,
+       "alpha": 0
+      },
+      {
+       "t": 2.25,
+       "y": 120,
+       "alpha": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 26.99,
+   "end": 32.35,
+   "layers": [
+    {
+     "type": "image",
+     "path": "art/you-shocked.png",
+     "x": 133,
+     "y": 39,
+     "w": 434
+    },
+    {
+     "type": "image",
+     "path": "art/roommate-eating.png",
+     "x": 663,
+     "y": 39,
+     "w": 434
+    },
+    {
+     "type": "text",
+     "text": "[ LIE: COLD & BLAND ]",
+     "x": 620,
+     "y": 140,
+     "size": 56,
+     "bold": true,
+     "color": "#EC4338",
+     "from": 2.3,
+     "keys": [
+      {
+       "t": 2.3,
+       "y": 158,
+       "alpha": 0
+      },
+      {
+       "t": 2.55,
+       "y": 140,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "EVERY WORD IS VERIFIED",
+     "x": 120,
+     "y": 42,
+     "size": 48,
+     "bold": true,
+     "from": 3.5,
+     "keys": [
+      {
+       "t": 3.5,
+       "y": 60,
+       "alpha": 0
+      },
+      {
+       "t": 3.75,
+       "y": 42,
+       "alpha": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 32.35,
+   "end": 47.43,
+   "layers": [
+    {
+     "type": "image",
+     "path": "art/you-skeptic.png",
+     "x": 423,
+     "y": 39,
+     "w": 434
+    },
+    {
+     "type": "text",
+     "text": "[ TRUTH: 100% ]",
+     "x": 160,
+     "y": 100,
+     "size": 56,
+     "bold": true,
+     "color": "#2F8A4A",
+     "from": 5.78,
+     "keys": [
+      {
+       "t": 5.78,
+       "y": 118,
+       "alpha": 0
+      },
+      {
+       "t": 6.03,
+       "y": 100,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "[ LIE: DECEPTION ]",
+     "x": 680,
+     "y": 100,
+     "size": 56,
+     "bold": true,
+     "color": "#EC4338",
+     "from": 7.68,
+     "keys": [
+      {
+       "t": 7.68,
+       "y": 118,
+       "alpha": 0
+      },
+      {
+       "t": 7.93,
+       "y": 100,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "THE 7-DAY PERCEPTION EXPERIMENT",
+     "x": 250,
+     "y": 220,
+     "size": 46,
+     "bold": true,
+     "from": 2,
+     "keys": [
+      {
+       "t": 2,
+       "y": 238,
+       "alpha": 0
+      },
+      {
+       "t": 2.25,
+       "y": 220,
+       "alpha": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 47.43,
+   "end": 60.11,
+   "layers": [
+    {
+     "type": "image",
+     "path": "art/you-confused.png",
+     "x": 423,
+     "y": 39,
+     "w": 434
+    },
+    {
+     "type": "text",
+     "text": "HONESTY DOES NOT SAVE RELATIONSHIPS",
+     "x": 120,
+     "y": 52,
+     "size": 48,
+     "bold": true,
+     "color": "#EC4338",
+     "from": 4.34,
+     "keys": [
+      {
+       "t": 4.34,
+       "y": 70,
+       "alpha": 0
+      },
+      {
+       "t": 4.59,
+       "y": 52,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "KINDNESS DOES",
+     "x": 120,
+     "y": 180,
+     "size": 58,
+     "bold": true,
+     "color": "#2F8A4A",
+     "from": 6.36,
+     "keys": [
+      {
+       "t": 6.36,
+       "y": 198,
+       "alpha": 0
+      },
+      {
+       "t": 6.61,
+       "y": 180,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "POLITE LIES PROTECT CIVILIZATION",
+     "x": 120,
+     "y": 280,
+     "size": 44,
+     "bold": true,
+     "color": "#7A8288",
+     "from": 8.12,
+     "keys": [
+      {
+       "t": 8.12,
+       "y": 298,
+       "alpha": 0
+      },
+      {
+       "t": 8.37,
+       "y": 280,
+       "alpha": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 60.11,
+   "end": 74.67,
+   "layers": [
+    {
+     "type": "text",
+     "text": "DAY 1",
+     "x": 80,
+     "y": 40,
+     "size": 70,
+     "bold": true,
+     "color": "#EC4338"
+    },
+    {
+     "type": "underline",
+     "x": 82,
+     "y": 118,
+     "w": 200,
+     "color": "#EC4338",
+     "keys": [
+      {
+       "t": 0,
+       "progress": 0
+      },
+      {
+       "t": 0.5,
+       "progress": 1
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "art/boss.png",
+     "x": 653,
+     "y": 12,
+     "w": 455
+    },
+    {
+     "type": "image",
+     "path": "art/you-calm.png",
+     "x": 133,
+     "y": 39,
+     "w": 434
+    },
+    {
+     "type": "text",
+     "text": "\"APPRECIATE EVERYONE'S EXTRA HOURS\"",
+     "x": 380,
+     "y": 140,
+     "size": 42,
+     "bold": true,
+     "from": 2,
+     "keys": [
+      {
+       "t": 2,
+       "y": 158,
+       "alpha": 0
+      },
+      {
+       "t": 2.25,
+       "y": 140,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "[ LIE: ONLY CARES ABOUT HIS BONUS ]",
+     "x": 380,
+     "y": 210,
+     "size": 46,
+     "bold": true,
+     "color": "#EC4338",
+     "from": 12.02,
+     "keys": [
+      {
+       "t": 12.02,
+       "y": 228,
+       "alpha": 0
+      },
+      {
+       "t": 12.27,
+       "y": 210,
+       "alpha": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 74.67,
+   "end": 84.07,
+   "layers": [
+    {
+     "type": "image",
+     "path": "art/colleague-whisper.png",
+     "x": 643,
+     "y": 39,
+     "w": 434
+    },
+    {
+     "type": "image",
+     "path": "art/you-nervous.png",
+     "x": 163,
+     "y": 39,
+     "w": 434
+    },
+    {
+     "type": "text",
+     "text": "\"YOUR PRESENTATION WAS FANTASTIC\"",
+     "x": 420,
+     "y": 130,
+     "size": 42,
+     "bold": true,
+     "from": 1.5,
+     "keys": [
+      {
+       "t": 1.5,
+       "y": 148,
+       "alpha": 0
+      },
+      {
+       "t": 1.75,
+       "y": 130,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "[ LIE: DID NOT LISTEN TO A SINGLE WORD ]",
+     "x": 260,
+     "y": 210,
+     "size": 46,
+     "bold": true,
+     "color": "#EC4338",
+     "from": 6.92,
+     "keys": [
+      {
+       "t": 6.92,
+       "y": 228,
+       "alpha": 0
+      },
+      {
+       "t": 7.17,
+       "y": 210,
+       "alpha": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 84.07,
+   "end": 97.45,
+   "layers": [
+    {
+     "type": "image",
+     "path": "art/you-think.png",
+     "x": 423,
+     "y": 39,
+     "w": 434
+    },
+    {
+     "type": "text",
+     "text": "ROBERT FELDMAN RESEARCH",
+     "x": 140,
+     "y": 90,
+     "size": 52,
+     "bold": true,
+     "color": "#3D7DD8",
+     "from": 0.5,
+     "keys": [
+      {
+       "t": 0.5,
+       "y": 108,
+       "alpha": 0
+      },
+      {
+       "t": 0.75,
+       "y": 90,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "2 TO 3 LIES EVERY 10 MINUTES",
+     "x": 140,
+     "y": 170,
+     "size": 58,
+     "bold": true,
+     "color": "#EC4338",
+     "from": 4.18,
+     "keys": [
+      {
+       "t": 4.18,
+       "y": 188,
+       "alpha": 0
+      },
+      {
+       "t": 4.43,
+       "y": 170,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "RADICAL HONESTY IS PSYCHOLOGICAL WARFARE",
+     "x": 100,
+     "y": 280,
+     "size": 44,
+     "bold": true,
+     "from": 11.62,
+     "keys": [
+      {
+       "t": 11.62,
+       "y": 298,
+       "alpha": 0
+      },
+      {
+       "t": 11.87,
+       "y": 280,
+       "alpha": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 97.45,
+   "end": 115.43,
+   "layers": [
+    {
+     "type": "image",
+     "path": "art/you-skeptic.png",
+     "x": 133,
+     "y": 39,
+     "w": 434
+    },
+    {
+     "type": "text",
+     "text": "\"I AM BORED OF TALKING TO YOU\"",
+     "x": 450,
+     "y": 120,
+     "size": 44,
+     "bold": true,
+     "color": "#EC4338",
+     "from": 1,
+     "keys": [
+      {
+       "t": 1,
+       "y": 138,
+       "alpha": 0
+      },
+      {
+       "t": 1.25,
+       "y": 120,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "\"YOUR HAIRCUT LOOKS TERRIBLE\"",
+     "x": 450,
+     "y": 200,
+     "size": 44,
+     "bold": true,
+     "color": "#EC4338",
+     "from": 3.6,
+     "keys": [
+      {
+       "t": 3.6,
+       "y": 218,
+       "alpha": 0
+      },
+      {
+       "t": 3.85,
+       "y": 200,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "WHITE LIES ARE SOCIAL MOTOR OIL",
+     "x": 200,
+     "y": 310,
+     "size": 48,
+     "bold": true,
+     "color": "#2F8A4A",
+     "from": 10.96,
+     "keys": [
+      {
+       "t": 10.96,
+       "y": 328,
+       "alpha": 0
+      },
+      {
+       "t": 11.21,
+       "y": 310,
+       "alpha": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 115.43,
+   "end": 126.782,
+   "layers": [
+    {
+     "type": "text",
+     "text": "DAY 2",
+     "x": 80,
+     "y": 40,
+     "size": 70,
+     "bold": true,
+     "color": "#EC4338"
+    },
+    {
+     "type": "underline",
+     "x": 82,
+     "y": 118,
+     "w": 200,
+     "color": "#EC4338",
+     "keys": [
+      {
+       "t": 0,
+       "progress": 0
+      },
+      {
+       "t": 0.5,
+       "progress": 1
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "art/you-nervous.png",
+     "x": 423,
+     "y": 39,
+     "w": 434
+    },
+    {
+     "type": "text",
+     "text": "TERRIFIED TO SPEAK",
+     "x": 200,
+     "y": 100,
+     "size": 56,
+     "bold": true,
+     "color": "#EC4338",
+     "from": 1.5,
+     "keys": [
+      {
+       "t": 1.5,
+       "y": 118,
+       "alpha": 0
+      },
+      {
+       "t": 1.75,
+       "y": 100,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "JUST TRYING TO SURVIVE THE INTERACTION",
+     "x": 120,
+     "y": 190,
+     "size": 46,
+     "bold": true,
+     "from": 8.14,
+     "keys": [
+      {
+       "t": 8.14,
+       "y": 208,
+       "alpha": 0
+      },
+      {
+       "t": 8.39,
+       "y": 190,
+       "alpha": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 126.782,
+   "end": 133.322,
+   "layers": [
+    {
+     "type": "text",
+     "text": "DAY 4",
+     "x": 80,
+     "y": 40,
+     "size": 70,
+     "bold": true,
+     "color": "#EC4338"
+    },
+    {
+     "type": "underline",
+     "x": 82,
+     "y": 118,
+     "w": 200,
+     "color": "#EC4338",
+     "keys": [
+      {
+       "t": 0,
+       "progress": 0
+      },
+      {
+       "t": 0.5,
+       "progress": 1
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "art/you-sad.png",
+     "x": 423,
+     "y": 39,
+     "w": 434
+    },
+    {
+     "type": "text",
+     "text": "THE DEEPER LIES",
+     "x": 200,
+     "y": 100,
+     "size": 58,
+     "bold": true,
+     "color": "#EC4338",
+     "from": 1.5,
+     "keys": [
+      {
+       "t": 1.5,
+       "y": 118,
+       "alpha": 0
+      },
+      {
+       "t": 1.75,
+       "y": 100,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "TEARING DOWN THE ILLUSION",
+     "x": 160,
+     "y": 190,
+     "size": 48,
+     "bold": true,
+     "from": 3.58,
+     "keys": [
+      {
+       "t": 3.58,
+       "y": 208,
+       "alpha": 0
+      },
+      {
+       "t": 3.83,
+       "y": 190,
+       "alpha": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 133.322,
+   "end": 150.542,
+   "layers": [
+    {
+     "type": "image",
+     "path": "art/friend-confused.png",
+     "x": 633,
+     "y": 39,
+     "w": 434
+    },
+    {
+     "type": "image",
+     "path": "art/you-calm.png",
+     "x": 133,
+     "y": 39,
+     "w": 434
+    },
+    {
+     "type": "text",
+     "text": "\"I'M COMPLETELY OVER IT\"",
+     "x": 450,
+     "y": 120,
+     "size": 44,
+     "bold": true,
+     "from": 2.5,
+     "keys": [
+      {
+       "t": 2.5,
+       "y": 138,
+       "alpha": 0
+      },
+      {
+       "t": 2.75,
+       "y": 120,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "[ LIE: CRIES HIMSELF TO SLEEP ]",
+     "x": 350,
+     "y": 200,
+     "size": 50,
+     "bold": true,
+     "color": "#EC4338",
+     "from": 14.54,
+     "keys": [
+      {
+       "t": 14.54,
+       "y": 218,
+       "alpha": 0
+      },
+      {
+       "t": 14.79,
+       "y": 200,
+       "alpha": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 150.542,
+   "end": 163.022,
+   "layers": [
+    {
+     "type": "image",
+     "path": "art/you-listen-close.png",
+     "x": 423,
+     "y": 39,
+     "w": 434
+    },
+    {
+     "type": "text",
+     "text": "LIES BORN FROM SHAME, NOT MALICE",
+     "x": 120,
+     "y": 52,
+     "size": 50,
+     "bold": true,
+     "color": "#3D7DD8",
+     "from": 0.5,
+     "keys": [
+      {
+       "t": 0.5,
+       "y": 70,
+       "alpha": 0
+      },
+      {
+       "t": 0.75,
+       "y": 52,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "HIDING OUR BLEEDING WOUNDS",
+     "x": 160,
+     "y": 190,
+     "size": 52,
+     "bold": true,
+     "color": "#EC4338",
+     "from": 3.68,
+     "keys": [
+      {
+       "t": 3.68,
+       "y": 208,
+       "alpha": 0
+      },
+      {
+       "t": 3.93,
+       "y": 190,
+       "alpha": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 163.022,
+   "end": 182.802,
+   "layers": [
+    {
+     "type": "image",
+     "path": "art/friend-vulnerable.png",
+     "x": 633,
+     "y": 39,
+     "w": 434
+    },
+    {
+     "type": "image",
+     "path": "art/you-amazed.png",
+     "x": 133,
+     "y": 39,
+     "w": 434
+    },
+    {
+     "type": "text",
+     "text": "\"I WAS ENVIOUS OF YOUR PROMOTION\"",
+     "x": 380,
+     "y": 120,
+     "size": 44,
+     "bold": true,
+     "from": 3.5,
+     "keys": [
+      {
+       "t": 3.5,
+       "y": 138,
+       "alpha": 0
+      },
+      {
+       "t": 3.75,
+       "y": 120,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "[ TRUTH: 100% ]",
+     "x": 480,
+     "y": 200,
+     "size": 60,
+     "bold": true,
+     "color": "#2F8A4A",
+     "from": 15.845,
+     "keys": [
+      {
+       "t": 15.845,
+       "y": 218,
+       "alpha": 0
+      },
+      {
+       "t": 16.095,
+       "y": 200,
+       "alpha": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 182.802,
+   "end": 192.179,
+   "layers": [
+    {
+     "type": "image",
+     "path": "art/you-relieved.png",
+     "x": 423,
+     "y": 39,
+     "w": 434
+    },
+    {
+     "type": "text",
+     "text": "AN UGLY TRUTH > A BEAUTIFUL LIE",
+     "x": 120,
+     "y": 42,
+     "size": 54,
+     "bold": true,
+     "color": "#2F8A4A",
+     "from": 0.5,
+     "keys": [
+      {
+       "t": 0.5,
+       "y": 60,
+       "alpha": 0
+      },
+      {
+       "t": 0.75,
+       "y": 42,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "A HUMAN BEING WITHOUT ARMOR",
+     "x": 150,
+     "y": 180,
+     "size": 52,
+     "bold": true,
+     "color": "#3D7DD8",
+     "from": 6.76,
+     "keys": [
+      {
+       "t": 6.76,
+       "y": 198,
+       "alpha": 0
+      },
+      {
+       "t": 7.01,
+       "y": 180,
+       "alpha": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 192.179,
+   "end": 206.179,
+   "layers": [
+    {
+     "type": "text",
+     "text": "DAY 6",
+     "x": 80,
+     "y": 40,
+     "size": 70,
+     "bold": true,
+     "color": "#EC4338"
+    },
+    {
+     "type": "underline",
+     "x": 82,
+     "y": 118,
+     "w": 200,
+     "color": "#EC4338",
+     "keys": [
+      {
+       "t": 0,
+       "progress": 0
+      },
+      {
+       "t": 0.5,
+       "progress": 1
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "art/you-calm.png",
+     "x": 423,
+     "y": 39,
+     "w": 434
+    },
+    {
+     "type": "text",
+     "text": "5 DAYS OF JUDGING THE WORLD",
+     "x": 140,
+     "y": 52,
+     "size": 52,
+     "bold": true,
+     "from": 2,
+     "keys": [
+      {
+       "t": 2,
+       "y": 70,
+       "alpha": 0
+      },
+      {
+       "t": 2.25,
+       "y": 52,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "NOW COMES THE HARDEST TEST",
+     "x": 140,
+     "y": 180,
+     "size": 48,
+     "bold": true,
+     "color": "#EC4338",
+     "from": 4.5,
+     "keys": [
+      {
+       "t": 4.5,
+       "y": 198,
+       "alpha": 0
+      },
+      {
+       "t": 4.75,
+       "y": 180,
+       "alpha": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 206.179,
+   "end": 217.119,
+   "layers": [
+    {
+     "type": "image",
+     "path": "art/mirror.png",
+     "x": 780,
+     "y": 50,
+     "w": 380
+    },
+    {
+     "type": "image",
+     "path": "art/you-sad.png",
+     "x": 203,
+     "y": 39,
+     "w": 434
+    },
+    {
+     "type": "text",
+     "text": "\"I AM HAPPY WITH WHERE I AM\"",
+     "x": 120,
+     "y": 52,
+     "size": 44,
+     "bold": true,
+     "from": 3,
+     "keys": [
+      {
+       "t": 3,
+       "y": 70,
+       "alpha": 0
+      },
+      {
+       "t": 3.25,
+       "y": 52,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "[ LIE ]",
+     "x": 260,
+     "y": 180,
+     "size": 64,
+     "bold": true,
+     "color": "#EC4338",
+     "from": 9.06,
+     "keys": [
+      {
+       "t": 9.06,
+       "y": 198,
+       "alpha": 0
+      },
+      {
+       "t": 9.31,
+       "y": 180,
+       "alpha": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 217.119,
+   "end": 226.359,
+   "layers": [
+    {
+     "type": "image",
+     "path": "art/mirror.png",
+     "x": 780,
+     "y": 50,
+     "w": 380
+    },
+    {
+     "type": "image",
+     "path": "art/you-cry.png",
+     "x": 203,
+     "y": 39,
+     "w": 434
+    },
+    {
+     "type": "text",
+     "text": "\"I DON'T CARE WHAT PEOPLE THINK\" → [ LIE ]",
+     "x": 80,
+     "y": 52,
+     "size": 42,
+     "bold": true,
+     "color": "#EC4338",
+     "from": 0.5,
+     "keys": [
+      {
+       "t": 0.5,
+       "y": 70,
+       "alpha": 0
+      },
+      {
+       "t": 0.75,
+       "y": 52,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "\"I HAVE FORGIVEN EVERYONE\" → [ LIE ]",
+     "x": 80,
+     "y": 180,
+     "size": 42,
+     "bold": true,
+     "color": "#EC4338",
+     "from": 4.1,
+     "keys": [
+      {
+       "t": 4.1,
+       "y": 198,
+       "alpha": 0
+      },
+      {
+       "t": 4.35,
+       "y": 180,
+       "alpha": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 226.359,
+   "end": 241.479,
+   "layers": [
+    {
+     "type": "image",
+     "path": "art/you-sad.png",
+     "x": 423,
+     "y": 39,
+     "w": 434
+    },
+    {
+     "type": "text",
+     "text": "THE MOST DANGEROUS DECEIVER...",
+     "x": 140,
+     "y": 42,
+     "size": 50,
+     "bold": true,
+     "from": 1.5,
+     "keys": [
+      {
+       "t": 1.5,
+       "y": 60,
+       "alpha": 0
+      },
+      {
+       "t": 1.75,
+       "y": 42,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "WAS NEVER THEM. IT WAS YOU.",
+     "x": 140,
+     "y": 180,
+     "size": 56,
+     "bold": true,
+     "color": "#EC4338",
+     "from": 6.72,
+     "keys": [
+      {
+       "t": 6.72,
+       "y": 198,
+       "alpha": 0
+      },
+      {
+       "t": 6.97,
+       "y": 180,
+       "alpha": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 241.479,
+   "end": 258.021,
+   "layers": [
+    {
+     "type": "image",
+     "path": "art/mirror.png",
+     "x": 780,
+     "y": 50,
+     "w": 380
+    },
+    {
+     "type": "image",
+     "path": "art/you-calm.png",
+     "x": 203,
+     "y": 39,
+     "w": 434
+    },
+    {
+     "type": "text",
+     "text": "\"I AM TERRIFIED OF BEING ALONE.\"",
+     "x": 100,
+     "y": 52,
+     "size": 44,
+     "bold": true,
+     "from": 2.5,
+     "keys": [
+      {
+       "t": 2.5,
+       "y": 70,
+       "alpha": 0
+      },
+      {
+       "t": 2.75,
+       "y": 52,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "\"AND I AM TRYING MY BEST.\"",
+     "x": 100,
+     "y": 170,
+     "size": 44,
+     "bold": true,
+     "from": 4.5,
+     "keys": [
+      {
+       "t": 4.5,
+       "y": 188,
+       "alpha": 0
+      },
+      {
+       "t": 4.75,
+       "y": 170,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "[ TRUTH: ABSOLUTE ]",
+     "x": 160,
+     "y": 270,
+     "size": 64,
+     "bold": true,
+     "color": "#2F8A4A",
+     "from": 15.4,
+     "keys": [
+      {
+       "t": 15.4,
+       "y": 288,
+       "alpha": 0
+      },
+      {
+       "t": 15.65,
+       "y": 270,
+       "alpha": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 258.021,
+   "end": 262.941,
+   "layers": [
+    {
+     "type": "text",
+     "text": "SEASON 1 FINALE RESOLUTION",
+     "x": 80,
+     "y": 40,
+     "size": 60,
+     "bold": true,
+     "color": "#3D7DD8"
+    },
+    {
+     "type": "image",
+     "path": "art/you-relieved.png",
+     "x": 423,
+     "y": 39,
+     "w": 434
+    },
+    {
+     "type": "text",
+     "text": "MIDNIGHT: THE POWERS DISSOLVE",
+     "x": 140,
+     "y": 72,
+     "size": 50,
+     "bold": true,
+     "from": 1,
+     "keys": [
+      {
+       "t": 1,
+       "y": 90,
+       "alpha": 0
+      },
+      {
+       "t": 1.25,
+       "y": 72,
+       "alpha": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 262.941,
+   "end": 294.941,
+   "layers": [
+    {
+     "type": "image",
+     "path": "art/you-calm.png",
+     "x": 83,
+     "y": 39,
+     "w": 434
+    },
+    {
+     "type": "text",
+     "text": "1. SALARIES → WEALTH ≠ PEACE",
+     "x": 450,
+     "y": 80,
+     "size": 42,
+     "bold": true,
+     "from": 1,
+     "keys": [
+      {
+       "t": 1,
+       "y": 98,
+       "alpha": 0
+      },
+      {
+       "t": 1.25,
+       "y": 80,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "2. KARMA → MORALITY IS INTERNAL",
+     "x": 450,
+     "y": 150,
+     "size": 42,
+     "bold": true,
+     "from": 9.56,
+     "keys": [
+      {
+       "t": 9.56,
+       "y": 168,
+       "alpha": 0
+      },
+      {
+       "t": 9.81,
+       "y": 150,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "3. WHISPERS → FREEDOM FROM APPROVAL",
+     "x": 450,
+     "y": 220,
+     "size": 42,
+     "bold": true,
+     "from": 15.06,
+     "keys": [
+      {
+       "t": 15.06,
+       "y": 238,
+       "alpha": 0
+      },
+      {
+       "t": 15.31,
+       "y": 220,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "4. SAVE POINTS → MISTAKES MAKE LIFE",
+     "x": 450,
+     "y": 290,
+     "size": 42,
+     "bold": true,
+     "from": 19.64,
+     "keys": [
+      {
+       "t": 19.64,
+       "y": 308,
+       "alpha": 0
+      },
+      {
+       "t": 19.89,
+       "y": 290,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "5. LIFESPANS → MORTALITY MAKES TODAY SACRED",
+     "x": 450,
+     "y": 360,
+     "size": 42,
+     "bold": true,
+     "color": "#3D7DD8",
+     "from": 26.02,
+     "keys": [
+      {
+       "t": 26.02,
+       "y": 378,
+       "alpha": 0
+      },
+      {
+       "t": 26.27,
+       "y": 360,
+       "alpha": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 294.941,
+   "end": 304.061,
+   "layers": [
+    {
+     "type": "image",
+     "path": "art/you-confident.png",
+     "x": 423,
+     "y": 39,
+     "w": 434
+    },
+    {
+     "type": "text",
+     "text": "TRUTH WITHOUT EMPATHY IS CRUELTY",
+     "x": 100,
+     "y": 52,
+     "size": 50,
+     "bold": true,
+     "color": "#EC4338",
+     "from": 3.76,
+     "keys": [
+      {
+       "t": 3.76,
+       "y": 70,
+       "alpha": 0
+      },
+      {
+       "t": 4.01,
+       "y": 52,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "HONESTY REQUIRES VULNERABILITY",
+     "x": 100,
+     "y": 200,
+     "size": 50,
+     "bold": true,
+     "color": "#2F8A4A",
+     "from": 5.76,
+     "keys": [
+      {
+       "t": 5.76,
+       "y": 218,
+       "alpha": 0
+      },
+      {
+       "t": 6.01,
+       "y": 200,
+       "alpha": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 304.061,
+   "end": 323.921,
+   "layers": [
+    {
+     "type": "image",
+     "path": "art/barista.png",
+     "x": 663,
+     "y": 39,
+     "w": 434
+    },
+    {
+     "type": "image",
+     "path": "art/you-smile.png",
+     "x": 133,
+     "y": 39,
+     "w": 434
+    },
+    {
+     "type": "image",
+     "path": "art/coffee.png",
+     "x": 580,
+     "y": 400,
+     "w": 110
+    },
+    {
+     "type": "text",
+     "text": "\"HAVE A WONDERFUL DAY\"",
+     "x": 480,
+     "y": 120,
+     "size": 44,
+     "bold": true,
+     "from": 2.5,
+     "keys": [
+      {
+       "t": 2.5,
+       "y": 138,
+       "alpha": 0
+      },
+      {
+       "t": 2.75,
+       "y": 120,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "\"THANK YOU.\" (ABSOLUTE TRUTH)",
+     "x": 200,
+     "y": 240,
+     "size": 52,
+     "bold": true,
+     "color": "#2F8A4A",
+     "from": 16.66,
+     "keys": [
+      {
+       "t": 16.66,
+       "y": 258,
+       "alpha": 0
+      },
+      {
+       "t": 16.91,
+       "y": 240,
+       "alpha": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 323.921,
+   "end": 333.153,
+   "layers": [
+    {
+     "type": "image",
+     "path": "art/you-grin.png",
+     "x": 423,
+     "y": 39,
+     "w": 434
+    },
+    {
+     "type": "text",
+     "text": "SEASON 1 COMPLETE",
+     "x": 80,
+     "y": 50,
+     "size": 68,
+     "bold": true,
+     "color": "#2F8A4A",
+     "from": 0.5,
+     "keys": [
+      {
+       "t": 0.5,
+       "y": 68,
+       "alpha": 0
+      },
+      {
+       "t": 0.75,
+       "y": 50,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "THANK YOU FOR WATCHING THE PERCEPTION SERIES",
+     "x": 80,
+     "y": 160,
+     "size": 44,
+     "bold": true,
+     "from": 1.5,
+     "keys": [
+      {
+       "t": 1.5,
+       "y": 178,
+       "alpha": 0
+      },
+      {
+       "t": 1.75,
+       "y": 160,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "SUBSCRIBE FOR SEASON 2: THE ANOMALY",
+     "x": 80,
+     "y": 260,
+     "size": 48,
+     "bold": true,
+     "color": "#3D7DD8",
+     "from": 3,
+     "keys": [
+      {
+       "t": 3,
+       "y": 278,
+       "alpha": 0
+      },
+      {
+       "t": 3.25,
+       "y": 260,
+       "alpha": 1
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "sfx": [
+  {
+   "time": 0.2,
+   "kind": "chime",
+   "gain": 0.12
+  },
+  {
+   "time": 4,
+   "kind": "pop",
+   "gain": 0.12
+  },
+  {
+   "time": 9.5,
+   "kind": "pop",
+   "gain": 0.12
+  },
+  {
+   "time": 15,
+   "kind": "paper",
+   "gain": 0.1
+  },
+  {
+   "time": 18.2,
+   "kind": "chime",
+   "gain": 0.18
+  },
+  {
+   "time": 22,
+   "kind": "pop",
+   "gain": 0.12
+  },
+  {
+   "time": 29.3,
+   "kind": "chime",
+   "gain": 0.2
+  },
+  {
+   "time": 32.45,
+   "kind": "paper",
+   "gain": 0.1
+  },
+  {
+   "time": 38.13,
+   "kind": "chime",
+   "gain": 0.15
+  },
+  {
+   "time": 40.03,
+   "kind": "pop",
+   "gain": 0.15
+  },
+  {
+   "time": 47.53,
+   "kind": "chime",
+   "gain": 0.14
+  },
+  {
+   "time": 60.21,
+   "kind": "paper",
+   "gain": 0.1
+  },
+  {
+   "time": 72.13,
+   "kind": "chime",
+   "gain": 0.16
+  },
+  {
+   "time": 74.77,
+   "kind": "pop",
+   "gain": 0.12
+  },
+  {
+   "time": 81.59,
+   "kind": "chime",
+   "gain": 0.14
+  },
+  {
+   "time": 84.17,
+   "kind": "chime",
+   "gain": 0.15
+  },
+  {
+   "time": 97.55,
+   "kind": "paper",
+   "gain": 0.12
+  },
+  {
+   "time": 108.41,
+   "kind": "chime",
+   "gain": 0.14
+  },
+  {
+   "time": 115.53,
+   "kind": "pop",
+   "gain": 0.12
+  },
+  {
+   "time": 126.882,
+   "kind": "paper",
+   "gain": 0.12
+  },
+  {
+   "time": 130.362,
+   "kind": "chime",
+   "gain": 0.14
+  },
+  {
+   "time": 133.422,
+   "kind": "pop",
+   "gain": 0.12
+  },
+  {
+   "time": 147.862,
+   "kind": "chime",
+   "gain": 0.16
+  },
+  {
+   "time": 150.642,
+   "kind": "paper",
+   "gain": 0.1
+  },
+  {
+   "time": 154.222,
+   "kind": "chime",
+   "gain": 0.14
+  },
+  {
+   "time": 163.122,
+   "kind": "pop",
+   "gain": 0.12
+  },
+  {
+   "time": 178.867,
+   "kind": "chime",
+   "gain": 0.2
+  },
+  {
+   "time": 182.902,
+   "kind": "chime",
+   "gain": 0.16
+  },
+  {
+   "time": 192.279,
+   "kind": "paper",
+   "gain": 0.12
+  },
+  {
+   "time": 206.279,
+   "kind": "pop",
+   "gain": 0.12
+  },
+  {
+   "time": 215.239,
+   "kind": "chime",
+   "gain": 0.16
+  },
+  {
+   "time": 217.219,
+   "kind": "pop",
+   "gain": 0.12
+  },
+  {
+   "time": 221.219,
+   "kind": "chime",
+   "gain": 0.16
+  },
+  {
+   "time": 226.459,
+   "kind": "chime",
+   "gain": 0.14
+  },
+  {
+   "time": 241.579,
+   "kind": "pop",
+   "gain": 0.12
+  },
+  {
+   "time": 251.779,
+   "kind": "chime",
+   "gain": 0.2
+  },
+  {
+   "time": 258.121,
+   "kind": "chime",
+   "gain": 0.2
+  },
+  {
+   "time": 263.041,
+   "kind": "paper",
+   "gain": 0.1
+  },
+  {
+   "time": 272.501,
+   "kind": "chime",
+   "gain": 0.12
+  },
+  {
+   "time": 282.581,
+   "kind": "pop",
+   "gain": 0.12
+  },
+  {
+   "time": 295.041,
+   "kind": "chime",
+   "gain": 0.18
+  },
+  {
+   "time": 304.161,
+   "kind": "pop",
+   "gain": 0.12
+  },
+  {
+   "time": 320.721,
+   "kind": "chime",
+   "gain": 0.2
+  },
+  {
+   "time": 324.021,
+   "kind": "chime",
+   "gain": 0.25
+  }
+ ]
+}

@@ -1,0 +1,12 @@
+{
+  "kind": "speech",
+  "model": "gemini-3.8-flash-tts",
+  "requested_at": "2026-11-07T17:16:59.103Z",
+  "request_id": "5ef1f254-8a6b-4d8f-95a0-349b7a183037",
+  "status": "complete",
+  "warning": "One request only; inspect provider history before retrying",
+  "key_index": 2,
+  "mime_type": "audio/wav",
+  "output": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep05-see-lifespan/build/narration/ch4.wav",
+  "sha256": "9e1207d11e643b2e43ac15850270472cfc43929c9c97ca2857abf1e2cb450880"
+}
