@@ -1,0 +1,11 @@
+{
+  "kind": "speech",
+  "model": "gemini-3.8-flash-tts",
+  "requested_at": "2026-11-07T14:20:03.029Z",
+  "request_id": "7ad1e0dd-30e3-452a-a749-5e1220c4cfee",
+  "status": "complete",
+  "warning": "One request only; inspect provider history before retrying",
+  "mime_type": "audio/wav",
+  "output": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep03-hear-whispers/build/narration/ch3.wav",
+  "sha256": "1262ec8712f5e9f11ff9a03f1d1ec064299164d1c85605c234faba79f1adc0c0"
+}

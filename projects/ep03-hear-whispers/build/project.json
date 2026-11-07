@@ -1,0 +1,4262 @@
+{
+ "version": 1,
+ "style": "B1",
+ "width": 1280,
+ "height": 720,
+ "fps": 30,
+ "voice": {
+  "path": "narration.wav",
+  "lead": 0.15,
+  "tail": 5
+ },
+ "captions": [
+  {
+   "start": 0.15,
+   "end": 1.07,
+   "text": "You wake up,"
+  },
+  {
+   "start": 1.07,
+   "end": 2.79,
+   "text": "and the glowing numbers are gone."
+  },
+  {
+   "start": 3.31,
+   "end": 4.59,
+   "text": "Your head feels quiet."
+  },
+  {
+   "start": 5.09,
+   "end": 6.45,
+   "text": "Normal, even."
+  },
+  {
+   "start": 6.45,
+   "end": 8.13,
+   "text": "Until you step out of your bedroom,"
+  },
+  {
+   "start": 8.63,
+   "end": 9.53,
+   "text": "close the front door,"
+  },
+  {
+   "start": 9.85,
+   "end": 11.57,
+   "text": "and take two steps down the hallway."
+  },
+  {
+   "start": 12.67,
+   "end": 13.21,
+   "text": "A voice."
+  },
+  {
+   "start": 13.99,
+   "end": 16.31,
+   "text": "Faint, clear, and right in your ear."
+  },
+  {
+   "start": 17.01,
+   "end": 18.77,
+   "text": "Your roommate, talking inside"
+  },
+  {
+   "start": 18.77,
+   "end": 20.03,
+   "text": "the apartment you just left."
+  },
+  {
+   "start": 20.65,
+   "end": 21.09,
+   "text": "You freeze."
+  },
+  {
+   "start": 21.81,
+   "end": 23.11,
+   "text": "You didn't leave your phone on."
+  },
+  {
+   "start": 23.23,
+   "end": 24.31,
+   "text": "You don't have an earpiece in."
+  },
+  {
+   "start": 24.95,
+   "end": 26.37,
+   "text": "For the next seven days,"
+  },
+  {
+   "start": 26.49,
+   "end": 27.47,
+   "text": "whenever you leave a room,"
+  },
+  {
+   "start": 27.47,
+   "end": 30.35,
+   "text": "you can hear every single sentence spoken about you."
+  },
+  {
+   "start": 30.63,
+   "end": 31.33,
+   "text": "Your friends."
+  },
+  {
+   "start": 31.61,
+   "end": 32.11,
+   "text": "Your coworkers."
+  },
+  {
+   "start": 32.61,
+   "end": 33.23,
+   "text": "Your family."
+  },
+  {
+   "start": 33.77,
+   "end": 35.37,
+   "text": "The stranger you bumped into on the subway."
+  },
+  {
+   "start": 36.05,
+   "end": 36.97,
+   "text": "And by day seven,"
+  },
+  {
+   "start": 37.19,
+   "end": 39.33,
+   "text": "the quietest whisper in the city will change"
+  },
+  {
+   "start": 39.33,
+   "end": 41.37,
+   "text": "how you treat every person in your life."
+  },
+  {
+   "start": 42.07,
+   "end": 45.13,
+   "text": "At first, your heart pounds through your ribcage."
+  },
+  {
+   "start": 45.13,
+   "end": 46.23,
+   "text": "Because your entire life,"
+  },
+  {
+   "start": 46.23,
+   "end": 47.65,
+   "text": "you've wondered: what do people"
+  },
+  {
+   "start": 47.65,
+   "end": 49.43,
+   "text": "actually say when the door closes?"
+  },
+  {
+   "start": 50.09,
+   "end": 51.47,
+   "text": "You step outside the coffee shop."
+  },
+  {
+   "start": 51.85,
+   "end": 52.31,
+   "text": "You listen."
+  },
+  {
+   "start": 52.31,
+   "end": 53.13,
+   "text": "Wait."
+  },
+  {
+   "start": 53.97,
+   "end": 55.03,
+   "text": "They're not mocking you."
+  },
+  {
+   "start": 55.39,
+   "end": 56.91,
+   "text": "In fact, after twenty seconds,"
+  },
+  {
+   "start": 56.91,
+   "end": 58.77,
+   "text": "they stop talking about you completely."
+  },
+  {
+   "start": 59.35,
+   "end": 60.99,
+   "text": "They're arguing about parking tickets."
+  },
+  {
+   "start": 61.73,
+   "end": 62.89,
+   "text": "Lesson one, before breakfast:"
+  },
+  {
+   "start": 63.47,
+   "end": 65.95,
+   "text": "people talk about you far less than you think."
+  },
+  {
+   "start": 66.71,
+   "end": 68.91,
+   "text": "Psychologists call this the spotlight effect."
+  },
+  {
+   "start": 69.35,
+   "end": 71.05,
+   "text": "We live inside our own heads all day,"
+  },
+  {
+   "start": 71.35,
+   "end": 73.05,
+   "text": "so we naturally assume everyone"
+  },
+  {
+   "start": 73.05,
+   "end": 74.57,
+   "text": "else is thinking about us too."
+  },
+  {
+   "start": 75.07,
+   "end": 76.57,
+   "text": "In famous experiments at Cornell,"
+  },
+  {
+   "start": 77.05,
+   "end": 79.19,
+   "text": "researchers found people overestimate how much"
+  },
+  {
+   "start": 79.19,
+   "end": 81.01,
+   "text": "others notice them by more than double."
+  },
+  {
+   "start": 81.01,
+   "end": 82.27,
+   "text": "Most of the time,"
+  },
+  {
+   "start": 82.69,
+   "end": 83.85,
+   "text": "the moment you leave the room,"
+  },
+  {
+   "start": 83.95,
+   "end": 85.27,
+   "text": "you vanish from their minds."
+  },
+  {
+   "start": 85.71,
+   "end": 86.79,
+   "text": "And that's not insulting."
+  },
+  {
+   "start": 87.25,
+   "end": 87.85,
+   "text": "It's a relief."
+  },
+  {
+   "start": 88.65,
+   "end": 89.71,
+   "text": "Then day two arrives,"
+  },
+  {
+   "start": 89.71,
+   "end": 90.89,
+   "text": "and you walk into work."
+  },
+  {
+   "start": 91.39,
+   "end": 93.47,
+   "text": "At lunch, you stand up from the break room,"
+  },
+  {
+   "start": 93.61,
+   "end": 95.13,
+   "text": "excuse yourself to wash your hands,"
+  },
+  {
+   "start": 95.13,
+   "end": 96.57,
+   "text": "and linger outside the door."
+  },
+  {
+   "start": 97.29,
+   "end": 98.15,
+   "text": "Your jaw drops."
+  },
+  {
+   "start": 98.93,
+   "end": 99.25,
+   "text": "Kevin."
+  },
+  {
+   "start": 99.77,
+   "end": 101.15,
+   "text": "The guy who barely says five"
+  },
+  {
+   "start": 101.15,
+   "end": 102.27,
+   "text": "words in morning meetings."
+  },
+  {
+   "start": 102.63,
+   "end": 104.41,
+   "text": "He isn't taking credit for your work."
+  },
+  {
+   "start": 104.57,
+   "end": 105.97,
+   "text": "He's protecting you."
+  },
+  {
+   "start": 106.57,
+   "end": 107.85,
+   "text": "Researchers who study workplace"
+  },
+  {
+   "start": 107.85,
+   "end": 109.73,
+   "text": "behaviour found something fascinating:"
+  },
+  {
+   "start": 110.17,
+   "end": 112.93,
+   "text": "We assume workplace gossip is always malicious,"
+  },
+  {
+   "start": 113.33,
+   "end": 115.59,
+   "text": "people tearing each other down behind closed doors."
+  },
+  {
+   "start": 116.41,
+   "end": 118.91,
+   "text": "But studies by organizational sociologists"
+  },
+  {
+   "start": 118.91,
+   "end": 120.95,
+   "text": "found that over seventy percent of"
+  },
+  {
+   "start": 120.95,
+   "end": 122.97,
+   "text": "everyday office chatter is neutral,"
+  },
+  {
+   "start": 123.41,
+   "end": 125.05,
+   "text": "and a huge chunk is what scientists"
+  },
+  {
+   "start": 125.05,
+   "end": 127.03,
+   "text": "call prosocial gossip."
+  },
+  {
+   "start": 127.49,
+   "end": 129.13,
+   "text": "People sharing information to protect"
+  },
+  {
+   "start": 129.13,
+   "end": 130.83,
+   "text": "coworkers and enforce fairness."
+  },
+  {
+   "start": 131.55,
+   "end": 133.69,
+   "text": "Kevin wasn't gossiping to hurt anyone."
+  },
+  {
+   "start": 134.13,
+   "end": 135.33,
+   "text": "He was watching your back."
+  },
+  {
+   "start": 135.93,
+   "end": 137.01,
+   "text": "On day three,"
+  },
+  {
+   "start": 137.15,
+   "end": 138.45,
+   "text": "you hear the dark side."
+  },
+  {
+   "start": 138.95,
+   "end": 140.03,
+   "text": "You drop your pen in the corridor,"
+  },
+  {
+   "start": 140.49,
+   "end": 141.29,
+   "text": "step around the corner,"
+  },
+  {
+   "start": 141.55,
+   "end": 142.03,
+   "text": "and listen."
+  },
+  {
+   "start": 142.77,
+   "end": 143.89,
+   "text": "One coworker tells another:"
+  },
+  {
+   "start": 144.59,
+   "end": 146.39,
+   "text": "I heard Magi was ten minutes late yesterday"
+  },
+  {
+   "start": 146.39,
+   "end": 147.91,
+   "text": "because he got stopped by security."
+  },
+  {
+   "start": 148.87,
+   "end": 149.87,
+   "text": "Ten minutes later,"
+  },
+  {
+   "start": 149.95,
+   "end": 151.65,
+   "text": "you hear that same coworker talking"
+  },
+  {
+   "start": 151.65,
+   "end": 153.09,
+   "text": "to someone on the fourth floor:"
+  },
+  {
+   "start": 153.09,
+   "end": 156.17,
+   "text": "Magi had an incident with building security yesterday."
+  },
+  {
+   "start": 156.41,
+   "end": 157.85,
+   "text": "Something about his pass being revoked."
+  },
+  {
+   "start": 158.65,
+   "end": 159.77,
+   "text": "By three in the afternoon,"
+  },
+  {
+   "start": 159.85,
+   "end": 162.75,
+   "text": "the whisper reaching your ear is completely unhinged:"
+  },
+  {
+   "start": 162.75,
+   "end": 165.01,
+   "text": "Did you hear Magi got escorted out by guards?"
+  },
+  {
+   "start": 166.35,
+   "end": 167.53,
+   "text": "You stand by the elevators,"
+  },
+  {
+   "start": 167.93,
+   "end": 168.27,
+   "text": "stunned."
+  },
+  {
+   "start": 169.05,
+   "end": 169.81,
+   "text": "You weren't late."
+  },
+  {
+   "start": 170.33,
+   "end": 171.73,
+   "text": "You stopped to tie your shoelace."
+  },
+  {
+   "start": 172.37,
+   "end": 174.99,
+   "text": "How did tying a shoelace turn into armed guards?"
+  },
+  {
+   "start": 176.31,
+   "end": 179.45,
+   "text": "In 1932, psychologist Frederic Bartlett ran experiments"
+  },
+  {
+   "start": 179.45,
+   "end": 181.79,
+   "text": "on how stories travel from person to person."
+  },
+  {
+   "start": 182.21,
+   "end": 184.05,
+   "text": "He found that rumors mutate through"
+  },
+  {
+   "start": 184.05,
+   "end": 185.39,
+   "text": "three predictable stages:"
+  },
+  {
+   "start": 186.05,
+   "end": 188.29,
+   "text": "Leveling, people drop the boring details."
+  },
+  {
+   "start": 189.15,
+   "end": 191.75,
+   "text": "Sharpening, people exaggerate the dramatic parts."
+  },
+  {
+   "start": 192.15,
+   "end": 194.33,
+   "text": "And assimilation, people twist the story"
+  },
+  {
+   "start": 194.33,
+   "end": 196.11,
+   "text": "to fit what they already believe."
+  },
+  {
+   "start": 197.03,
+   "end": 199.09,
+   "text": "Every time a sentence travels behind your back,"
+  },
+  {
+   "start": 199.31,
+   "end": 201.19,
+   "text": "it loses truth and gains drama."
+  },
+  {
+   "start": 201.89,
+   "end": 203.39,
+   "text": "The whisper wasn't about who you are."
+  },
+  {
+   "start": 203.73,
+   "end": 205.09,
+   "text": "It was about human entertainment."
+  },
+  {
+   "start": 206.11,
+   "end": 206.81,
+   "text": "On day four,"
+  },
+  {
+   "start": 206.95,
+   "end": 208.49,
+   "text": "you hear the sentence you were dreading."
+  },
+  {
+   "start": 208.81,
+   "end": 210.07,
+   "text": "You walk out to the car park."
+  },
+  {
+   "start": 210.45,
+   "end": 211.31,
+   "text": "Your ears buzz."
+  },
+  {
+   "start": 211.81,
+   "end": 212.99,
+   "text": "The whisper clicks on."
+  },
+  {
+   "start": 213.45,
+   "end": 215.41,
+   "text": "It hits like ice water down your neck."
+  },
+  {
+   "start": 215.41,
+   "end": 217.41,
+   "text": "Your hands grip the steering wheel."
+  },
+  {
+   "start": 217.89,
+   "end": 218.71,
+   "text": "Your stomach knots."
+  },
+  {
+   "start": 219.89,
+   "end": 220.45,
+   "text": "Exhausting?"
+  },
+  {
+   "start": 221.01,
+   "end": 221.85,
+   "text": "Overthinks everything?"
+  },
+  {
+   "start": 222.91,
+   "end": 224.95,
+   "text": "You've known this person for seven years."
+  },
+  {
+   "start": 225.39,
+   "end": 226.57,
+   "text": "You helped them move apartments."
+  },
+  {
+   "start": 227.17,
+   "end": 228.43,
+   "text": "You listened to their breakups."
+  },
+  {
+   "start": 229.25,
+   "end": 230.21,
+   "text": "For three hours,"
+  },
+  {
+   "start": 230.35,
+   "end": 231.23,
+   "text": "you sit in your car,"
+  },
+  {
+   "start": 231.51,
+   "end": 233.41,
+   "text": "replaying those eight words on repeat."
+  },
+  {
+   "start": 234.27,
+   "end": 236.41,
+   "text": "Psychologists call this the negativity bias."
+  },
+  {
+   "start": 237.03,
+   "end": 239.15,
+   "text": "Our ancestors survived by paying ten times"
+  },
+  {
+   "start": 239.15,
+   "end": 241.09,
+   "text": "more attention to danger than to safety."
+  },
+  {
+   "start": 241.61,
+   "end": 243.39,
+   "text": "A predator in the bushes matters more"
+  },
+  {
+   "start": 243.39,
+   "end": 244.85,
+   "text": "than a ripe berry on a branch."
+  },
+  {
+   "start": 245.5,
+   "end": 247.69,
+   "text": "So your brain treats one piece of negative"
+  },
+  {
+   "start": 247.69,
+   "end": 249.43,
+   "text": "gossip like a life-or-death wound,"
+  },
+  {
+   "start": 249.43,
+   "end": 252.29,
+   "text": "while completely erasing a hundred kind things."
+  },
+  {
+   "start": 252.91,
+   "end": 254.39,
+   "text": "Then you realize something painful."
+  },
+  {
+   "start": 255.57,
+   "end": 256.81,
+   "text": "Are you exhausting sometimes?"
+  },
+  {
+   "start": 257.39,
+   "end": 258.09,
+   "text": "Do you overthink?"
+  },
+  {
+   "start": 258.93,
+   "end": 259.55,
+   "text": "Yes."
+  },
+  {
+   "start": 260.03,
+   "end": 260.63,
+   "text": "You do."
+  },
+  {
+   "start": 260.63,
+   "end": 263.71,
+   "text": "A cruel sentence spoken behind your back hurts."
+  },
+  {
+   "start": 264.47,
+   "end": 266.69,
+   "text": "But sometimes, buried underneath the sting,"
+  },
+  {
+   "start": 267.15,
+   "end": 269.49,
+   "text": "it's the only mirror honest enough to tell"
+  },
+  {
+   "start": 269.49,
+   "end": 271.21,
+   "text": "you what no one will say to your face."
+  },
+  {
+   "start": 271.83,
+   "end": 272.79,
+   "text": "By day five,"
+  },
+  {
+   "start": 272.93,
+   "end": 274.89,
+   "text": "the whispers are driving you crazy."
+  },
+  {
+   "start": 275.37,
+   "end": 276.59,
+   "text": "Every time you leave a room,"
+  },
+  {
+   "start": 276.69,
+   "end": 277.75,
+   "text": "someone says something."
+  },
+  {
+   "start": 278.07,
+   "end": 279.87,
+   "text": "A jogger commenting on your pace."
+  },
+  {
+   "start": 280.13,
+   "end": 282.13,
+   "text": "A cashier remarking on your change."
+  },
+  {
+   "start": 282.63,
+   "end": 283.89,
+   "text": "Why do humans do this?"
+  },
+  {
+   "start": 284.21,
+   "end": 285.23,
+   "text": "Why can't anyone just keep"
+  },
+  {
+   "start": 285.23,
+   "end": 286.63,
+   "text": "their thoughts to themselves?"
+  },
+  {
+   "start": 287.47,
+   "end": 288.31,
+   "text": "It turns out,"
+  },
+  {
+   "start": 288.87,
+   "end": 290.67,
+   "text": "evolutionary anthropologists studied this."
+  },
+  {
+   "start": 291.09,
+   "end": 293.77,
+   "text": "Robin Dunbar, the famous Oxford anthropologist,"
+  },
+  {
+   "start": 294.01,
+   "end": 296.45,
+   "text": "discovered that roughly sixty-five percent of all"
+  },
+  {
+   "start": 296.45,
+   "end": 299.59,
+   "text": "human conversation across cultures is gossip:"
+  },
+  {
+   "start": 299.59,
+   "end": 301.49,
+   "text": "talking about who did what,"
+  },
+  {
+   "start": 301.71,
+   "end": 302.53,
+   "text": "who is trustworthy,"
+  },
+  {
+   "start": 302.85,
+   "end": 303.95,
+   "text": "and who broke a rule."
+  },
+  {
+   "start": 304.53,
+   "end": 306.87,
+   "text": "In primates, bonding is done by physical grooming,"
+  },
+  {
+   "start": 307.27,
+   "end": 309.35,
+   "text": "picking bugs out of fur for hours."
+  },
+  {
+   "start": 309.87,
+   "end": 312.13,
+   "text": "Humans formed tribes too large for grooming."
+  },
+  {
+   "start": 312.39,
+   "end": 313.53,
+   "text": "So we evolved language,"
+  },
+  {
+   "start": 313.97,
+   "end": 315.93,
+   "text": "and language became social grooming."
+  },
+  {
+   "start": 316.55,
+   "end": 318.93,
+   "text": "Gossip isn't a modern flaw of bored people."
+  },
+  {
+   "start": 319.29,
+   "end": 321.05,
+   "text": "It was the original social glue"
+  },
+  {
+   "start": 321.05,
+   "end": 323.19,
+   "text": "that kept ancient tribes alive."
+  },
+  {
+   "start": 323.53,
+   "end": 325.43,
+   "text": "Without it, no one would know who to trust."
+  },
+  {
+   "start": 325.83,
+   "end": 328.23,
+   "text": "The problem isn't that people talk behind your back."
+  },
+  {
+   "start": 328.23,
+   "end": 329.83,
+   "text": "The problem is that you were never"
+  },
+  {
+   "start": 329.83,
+   "end": 332.67,
+   "text": "biologically equipped to hear it."
+  },
+  {
+   "start": 332.67,
+   "end": 333.37,
+   "text": "On day six,"
+  },
+  {
+   "start": 333.41,
+   "end": 335.51,
+   "text": "you hear the whisper that changes everything."
+  },
+  {
+   "start": 336.07,
+   "end": 337.79,
+   "text": "You step into the hallway to make a phone call."
+  },
+  {
+   "start": 338.15,
+   "end": 339.71,
+   "text": "A sharp voice cuts through your ears."
+  },
+  {
+   "start": 340.25,
+   "end": 343.25,
+   "text": "Honestly, that Magi guy seems in over his head."
+  },
+  {
+   "start": 343.59,
+   "end": 345.35,
+   "text": "We should ask for someone else on this account."
+  },
+  {
+   "start": 345.93,
+   "end": 346.71,
+   "text": "Your heart sinks."
+  },
+  {
+   "start": 347.09,
+   "end": 348.23,
+   "text": "Your chest tightens."
+  },
+  {
+   "start": 348.61,
+   "end": 349.67,
+   "text": "You reach for the door handle,"
+  },
+  {
+   "start": 349.67,
+   "end": 352.21,
+   "text": "ready to walk in and apologize or defend yourself."
+  },
+  {
+   "start": 352.61,
+   "end": 354.07,
+   "text": "And then another voice speaks."
+  },
+  {
+   "start": 354.91,
+   "end": 355.45,
+   "text": "That's not fair."
+  },
+  {
+   "start": 355.45,
+   "end": 357.79,
+   "text": "Magi spent three weeks fixing the"
+  },
+  {
+   "start": 357.79,
+   "end": 359.43,
+   "text": "data errors your team missed."
+  },
+  {
+   "start": 359.59,
+   "end": 361.01,
+   "text": "If there's an issue with this account,"
+  },
+  {
+   "start": 361.21,
+   "end": 362.05,
+   "text": "it's on my desk,"
+  },
+  {
+   "start": 362.17,
+   "end": 362.75,
+   "text": "not his."
+  },
+  {
+   "start": 363.33,
+   "end": 363.97,
+   "text": "You stop."
+  },
+  {
+   "start": 364.57,
+   "end": 365.41,
+   "text": "It's your boss."
+  },
+  {
+   "start": 365.79,
+   "end": 367.17,
+   "text": "The one who never gives compliments."
+  },
+  {
+   "start": 367.49,
+   "end": 369.05,
+   "text": "The one who sends one-word emails"
+  },
+  {
+   "start": 369.05,
+   "end": 370.51,
+   "text": "and looks bored in presentations."
+  },
+  {
+   "start": 371.31,
+   "end": 372.69,
+   "text": "He didn't know you could hear him."
+  },
+  {
+   "start": 372.93,
+   "end": 373.91,
+   "text": "There was no audience."
+  },
+  {
+   "start": 374.03,
+   "end": 374.73,
+   "text": "No cameras."
+  },
+  {
+   "start": 375.03,
+   "end": 376.81,
+   "text": "No karma score floating above his head."
+  },
+  {
+   "start": 377.25,
+   "end": 379.33,
+   "text": "He defended your name when you weren't"
+  },
+  {
+   "start": 379.33,
+   "end": 380.63,
+   "text": "in the room to defend yourself."
+  },
+  {
+   "start": 381.13,
+   "end": 384.37,
+   "text": "There is no praise on earth sweeter than the"
+  },
+  {
+   "start": 384.37,
+   "end": 385.93,
+   "text": "praise you were never supposed to hear."
+  },
+  {
+   "start": 386.33,
+   "end": 387.91,
+   "text": "And you realize something profound:"
+  },
+  {
+   "start": 388.55,
+   "end": 390.83,
+   "text": "You've spent your entire life worrying about"
+  },
+  {
+   "start": 390.83,
+   "end": 392.91,
+   "text": "the people who talk about you when you leave."
+  },
+  {
+   "start": 393.55,
+   "end": 396.47,
+   "text": "When the only people who actually matter are the ones"
+  },
+  {
+   "start": 396.47,
+   "end": 398.57,
+   "text": "who don't let anyone tear you down while you're gone."
+  },
+  {
+   "start": 399.13,
+   "end": 399.97,
+   "text": "On day seven,"
+  },
+  {
+   "start": 399.97,
+   "end": 401.75,
+   "text": "you decide to test something."
+  },
+  {
+   "start": 402.11,
+   "end": 404.47,
+   "text": "All day, you deliberately don't listen."
+  },
+  {
+   "start": 405.01,
+   "end": 405.99,
+   "text": "When you step out of a room,"
+  },
+  {
+   "start": 405.99,
+   "end": 407.23,
+   "text": "you don't wait for the click."
+  },
+  {
+   "start": 407.23,
+   "end": 408.49,
+   "text": "You don't strain your ears."
+  },
+  {
+   "start": 409.17,
+   "end": 409.87,
+   "text": "You walk forward."
+  },
+  {
+   "start": 410.41,
+   "end": 411.63,
+   "text": "You focus on what you're doing,"
+  },
+  {
+   "start": 411.89,
+   "end": 412.39,
+   "text": "who you're helping,"
+  },
+  {
+   "start": 412.67,
+   "end": 414.51,
+   "text": "and the person standing right in front of you."
+  },
+  {
+   "start": 415.15,
+   "end": 417.41,
+   "text": "And a strange peace settles in."
+  },
+  {
+   "start": 417.71,
+   "end": 419.93,
+   "text": "Because you finally understand the secret."
+  },
+  {
+   "start": 420.71,
+   "end": 422.29,
+   "text": "What people say about you behind your"
+  },
+  {
+   "start": 422.29,
+   "end": 424.83,
+   "text": "back is almost never about you."
+  },
+  {
+   "start": 425.25,
+   "end": 426.73,
+   "text": "It's about their own insecurity."
+  },
+  {
+   "start": 427.21,
+   "end": 427.97,
+   "text": "Their own boredom."
+  },
+  {
+   "start": 428.33,
+   "end": 430.15,
+   "text": "Their need to bond with whoever"
+  },
+  {
+   "start": 430.15,
+   "end": 431.45,
+   "text": "is standing next to them."
+  },
+  {
+   "start": 432.07,
+   "end": 433.73,
+   "text": "When someone speaks ill of you,"
+  },
+  {
+   "start": 433.73,
+   "end": 435.47,
+   "text": "they aren't describing your character."
+  },
+  {
+   "start": 436.03,
+   "end": 436.95,
+   "text": "They're revealing their own."
+  },
+  {
+   "start": 437.53,
+   "end": 440.39,
+   "text": "And when someone speaks well of you in an empty room,"
+  },
+  {
+   "start": 440.83,
+   "end": 441.89,
+   "text": "that's not reputation."
+  },
+  {
+   "start": 442.67,
+   "end": 443.27,
+   "text": "That's love."
+  },
+  {
+   "start": 443.91,
+   "end": 445.55,
+   "text": "At 11:59 p.m.,"
+  },
+  {
+   "start": 445.73,
+   "end": 447.03,
+   "text": "the clock approaches midnight."
+  },
+  {
+   "start": 447.75,
+   "end": 448.83,
+   "text": "The whispers grow soft."
+  },
+  {
+   "start": 449.37,
+   "end": 449.89,
+   "text": "Then faint."
+  },
+  {
+   "start": 450.41,
+   "end": 451.81,
+   "text": "Then completely silent."
+  },
+  {
+   "start": 452.89,
+   "end": 453.93,
+   "text": "The superpower is gone."
+  },
+  {
+   "start": 454.65,
+   "end": 456.05,
+   "text": "You stand in the quiet room,"
+  },
+  {
+   "start": 456.05,
+   "end": 457.45,
+   "text": "looking at your reflection."
+  },
+  {
+   "start": 458.09,
+   "end": 459.43,
+   "text": "No numbers above your head."
+  },
+  {
+   "start": 459.63,
+   "end": 461.05,
+   "text": "No voices in your ears."
+  },
+  {
+   "start": 461.51,
+   "end": 462.65,
+   "text": "Just you."
+  },
+  {
+   "start": 462.65,
+   "end": 465.25,
+   "text": "Here is what seven days of hearing"
+  },
+  {
+   "start": 465.25,
+   "end": 466.59,
+   "text": "every whisper taught you:"
+  },
+  {
+   "start": 467.11,
+   "end": 468.77,
+   "text": "Most people aren't talking about you at all."
+  },
+  {
+   "start": 469.47,
+   "end": 472.19,
+   "text": "Rumors are just stories told by bored minds."
+  },
+  {
+   "start": 472.85,
+   "end": 476.35,
+   "text": "Criticism can hurt and still have a seed of truth."
+  },
+  {
+   "start": 476.85,
+   "end": 478.45,
+   "text": "And the truest measure of friendship"
+  },
+  {
+   "start": 478.45,
+   "end": 480.57,
+   "text": "isn't who smiles in your face,"
+  },
+  {
+   "start": 481.09,
+   "end": 483.35,
+   "text": "it's who defends your name when the door closes."
+  },
+  {
+   "start": 484.45,
+   "end": 485.23,
+   "text": "So tomorrow morning,"
+  },
+  {
+   "start": 485.43,
+   "end": 486.83,
+   "text": "when you walk into a room and"
+  },
+  {
+   "start": 486.83,
+   "end": 488.23,
+   "text": "someone leaves to grab coffee,"
+  },
+  {
+   "start": 488.77,
+   "end": 490.33,
+   "text": "remember what it felt like to be"
+  },
+  {
+   "start": 490.33,
+   "end": 491.59,
+   "text": "on the other side of the door."
+  },
+  {
+   "start": 492.73,
+   "end": 494.59,
+   "text": "Tomorrow, the silence continues."
+  },
+  {
+   "start": 495.23,
+   "end": 496.73,
+   "text": "Until you look at someone's face,"
+  },
+  {
+   "start": 497.09,
+   "end": 498.99,
+   "text": "and you see a tiny digital clock"
+  },
+  {
+   "start": 498.99,
+   "end": 500.59,
+   "text": "ticking down on their forehead."
+  },
+  {
+   "start": 501.31,
+   "end": 503.37,
+   "text": "Years, days, hours,"
+  },
+  {
+   "start": 504.15,
+   "end": 504.37,
+   "text": "seconds."
+  },
+  {
+   "start": 505.25,
+   "end": 507.41,
+   "text": "What if you could see everyone's lifespan?"
+  },
+  {
+   "start": 508.19,
+   "end": 509.17,
+   "text": "If you want to know what happens"
+  },
+  {
+   "start": 509.17,
+   "end": 510.61,
+   "text": "when the clock hits zero,"
+  },
+  {
+   "start": 511.21,
+   "end": 511.69,
+   "text": "subscribe."
+  },
+  {
+   "start": 511.69,
+   "end": 514.61,
+   "text": "Because tomorrow, the countdown begins."
+  }
+ ],
+ "shots": [
+  {
+   "start": 0,
+   "end": 5,
+   "layers": [
+    {
+     "type": "image",
+     "path": "art/mirror.png",
+     "x": 760,
+     "y": 50,
+     "w": 380
+    },
+    {
+     "type": "image",
+     "path": "art/you-sleepy.png",
+     "x": 213,
+     "y": 39,
+     "w": 434,
+     "to": 2.5
+    },
+    {
+     "type": "image",
+     "path": "art/you-calm.png",
+     "x": 213,
+     "y": 39,
+     "w": 434,
+     "from": 2.5
+    },
+    {
+     "type": "text",
+     "text": "NO NUMBERS.",
+     "x": 100,
+     "y": 100,
+     "size": 56,
+     "bold": true,
+     "color": "#2F8A4A",
+     "from": 1,
+     "keys": [
+      {
+       "t": 1,
+       "y": 118,
+       "alpha": 0
+      },
+      {
+       "t": 1.25,
+       "y": 100,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "QUIET. NORMAL.",
+     "x": 100,
+     "y": 180,
+     "size": 48,
+     "bold": true,
+     "color": "#7A8288",
+     "from": 3,
+     "keys": [
+      {
+       "t": 3,
+       "y": 198,
+       "alpha": 0
+      },
+      {
+       "t": 3.25,
+       "y": 180,
+       "alpha": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 5,
+   "end": 12,
+   "layers": [
+    {
+     "type": "image",
+     "path": "art/door.png",
+     "x": 250,
+     "y": 140,
+     "w": 220
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-a.png",
+     "x": 533,
+     "y": 39,
+     "w": 434,
+     "from": 0,
+     "to": 0.35
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-b.png",
+     "x": 533,
+     "y": 39,
+     "w": 434,
+     "from": 0.35,
+     "to": 0.7
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-a.png",
+     "x": 533,
+     "y": 39,
+     "w": 434,
+     "from": 0.7,
+     "to": 1.05
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-b.png",
+     "x": 533,
+     "y": 39,
+     "w": 434,
+     "from": 1.05,
+     "to": 1.4
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-a.png",
+     "x": 533,
+     "y": 39,
+     "w": 434,
+     "from": 1.4,
+     "to": 1.75
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-b.png",
+     "x": 533,
+     "y": 39,
+     "w": 434,
+     "from": 1.75,
+     "to": 2.1
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-a.png",
+     "x": 533,
+     "y": 39,
+     "w": 434,
+     "from": 2.1,
+     "to": 2.45
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-b.png",
+     "x": 533,
+     "y": 39,
+     "w": 434,
+     "from": 2.45,
+     "to": 2.8
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-a.png",
+     "x": 533,
+     "y": 39,
+     "w": 434,
+     "from": 2.8,
+     "to": 3.15
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-b.png",
+     "x": 533,
+     "y": 39,
+     "w": 434,
+     "from": 3.15,
+     "to": 3.5
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-a.png",
+     "x": 533,
+     "y": 39,
+     "w": 434,
+     "from": 3.5,
+     "to": 3.85
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-b.png",
+     "x": 533,
+     "y": 39,
+     "w": 434,
+     "from": 3.85,
+     "to": 4.2
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-a.png",
+     "x": 533,
+     "y": 39,
+     "w": 434,
+     "from": 4.2,
+     "to": 4.55
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-b.png",
+     "x": 533,
+     "y": 39,
+     "w": 434,
+     "from": 4.55,
+     "to": 4.9
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-a.png",
+     "x": 533,
+     "y": 39,
+     "w": 434,
+     "from": 4.9,
+     "to": 5.25
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-b.png",
+     "x": 533,
+     "y": 39,
+     "w": 434,
+     "from": 5.25,
+     "to": 5.6
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-a.png",
+     "x": 533,
+     "y": 39,
+     "w": 434,
+     "from": 5.6,
+     "to": 5.95
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-b.png",
+     "x": 533,
+     "y": 39,
+     "w": 434,
+     "from": 5.95,
+     "to": 6.3
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-a.png",
+     "x": 533,
+     "y": 39,
+     "w": 434,
+     "from": 6.3,
+     "to": 6.65
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-b.png",
+     "x": 533,
+     "y": 39,
+     "w": 434,
+     "from": 6.65,
+     "to": 7
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-a.png",
+     "x": 533,
+     "y": 39,
+     "w": 434,
+     "from": 7,
+     "to": 7
+    },
+    {
+     "type": "text",
+     "text": "HALLWAY.",
+     "x": 100,
+     "y": 80,
+     "size": 52,
+     "bold": true,
+     "from": 2,
+     "keys": [
+      {
+       "t": 2,
+       "y": 98,
+       "alpha": 0
+      },
+      {
+       "t": 2.25,
+       "y": 80,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "TWO STEPS AWAY...",
+     "x": 100,
+     "y": 150,
+     "size": 44,
+     "bold": true,
+     "color": "#3D7DD8",
+     "from": 4.5,
+     "keys": [
+      {
+       "t": 4.5,
+       "y": 168,
+       "alpha": 0
+      },
+      {
+       "t": 4.75,
+       "y": 150,
+       "alpha": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 12,
+   "end": 20.5,
+   "layers": [
+    {
+     "type": "image",
+     "path": "art/you-ear.png",
+     "x": 633,
+     "y": 39,
+     "w": 434
+    },
+    {
+     "type": "image",
+     "path": "art/roommate.png",
+     "x": 40,
+     "y": 57,
+     "w": 420
+    },
+    {
+     "type": "text",
+     "text": "\"DID HE WEAR THAT SCARF AGAIN?\"",
+     "x": 150,
+     "y": 100,
+     "size": 42,
+     "bold": true,
+     "color": "#EC4338",
+     "from": 2,
+     "keys": [
+      {
+       "t": 2,
+       "y": 118,
+       "alpha": 0
+      },
+      {
+       "t": 2.25,
+       "y": 100,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "A VOICE IN YOUR EAR",
+     "x": 250,
+     "y": 180,
+     "size": 46,
+     "bold": true,
+     "color": "#3D7DD8",
+     "from": 4.5,
+     "keys": [
+      {
+       "t": 4.5,
+       "y": 198,
+       "alpha": 0
+      },
+      {
+       "t": 4.75,
+       "y": 180,
+       "alpha": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 20.5,
+   "end": 25,
+   "layers": [
+    {
+     "type": "image",
+     "path": "art/you-shocked.png",
+     "x": 423,
+     "y": 39,
+     "w": 434
+    },
+    {
+     "type": "text",
+     "text": "NO PHONE ON.",
+     "x": 120,
+     "y": 100,
+     "size": 54,
+     "bold": true,
+     "color": "#EC4338",
+     "from": 0.8,
+     "keys": [
+      {
+       "t": 0.8,
+       "y": 118,
+       "alpha": 0
+      },
+      {
+       "t": 1.05,
+       "y": 100,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "NO EARPIECE.",
+     "x": 120,
+     "y": 180,
+     "size": 54,
+     "bold": true,
+     "color": "#EC4338",
+     "from": 2.2,
+     "keys": [
+      {
+       "t": 2.2,
+       "y": 198,
+       "alpha": 0
+      },
+      {
+       "t": 2.45,
+       "y": 180,
+       "alpha": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 25,
+   "end": 30.63,
+   "layers": [
+    {
+     "type": "text",
+     "text": "7 DAYS.",
+     "x": 90,
+     "y": 60,
+     "size": 66,
+     "bold": true
+    },
+    {
+     "type": "image",
+     "path": "art/calendar.png",
+     "x": 90,
+     "y": 170,
+     "w": 560
+    },
+    {
+     "type": "text",
+     "text": "EVERY WHISPER.",
+     "x": 680,
+     "y": 72,
+     "size": 52,
+     "bold": true,
+     "color": "#EC4338",
+     "from": 1.2,
+     "keys": [
+      {
+       "t": 1.2,
+       "y": 90,
+       "alpha": 0
+      },
+      {
+       "t": 1.45,
+       "y": 72,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "EVERY SENTENCE.",
+     "x": 680,
+     "y": 190,
+     "size": 44,
+     "bold": true,
+     "color": "#3D7DD8",
+     "from": 2.8,
+     "keys": [
+      {
+       "t": 2.8,
+       "y": 208,
+       "alpha": 0
+      },
+      {
+       "t": 3.05,
+       "y": 190,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "art/you-listen-close.png",
+     "x": 763,
+     "y": 39,
+     "w": 434
+    }
+   ]
+  },
+  {
+   "start": 30.63,
+   "end": 36.05,
+   "layers": [
+    {
+     "type": "image",
+     "path": "art/subway-rider.png",
+     "x": 90,
+     "y": 57,
+     "w": 420
+    },
+    {
+     "type": "image",
+     "path": "art/you-listen-close.png",
+     "x": 583,
+     "y": 39,
+     "w": 434
+    },
+    {
+     "type": "text",
+     "text": "FRIENDS. COWORKERS.",
+     "x": 100,
+     "y": 80,
+     "size": 48,
+     "bold": true,
+     "from": 0.2,
+     "keys": [
+      {
+       "t": 0.2,
+       "y": 98,
+       "alpha": 0
+      },
+      {
+       "t": 0.45,
+       "y": 80,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "STRANGERS ON SUBWAY",
+     "x": 100,
+     "y": 150,
+     "size": 48,
+     "bold": true,
+     "color": "#3D7DD8",
+     "from": 3.14,
+     "keys": [
+      {
+       "t": 3.14,
+       "y": 168,
+       "alpha": 0
+      },
+      {
+       "t": 3.39,
+       "y": 150,
+       "alpha": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 36.05,
+   "end": 42.07,
+   "layers": [
+    {
+     "type": "image",
+     "path": "art/you-calm.png",
+     "x": 423,
+     "y": 39,
+     "w": 434
+    },
+    {
+     "type": "text",
+     "text": "THE QUIETEST WHISPER",
+     "x": 180,
+     "y": 120,
+     "size": 54,
+     "bold": true,
+     "color": "#EC4338",
+     "from": 0.5,
+     "keys": [
+      {
+       "t": 0.5,
+       "y": 138,
+       "alpha": 0
+      },
+      {
+       "t": 0.75,
+       "y": 120,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "WILL CHANGE YOUR LIFE",
+     "x": 180,
+     "y": 200,
+     "size": 48,
+     "bold": true,
+     "from": 2,
+     "keys": [
+      {
+       "t": 2,
+       "y": 218,
+       "alpha": 0
+      },
+      {
+       "t": 2.25,
+       "y": 200,
+       "alpha": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 42.07,
+   "end": 50.09,
+   "layers": [
+    {
+     "type": "text",
+     "text": "DAY 1",
+     "x": 80,
+     "y": 40,
+     "size": 70,
+     "bold": true,
+     "color": "#EC4338"
+    },
+    {
+     "type": "underline",
+     "x": 82,
+     "y": 118,
+     "w": 200,
+     "color": "#EC4338",
+     "keys": [
+      {
+       "t": 0,
+       "progress": 0
+      },
+      {
+       "t": 0.5,
+       "progress": 1
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "art/you-nervous.png",
+     "x": 183,
+     "y": 39,
+     "w": 434
+    },
+    {
+     "type": "text",
+     "text": "WHAT DO PEOPLE SAY?",
+     "x": 550,
+     "y": 150,
+     "size": 48,
+     "bold": true,
+     "color": "#EC4338",
+     "from": 1,
+     "keys": [
+      {
+       "t": 1,
+       "y": 168,
+       "alpha": 0
+      },
+      {
+       "t": 1.25,
+       "y": 150,
+       "alpha": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 50.09,
+   "end": 66.71,
+   "layers": [
+    {
+     "type": "image",
+     "path": "art/salesman.png",
+     "x": 57,
+     "y": 102,
+     "w": 385
+    },
+    {
+     "type": "image",
+     "path": "art/coffee.png",
+     "x": 310,
+     "y": 330,
+     "w": 60
+    },
+    {
+     "type": "image",
+     "path": "art/you-skeptic.png",
+     "x": 633,
+     "y": 39,
+     "w": 434
+    },
+    {
+     "type": "text",
+     "text": "\"COOL WIZARD HAT.\"",
+     "x": 200,
+     "y": 80,
+     "size": 48,
+     "bold": true,
+     "color": "#2F8A4A",
+     "from": 1.2,
+     "keys": [
+      {
+       "t": 1.2,
+       "y": 98,
+       "alpha": 0
+      },
+      {
+       "t": 1.45,
+       "y": 80,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "NOT MOCKING YOU.",
+     "x": 200,
+     "y": 160,
+     "size": 52,
+     "bold": true,
+     "from": 3.88,
+     "keys": [
+      {
+       "t": 3.88,
+       "y": 178,
+       "alpha": 0
+      },
+      {
+       "t": 4.13,
+       "y": 160,
+       "alpha": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 66.71,
+   "end": 88.65,
+   "layers": [
+    {
+     "type": "image",
+     "path": "art/you-calm.png",
+     "x": 423,
+     "y": 39,
+     "w": 434
+    },
+    {
+     "type": "text",
+     "text": "THE SPOTLIGHT EFFECT",
+     "x": 160,
+     "y": 100,
+     "size": 56,
+     "bold": true,
+     "color": "#3D7DD8",
+     "from": 0.5,
+     "keys": [
+      {
+       "t": 0.5,
+       "y": 118,
+       "alpha": 0
+      },
+      {
+       "t": 0.75,
+       "y": 100,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "PEOPLE NOTICE YOU 50% LESS THAN YOU THINK",
+     "x": 100,
+     "y": 200,
+     "size": 36,
+     "bold": true,
+     "from": 2.5,
+     "keys": [
+      {
+       "t": 2.5,
+       "y": 218,
+       "alpha": 0
+      },
+      {
+       "t": 2.75,
+       "y": 200,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "AN EXTRA IN EVERYONE ELSE'S MOVIE",
+     "x": 120,
+     "y": 320,
+     "size": 44,
+     "bold": true,
+     "color": "#7A8288",
+     "from": 5,
+     "keys": [
+      {
+       "t": 5,
+       "y": 338,
+       "alpha": 0
+      },
+      {
+       "t": 5.25,
+       "y": 320,
+       "alpha": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 88.65,
+   "end": 106.57,
+   "layers": [
+    {
+     "type": "text",
+     "text": "DAY 2",
+     "x": 80,
+     "y": 40,
+     "size": 70,
+     "bold": true,
+     "color": "#EC4338"
+    },
+    {
+     "type": "underline",
+     "x": 82,
+     "y": 118,
+     "w": 200,
+     "color": "#EC4338",
+     "keys": [
+      {
+       "t": 0,
+       "progress": 0
+      },
+      {
+       "t": 0.5,
+       "progress": 1
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "art/desk.png",
+     "x": 250,
+     "y": 380,
+     "w": 320
+    },
+    {
+     "type": "image",
+     "path": "art/you-amazed.png",
+     "x": 633,
+     "y": 39,
+     "w": 434
+    },
+    {
+     "type": "text",
+     "text": "KEVIN IN THE BREAK ROOM",
+     "x": 100,
+     "y": 80,
+     "size": 48,
+     "bold": true,
+     "from": 1,
+     "keys": [
+      {
+       "t": 1,
+       "y": 98,
+       "alpha": 0
+      },
+      {
+       "t": 1.25,
+       "y": 80,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "\"MAGI DESERVES THE CREDIT.\"",
+     "x": 150,
+     "y": 160,
+     "size": 46,
+     "bold": true,
+     "color": "#2F8A4A",
+     "from": 8.64,
+     "keys": [
+      {
+       "t": 8.64,
+       "y": 178,
+       "alpha": 0
+      },
+      {
+       "t": 8.89,
+       "y": 160,
+       "alpha": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 106.57,
+   "end": 135.93,
+   "layers": [
+    {
+     "type": "image",
+     "path": "art/you-kind.png",
+     "x": 423,
+     "y": 39,
+     "w": 434
+    },
+    {
+     "type": "text",
+     "text": "WORKPLACE PSYCHOLOGY",
+     "x": 180,
+     "y": 100,
+     "size": 52,
+     "bold": true,
+     "color": "#3D7DD8",
+     "from": 0.5,
+     "keys": [
+      {
+       "t": 0.5,
+       "y": 118,
+       "alpha": 0
+      },
+      {
+       "t": 0.75,
+       "y": 100,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "COWORKERS DEFEND YOU IN SILENCE",
+     "x": 140,
+     "y": 190,
+     "size": 42,
+     "bold": true,
+     "from": 2.5,
+     "keys": [
+      {
+       "t": 2.5,
+       "y": 208,
+       "alpha": 0
+      },
+      {
+       "t": 2.75,
+       "y": 190,
+       "alpha": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 135.93,
+   "end": 206.11,
+   "layers": [
+    {
+     "type": "text",
+     "text": "DAY 3",
+     "x": 80,
+     "y": 40,
+     "size": 70,
+     "bold": true,
+     "color": "#EC4338"
+    },
+    {
+     "type": "underline",
+     "x": 82,
+     "y": 118,
+     "w": 200,
+     "color": "#EC4338",
+     "keys": [
+      {
+       "t": 0,
+       "progress": 0
+      },
+      {
+       "t": 0.5,
+       "progress": 1
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "art/you-listen-close.png",
+     "x": 283,
+     "y": 39,
+     "w": 434
+    },
+    {
+     "type": "text",
+     "text": "LISTENING TO SUBWAY WHISPERS",
+     "x": 150,
+     "y": 52,
+     "size": 46,
+     "bold": true,
+     "from": 1,
+     "keys": [
+      {
+       "t": 1,
+       "y": 70,
+       "alpha": 0
+      },
+      {
+       "t": 1.25,
+       "y": 52,
+       "alpha": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 206.11,
+   "end": 332.67,
+   "layers": [
+    {
+     "type": "text",
+     "text": "DAY 4",
+     "x": 80,
+     "y": 40,
+     "size": 70,
+     "bold": true,
+     "color": "#EC4338"
+    },
+    {
+     "type": "underline",
+     "x": 82,
+     "y": 118,
+     "w": 200,
+     "color": "#EC4338",
+     "keys": [
+      {
+       "t": 0,
+       "progress": 0
+      },
+      {
+       "t": 0.5,
+       "progress": 1
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "art/you-skeptic.png",
+     "x": 423,
+     "y": 39,
+     "w": 434
+    },
+    {
+     "type": "text",
+     "text": "GOSSIP IS SOCIAL GROOMING",
+     "x": 140,
+     "y": 100,
+     "size": 54,
+     "bold": true,
+     "color": "#EC4338",
+     "from": 0.5,
+     "keys": [
+      {
+       "t": 0.5,
+       "y": 118,
+       "alpha": 0
+      },
+      {
+       "t": 0.75,
+       "y": 100,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "ANCIENT TRIBES USED IT TO SURVIVE",
+     "x": 140,
+     "y": 190,
+     "size": 40,
+     "bold": true,
+     "from": 3,
+     "keys": [
+      {
+       "t": 3,
+       "y": 208,
+       "alpha": 0
+      },
+      {
+       "t": 3.25,
+       "y": 190,
+       "alpha": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 332.67,
+   "end": 352.61,
+   "layers": [
+    {
+     "type": "text",
+     "text": "DAY 6",
+     "x": 80,
+     "y": 40,
+     "size": 70,
+     "bold": true,
+     "color": "#EC4338"
+    },
+    {
+     "type": "underline",
+     "x": 82,
+     "y": 118,
+     "w": 200,
+     "color": "#EC4338",
+     "keys": [
+      {
+       "t": 0,
+       "progress": 0
+      },
+      {
+       "t": 0.5,
+       "progress": 1
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "art/you-sad.png",
+     "x": 633,
+     "y": 39,
+     "w": 434
+    },
+    {
+     "type": "text",
+     "text": "\"SOMEONE ELSE ON THIS ACCOUNT.\"",
+     "x": 100,
+     "y": 100,
+     "size": 46,
+     "bold": true,
+     "color": "#EC4338",
+     "from": 1.5,
+     "keys": [
+      {
+       "t": 1.5,
+       "y": 118,
+       "alpha": 0
+      },
+      {
+       "t": 1.75,
+       "y": 100,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "HEART SINKS.",
+     "x": 100,
+     "y": 180,
+     "size": 52,
+     "bold": true,
+     "color": "#EC4338",
+     "from": 13.26,
+     "keys": [
+      {
+       "t": 13.26,
+       "y": 198,
+       "alpha": 0
+      },
+      {
+       "t": 13.51,
+       "y": 180,
+       "alpha": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 352.61,
+   "end": 381.13,
+   "layers": [
+    {
+     "type": "image",
+     "path": "art/boss-sweat.png",
+     "x": 73,
+     "y": 12,
+     "w": 455
+    },
+    {
+     "type": "image",
+     "path": "art/you-amazed.png",
+     "x": 633,
+     "y": 39,
+     "w": 434
+    },
+    {
+     "type": "text",
+     "text": "\"THAT'S NOT FAIR.\"",
+     "x": 150,
+     "y": 80,
+     "size": 56,
+     "bold": true,
+     "color": "#2F8A4A",
+     "from": 0.5,
+     "keys": [
+      {
+       "t": 0.5,
+       "y": 98,
+       "alpha": 0
+      },
+      {
+       "t": 0.75,
+       "y": 80,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "YOUR BOSS DEFENDS YOU.",
+     "x": 150,
+     "y": 160,
+     "size": 48,
+     "bold": true,
+     "color": "#3D7DD8",
+     "from": 2,
+     "keys": [
+      {
+       "t": 2,
+       "y": 178,
+       "alpha": 0
+      },
+      {
+       "t": 2.25,
+       "y": 160,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "NO AUDIENCE. NO KARMA SCORE.",
+     "x": 150,
+     "y": 240,
+     "size": 40,
+     "bold": true,
+     "color": "#7A8288",
+     "from": 5,
+     "keys": [
+      {
+       "t": 5,
+       "y": 258,
+       "alpha": 0
+      },
+      {
+       "t": 5.25,
+       "y": 240,
+       "alpha": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 381.13,
+   "end": 399.13,
+   "layers": [
+    {
+     "type": "image",
+     "path": "art/you-calm.png",
+     "x": 423,
+     "y": 39,
+     "w": 434
+    },
+    {
+     "type": "text",
+     "text": "SWEETEST PRAISE ON EARTH",
+     "x": 140,
+     "y": 120,
+     "size": 54,
+     "bold": true,
+     "color": "#2F8A4A",
+     "from": 0.5,
+     "keys": [
+      {
+       "t": 0.5,
+       "y": 138,
+       "alpha": 0
+      },
+      {
+       "t": 0.75,
+       "y": 120,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "THE PRAISE YOU WERE NEVER MEANT TO HEAR",
+     "x": 100,
+     "y": 210,
+     "size": 40,
+     "bold": true,
+     "from": 2.5,
+     "keys": [
+      {
+       "t": 2.5,
+       "y": 228,
+       "alpha": 0
+      },
+      {
+       "t": 2.75,
+       "y": 210,
+       "alpha": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 399.13,
+   "end": 443.91,
+   "layers": [
+    {
+     "type": "text",
+     "text": "DAY 7",
+     "x": 80,
+     "y": 40,
+     "size": 70,
+     "bold": true,
+     "color": "#EC4338"
+    },
+    {
+     "type": "underline",
+     "x": 82,
+     "y": 118,
+     "w": 200,
+     "color": "#EC4338",
+     "keys": [
+      {
+       "t": 0,
+       "progress": 0
+      },
+      {
+       "t": 0.5,
+       "progress": 1
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-a.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 0,
+     "to": 0.35
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-b.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 0.35,
+     "to": 0.7
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-a.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 0.7,
+     "to": 1.05
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-b.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 1.05,
+     "to": 1.4
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-a.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 1.4,
+     "to": 1.75
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-b.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 1.75,
+     "to": 2.1
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-a.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 2.1,
+     "to": 2.45
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-b.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 2.45,
+     "to": 2.8
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-a.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 2.8,
+     "to": 3.15
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-b.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 3.15,
+     "to": 3.5
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-a.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 3.5,
+     "to": 3.85
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-b.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 3.85,
+     "to": 4.2
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-a.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 4.2,
+     "to": 4.55
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-b.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 4.55,
+     "to": 4.9
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-a.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 4.9,
+     "to": 5.25
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-b.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 5.25,
+     "to": 5.6
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-a.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 5.6,
+     "to": 5.95
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-b.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 5.95,
+     "to": 6.3
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-a.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 6.3,
+     "to": 6.65
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-b.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 6.65,
+     "to": 7
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-a.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 7,
+     "to": 7.35
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-b.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 7.35,
+     "to": 7.7
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-a.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 7.7,
+     "to": 8.05
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-b.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 8.05,
+     "to": 8.4
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-a.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 8.4,
+     "to": 8.75
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-b.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 8.75,
+     "to": 9.1
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-a.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 9.1,
+     "to": 9.45
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-b.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 9.45,
+     "to": 9.8
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-a.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 9.8,
+     "to": 10.15
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-b.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 10.15,
+     "to": 10.5
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-a.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 10.5,
+     "to": 10.85
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-b.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 10.85,
+     "to": 11.2
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-a.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 11.2,
+     "to": 11.55
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-b.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 11.55,
+     "to": 11.9
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-a.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 11.9,
+     "to": 12.25
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-b.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 12.25,
+     "to": 12.6
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-a.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 12.6,
+     "to": 12.95
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-b.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 12.95,
+     "to": 13.3
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-a.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 13.3,
+     "to": 13.65
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-b.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 13.65,
+     "to": 14
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-a.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 14,
+     "to": 14.35
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-b.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 14.35,
+     "to": 14.7
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-a.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 14.7,
+     "to": 15.05
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-b.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 15.05,
+     "to": 15.4
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-a.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 15.4,
+     "to": 15.75
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-b.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 15.75,
+     "to": 16.1
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-a.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 16.1,
+     "to": 16.45
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-b.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 16.45,
+     "to": 16.8
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-a.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 16.8,
+     "to": 17.15
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-b.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 17.15,
+     "to": 17.5
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-a.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 17.5,
+     "to": 17.85
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-b.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 17.85,
+     "to": 18.2
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-a.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 18.2,
+     "to": 18.55
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-b.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 18.55,
+     "to": 18.9
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-a.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 18.9,
+     "to": 19.25
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-b.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 19.25,
+     "to": 19.6
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-a.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 19.6,
+     "to": 19.95
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-b.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 19.95,
+     "to": 20.3
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-a.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 20.3,
+     "to": 20.65
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-b.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 20.65,
+     "to": 21
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-a.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 21,
+     "to": 21.35
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-b.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 21.35,
+     "to": 21.7
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-a.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 21.7,
+     "to": 22.05
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-b.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 22.05,
+     "to": 22.4
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-a.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 22.4,
+     "to": 22.75
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-b.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 22.75,
+     "to": 23.1
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-a.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 23.1,
+     "to": 23.45
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-b.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 23.45,
+     "to": 23.8
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-a.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 23.8,
+     "to": 24.15
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-b.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 24.15,
+     "to": 24.5
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-a.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 24.5,
+     "to": 24.85
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-b.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 24.85,
+     "to": 25.2
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-a.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 25.2,
+     "to": 25.55
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-b.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 25.55,
+     "to": 25.9
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-a.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 25.9,
+     "to": 26.25
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-b.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 26.25,
+     "to": 26.6
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-a.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 26.6,
+     "to": 26.95
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-b.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 26.95,
+     "to": 27.3
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-a.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 27.3,
+     "to": 27.65
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-b.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 27.65,
+     "to": 28
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-a.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 28,
+     "to": 28.35
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-b.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 28.35,
+     "to": 28.7
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-a.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 28.7,
+     "to": 29.05
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-b.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 29.05,
+     "to": 29.4
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-a.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 29.4,
+     "to": 29.75
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-b.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 29.75,
+     "to": 30.1
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-a.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 30.1,
+     "to": 30.45
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-b.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 30.45,
+     "to": 30.8
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-a.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 30.8,
+     "to": 31.15
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-b.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 31.15,
+     "to": 31.5
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-a.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 31.5,
+     "to": 31.85
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-b.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 31.85,
+     "to": 32.2
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-a.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 32.2,
+     "to": 32.55
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-b.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 32.55,
+     "to": 32.9
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-a.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 32.9,
+     "to": 33.25
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-b.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 33.25,
+     "to": 33.6
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-a.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 33.6,
+     "to": 33.95
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-b.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 33.95,
+     "to": 34.3
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-a.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 34.3,
+     "to": 34.65
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-b.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 34.65,
+     "to": 35
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-a.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 35,
+     "to": 35.35
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-b.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 35.35,
+     "to": 35.7
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-a.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 35.7,
+     "to": 36.05
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-b.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 36.05,
+     "to": 36.4
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-a.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 36.4,
+     "to": 36.75
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-b.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 36.75,
+     "to": 37.1
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-a.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 37.1,
+     "to": 37.45
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-b.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 37.45,
+     "to": 37.8
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-a.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 37.8,
+     "to": 38.15
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-b.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 38.15,
+     "to": 38.5
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-a.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 38.5,
+     "to": 38.85
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-b.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 38.85,
+     "to": 39.2
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-a.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 39.2,
+     "to": 39.55
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-b.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 39.55,
+     "to": 39.9
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-a.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 39.9,
+     "to": 40.25
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-b.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 40.25,
+     "to": 40.6
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-a.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 40.6,
+     "to": 40.95
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-b.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 40.95,
+     "to": 41.3
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-a.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 41.3,
+     "to": 41.65
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-b.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 41.65,
+     "to": 42
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-a.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 42,
+     "to": 42.35
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-b.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 42.35,
+     "to": 42.7
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-a.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 42.7,
+     "to": 43.05
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-b.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 43.05,
+     "to": 43.4
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-a.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 43.4,
+     "to": 43.75
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-b.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 43.75,
+     "to": 44.1
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-a.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 44.1,
+     "to": 44.45
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-b.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 44.45,
+     "to": 44.78
+    },
+    {
+     "type": "text",
+     "text": "DELIBERATELY NOT LISTENING",
+     "x": 140,
+     "y": 100,
+     "size": 50,
+     "bold": true,
+     "color": "#3D7DD8",
+     "from": 1,
+     "keys": [
+      {
+       "t": 1,
+       "y": 118,
+       "alpha": 0
+      },
+      {
+       "t": 1.25,
+       "y": 100,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "PEACE SETTLES IN",
+     "x": 140,
+     "y": 180,
+     "size": 46,
+     "bold": true,
+     "color": "#2F8A4A",
+     "from": 4,
+     "keys": [
+      {
+       "t": 4,
+       "y": 198,
+       "alpha": 0
+      },
+      {
+       "t": 4.25,
+       "y": 180,
+       "alpha": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 443.91,
+   "end": 484.45,
+   "layers": [
+    {
+     "type": "image",
+     "path": "art/clock.png",
+     "x": 120,
+     "y": 80,
+     "w": 160
+    },
+    {
+     "type": "text",
+     "text": "11:59 PM",
+     "x": 290,
+     "y": 150,
+     "size": 48,
+     "bold": true,
+     "color": "#EC4338"
+    },
+    {
+     "type": "image",
+     "path": "art/you-relieved.png",
+     "x": 633,
+     "y": 59,
+     "w": 434
+    },
+    {
+     "type": "text",
+     "text": "SUPERPOWER IS GONE.",
+     "x": 100,
+     "y": 320,
+     "size": 52,
+     "bold": true,
+     "from": 2,
+     "keys": [
+      {
+       "t": 2,
+       "y": 338,
+       "alpha": 0
+      },
+      {
+       "t": 2.25,
+       "y": 320,
+       "alpha": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 484.45,
+   "end": 492.73,
+   "layers": [
+    {
+     "type": "image",
+     "path": "art/you-kind.png",
+     "x": 423,
+     "y": 39,
+     "w": 434
+    },
+    {
+     "type": "text",
+     "text": "TRUE MEASURE OF FRIENDSHIP:",
+     "x": 120,
+     "y": 100,
+     "size": 52,
+     "bold": true,
+     "color": "#2F8A4A",
+     "from": 0.5,
+     "keys": [
+      {
+       "t": 0.5,
+       "y": 118,
+       "alpha": 0
+      },
+      {
+       "t": 0.75,
+       "y": 100,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "WHO DEFENDS YOUR NAME IN AN EMPTY ROOM",
+     "x": 100,
+     "y": 200,
+     "size": 42,
+     "bold": true,
+     "from": 2.5,
+     "keys": [
+      {
+       "t": 2.5,
+       "y": 218,
+       "alpha": 0
+      },
+      {
+       "t": 2.75,
+       "y": 200,
+       "alpha": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 492.73,
+   "end": 521.19,
+   "layers": [
+    {
+     "type": "image",
+     "path": "art/you-shocked.png",
+     "x": 133,
+     "y": 39,
+     "w": 434
+    },
+    {
+     "type": "text",
+     "text": "WHAT IF YOU COULD SEE...",
+     "x": 100,
+     "y": 12,
+     "size": 52,
+     "bold": true,
+     "color": "#EC4338",
+     "from": 0.5,
+     "keys": [
+      {
+       "t": 0.5,
+       "y": 30,
+       "alpha": 0
+      },
+      {
+       "t": 0.75,
+       "y": 12,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "EVERYONE'S LIFESPAN?",
+     "x": 450,
+     "y": 180,
+     "size": 56,
+     "bold": true,
+     "color": "#EC4338",
+     "from": 12.52,
+     "keys": [
+      {
+       "t": 12.52,
+       "y": 198,
+       "alpha": 0
+      },
+      {
+       "t": 12.77,
+       "y": 180,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "SUBSCRIBE FOR EPISODE 5",
+     "x": 450,
+     "y": 320,
+     "size": 46,
+     "bold": true,
+     "color": "#2F8A4A",
+     "from": 18.48,
+     "keys": [
+      {
+       "t": 18.48,
+       "y": 338,
+       "alpha": 0
+      },
+      {
+       "t": 18.73,
+       "y": 320,
+       "alpha": 1
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "sfx": [
+  {
+   "time": 0.2,
+   "kind": "chime",
+   "gain": 0.12
+  },
+  {
+   "time": 2.6,
+   "kind": "paper",
+   "gain": 0.1
+  },
+  {
+   "time": 5.5,
+   "kind": "tap",
+   "gain": 0.12
+  },
+  {
+   "time": 9.5,
+   "kind": "pop",
+   "gain": 0.14
+  },
+  {
+   "time": 12.5,
+   "kind": "pop",
+   "gain": 0.16
+  },
+  {
+   "time": 16.5,
+   "kind": "chime",
+   "gain": 0.14
+  },
+  {
+   "time": 21,
+   "kind": "tap",
+   "gain": 0.12
+  },
+  {
+   "time": 23,
+   "kind": "paper",
+   "gain": 0.12
+  },
+  {
+   "time": 25.5,
+   "kind": "chime",
+   "gain": 0.15
+  },
+  {
+   "time": 28,
+   "kind": "pop",
+   "gain": 0.15
+  },
+  {
+   "time": 30.73,
+   "kind": "pop",
+   "gain": 0.1
+  },
+  {
+   "time": 33.87,
+   "kind": "chime",
+   "gain": 0.12
+  },
+  {
+   "time": 36.25,
+   "kind": "chime",
+   "gain": 0.14
+  },
+  {
+   "time": 42.17,
+   "kind": "paper",
+   "gain": 0.1
+  },
+  {
+   "time": 50.19,
+   "kind": "pop",
+   "gain": 0.1
+  },
+  {
+   "time": 53.97,
+   "kind": "chime",
+   "gain": 0.12
+  },
+  {
+   "time": 66.81,
+   "kind": "paper",
+   "gain": 0.12
+  },
+  {
+   "time": 88.75,
+   "kind": "paper",
+   "gain": 0.1
+  },
+  {
+   "time": 97.29,
+   "kind": "chime",
+   "gain": 0.14
+  },
+  {
+   "time": 106.67,
+   "kind": "tap",
+   "gain": 0.12
+  },
+  {
+   "time": 136.03,
+   "kind": "paper",
+   "gain": 0.1
+  },
+  {
+   "time": 206.21,
+   "kind": "paper",
+   "gain": 0.1
+  },
+  {
+   "time": 313.97,
+   "kind": "chime",
+   "gain": 0.12
+  },
+  {
+   "time": 332.77,
+   "kind": "paper",
+   "gain": 0.1
+  },
+  {
+   "time": 345.93,
+   "kind": "pop",
+   "gain": 0.15
+  },
+  {
+   "time": 352.71,
+   "kind": "chime",
+   "gain": 0.15
+  },
+  {
+   "time": 364.57,
+   "kind": "pop",
+   "gain": 0.15
+  },
+  {
+   "time": 381.23,
+   "kind": "chime",
+   "gain": 0.15
+  },
+  {
+   "time": 399.23,
+   "kind": "paper",
+   "gain": 0.1
+  },
+  {
+   "time": 444.01,
+   "kind": "pop",
+   "gain": 0.14
+  },
+  {
+   "time": 484.55,
+   "kind": "chime",
+   "gain": 0.15
+  },
+  {
+   "time": 492.73,
+   "kind": "chime",
+   "gain": 0.15
+  },
+  {
+   "time": 492.83,
+   "kind": "pop",
+   "gain": 0.15
+  },
+  {
+   "time": 505.25,
+   "kind": "chime",
+   "gain": 0.2
+  }
+ ]
+}

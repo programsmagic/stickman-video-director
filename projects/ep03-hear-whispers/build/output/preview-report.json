@@ -1,0 +1,74 @@
+{
+  "fingerprint": "01dc356837e4654bd5a92f6d2e0a6f2a9ee46763b46676a1d3bfa646b26710e8",
+  "preview_seconds": 30.63,
+  "output": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep03-hear-whispers/build/output/preview.mp4",
+  "output_sha256": "2de21ac8f614862a4a04f348ce8d4572163f80e0555dec21a05553409168f7fc",
+  "original_voice_sha256": "1d40e4a1345efa1d0b4bc6219bd62599a409dc439846aaf78bf665032c13e6f7",
+  "original_voice_duration": 516.04,
+  "voice_rate": "unchanged; leading/trailing padding only",
+  "frames": 919,
+  "duration": 30.633333,
+  "cache_hits": 0,
+  "shot_count": 5,
+  "full_decode": "pass",
+  "caption_count": 17,
+  "human_review": "required; technical checks are not acceptance",
+  "inputs": [
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep03-hear-whispers/build/art/calendar.png",
+      "sha256": "49f8d733e29cd589751b05a35ec85b1181a741e97f6e882b8b5a176eb7bb8549"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep03-hear-whispers/build/art/door.png",
+      "sha256": "ef8686686a3ec01485764c4e4bea86d9962a20a91af82597d1eafed7013758c3"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep03-hear-whispers/build/art/mirror.png",
+      "sha256": "52470fc1e69fef91282addead44b4b917848119dd9970be11e56ad6853436752"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep03-hear-whispers/build/art/roommate.png",
+      "sha256": "563861cd62d6390a05d486d1cced3d1703ef351fff41bbe75890fcd0aeeb6388"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep03-hear-whispers/build/art/you-calm.png",
+      "sha256": "7de1dfa7a8cf298afe33a565c1c79b2fe9cfa037d2871ff9861bed7e0e03ed1f"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep03-hear-whispers/build/art/you-ear.png",
+      "sha256": "3b36786100114b8904ce5fef9bdfd1717577687c22249764c15b97b0520115b1"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep03-hear-whispers/build/art/you-listen-close.png",
+      "sha256": "345880702e51005129322588e645518e4d03a5f325d272851e7991c6c46f0877"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep03-hear-whispers/build/art/you-shocked.png",
+      "sha256": "35dfdeb211183cde43e7974aa3742c8279d9ec6a12f6b58a37d0ca525ee85694"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep03-hear-whispers/build/art/you-sleepy.png",
+      "sha256": "c73dc8621b936fd73f7a64ad90afce40bc01f76d68703e5aaa14ad3128d7c683"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep03-hear-whispers/build/art/you-walk-a.png",
+      "sha256": "8f1ad817fb70b2f96b150e05f16868a3f31b6365f72086c912a5f482c40be467"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep03-hear-whispers/build/art/you-walk-b.png",
+      "sha256": "e0da43ca4fe1aedf8ef7b6806699ac8043b99d7a505d39c036a9ac3d234982a7"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep03-hear-whispers/build/narration.wav",
+      "sha256": "1d40e4a1345efa1d0b4bc6219bd62599a409dc439846aaf78bf665032c13e6f7"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/skills/directing-stickman-videos/assets/fonts/Caveat.ttf",
+      "sha256": "0bdb6b660482d31531b3945849fba5916b3ef8695da7024a9e6b9ee3c4157988"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/skills/directing-stickman-videos/assets/fonts/NotoSans.ttf",
+      "sha256": "bfb7bb691513f12e734dc346c03a03f784912432d7e3fa8e56efcf906fe86b3d"
+    }
+  ]
+}

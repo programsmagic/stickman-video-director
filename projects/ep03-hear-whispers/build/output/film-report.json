@@ -1,0 +1,122 @@
+{
+  "fingerprint": "5a135fea3ad04a7385d984d562d07dba64a06c4feda1d98321f6f9e877d7b417",
+  "preview_seconds": null,
+  "output": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep03-hear-whispers/build/output/film.mp4",
+  "output_sha256": "397b781355aa39d5885e7efa4f09820f728c3f1874f8eb249462fc26da06aeee",
+  "original_voice_sha256": "1d40e4a1345efa1d0b4bc6219bd62599a409dc439846aaf78bf665032c13e6f7",
+  "original_voice_duration": 516.04,
+  "voice_rate": "unchanged; leading/trailing padding only",
+  "frames": 15636,
+  "duration": 521.2,
+  "cache_hits": 4,
+  "shot_count": 21,
+  "full_decode": "pass",
+  "caption_count": 262,
+  "human_review": "required; technical checks are not acceptance",
+  "inputs": [
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep03-hear-whispers/build/art/boss-sweat.png",
+      "sha256": "b25512789850fa3eb880b3047970d2624205b7ce4a09b3e735b211f19f73fad1"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep03-hear-whispers/build/art/calendar.png",
+      "sha256": "49f8d733e29cd589751b05a35ec85b1181a741e97f6e882b8b5a176eb7bb8549"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep03-hear-whispers/build/art/clock.png",
+      "sha256": "04f908ac61947c631ff9934a26b23820e5726481807bd9a5b9f6fbbc1afda2cb"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep03-hear-whispers/build/art/coffee.png",
+      "sha256": "c0fb633b47f803c14181c0867d5290eea87d4e6cd4977ba161adfcb2584c247d"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep03-hear-whispers/build/art/desk.png",
+      "sha256": "f0445636383abab23db0ffc49053b9f8daa57d45d93b40e7753452da4e87d130"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep03-hear-whispers/build/art/door.png",
+      "sha256": "ef8686686a3ec01485764c4e4bea86d9962a20a91af82597d1eafed7013758c3"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep03-hear-whispers/build/art/mirror.png",
+      "sha256": "52470fc1e69fef91282addead44b4b917848119dd9970be11e56ad6853436752"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep03-hear-whispers/build/art/roommate.png",
+      "sha256": "563861cd62d6390a05d486d1cced3d1703ef351fff41bbe75890fcd0aeeb6388"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep03-hear-whispers/build/art/salesman.png",
+      "sha256": "b9321039f704a5611cd609f45fd1b950d38f46a9bf9139ed0a515b6b37e731ef"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep03-hear-whispers/build/art/subway-rider.png",
+      "sha256": "8bd05933febe6392832aed40fa07c21858e64fcfbd4e68eb40411dc6678ce70b"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep03-hear-whispers/build/art/you-amazed.png",
+      "sha256": "a9c8bb37257d5744eb4e3529bd53d0f813266d5effffb89914c5d41a13e31b69"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep03-hear-whispers/build/art/you-calm.png",
+      "sha256": "7de1dfa7a8cf298afe33a565c1c79b2fe9cfa037d2871ff9861bed7e0e03ed1f"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep03-hear-whispers/build/art/you-ear.png",
+      "sha256": "3b36786100114b8904ce5fef9bdfd1717577687c22249764c15b97b0520115b1"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep03-hear-whispers/build/art/you-kind.png",
+      "sha256": "2c0824fdc6067ae2a3d39d8f0d889872a9a2d0882760a455cfb4b3917b04c0b5"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep03-hear-whispers/build/art/you-listen-close.png",
+      "sha256": "345880702e51005129322588e645518e4d03a5f325d272851e7991c6c46f0877"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep03-hear-whispers/build/art/you-nervous.png",
+      "sha256": "524fb366594ecd9d69a02b5be32d2053df213d169bccb22a5172cd92c63e5038"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep03-hear-whispers/build/art/you-relieved.png",
+      "sha256": "4da90bbff4bef819d894c8c3104800ecaaed6311b298678363d06785b52dd435"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep03-hear-whispers/build/art/you-sad.png",
+      "sha256": "8369ae66615e5f2346f158bc924db9bef4f2a888056ed52dddd3d30ad116d815"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep03-hear-whispers/build/art/you-shocked.png",
+      "sha256": "35dfdeb211183cde43e7974aa3742c8279d9ec6a12f6b58a37d0ca525ee85694"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep03-hear-whispers/build/art/you-skeptic.png",
+      "sha256": "6c5a8fae10ed561e8cddc8f4fc20c17893bc288a39ae62aad90fd1ab6c9a9db2"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep03-hear-whispers/build/art/you-sleepy.png",
+      "sha256": "c73dc8621b936fd73f7a64ad90afce40bc01f76d68703e5aaa14ad3128d7c683"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep03-hear-whispers/build/art/you-walk-a.png",
+      "sha256": "8f1ad817fb70b2f96b150e05f16868a3f31b6365f72086c912a5f482c40be467"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep03-hear-whispers/build/art/you-walk-b.png",
+      "sha256": "e0da43ca4fe1aedf8ef7b6806699ac8043b99d7a505d39c036a9ac3d234982a7"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep03-hear-whispers/build/narration.wav",
+      "sha256": "1d40e4a1345efa1d0b4bc6219bd62599a409dc439846aaf78bf665032c13e6f7"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/skills/directing-stickman-videos/assets/fonts/Caveat.ttf",
+      "sha256": "0bdb6b660482d31531b3945849fba5916b3ef8695da7024a9e6b9ee3c4157988"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/skills/directing-stickman-videos/assets/fonts/NotoSans.ttf",
+      "sha256": "bfb7bb691513f12e734dc346c03a03f784912432d7e3fa8e56efcf906fe86b3d"
+    }
+  ]
+}
