@@ -95,9 +95,15 @@ def cues(tokens, offset):
         for line in balanced(clause):
             out.append({"start": round(line[0][1][0] + offset, 3), "end": round(line[-1][1][1] + offset, 3),
                         "text": " ".join(t for t, _ in line)})
-    # Never let a cue overlap the next one.
-    for a, b in zip(out, out[1:]):
-        a["end"] = min(a["end"], b["start"])
+    # Ensure strictly increasing non-zero duration cues without overlap.
+    for i in range(len(out)):
+        if out[i]["end"] < round(out[i]["start"] + 0.05, 3):
+            out[i]["end"] = round(out[i]["start"] + 0.05, 3)
+        if i + 1 < len(out):
+            if out[i + 1]["start"] < out[i]["end"]:
+                out[i + 1]["start"] = out[i]["end"]
+                if out[i + 1]["end"] < round(out[i + 1]["start"] + 0.05, 3):
+                    out[i + 1]["end"] = round(out[i + 1]["start"] + 0.05, 3)
     return out
 
 

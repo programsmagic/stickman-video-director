@@ -1,13 +1,13 @@
 {
-  "fingerprint": "e22619235cba760e35fddf948e34a1bc6426d5e6d867e1b78418ecf30cbfc356",
+  "fingerprint": "ffdca187f91f632f0156b829b7d9089538fb9707a7e2163e429b8f9ecf5c6170",
   "preview_seconds": null,
   "output": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep06-see-lies/build/output/film.mp4",
-  "output_sha256": "7cddac292f7d389c459092dcb3af1902ffe6bebfd2731f33790cf8a1ed6f7107",
-  "original_voice_sha256": "40296651fac5d8ba07d29352db836dcb82d5f820733c5691d970d0a013b3e560",
-  "original_voice_duration": 328.003167,
+  "output_sha256": "a6426c3660308c2390ad376f03397332aed977ec3c0fb0593f21f1ce295a8eaf",
+  "original_voice_sha256": "1939a097ac8454829be344c6fa20323bc94de76ecb75e79a746731388e2e8c0d",
+  "original_voice_duration": 377.04,
   "voice_rate": "unchanged; leading/trailing padding only",
-  "frames": 9995,
-  "duration": 333.166667,
+  "frames": 11466,
+  "duration": 382.2,
   "cache_hits": 4,
   "shot_count": 27,
   "full_decode": "pass",
@@ -116,7 +116,7 @@
     },
     {
       "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep06-see-lies/build/narration.wav",
-      "sha256": "40296651fac5d8ba07d29352db836dcb82d5f820733c5691d970d0a013b3e560"
+      "sha256": "1939a097ac8454829be344c6fa20323bc94de76ecb75e79a746731388e2e8c0d"
     },
     {
       "path": "/Users/prashantmishra/Developer/video-generator-stickman/skills/directing-stickman-videos/assets/fonts/Caveat.ttf",

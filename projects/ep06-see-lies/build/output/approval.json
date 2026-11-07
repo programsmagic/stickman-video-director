@@ -1,7 +1,7 @@
 {
-  "preview_fingerprint": "ad96ae15ca4654af87e8037d708541f563b994b579a46c1536f2d2fc67e0b3cd",
-  "preview_seconds": 32.35,
-  "preview_sha256": "296e825bf6bea34965f41116f229b498abaf6d0a7b9994aa85b288cc7eb18a04",
-  "note": "Autonomous season finale generation approved by user",
-  "approved_at": "2026-11-07T15:15:59.228Z"
+  "preview_fingerprint": "b8345da9ea4357cca238447735c7328ec5566fa7cc93ff82fe35bdb33e4471c1",
+  "preview_seconds": 35.09,
+  "preview_sha256": "76ea2bb8a81b37b216072852edf143727c51db56bad68ece703a75a9ecb78dc6",
+  "note": "Regenerated with Gemini Bodi narration",
+  "approved_at": "2026-11-07T18:15:46.750Z"
 }

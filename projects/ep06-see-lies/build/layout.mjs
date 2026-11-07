@@ -25,9 +25,9 @@ const shots = [];
 const sfx = [];
 const shot = (start, end, layers) => shots.push({start, end, layers});
 
-// ───────────── Opening 32.35 s Hook (the sample / preview) ─────────────
-// S1 (0 - 8.53s) · "You wake up at seven in the morning and pour yourself a glass of water..."
-shot(0, 8.53, [
+// ───────────── Opening 35.09 s Hook (the sample / preview) ─────────────
+// S1 (0 - 7.57s) · "You wake up at seven in the morning and pour yourself a glass of water..."
+shot(0, 7.57, [
   fig('you-sleepy', 420, 600, S, {to: 3.5}), fig('you-calm', 420, 600, S, {from: 3.5}),
   prop('mug', 450, 420, 100),
   popIn(text('7:00 AM', 100, 100, 56, {bold: true, color: BLUE}), 1.0),
@@ -35,41 +35,41 @@ shot(0, 8.53, [
 ]);
 sfx.push({time: 0.2, kind: 'chime', gain: 0.12}, {time: 4.0, kind: 'pop', gain: 0.12});
 
-// S2 (8.53 - 14.53s) · "Your roommate walks into the kitchen, rubs his eyes, and smiles. Morning..."
-shot(8.53, 14.53, [
+// S2 (7.57 - 13.29s) · "Your roommate walks into the kitchen, rubs his eyes, and smiles. Morning..."
+shot(7.57, 13.29, [
   fig('roommate', 880, 600, 0.62),
   fig('you-calm', 350, 600, S),
   popIn(text('"MORNING. SLEEP WELL?"', 550, 120, 44, {bold: true}), 1.5),
 ]);
-sfx.push({time: 9.5, kind: 'pop', gain: 0.12});
+sfx.push({time: 8.5, kind: 'pop', gain: 0.12});
 
-// S3 (14.53 - 21.45s) · "Yeah, slept like a rock, you reply. And right above your lips, a bright crimson box flashes: Lie. Rated 84%."
-shot(14.53, 21.45, [
+// S3 (13.29 - 23.15s) · "Yeah, slept like a rock, you reply. And right above your lips, a bright crimson box flashes: Lie. Rated 84%."
+shot(13.29, 23.15, [
   fig('you-amazed', 400, 600, S),
   fig('roommate', 880, 600, 0.62),
   popIn(text('[ LIE: 84% ]', 280, 150, 64, {bold: true, color: RED}), 3.6),
   popIn(text('CRIMSON TAG FLASHING', 280, 230, 42, {bold: true, color: RED}), 4.8),
 ]);
-sfx.push({time: 15.0, kind: 'paper', gain: 0.1}, {time: 18.2, kind: 'chime', gain: 0.18});
+sfx.push({time: 14.0, kind: 'paper', gain: 0.1}, {time: 17.8, kind: 'chime', gain: 0.18});
 
-// S4 (21.45 - 26.99s) · "You freeze. Your roommate looks at the breakfast you made and says, thanks, this tastes amazing."
-shot(21.45, 26.99, [
+// S4 (23.15 - 28.71s) · "You freeze. Your roommate looks at the breakfast you made and says, thanks, this tastes amazing."
+shot(23.15, 28.71, [
   fig('you-shocked', 350, 600, S),
   fig('roommate-eating', 880, 600, 0.62),
   popIn(text('"THANKS, THIS TASTES AMAZING"', 480, 120, 42, {bold: true}), 2.0),
 ]);
-sfx.push({time: 22.0, kind: 'pop', gain: 0.12});
+sfx.push({time: 24.0, kind: 'pop', gain: 0.12});
 
-// S5 (26.99 - 32.35s) · "Floating right above his mouth in bold red letters: Lie. He thinks it is cold and bland."
-shot(26.99, 32.35, [
+// S5 (28.71 - 35.09s) · "Floating right above his mouth in bold red letters: Lie. He thinks it is cold and bland."
+shot(28.71, 35.09, [
   fig('you-shocked', 350, 600, S),
   fig('roommate-eating', 880, 600, 0.62),
   popIn(text('[ LIE: COLD & BLAND ]', 620, 140, 56, {bold: true, color: RED}), 2.3),
   popIn(text('EVERY WORD IS VERIFIED', 120, 90, 48, {bold: true}), 3.5),
 ]);
-sfx.push({time: 29.3, kind: 'chime', gain: 0.2});
+sfx.push({time: 31.3, kind: 'chime', gain: 0.2});
 
-// ───────────── Full film after the 32.35 s sample ─────────────
+// ───────────── Full film after the 35.09 s sample ─────────────
 const CAP = JSON.parse(fs.readFileSync(new URL('./captions.json', import.meta.url)));
 const VOICE = Number(execSync(`ffprobe -v error -show_entries format=duration -of csv=p=0 "${new URL('./narration.wav', import.meta.url).pathname}"`));
 const END = +(VOICE + LEAD + TAIL).toFixed(3);
@@ -82,8 +82,8 @@ function at(snippet, after = 0) {
 
 const scenes = [];
 function scene(snippet, build) {
-  const prev = scenes.at(-1)?.start ?? 32.35;
-  scenes.push({start: snippet ? at(snippet, prev + 0.01) : 32.35, build});
+  const prev = scenes.at(-1)?.start ?? 35.09;
+  scenes.push({start: snippet ? at(snippet, prev + 0.01) : 35.09, build});
 }
 
 const title = (t, x = 80, y = 55, size = 62, extra = {}) => text(t, x, y, size, {bold: true, ...extra});

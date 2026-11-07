@@ -1,14 +1,14 @@
 {
-  "fingerprint": "82718e35c3d8e29cb452f4cd6e90223a5259f694a915ebe7db7887f1689db11e",
+  "fingerprint": "a3a4de789a782487e3abc80daa6908906afa1f3cd3c2a17acd228e79f6970626",
   "preview_seconds": 31.01,
   "output": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep05-see-lifespan/build/output/preview.mp4",
   "output_sha256": "aa3908aa5e5bc52e79e90ac7f7c6d56b303a5b254577e7a4601a75db06c49d4b",
-  "original_voice_sha256": "b42f945b9e108c5bf17926c4834fbea38b00fb7e16b718a9f4e33371f641db7b",
-  "original_voice_duration": 446.293708,
+  "original_voice_sha256": "4122d56a801723d7c4c01e2f198d19eacefa42bc15e312ebf3f03029aa2bf404",
+  "original_voice_duration": 456.777792,
   "voice_rate": "unchanged; leading/trailing padding only",
   "frames": 931,
   "duration": 31.033333,
-  "cache_hits": 0,
+  "cache_hits": 5,
   "shot_count": 5,
   "full_decode": "pass",
   "caption_count": 18,
@@ -40,7 +40,7 @@
     },
     {
       "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep05-see-lifespan/build/narration.wav",
-      "sha256": "b42f945b9e108c5bf17926c4834fbea38b00fb7e16b718a9f4e33371f641db7b"
+      "sha256": "4122d56a801723d7c4c01e2f198d19eacefa42bc15e312ebf3f03029aa2bf404"
     },
     {
       "path": "/Users/prashantmishra/Developer/video-generator-stickman/skills/directing-stickman-videos/assets/fonts/Caveat.ttf",

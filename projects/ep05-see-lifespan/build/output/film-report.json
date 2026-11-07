@@ -1,14 +1,14 @@
 {
-  "fingerprint": "93612192f8246e586b6c1aba9783684efc3d2806949e0a61f04cbe5d16416ed1",
+  "fingerprint": "477ad659b506f916d82c075f71fffa1bc7a80720e8d1e8d89668b1b4faf6647b",
   "preview_seconds": null,
   "output": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep05-see-lifespan/build/output/film.mp4",
-  "output_sha256": "9b9b1f755edb4459f55c99c8a1b08f4e576b140725096adb1e880bd9827e0dba",
-  "original_voice_sha256": "b42f945b9e108c5bf17926c4834fbea38b00fb7e16b718a9f4e33371f641db7b",
-  "original_voice_duration": 446.293708,
+  "output_sha256": "78e09efd9d752ea31c653e62e8f642dcfcb2240360a3e8495f80918c3d88dd06",
+  "original_voice_sha256": "4122d56a801723d7c4c01e2f198d19eacefa42bc15e312ebf3f03029aa2bf404",
+  "original_voice_duration": 456.777792,
   "voice_rate": "unchanged; leading/trailing padding only",
-  "frames": 13544,
-  "duration": 451.466667,
-  "cache_hits": 4,
+  "frames": 13858,
+  "duration": 461.933333,
+  "cache_hits": 9,
   "shot_count": 21,
   "full_decode": "pass",
   "caption_count": 237,
@@ -88,7 +88,7 @@
     },
     {
       "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep05-see-lifespan/build/narration.wav",
-      "sha256": "b42f945b9e108c5bf17926c4834fbea38b00fb7e16b718a9f4e33371f641db7b"
+      "sha256": "4122d56a801723d7c4c01e2f198d19eacefa42bc15e312ebf3f03029aa2bf404"
     },
     {
       "path": "/Users/prashantmishra/Developer/video-generator-stickman/skills/directing-stickman-videos/assets/fonts/Caveat.ttf",

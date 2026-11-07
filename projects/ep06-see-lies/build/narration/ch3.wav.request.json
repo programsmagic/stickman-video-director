@@ -1,0 +1,12 @@
+{
+  "kind": "speech",
+  "model": "gemini-3.8-flash-tts",
+  "requested_at": "2026-11-07T17:38:01.482Z",
+  "request_id": "545021a8-d9b8-4c36-9e1f-d0d314d5b0fc",
+  "status": "complete",
+  "warning": "One request only; inspect provider history before retrying",
+  "key_index": 2,
+  "mime_type": "audio/wav",
+  "output": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep06-see-lies/build/narration/ch3.wav",
+  "sha256": "e82d7559425d7d883bdf17a8f763cae681a76cc4ac80f26b9a0c73d1545b5dca"
+}
