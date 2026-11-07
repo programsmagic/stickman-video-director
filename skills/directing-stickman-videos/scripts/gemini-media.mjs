@@ -36,9 +36,17 @@ async function main() {
     const payload = candidates.map(p => p.inlineData || p.inline_data).find(p => p && (kind === 'speech' ? p.mimeType?.startsWith('audio/') : p.mimeType?.startsWith('image/')));
     if (!payload?.data) throw new Error('No native media payload returned; inspect request receipt/provider history');
     let bytes = Buffer.from(payload.data, 'base64');
+    record.mime_type = payload.mimeType;
     if (kind === 'speech') {
-      if (!/\.wav$/i.test(output) || !/^audio\/(?:L16|pcm)/i.test(payload.mimeType)) throw new Error('Expected PCM audio and .wav destination');
-      const rate = Number(payload.mimeType.match(/rate=(\d+)/)?.[1] || 24000); bytes = wav(bytes, rate);
+      if (!/\.wav$/i.test(output)) throw new Error('Expected .wav destination');
+      if (/^audio\/(?:L16|pcm)/i.test(payload.mimeType)) {
+        const rate = Number(payload.mimeType.match(/rate=(\d+)/)?.[1] || 24000); bytes = wav(bytes, rate);
+      } else if (!/^audio\/(?:x-)?wav/i.test(payload.mimeType)) {
+        // Keep the billed audio rather than discarding it; convert it locally.
+        const native = `${output}.native.${payload.mimeType.split('/')[1].split(';')[0].replace(/[^a-z0-9-]/gi, '')}`;
+        fs.writeFileSync(native, bytes, {flag: 'wx'}); record.native_output = native;
+        throw new Error(`Unexpected native audio ${payload.mimeType}; saved to ${native}`);
+      }
     } else if (!(payload.mimeType === 'image/png' && /\.png$/i.test(output) || payload.mimeType === 'image/jpeg' && /\.jpe?g$/i.test(output))) throw new Error(`Output extension must match native ${payload.mimeType}`);
     fs.writeFileSync(output, bytes, {flag: 'wx'}); Object.assign(record, {status: 'complete', output, sha256: crypto.createHash('sha256').update(bytes).digest('hex')});
   } catch (e) { record.status = 'failed_or_unknown'; record.error = e.message; throw e; }

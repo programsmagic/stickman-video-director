@@ -1,0 +1,9 @@
+{
+  "kind": "speech",
+  "model": "gemini-3.8-flash-tts",
+  "requested_at": "2026-11-07T03:56:34.051Z",
+  "request_id": "c1b62381-85b6-4b78-869b-08730d112bdb",
+  "status": "failed_or_unknown",
+  "warning": "One request only; inspect provider history before retrying",
+  "error": "Provider HTTP 429; response body deliberately omitted"
+}

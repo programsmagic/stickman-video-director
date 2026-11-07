@@ -1,0 +1,66 @@
+{
+  "fingerprint": "800da6c70c6abe04061960a8c8253b24d4b6b02a5f8e5ca764be3ed0644bb7b3",
+  "preview_seconds": 16.4,
+  "output": "/Users/prashantmishra/Developer/video-generator-stickman/projects/b1-example/output/preview.mp4",
+  "output_sha256": "76d757d0b4c395424ec01d9af13930b8ae80b269ee065cd2e189d2dd2ced804b",
+  "original_voice_sha256": "d1598463a23ac55c7e58c53fb53dfe504ae17ee4578891daef9fb6f7d4cf4df5",
+  "original_voice_duration": 16.4,
+  "voice_rate": "unchanged; leading/trailing padding only",
+  "frames": 492,
+  "duration": 16.4,
+  "cache_hits": 0,
+  "shot_count": 6,
+  "full_decode": "pass",
+  "caption_count": 9,
+  "human_review": "required; technical checks are not acceptance",
+  "inputs": [
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/b1-example/narration.m4a",
+      "sha256": "d1598463a23ac55c7e58c53fb53dfe504ae17ee4578891daef9fb6f7d4cf4df5"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/skills/directing-stickman-videos/assets/b1/calendar-crayon.png",
+      "sha256": "97b7fbff3f16ce18457db89db125e8eaebd97ef95537ecfabdf3a089bd4f4a2a"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/skills/directing-stickman-videos/assets/b1/camera-handdrawn.png",
+      "sha256": "56fb555059cab64130b3b26dc5ffa2cd0684136ccf94c6a380ce2b2fa592075b"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/skills/directing-stickman-videos/assets/b1/character-pose-sheet-v6.png",
+      "sha256": "94b601f640112314965525f49536f87942c577e1e5556a11503b19ed00777bb7"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/skills/directing-stickman-videos/assets/b1/clapper-crayon.png",
+      "sha256": "e9aa6455d6153a140fb3bcdcd8f967c9ddd76c7e0f89c0ef590a69f412d031b8"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/skills/directing-stickman-videos/assets/b1/idea-bulb-crayon.png",
+      "sha256": "439ac0f851ce3dc3ecace97e522c0c18bf1ffada833bff93905f9dd91b9f5db7"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/skills/directing-stickman-videos/assets/b1/idea-note-crayon.png",
+      "sha256": "078a53c4b1efa343bdc033371129e62dcab80e752884725202c3d7d79e3b9739"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/skills/directing-stickman-videos/assets/b1/open-source-crayon.png",
+      "sha256": "37a2d8c008d155670dda3af50d944144a8f6d9221c5d47c4adb64c85dba0c2ca"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/skills/directing-stickman-videos/assets/b1/script-page-crayon.png",
+      "sha256": "72c11003b310fec896ce5b5f62a150115efcf10bcc6e8c43d63dcdf5709a508e"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/skills/directing-stickman-videos/assets/b1/youtube-crayon.png",
+      "sha256": "c839717057aeb3c06269eb0e83e1fdc566eb9b4b02d6485212548a21d4d043e4"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/skills/directing-stickman-videos/assets/fonts/Caveat.ttf",
+      "sha256": "0bdb6b660482d31531b3945849fba5916b3ef8695da7024a9e6b9ee3c4157988"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/skills/directing-stickman-videos/assets/fonts/NotoSans.ttf",
+      "sha256": "bfb7bb691513f12e734dc346c03a03f784912432d7e3fa8e56efcf906fe86b3d"
+    }
+  ]
+}

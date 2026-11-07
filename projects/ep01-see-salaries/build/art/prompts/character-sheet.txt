@@ -1,0 +1,13 @@
+Character reference sheet for a hand-drawn explainer video. Match the attached reference image's drawing style exactly: fine, slightly irregular black ink pen lines on a plain pure white background (#FFFFFF), no paper texture, no grid, no shadows, no gradients.
+
+Character: one slender stick-figure man. Modest round head drawn as a single ink circle, black oval eyes, expressive eyebrows, simple mouth line. Long single-line torso, arms and legs; small oval hands and feet. About 4 to 4.5 heads tall. The ONLY color on him is a small mustard-yellow knitted scarf wrapped once around his neck with one short end hanging. No other clothing, no hair.
+
+Show the same character 6 times in a row of full-body poses, evenly spaced, not overlapping:
+1. neutral standing, front three-quarter view, small smile
+2. shocked: eyes wide, mouth a big open oval, both hands up near his face
+3. confused: head tilted, one eyebrow raised, one hand scratching his head
+4. angry/frustrated: leaning forward, fists clenched, pinched brows
+5. sad/deflated: shoulders slumped, looking down, small frown
+6. happy: broad grin, one arm raised waving
+
+No text, no labels, no numbers, no frame or border.

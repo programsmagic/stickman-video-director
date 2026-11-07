@@ -1,0 +1,7 @@
+{"assets": {
+ "magi-neutral": {"figure": {"scarf": true, "accessories": ["wizard-hat", "glasses"], "facing": "front", "mouth": "smile"}},
+ "magi-shocked": {"figure": {"scarf": true, "accessories": ["wizard-hat", "glasses"], "armL": [-40, -70], "armR": [40, 70], "eyes": "wide", "brows": "raised", "mouth": "open", "marks": ["shock"]}},
+ "magi-right": {"figure": {"scarf": true, "accessories": ["wizard-hat", "glasses"], "facing": "right", "armR": [85, 95], "mouth": "grin", "brows": "raised"}},
+ "magi-sit": {"figure": {"scarf": true, "accessories": ["wizard-hat", "glasses"], "facing": "right", "legL": [80, 2], "legR": [86, 8], "armL": [70, 95], "armR": [80, 100], "mouth": "flat"}},
+ "magi-cheer": {"figure": {"scarf": true, "accessories": ["wizard-hat", "glasses"], "armL": [-120, -160], "armR": [120, 160], "eyes": "closed", "mouth": "grin"}}
+}}

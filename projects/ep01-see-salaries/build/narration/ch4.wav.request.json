@@ -1,0 +1,11 @@
+{
+  "kind": "speech",
+  "model": "gemini-3.8-flash-tts",
+  "requested_at": "2026-11-07T03:04:35.521Z",
+  "request_id": "ed67c76e-0238-449e-a666-d3fa75b4e02d",
+  "status": "complete",
+  "warning": "One request only; inspect provider history before retrying",
+  "mime_type": "audio/wav",
+  "output": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep01-see-salaries/build/narration/ch4.wav",
+  "sha256": "866db2cda00f2a4faef1b985f191be358bd0f21dec10623efbca355b1802f138"
+}

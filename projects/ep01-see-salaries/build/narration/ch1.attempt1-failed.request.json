@@ -1,0 +1,9 @@
+{
+  "kind": "speech",
+  "model": "gemini-3.8-flash-tts",
+  "requested_at": "2026-11-07T02:52:54.771Z",
+  "request_id": "e3146a64-14e2-4004-a6fc-e68213a33415",
+  "status": "failed_or_unknown",
+  "warning": "One request only; inspect provider history before retrying",
+  "error": "Expected PCM audio and .wav destination"
+}

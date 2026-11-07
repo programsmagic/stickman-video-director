@@ -1,0 +1,10338 @@
+{
+ "version": 1,
+ "style": "B1",
+ "width": 1280,
+ "height": 720,
+ "fps": 30,
+ "voice": {
+  "path": "narration.wav",
+  "lead": 0.15,
+  "tail": 5
+ },
+ "captions": [
+  {
+   "start": 0.15,
+   "end": 0.95,
+   "text": "You wake up,"
+  },
+  {
+   "start": 1.27,
+   "end": 1.87,
+   "text": "look in the mirror,"
+  },
+  {
+   "start": 2.29,
+   "end": 4.33,
+   "text": "and there's a number floating above your head."
+  },
+  {
+   "start": 4.33,
+   "end": 7.48,
+   "text": "Forty-one thousand, two hundred dollars."
+  },
+  {
+   "start": 7.48,
+   "end": 9.41,
+   "text": "Your exact income this year."
+  },
+  {
+   "start": 10.01,
+   "end": 11.45,
+   "text": "Every dollar, from every source."
+  },
+  {
+   "start": 12.41,
+   "end": 13.17,
+   "text": "You look out the window."
+  },
+  {
+   "start": 13.97,
+   "end": 15.01,
+   "text": "Everyone has one."
+  },
+  {
+   "start": 15.63,
+   "end": 16.53,
+   "text": "For the next seven days,"
+  },
+  {
+   "start": 16.85,
+   "end": 18.87,
+   "text": "you can see what every single person earns."
+  },
+  {
+   "start": 19.57,
+   "end": 20.59,
+   "text": "And by day seven,"
+  },
+  {
+   "start": 20.99,
+   "end": 23.15,
+   "text": "one of those numbers is going to ruin your life."
+  },
+  {
+   "start": 23.89,
+   "end": 25.91,
+   "text": "At first, it's just funny."
+  },
+  {
+   "start": 26.51,
+   "end": 28.05,
+   "text": "The guy in the expensive suit earns"
+  },
+  {
+   "start": 28.05,
+   "end": 29.43,
+   "text": "barely more than the barista."
+  },
+  {
+   "start": 29.92,
+   "end": 31.89,
+   "text": "The lady in sweatpants walking her dog?"
+  },
+  {
+   "start": 31.89,
+   "end": 33.27,
+   "text": "Over a million."
+  },
+  {
+   "start": 34.01,
+   "end": 36.25,
+   "text": "Lesson one, before you've even had breakfast:"
+  },
+  {
+   "start": 36.79,
+   "end": 39.45,
+   "text": "you cannot tell what people earn by looking at them."
+  },
+  {
+   "start": 40.29,
+   "end": 41.15,
+   "text": "It gets stranger."
+  },
+  {
+   "start": 41.91,
+   "end": 43.55,
+   "text": "The kid on the skateboard makes more"
+  },
+  {
+   "start": 43.55,
+   "end": 45.09,
+   "text": "than your whole office floor."
+  },
+  {
+   "start": 45.71,
+   "end": 47.89,
+   "text": "He posts videos about skateboarding."
+  },
+  {
+   "start": 48.33,
+   "end": 50.25,
+   "text": "The nurse who just worked twelve hours"
+  },
+  {
+   "start": 50.25,
+   "end": 52.45,
+   "text": "saving lives makes a fifth of that."
+  },
+  {
+   "start": 53.21,
+   "end": 55.03,
+   "text": "You stand on the corner for a long time,"
+  },
+  {
+   "start": 55.39,
+   "end": 56.99,
+   "text": "just watching the numbers go by."
+  },
+  {
+   "start": 57.59,
+   "end": 58.61,
+   "text": "Because for the first time,"
+  },
+  {
+   "start": 59.05,
+   "end": 61.39,
+   "text": "you're seeing something nobody is supposed to see:"
+  },
+  {
+   "start": 61.87,
+   "end": 63.87,
+   "text": "what the world actually pays for."
+  },
+  {
+   "start": 64.63,
+   "end": 65.91,
+   "text": "Then you walk into work."
+  },
+  {
+   "start": 66.93,
+   "end": 67.11,
+   "text": "Kevin."
+  },
+  {
+   "start": 67.69,
+   "end": 70.57,
+   "text": "Kevin who forwards your emails and calls it teamwork."
+  },
+  {
+   "start": 71.33,
+   "end": 72.877,
+   "text": "Kevin makes almost seventeen"
+  },
+  {
+   "start": 72.877,
+   "end": 74.97,
+   "text": "thousand dollars more than you."
+  },
+  {
+   "start": 75.61,
+   "end": 76.87,
+   "text": "And here's the uncomfortable part."
+  },
+  {
+   "start": 77.51,
+   "end": 78.21,
+   "text": "In most offices,"
+  },
+  {
+   "start": 78.43,
+   "end": 79.51,
+   "text": "nobody talks about pay,"
+  },
+  {
+   "start": 79.87,
+   "end": 81.69,
+   "text": "so gaps like this can hide for years."
+  },
+  {
+   "start": 82.43,
+   "end": 84.21,
+   "text": "That's exactly why a growing number of places"
+  },
+  {
+   "start": 84.21,
+   "end": 86.53,
+   "text": "now require salary ranges in job ads."
+  },
+  {
+   "start": 86.53,
+   "end": 88.05,
+   "text": "Several U.S. states do it,"
+  },
+  {
+   "start": 88.05,
+   "end": 90.43,
+   "text": "and the European Union passed a pay transparency"
+  },
+  {
+   "start": 90.43,
+   "end": 92.89,
+   "text": "law that pushes companies to explain pay gaps."
+  },
+  {
+   "start": 93.33,
+   "end": 95.61,
+   "text": "The secret salary is slowly dying."
+  },
+  {
+   "start": 96.17,
+   "end": 97.05,
+   "text": "You're just seeing it early."
+  },
+  {
+   "start": 98.01,
+   "end": 99.83,
+   "text": "So you do something you've never done before."
+  },
+  {
+   "start": 100.45,
+   "end": 101.67,
+   "text": "You ask for a raise."
+  },
+  {
+   "start": 102.45,
+   "end": 103.05,
+   "text": "And this time,"
+  },
+  {
+   "start": 103.45,
+   "end": 104.67,
+   "text": "you have an unfair advantage."
+  },
+  {
+   "start": 105.25,
+   "end": 106.37,
+   "text": "You can see the budget."
+  },
+  {
+   "start": 106.97,
+   "end": 108.07,
+   "text": "You know what the role is worth."
+  },
+  {
+   "start": 108.55,
+   "end": 108.95,
+   "text": "You don't guess."
+  },
+  {
+   "start": 109.43,
+   "end": 110.15,
+   "text": "You don't apologize."
+  },
+  {
+   "start": 110.57,
+   "end": 111.29,
+   "text": "You say a number."
+  },
+  {
+   "start": 111.29,
+   "end": 113.83,
+   "text": "\"…Fifty-five?\""
+  },
+  {
+   "start": 113.83,
+   "end": 115.31,
+   "text": "Negotiation researchers have found that"
+  },
+  {
+   "start": 115.31,
+   "end": 117.33,
+   "text": "many people never ask for more at all,"
+  },
+  {
+   "start": 117.81,
+   "end": 118.65,
+   "text": "and over a whole career,"
+  },
+  {
+   "start": 119.01,
+   "end": 120.51,
+   "text": "that silence can cost a fortune."
+  },
+  {
+   "start": 121.29,
+   "end": 123.07,
+   "text": "You didn't need superpowers to ask."
+  },
+  {
+   "start": 123.63,
+   "end": 125.75,
+   "text": "You just needed to know you were allowed to."
+  },
+  {
+   "start": 126.71,
+   "end": 129.13,
+   "text": "After work, your best friend Leo picks you up."
+  },
+  {
+   "start": 129.53,
+   "end": 130.63,
+   "text": "Leo has the new car."
+  },
+  {
+   "start": 131.07,
+   "end": 131.59,
+   "text": "The watch."
+  },
+  {
+   "start": 131.77,
+   "end": 132.43,
+   "text": "The weekend trips."
+  },
+  {
+   "start": 132.67,
+   "end": 133.15,
+   "text": "The photos."
+  },
+  {
+   "start": 133.47,
+   "end": 136.39,
+   "text": "And a number barely higher than yours."
+  },
+  {
+   "start": 137.03,
+   "end": 138.59,
+   "text": "For years you've felt like you"
+  },
+  {
+   "start": 138.59,
+   "end": 139.81,
+   "text": "were falling behind Leo."
+  },
+  {
+   "start": 140.49,
+   "end": 142.85,
+   "text": "Now you know Leo is falling too."
+  },
+  {
+   "start": 143.27,
+   "end": 144.13,
+   "text": "Just more quietly."
+  },
+  {
+   "start": 144.99,
+   "end": 146.91,
+   "text": "Researchers studying lottery winners in"
+  },
+  {
+   "start": 146.91,
+   "end": 148.99,
+   "text": "Canada found something wild about this."
+  },
+  {
+   "start": 149.37,
+   "end": 151.37,
+   "text": "The bigger a neighbour's lottery win,"
+  },
+  {
+   "start": 151.75,
+   "end": 153.83,
+   "text": "the more the people living next door borrowed,"
+  },
+  {
+   "start": 153.83,
+   "end": 155.45,
+   "text": "and the more of them went bankrupt."
+  },
+  {
+   "start": 155.85,
+   "end": 157.49,
+   "text": "Not because they won anything."
+  },
+  {
+   "start": 157.93,
+   "end": 159.17,
+   "text": "Because they tried to keep up."
+  },
+  {
+   "start": 159.53,
+   "end": 160.59,
+   "text": "You decide two things."
+  },
+  {
+   "start": 160.99,
+   "end": 163.73,
+   "text": "You'll stop comparing yourself to Leo's photos."
+  },
+  {
+   "start": 164.23,
+   "end": 165.65,
+   "text": "And you'll ask him if he's okay."
+  },
+  {
+   "start": 165.65,
+   "end": 167.47,
+   "text": "That night, you have a date."
+  },
+  {
+   "start": 168.15,
+   "end": 170.51,
+   "text": "Maya earns more than three times what you do."
+  },
+  {
+   "start": 170.87,
+   "end": 171.65,
+   "text": "And for a second,"
+  },
+  {
+   "start": 171.67,
+   "end": 174.17,
+   "text": "something ugly crawls into your chest."
+  },
+  {
+   "start": 174.97,
+   "end": 176.59,
+   "text": "Psychologists have a name for this."
+  },
+  {
+   "start": 176.97,
+   "end": 177.79,
+   "text": "Social comparison."
+  },
+  {
+   "start": 178.37,
+   "end": 180.43,
+   "text": "We don't judge our lives by how much we have."
+  },
+  {
+   "start": 180.43,
+   "end": 182.31,
+   "text": "We judge them by how much we have"
+  },
+  {
+   "start": 182.31,
+   "end": 184.59,
+   "text": "compared to the people around us."
+  },
+  {
+   "start": 184.99,
+   "end": 185.85,
+   "text": "Maya didn't change."
+  },
+  {
+   "start": 186.39,
+   "end": 187.65,
+   "text": "Her number just appeared."
+  },
+  {
+   "start": 188.37,
+   "end": 190.73,
+   "text": "You decide not to let a number sit at the table."
+  },
+  {
+   "start": 191.43,
+   "end": 192.43,
+   "text": "She pays for dessert."
+  },
+  {
+   "start": 192.95,
+   "end": 193.53,
+   "text": "You let her."
+  },
+  {
+   "start": 194.03,
+   "end": 194.95,
+   "text": "On the walk to the station,"
+  },
+  {
+   "start": 195.15,
+   "end": 196.39,
+   "text": "Maya tells you she grew up sharing"
+  },
+  {
+   "start": 196.39,
+   "end": 198.03,
+   "text": "one bedroom with three sisters."
+  },
+  {
+   "start": 198.51,
+   "end": 200.01,
+   "text": "That big number above her head?"
+  },
+  {
+   "start": 200.27,
+   "end": 202.57,
+   "text": "She built it one late night at a time."
+  },
+  {
+   "start": 203.11,
+   "end": 204.93,
+   "text": "You realize you were jealous of the number."
+  },
+  {
+   "start": 205.45,
+   "end": 207.43,
+   "text": "You never once thought about the work behind it."
+  },
+  {
+   "start": 207.91,
+   "end": 210.23,
+   "text": "Walking home, you ask yourself the big question."
+  },
+  {
+   "start": 210.43,
+   "end": 212.85,
+   "text": "Would you be happier with her number?"
+  },
+  {
+   "start": 212.85,
+   "end": 215.43,
+   "text": "Scientists have argued about this for years."
+  },
+  {
+   "start": 216.01,
+   "end": 217.77,
+   "text": "One famous study suggested happiness"
+  },
+  {
+   "start": 217.77,
+   "end": 219.85,
+   "text": "stops rising above a certain income."
+  },
+  {
+   "start": 220.31,
+   "end": 222.19,
+   "text": "Newer research found that for most people,"
+  },
+  {
+   "start": 222.19,
+   "end": 224.33,
+   "text": "happiness keeps rising as income grows,"
+  },
+  {
+   "start": 224.33,
+   "end": 225.77,
+   "text": "just more slowly."
+  },
+  {
+   "start": 226.43,
+   "end": 229.03,
+   "text": "Each extra dollar matters less than the one before."
+  },
+  {
+   "start": 229.69,
+   "end": 230.41,
+   "text": "More money helps."
+  },
+  {
+   "start": 230.75,
+   "end": 232.35,
+   "text": "But the climb gets steeper,"
+  },
+  {
+   "start": 232.35,
+   "end": 234.51,
+   "text": "and the view changes less than you'd expect."
+  },
+  {
+   "start": 235.51,
+   "end": 236.57,
+   "text": "On day five,"
+  },
+  {
+   "start": 236.81,
+   "end": 237.63,
+   "text": "you visit your parents."
+  },
+  {
+   "start": 238.37,
+   "end": 240.49,
+   "text": "Your dad's number is lower than yours."
+  },
+  {
+   "start": 240.91,
+   "end": 243.97,
+   "text": "Lower than yours was before the raise."
+  },
+  {
+   "start": 243.97,
+   "end": 244.47,
+   "text": "The bike."
+  },
+  {
+   "start": 244.91,
+   "end": 245.71,
+   "text": "The school trips."
+  },
+  {
+   "start": 246.19,
+   "end": 247.67,
+   "text": "The laptop for college."
+  },
+  {
+   "start": 248.19,
+   "end": 248.75,
+   "text": "All of it,"
+  },
+  {
+   "start": 248.75,
+   "end": 249.65,
+   "text": "from that number."
+  },
+  {
+   "start": 250.57,
+   "end": 252.99,
+   "text": "You realize a salary tells you what someone earns."
+  },
+  {
+   "start": 252.99,
+   "end": 255.41,
+   "text": "It tells you nothing about what they've given."
+  },
+  {
+   "start": 256.11,
+   "end": 258.79,
+   "text": "Later, you ask your dad if he ever wanted more money."
+  },
+  {
+   "start": 258.79,
+   "end": 260.25,
+   "text": "He laughs."
+  },
+  {
+   "start": 260.25,
+   "end": 261.01,
+   "text": "\"Of course I did."
+  },
+  {
+   "start": 261.47,
+   "end": 263.43,
+   "text": "But I wanted to be home for dinner more.\""
+  },
+  {
+   "start": 264.21,
+   "end": 265.87,
+   "text": "After dinner, you find your mum doing"
+  },
+  {
+   "start": 265.87,
+   "end": 267.17,
+   "text": "the bills at the kitchen table."
+  },
+  {
+   "start": 267.83,
+   "end": 268.97,
+   "text": "Every column balanced."
+  },
+  {
+   "start": 269.39,
+   "end": 270.27,
+   "text": "Every bill paid."
+  },
+  {
+   "start": 270.27,
+   "end": 271.81,
+   "text": "For thirty years."
+  },
+  {
+   "start": 272.41,
+   "end": 273.57,
+   "text": "She's never earned much."
+  },
+  {
+   "start": 273.89,
+   "end": 276.29,
+   "text": "But nobody in this house has ever gone without."
+  },
+  {
+   "start": 276.97,
+   "end": 278.11,
+   "text": "You sit down next to her,"
+  },
+  {
+   "start": 278.11,
+   "end": 279.07,
+   "text": "and for once,"
+  },
+  {
+   "start": 279.07,
+   "end": 281.29,
+   "text": "you ask her to teach you how she does it."
+  },
+  {
+   "start": 282.03,
+   "end": 283.63,
+   "text": "Then, on day six,"
+  },
+  {
+   "start": 284.11,
+   "end": 284.89,
+   "text": "something changes."
+  },
+  {
+   "start": 285.47,
+   "end": 286.73,
+   "text": "It isn't just you anymore."
+  },
+  {
+   "start": 287.35,
+   "end": 289.19,
+   "text": "Everyone can see everyone's number."
+  },
+  {
+   "start": 289.65,
+   "end": 291.61,
+   "text": "And the world goes a little crazy."
+  },
+  {
+   "start": 292.43,
+   "end": 293.89,
+   "text": "Landlords start raising rent"
+  },
+  {
+   "start": 293.89,
+   "end": 295.11,
+   "text": "for tenants with big numbers."
+  },
+  {
+   "start": 295.81,
+   "end": 298.27,
+   "text": "Charities only knock on the richest doors."
+  },
+  {
+   "start": 298.27,
+   "end": 299.33,
+   "text": "And for the first time,"
+  },
+  {
+   "start": 299.45,
+   "end": 301.89,
+   "text": "every boss has to walk past employees who"
+  },
+  {
+   "start": 301.89,
+   "end": 304.13,
+   "text": "can see exactly how big the gap is."
+  },
+  {
+   "start": 304.69,
+   "end": 305.45,
+   "text": "At your office,"
+  },
+  {
+   "start": 305.53,
+   "end": 307.47,
+   "text": "there's a line outside HR that"
+  },
+  {
+   "start": 307.47,
+   "end": 308.45,
+   "text": "wraps around the building."
+  },
+  {
+   "start": 308.87,
+   "end": 310.15,
+   "text": "Even Kevin is in it."
+  },
+  {
+   "start": 310.15,
+   "end": 312.69,
+   "text": "You finally ask him how he makes more than you."
+  },
+  {
+   "start": 313.11,
+   "end": 314.01,
+   "text": "He looks embarrassed."
+  },
+  {
+   "start": 314.79,
+   "end": 315.85,
+   "text": "\"When they offered me the job,"
+  },
+  {
+   "start": 315.85,
+   "end": 317.27,
+   "text": "I just asked for more."
+  },
+  {
+   "start": 317.51,
+   "end": 319.21,
+   "text": "They said yes.\""
+  },
+  {
+   "start": 319.21,
+   "end": 319.63,
+   "text": "That's it."
+  },
+  {
+   "start": 320.01,
+   "end": 321.65,
+   "text": "One sentence, years ago."
+  },
+  {
+   "start": 322.33,
+   "end": 323.43,
+   "text": "That's the thing about salaries."
+  },
+  {
+   "start": 323.43,
+   "end": 326.79,
+   "text": "A small difference at the start follows you for years,"
+  },
+  {
+   "start": 327.17,
+   "end": 328.95,
+   "text": "because every raise is built on top"
+  },
+  {
+   "start": 328.95,
+   "end": 330.35,
+   "text": "of the number you began with."
+  },
+  {
+   "start": 331.05,
+   "end": 332.07,
+   "text": "Here's the wild part."
+  },
+  {
+   "start": 332.35,
+   "end": 333.69,
+   "text": "This has actually happened."
+  },
+  {
+   "start": 334.25,
+   "end": 336.77,
+   "text": "In Norway, everyone's income and taxes have"
+  },
+  {
+   "start": 336.77,
+   "end": 338.51,
+   "text": "been public records for a long time."
+  },
+  {
+   "start": 338.77,
+   "end": 339.91,
+   "text": "And in 2001,"
+  },
+  {
+   "start": 340.03,
+   "end": 341.41,
+   "text": "those records went online,"
+  },
+  {
+   "start": 341.57,
+   "end": 342.89,
+   "text": "searchable by anyone,"
+  },
+  {
+   "start": 342.89,
+   "end": 343.85,
+   "text": "in seconds."
+  },
+  {
+   "start": 344.57,
+   "end": 346.31,
+   "text": "Economists studied what happened next."
+  },
+  {
+   "start": 346.95,
+   "end": 348.15,
+   "text": "When everyone could suddenly look"
+  },
+  {
+   "start": 348.15,
+   "end": 349.39,
+   "text": "up everyone else's income,"
+  },
+  {
+   "start": 349.89,
+   "end": 351.37,
+   "text": "the happiness gap between richer"
+  },
+  {
+   "start": 351.37,
+   "end": 352.61,
+   "text": "and poorer people grew."
+  },
+  {
+   "start": 353.37,
+   "end": 354.47,
+   "text": "Seeing other people's numbers"
+  },
+  {
+   "start": 354.47,
+   "end": 355.65,
+   "text": "didn't make people richer."
+  },
+  {
+   "start": 356.21,
+   "end": 356.93,
+   "text": "For a lot of them,"
+  },
+  {
+   "start": 356.99,
+   "end": 358.45,
+   "text": "it just made them feel poorer."
+  },
+  {
+   "start": 359.37,
+   "end": 362.03,
+   "text": "Years later, Norway made searches traceable,"
+  },
+  {
+   "start": 362.17,
+   "end": 364.15,
+   "text": "so people could see who had looked them up."
+  },
+  {
+   "start": 364.65,
+   "end": 366.37,
+   "text": "Searches fell from around sixteen"
+  },
+  {
+   "start": 366.37,
+   "end": 368.49,
+   "text": "million a year to about two million."
+  },
+  {
+   "start": 369.51,
+   "end": 371.17,
+   "text": "Remember the number from the first morning?"
+  },
+  {
+   "start": 371.17,
+   "end": 373.33,
+   "text": "The one that was going to ruin your life?"
+  },
+  {
+   "start": 373.33,
+   "end": 374.79,
+   "text": "On day seven,"
+  },
+  {
+   "start": 374.79,
+   "end": 376.17,
+   "text": "you finally see it."
+  },
+  {
+   "start": 376.47,
+   "end": 378.67,
+   "text": "It's above the quiet janitor in your building."
+  },
+  {
+   "start": 378.87,
+   "end": 380.71,
+   "text": "The one who's worked there for thirty years."
+  },
+  {
+   "start": 380.71,
+   "end": 383.07,
+   "text": "Nine point eight million."
+  },
+  {
+   "start": 383.73,
+   "end": 386.09,
+   "text": "He bought the building's shares in the eighties."
+  },
+  {
+   "start": 386.09,
+   "end": 386.85,
+   "text": "Saved every month."
+  },
+  {
+   "start": 387.21,
+   "end": 387.95,
+   "text": "Never told anyone."
+  },
+  {
+   "start": 388.63,
+   "end": 390.81,
+   "text": "Today, the dividends alone pay him more"
+  },
+  {
+   "start": 390.81,
+   "end": 392.47,
+   "text": "than everyone in the office combined."
+  },
+  {
+   "start": 393.19,
+   "end": 394.01,
+   "text": "He waves at you."
+  },
+  {
+   "start": 394.13,
+   "end": 394.87,
+   "text": "Same as always."
+  },
+  {
+   "start": 395.51,
+   "end": 397.43,
+   "text": "At lunch, you sit next to him on the loading dock."
+  },
+  {
+   "start": 397.43,
+   "end": 399.43,
+   "text": "You ask the only question that matters."
+  },
+  {
+   "start": 400.13,
+   "end": 401.29,
+   "text": "Why are you still here?"
+  },
+  {
+   "start": 401.95,
+   "end": 402.29,
+   "text": "He shrugs."
+  },
+  {
+   "start": 403.11,
+   "end": 403.65,
+   "text": "\"I like the work."
+  },
+  {
+   "start": 403.97,
+   "end": 404.67,
+   "text": "I like the people."
+  },
+  {
+   "start": 404.83,
+   "end": 406.97,
+   "text": "And I never needed anyone to know my number.\""
+  },
+  {
+   "start": 407.73,
+   "end": 409.93,
+   "text": "You ask him if he ever felt like giving up on saving."
+  },
+  {
+   "start": 410.89,
+   "end": 412.47,
+   "text": "\"Every month for thirty years,"
+  },
+  {
+   "start": 412.57,
+   "end": 413.59,
+   "text": "I put a little away."
+  },
+  {
+   "start": 414.05,
+   "end": 415.27,
+   "text": "Most months, it felt like nothing."
+  },
+  {
+   "start": 415.69,
+   "end": 416.25,
+   "text": "Then one day,"
+  },
+  {
+   "start": 416.25,
+   "end": 417.03,
+   "text": "I looked up,"
+  },
+  {
+   "start": 417.03,
+   "end": 417.77,
+   "text": "and it was everything.\""
+  },
+  {
+   "start": 418.47,
+   "end": 419.99,
+   "text": "Then he gives you the only financial"
+  },
+  {
+   "start": 419.99,
+   "end": 421.37,
+   "text": "advice he's ever given anyone."
+  },
+  {
+   "start": 422.03,
+   "end": 423.15,
+   "text": "\"Spend less than you make."
+  },
+  {
+   "start": 423.15,
+   "end": 424.89,
+   "text": "Own things that pay you."
+  },
+  {
+   "start": 424.89,
+   "end": 426.93,
+   "text": "And stop looking at other people's numbers.\""
+  },
+  {
+   "start": 427.43,
+   "end": 428.77,
+   "text": "It didn't ruin your life."
+  },
+  {
+   "start": 429.15,
+   "end": 431.27,
+   "text": "It ruined the way you used to judge people."
+  },
+  {
+   "start": 431.27,
+   "end": 433.31,
+   "text": "At midnight, the numbers fade."
+  },
+  {
+   "start": 433.79,
+   "end": 435.25,
+   "text": "The last one to go is your own."
+  },
+  {
+   "start": 435.69,
+   "end": 436.17,
+   "text": "A week ago,"
+  },
+  {
+   "start": 436.29,
+   "end": 437.41,
+   "text": "that number felt like a grade."
+  },
+  {
+   "start": 437.73,
+   "end": 439.69,
+   "text": "Like a score of how much you were worth."
+  },
+  {
+   "start": 440.19,
+   "end": 441.55,
+   "text": "Now it just looks like what it is."
+  },
+  {
+   "start": 441.99,
+   "end": 444.95,
+   "text": "A price someone agreed to pay for your time this year."
+  },
+  {
+   "start": 445.35,
+   "end": 446.91,
+   "text": "It says nothing about your dad's cooking,"
+  },
+  {
+   "start": 447.25,
+   "end": 448.03,
+   "text": "your mum's notebook,"
+  },
+  {
+   "start": 448.17,
+   "end": 450.17,
+   "text": "or the janitor who waves every morning."
+  },
+  {
+   "start": 450.75,
+   "end": 452.35,
+   "text": "Here's what seven days of seeing"
+  },
+  {
+   "start": 452.35,
+   "end": 453.93,
+   "text": "everyone's salary taught you."
+  },
+  {
+   "start": 454.21,
+   "end": 455.79,
+   "text": "You can't read wealth from clothes."
+  },
+  {
+   "start": 455.79,
+   "end": 458.83,
+   "text": "Not knowing what others earn can cost you real money,"
+  },
+  {
+   "start": 458.91,
+   "end": 459.65,
+   "text": "so ask."
+  },
+  {
+   "start": 460.29,
+   "end": 461.85,
+   "text": "Comparing numbers can steal your"
+  },
+  {
+   "start": 461.85,
+   "end": 463.55,
+   "text": "happiness faster than any bill."
+  },
+  {
+   "start": 464.17,
+   "end": 465.83,
+   "text": "And the number above someone's head is"
+  },
+  {
+   "start": 465.83,
+   "end": 467.51,
+   "text": "the least interesting thing about them."
+  },
+  {
+   "start": 467.99,
+   "end": 470.07,
+   "text": "Tomorrow, you wake up and see a different number."
+  },
+  {
+   "start": 470.53,
+   "end": 470.93,
+   "text": "Not money."
+  },
+  {
+   "start": 471.65,
+   "end": 471.91,
+   "text": "Karma."
+  },
+  {
+   "start": 472.91,
+   "end": 475.15,
+   "text": "If you want to see what happens next,"
+  },
+  {
+   "start": 475.43,
+   "end": 475.95,
+   "text": "subscribe."
+  },
+  {
+   "start": 476.85,
+   "end": 477.85,
+   "text": "Because tomorrow at midnight,"
+  },
+  {
+   "start": 477.85,
+   "end": 479.33,
+   "text": "the numbers change again."
+  }
+ ],
+ "shots": [
+  {
+   "start": 0,
+   "end": 4.85,
+   "layers": [
+    {
+     "type": "image",
+     "path": "art/mirror.png",
+     "x": 760,
+     "y": 50,
+     "w": 380
+    },
+    {
+     "type": "image",
+     "path": "art/you-sleepy.png",
+     "x": 213,
+     "y": 39,
+     "w": 434,
+     "to": 2.2
+    },
+    {
+     "type": "image",
+     "path": "art/you-startled.png",
+     "x": 213,
+     "y": 39,
+     "w": 434,
+     "from": 2.2
+    },
+    {
+     "type": "image",
+     "path": "art/you-sleepy-m.png",
+     "x": 803,
+     "y": 135,
+     "w": 294,
+     "to": 2.2
+    },
+    {
+     "type": "image",
+     "path": "art/you-startled-m.png",
+     "x": 803,
+     "y": 135,
+     "w": 294,
+     "from": 2.2
+    },
+    {
+     "type": "image",
+     "path": "art/sink.png",
+     "x": 800,
+     "y": 400,
+     "w": 300
+    },
+    {
+     "type": "text",
+     "text": "$41,200",
+     "x": 868,
+     "y": 120,
+     "size": 44,
+     "bold": true,
+     "color": "#2F8A4A",
+     "from": 2.75,
+     "keys": [
+      {
+       "t": 2.75,
+       "y": 138,
+       "alpha": 0
+      },
+      {
+       "t": 3,
+       "y": 120,
+       "alpha": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 4.85,
+   "end": 7.55,
+   "layers": [
+    {
+     "type": "text",
+     "text": "$41,200",
+     "x": 100,
+     "y": 150,
+     "size": 128,
+     "bold": true,
+     "color": "#2F8A4A"
+    },
+    {
+     "type": "underline",
+     "x": 105,
+     "y": 305,
+     "w": 450,
+     "color": "#2F8A4A",
+     "keys": [
+      {
+       "t": 0.2,
+       "progress": 0
+      },
+      {
+       "t": 0.9,
+       "progress": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "$41,200",
+     "x": 875,
+     "y": 49,
+     "size": 34,
+     "bold": true,
+     "color": "#2F8A4A"
+    },
+    {
+     "type": "image",
+     "path": "art/you-swat-a.png",
+     "x": 733,
+     "y": 39,
+     "w": 434,
+     "to": 0.55
+    },
+    {
+     "type": "image",
+     "path": "art/you-swat-b.png",
+     "x": 733,
+     "y": 39,
+     "w": 434,
+     "from": 0.55,
+     "to": 0.77
+    },
+    {
+     "type": "image",
+     "path": "art/you-swat-a.png",
+     "x": 733,
+     "y": 39,
+     "w": 434,
+     "from": 0.77,
+     "to": 0.99
+    },
+    {
+     "type": "image",
+     "path": "art/you-swat-b.png",
+     "x": 733,
+     "y": 39,
+     "w": 434,
+     "from": 0.99,
+     "to": 1.21
+    },
+    {
+     "type": "image",
+     "path": "art/you-swat-a.png",
+     "x": 733,
+     "y": 39,
+     "w": 434,
+     "from": 1.21,
+     "to": 1.43
+    },
+    {
+     "type": "image",
+     "path": "art/you-swat-b.png",
+     "x": 733,
+     "y": 39,
+     "w": 434,
+     "from": 1.43,
+     "to": 1.65
+    },
+    {
+     "type": "image",
+     "path": "art/you-swat-a.png",
+     "x": 733,
+     "y": 39,
+     "w": 434,
+     "from": 1.65,
+     "to": 1.87
+    },
+    {
+     "type": "image",
+     "path": "art/you-swat-b.png",
+     "x": 733,
+     "y": 39,
+     "w": 434,
+     "from": 1.87,
+     "to": 2.09
+    },
+    {
+     "type": "image",
+     "path": "art/you-swat-a.png",
+     "x": 733,
+     "y": 39,
+     "w": 434,
+     "from": 2.09,
+     "to": 2.31
+    },
+    {
+     "type": "image",
+     "path": "art/you-swat-b.png",
+     "x": 733,
+     "y": 39,
+     "w": 434,
+     "from": 2.31,
+     "to": 2.53
+    },
+    {
+     "type": "image",
+     "path": "art/you-swat-a.png",
+     "x": 733,
+     "y": 39,
+     "w": 434,
+     "from": 2.53,
+     "to": 2.7
+    }
+   ]
+  },
+  {
+   "start": 7.55,
+   "end": 12.35,
+   "layers": [
+    {
+     "type": "text",
+     "text": "YOUR EXACT INCOME.",
+     "x": 380,
+     "y": 80,
+     "size": 58,
+     "bold": true
+    },
+    {
+     "type": "text",
+     "text": "EVERY DOLLAR. EVERY SOURCE.",
+     "x": 380,
+     "y": 165,
+     "size": 40,
+     "bold": true,
+     "color": "#EC4338",
+     "from": 2.35,
+     "keys": [
+      {
+       "t": 2.35,
+       "y": 183,
+       "alpha": 0
+      },
+      {
+       "t": 2.6,
+       "y": 165,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "art/you-confused.png",
+     "x": -20,
+     "y": 57,
+     "w": 420
+    },
+    {
+     "type": "image",
+     "path": "art/paycheck.png",
+     "x": 400,
+     "y": 320,
+     "w": 190,
+     "from": 2.45,
+     "keys": [
+      {
+       "t": 2.45,
+       "y": 338,
+       "alpha": 0
+      },
+      {
+       "t": 2.7,
+       "y": 320,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "art/bill.png",
+     "x": 625,
+     "y": 335,
+     "w": 180,
+     "from": 2.8,
+     "keys": [
+      {
+       "t": 2.8,
+       "y": 353,
+       "alpha": 0
+      },
+      {
+       "t": 3.05,
+       "y": 335,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "art/coins.png",
+     "x": 850,
+     "y": 300,
+     "w": 115,
+     "from": 3.25,
+     "keys": [
+      {
+       "t": 3.25,
+       "y": 318,
+       "alpha": 0
+      },
+      {
+       "t": 3.5,
+       "y": 300,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "art/house.png",
+     "x": 1010,
+     "y": 290,
+     "w": 150,
+     "from": 3.6,
+     "keys": [
+      {
+       "t": 3.6,
+       "y": 308,
+       "alpha": 0
+      },
+      {
+       "t": 3.85,
+       "y": 290,
+       "alpha": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 12.35,
+   "end": 13.95,
+   "layers": [
+    {
+     "type": "image",
+     "path": "art/window.png",
+     "x": 640,
+     "y": 80,
+     "w": 420
+    },
+    {
+     "type": "image",
+     "path": "art/you-window.png",
+     "x": 240,
+     "y": 57,
+     "w": 420
+    }
+   ]
+  },
+  {
+   "start": 13.95,
+   "end": 15.6,
+   "layers": [
+    {
+     "type": "image",
+     "path": "art/dog.png",
+     "x": 668,
+     "y": 515,
+     "w": 115
+    },
+    {
+     "type": "image",
+     "path": "art/p-barista.png",
+     "x": -25,
+     "y": 148,
+     "w": 350
+    },
+    {
+     "type": "text",
+     "text": "$29,000",
+     "x": 83.5,
+     "y": 191,
+     "size": 34,
+     "bold": true,
+     "color": "#2F8A4A",
+     "w": 260,
+     "from": 0.05,
+     "keys": [
+      {
+       "t": 0.05,
+       "y": 209,
+       "alpha": 0
+      },
+      {
+       "t": 0.3,
+       "y": 191,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "art/p-suit.png",
+     "x": 215,
+     "y": 148,
+     "w": 350
+    },
+    {
+     "type": "text",
+     "text": "$34,000",
+     "x": 323.5,
+     "y": 191,
+     "size": 34,
+     "bold": true,
+     "color": "#2F8A4A",
+     "w": 260,
+     "from": 0.33,
+     "keys": [
+      {
+       "t": 0.33,
+       "y": 209,
+       "alpha": 0
+      },
+      {
+       "t": 0.5800000000000001,
+       "y": 191,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "art/p-dogwalker.png",
+     "x": 455,
+     "y": 148,
+     "w": 350
+    },
+    {
+     "type": "text",
+     "text": "$1,250,000",
+     "x": 535,
+     "y": 191,
+     "size": 34,
+     "bold": true,
+     "color": "#2F8A4A",
+     "w": 260,
+     "from": 0.6100000000000001,
+     "keys": [
+      {
+       "t": 0.6100000000000001,
+       "y": 209,
+       "alpha": 0
+      },
+      {
+       "t": 0.8600000000000001,
+       "y": 191,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "art/p-jogger.png",
+     "x": 705,
+     "y": 148,
+     "w": 350
+    },
+    {
+     "type": "text",
+     "text": "$96,500",
+     "x": 813.5,
+     "y": 191,
+     "size": 34,
+     "bold": true,
+     "color": "#2F8A4A",
+     "w": 260,
+     "from": 0.8900000000000001,
+     "keys": [
+      {
+       "t": 0.8900000000000001,
+       "y": 209,
+       "alpha": 0
+      },
+      {
+       "t": 1.1400000000000001,
+       "y": 191,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "art/p-kid.png",
+     "x": 945,
+     "y": 148,
+     "w": 350
+    },
+    {
+     "type": "text",
+     "text": "$340,000",
+     "x": 1044,
+     "y": 191,
+     "size": 34,
+     "bold": true,
+     "color": "#2F8A4A",
+     "w": 260,
+     "from": 1.1700000000000002,
+     "keys": [
+      {
+       "t": 1.1700000000000002,
+       "y": 209,
+       "alpha": 0
+      },
+      {
+       "t": 1.4200000000000002,
+       "y": 191,
+       "alpha": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 15.6,
+   "end": 19.55,
+   "layers": [
+    {
+     "type": "text",
+     "text": "7 DAYS.",
+     "x": 90,
+     "y": 60,
+     "size": 66,
+     "bold": true
+    },
+    {
+     "type": "image",
+     "path": "art/calendar.png",
+     "x": 90,
+     "y": 170,
+     "w": 560,
+     "keys": [
+      {
+       "t": 0,
+       "alpha": 0
+      },
+      {
+       "t": 0.35,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "EVERY SALARY.",
+     "x": 90,
+     "y": 455,
+     "size": 52,
+     "bold": true,
+     "color": "#EC4338",
+     "from": 1.4,
+     "keys": [
+      {
+       "t": 1.4,
+       "y": 473,
+       "alpha": 0
+      },
+      {
+       "t": 1.65,
+       "y": 455,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "art/you-amazed.png",
+     "x": 743,
+     "y": 39,
+     "w": 434
+    }
+   ]
+  },
+  {
+   "start": 19.55,
+   "end": 23.6,
+   "layers": [
+    {
+     "type": "text",
+     "text": "7 DAYS.",
+     "x": 90,
+     "y": 60,
+     "size": 66,
+     "bold": true
+    },
+    {
+     "type": "image",
+     "path": "art/calendar.png",
+     "x": 90,
+     "y": 170,
+     "w": 560,
+     "to": 0.45
+    },
+    {
+     "type": "image",
+     "path": "art/calendar-day7.png",
+     "x": 90,
+     "y": 170,
+     "w": 560,
+     "from": 0.45
+    },
+    {
+     "type": "text",
+     "text": "$?,???,???",
+     "x": 700,
+     "y": 62,
+     "size": 58,
+     "bold": true,
+     "color": "#EC4338",
+     "from": 1.4,
+     "keys": [
+      {
+       "t": 1.4,
+       "y": 80,
+       "alpha": 0
+      },
+      {
+       "t": 1.65,
+       "y": 62,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "art/you-amazed.png",
+     "x": 743,
+     "y": 39,
+     "w": 434,
+     "to": 2.6
+    },
+    {
+     "type": "image",
+     "path": "art/you-nervous.png",
+     "x": 743,
+     "y": 39,
+     "w": 434,
+     "from": 2.6
+    }
+   ]
+  },
+  {
+   "start": 23.6,
+   "end": 26.51,
+   "layers": [
+    {
+     "type": "text",
+     "text": "DAY 1",
+     "x": 80,
+     "y": 40,
+     "size": 70,
+     "bold": true,
+     "color": "#EC4338"
+    },
+    {
+     "type": "underline",
+     "x": 82,
+     "y": 118,
+     "w": 200,
+     "color": "#EC4338",
+     "keys": [
+      {
+       "t": 0,
+       "progress": 0
+      },
+      {
+       "t": 0.5,
+       "progress": 1
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-a.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 0,
+     "to": 0.35
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-b.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 0.35,
+     "to": 0.7
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-a.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 0.7,
+     "to": 1.05
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-b.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 1.05,
+     "to": 1.4
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-a.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 1.4,
+     "to": 1.75
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-b.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 1.75,
+     "to": 2.1
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-a.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 2.1,
+     "to": 2.45
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-b.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 2.45,
+     "to": 2.8
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-a.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 2.8,
+     "to": 2.91
+    },
+    {
+     "type": "text",
+     "text": "$41,200",
+     "x": 578,
+     "y": 53,
+     "size": 34,
+     "bold": true,
+     "color": "#2F8A4A",
+     "w": 400
+    },
+    {
+     "type": "image",
+     "path": "art/building.png",
+     "x": 980,
+     "y": 150,
+     "w": 230
+    },
+    {
+     "type": "image",
+     "path": "art/building.png",
+     "x": 60,
+     "y": 190,
+     "w": 190
+    }
+   ]
+  },
+  {
+   "start": 26.51,
+   "end": 29.92,
+   "layers": [
+    {
+     "type": "image",
+     "path": "art/p-barista.png",
+     "x": 47,
+     "y": 102,
+     "w": 385
+    },
+    {
+     "type": "image",
+     "path": "art/coffee.png",
+     "x": 300,
+     "y": 330,
+     "w": 60
+    },
+    {
+     "type": "text",
+     "text": "$29,000",
+     "x": 178,
+     "y": 151,
+     "size": 34,
+     "bold": true,
+     "color": "#2F8A4A",
+     "w": 400,
+     "from": 1.54,
+     "keys": [
+      {
+       "t": 1.54,
+       "y": 169,
+       "alpha": 0
+      },
+      {
+       "t": 1.79,
+       "y": 151,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "art/p-suit.png",
+     "x": 368,
+     "y": 102,
+     "w": 385
+    },
+    {
+     "type": "text",
+     "text": "$34,000",
+     "x": 498,
+     "y": 151,
+     "size": 34,
+     "bold": true,
+     "color": "#2F8A4A",
+     "w": 400,
+     "from": 0.1,
+     "keys": [
+      {
+       "t": 0.1,
+       "y": 169,
+       "alpha": 0
+      },
+      {
+       "t": 0.35,
+       "y": 151,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "art/you-skeptic.png",
+     "x": 763,
+     "y": 39,
+     "w": 434,
+     "from": 0.8
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-a.png",
+     "x": 763,
+     "y": 39,
+     "w": 434,
+     "to": 0.8
+    }
+   ]
+  },
+  {
+   "start": 29.92,
+   "end": 34.01,
+   "layers": [
+    {
+     "type": "image",
+     "path": "art/p-dogwalker.png",
+     "x": 170,
+     "y": 57,
+     "w": 420
+    },
+    {
+     "type": "image",
+     "path": "art/dog.png",
+     "x": 470,
+     "y": 500,
+     "w": 130,
+     "keys": [
+      {
+       "t": 0,
+       "x": 440
+      },
+      {
+       "t": 2,
+       "x": 480
+      },
+      {
+       "t": 4,
+       "x": 470
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "$1,250,000",
+     "x": 260,
+     "y": 103,
+     "size": 46,
+     "bold": true,
+     "color": "#2F8A4A",
+     "w": 400,
+     "from": 1.67,
+     "keys": [
+      {
+       "t": 1.67,
+       "y": 121,
+       "alpha": 0
+      },
+      {
+       "t": 1.92,
+       "y": 103,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "art/you-skeptic.png",
+     "x": 733,
+     "y": 39,
+     "w": 434,
+     "to": 1.97
+    },
+    {
+     "type": "image",
+     "path": "art/you-surprised.png",
+     "x": 733,
+     "y": 39,
+     "w": 434,
+     "from": 1.97
+    }
+   ]
+  },
+  {
+   "start": 34.01,
+   "end": 40.29,
+   "layers": [
+    {
+     "type": "text",
+     "text": "LESSON ONE",
+     "x": 80,
+     "y": 70,
+     "size": 54,
+     "bold": true,
+     "color": "#EC4338"
+    },
+    {
+     "type": "text",
+     "text": "CLOTHES LIE.",
+     "x": 80,
+     "y": 180,
+     "size": 92,
+     "bold": true,
+     "from": 0.6,
+     "keys": [
+      {
+       "t": 0.6,
+       "y": 198,
+       "alpha": 0
+      },
+      {
+       "t": 0.85,
+       "y": 180,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "NUMBERS DON'T.",
+     "x": 80,
+     "y": 310,
+     "size": 92,
+     "bold": true,
+     "color": "#2F8A4A",
+     "from": 2.78,
+     "keys": [
+      {
+       "t": 2.78,
+       "y": 328,
+       "alpha": 0
+      },
+      {
+       "t": 3.03,
+       "y": 310,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "art/p-suit.png",
+     "x": 725,
+     "y": 148,
+     "w": 350
+    },
+    {
+     "type": "text",
+     "text": "$34,000",
+     "x": 838,
+     "y": 187,
+     "size": 34,
+     "bold": true,
+     "color": "#2F8A4A",
+     "w": 400
+    },
+    {
+     "type": "image",
+     "path": "art/p-dogwalker.png",
+     "x": 945,
+     "y": 148,
+     "w": 350
+    },
+    {
+     "type": "text",
+     "text": "$1,250,000",
+     "x": 1032,
+     "y": 187,
+     "size": 34,
+     "bold": true,
+     "color": "#2F8A4A",
+     "w": 400
+    }
+   ]
+  },
+  {
+   "start": 40.29,
+   "end": 48.33,
+   "layers": [
+    {
+     "type": "text",
+     "text": "IT GETS STRANGER.",
+     "x": 80,
+     "y": 60,
+     "size": 54,
+     "bold": true
+    },
+    {
+     "type": "image",
+     "path": "art/skater.png",
+     "x": 245,
+     "y": 108,
+     "w": 350,
+     "keys": [
+      {
+       "t": 0,
+       "x": 150
+      },
+      {
+       "t": 3,
+       "x": 230
+      },
+      {
+       "t": 7,
+       "x": 250
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "art/skateboard.png",
+     "x": 330,
+     "y": 540,
+     "w": 200,
+     "keys": [
+      {
+       "t": 0,
+       "x": 330
+      },
+      {
+       "t": 3,
+       "x": 410
+      },
+      {
+       "t": 7,
+       "x": 430
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "$340,000",
+     "x": 380,
+     "y": 140,
+     "size": 46,
+     "bold": true,
+     "color": "#2F8A4A",
+     "from": 1.9200000000000002,
+     "keys": [
+      {
+       "t": 1.9200000000000002,
+       "y": 158,
+       "alpha": 0
+      },
+      {
+       "t": 2.17,
+       "y": 140,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "> YOUR WHOLE OFFICE FLOOR",
+     "x": 660,
+     "y": 300,
+     "size": 40,
+     "bold": true,
+     "color": "#EC4338",
+     "w": 600,
+     "from": 3.26,
+     "keys": [
+      {
+       "t": 3.26,
+       "y": 318,
+       "alpha": 0
+      },
+      {
+       "t": 3.51,
+       "y": 300,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "(skateboarding videos)",
+     "x": 660,
+     "y": 380,
+     "size": 36,
+     "from": 5.42,
+     "keys": [
+      {
+       "t": 5.42,
+       "y": 398,
+       "alpha": 0
+      },
+      {
+       "t": 5.67,
+       "y": 380,
+       "alpha": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 48.33,
+   "end": 53.21,
+   "layers": [
+    {
+     "type": "image",
+     "path": "art/skater.png",
+     "x": 73,
+     "y": 193,
+     "w": 315
+    },
+    {
+     "type": "text",
+     "text": "$340,000",
+     "x": 159,
+     "y": 222,
+     "size": 34,
+     "bold": true,
+     "color": "#2F8A4A",
+     "w": 400
+    },
+    {
+     "type": "image",
+     "path": "art/nurse.png",
+     "x": 543,
+     "y": 39,
+     "w": 434,
+     "from": 0,
+     "to": 0.4
+    },
+    {
+     "type": "image",
+     "path": "art/nurse.png",
+     "x": 553,
+     "y": 39,
+     "w": 434,
+     "from": 0.4,
+     "to": 0.8
+    },
+    {
+     "type": "image",
+     "path": "art/nurse.png",
+     "x": 543,
+     "y": 39,
+     "w": 434,
+     "from": 0.8,
+     "to": 1.2
+    },
+    {
+     "type": "image",
+     "path": "art/nurse.png",
+     "x": 553,
+     "y": 39,
+     "w": 434,
+     "from": 1.2,
+     "to": 1.6
+    },
+    {
+     "type": "image",
+     "path": "art/nurse.png",
+     "x": 543,
+     "y": 39,
+     "w": 434,
+     "from": 1.6,
+     "to": 2
+    },
+    {
+     "type": "image",
+     "path": "art/nurse.png",
+     "x": 553,
+     "y": 39,
+     "w": 434,
+     "from": 2,
+     "to": 2.4
+    },
+    {
+     "type": "image",
+     "path": "art/nurse.png",
+     "x": 543,
+     "y": 39,
+     "w": 434,
+     "from": 2.4,
+     "to": 2.8
+    },
+    {
+     "type": "image",
+     "path": "art/nurse.png",
+     "x": 553,
+     "y": 39,
+     "w": 434,
+     "from": 2.8,
+     "to": 3.2
+    },
+    {
+     "type": "image",
+     "path": "art/nurse.png",
+     "x": 543,
+     "y": 39,
+     "w": 434,
+     "from": 3.2,
+     "to": 3.6
+    },
+    {
+     "type": "image",
+     "path": "art/nurse.png",
+     "x": 553,
+     "y": 39,
+     "w": 434,
+     "from": 3.6,
+     "to": 4
+    },
+    {
+     "type": "image",
+     "path": "art/nurse.png",
+     "x": 543,
+     "y": 39,
+     "w": 434,
+     "from": 4,
+     "to": 4.4
+    },
+    {
+     "type": "image",
+     "path": "art/nurse.png",
+     "x": 553,
+     "y": 39,
+     "w": 434,
+     "from": 4.4,
+     "to": 4.8
+    },
+    {
+     "type": "image",
+     "path": "art/nurse.png",
+     "x": 543,
+     "y": 39,
+     "w": 434,
+     "from": 4.8,
+     "to": 4.88
+    },
+    {
+     "type": "text",
+     "text": "12-HOUR NIGHT SHIFT",
+     "x": 330,
+     "y": 480,
+     "size": 42,
+     "bold": true,
+     "from": 0.6,
+     "keys": [
+      {
+       "t": 0.6,
+       "y": 498,
+       "alpha": 0
+      },
+      {
+       "t": 0.85,
+       "y": 480,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "$71,000",
+     "x": 676,
+     "y": 89,
+     "size": 46,
+     "bold": true,
+     "color": "#2F8A4A",
+     "w": 400,
+     "from": 1.92,
+     "keys": [
+      {
+       "t": 1.92,
+       "y": 107,
+       "alpha": 0
+      },
+      {
+       "t": 2.17,
+       "y": 89,
+       "alpha": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 53.21,
+   "end": 64.63,
+   "layers": [
+    {
+     "type": "image",
+     "path": "art/p-barista.png",
+     "x": -37,
+     "y": 220,
+     "w": 294
+    },
+    {
+     "type": "text",
+     "text": "$29,000",
+     "x": 59,
+     "y": 250,
+     "size": 28,
+     "bold": true,
+     "color": "#2F8A4A",
+     "w": 400,
+     "from": 0.2,
+     "keys": [
+      {
+       "t": 0.2,
+       "y": 268,
+       "alpha": 0
+      },
+      {
+       "t": 0.45,
+       "y": 250,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "art/p-suit.png",
+     "x": 143,
+     "y": 220,
+     "w": 294
+    },
+    {
+     "type": "text",
+     "text": "$34,000",
+     "x": 239,
+     "y": 250,
+     "size": 28,
+     "bold": true,
+     "color": "#2F8A4A",
+     "w": 400,
+     "from": 0.6000000000000001,
+     "keys": [
+      {
+       "t": 0.6000000000000001,
+       "y": 268,
+       "alpha": 0
+      },
+      {
+       "t": 0.8500000000000001,
+       "y": 250,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "art/nurse.png",
+     "x": 323,
+     "y": 220,
+     "w": 294
+    },
+    {
+     "type": "text",
+     "text": "$71,000",
+     "x": 419,
+     "y": 250,
+     "size": 28,
+     "bold": true,
+     "color": "#2F8A4A",
+     "w": 400,
+     "from": 1,
+     "keys": [
+      {
+       "t": 1,
+       "y": 268,
+       "alpha": 0
+      },
+      {
+       "t": 1.25,
+       "y": 250,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "art/p-jogger.png",
+     "x": 683,
+     "y": 220,
+     "w": 294
+    },
+    {
+     "type": "text",
+     "text": "$96,500",
+     "x": 779,
+     "y": 250,
+     "size": 28,
+     "bold": true,
+     "color": "#2F8A4A",
+     "w": 400,
+     "from": 1.4000000000000001,
+     "keys": [
+      {
+       "t": 1.4000000000000001,
+       "y": 268,
+       "alpha": 0
+      },
+      {
+       "t": 1.6500000000000001,
+       "y": 250,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "art/skater.png",
+     "x": 863,
+     "y": 220,
+     "w": 294
+    },
+    {
+     "type": "text",
+     "text": "$340,000",
+     "x": 952,
+     "y": 250,
+     "size": 28,
+     "bold": true,
+     "color": "#2F8A4A",
+     "w": 400,
+     "from": 1.8,
+     "keys": [
+      {
+       "t": 1.8,
+       "y": 268,
+       "alpha": 0
+      },
+      {
+       "t": 2.05,
+       "y": 250,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "art/p-dogwalker.png",
+     "x": 1033,
+     "y": 220,
+     "w": 294
+    },
+    {
+     "type": "text",
+     "text": "$1,250,000",
+     "x": 1107,
+     "y": 250,
+     "size": 28,
+     "bold": true,
+     "color": "#2F8A4A",
+     "w": 400,
+     "from": 2.2,
+     "keys": [
+      {
+       "t": 2.2,
+       "y": 268,
+       "alpha": 0
+      },
+      {
+       "t": 2.45,
+       "y": 250,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "art/you-surprised.png",
+     "x": 475,
+     "y": 148,
+     "w": 350
+    },
+    {
+     "type": "text",
+     "text": "$41,200",
+     "x": 595,
+     "y": 152,
+     "size": 30,
+     "bold": true,
+     "color": "#2F8A4A",
+     "w": 400
+    },
+    {
+     "type": "text",
+     "text": "WHAT THE WORLD ACTUALLY PAYS FOR.",
+     "x": 120,
+     "y": 50,
+     "size": 50,
+     "bold": true,
+     "color": "#EC4338",
+     "from": 8.66,
+     "keys": [
+      {
+       "t": 8.66,
+       "y": 68,
+       "alpha": 0
+      },
+      {
+       "t": 8.91,
+       "y": 50,
+       "alpha": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 64.63,
+   "end": 66.93,
+   "layers": [
+    {
+     "type": "text",
+     "text": "DAY 2",
+     "x": 80,
+     "y": 40,
+     "size": 70,
+     "bold": true,
+     "color": "#EC4338"
+    },
+    {
+     "type": "underline",
+     "x": 82,
+     "y": 118,
+     "w": 200,
+     "color": "#EC4338",
+     "keys": [
+      {
+       "t": 0,
+       "progress": 0
+      },
+      {
+       "t": 0.5,
+       "progress": 1
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "art/desk.png",
+     "x": 330,
+     "y": 270,
+     "w": 400
+    },
+    {
+     "type": "image",
+     "path": "art/chair.png",
+     "x": 300,
+     "y": 380,
+     "w": 120
+    },
+    {
+     "type": "image",
+     "path": "art/you-sit-type.png",
+     "x": 163,
+     "y": 129,
+     "w": 434
+    },
+    {
+     "type": "text",
+     "text": "$41,200",
+     "x": 318,
+     "y": 143,
+     "size": 34,
+     "bold": true,
+     "color": "#2F8A4A",
+     "w": 400
+    },
+    {
+     "type": "image",
+     "path": "art/building.png",
+     "x": 1000,
+     "y": 160,
+     "w": 200,
+     "from": 0,
+     "to": 0.6
+    },
+    {
+     "type": "image",
+     "path": "art/building.png",
+     "x": 1000,
+     "y": 162,
+     "w": 200,
+     "from": 0.6,
+     "to": 1.2
+    },
+    {
+     "type": "image",
+     "path": "art/building.png",
+     "x": 1000,
+     "y": 160,
+     "w": 200,
+     "from": 1.2,
+     "to": 1.8
+    },
+    {
+     "type": "image",
+     "path": "art/building.png",
+     "x": 1000,
+     "y": 162,
+     "w": 200,
+     "from": 1.8,
+     "to": 2.3
+    }
+   ]
+  },
+  {
+   "start": 66.93,
+   "end": 71.33,
+   "layers": [
+    {
+     "type": "image",
+     "path": "art/desk.png",
+     "x": 80,
+     "y": 270,
+     "w": 360
+    },
+    {
+     "type": "image",
+     "path": "art/you-sit-type.png",
+     "x": -53,
+     "y": 192,
+     "w": 385
+    },
+    {
+     "type": "text",
+     "text": "$41,200",
+     "x": 78,
+     "y": 198,
+     "size": 34,
+     "bold": true,
+     "color": "#2F8A4A",
+     "w": 400
+    },
+    {
+     "type": "image",
+     "path": "art/desk.png",
+     "x": 720,
+     "y": 270,
+     "w": 400
+    },
+    {
+     "type": "image",
+     "path": "art/kevin-phone.png",
+     "x": 783,
+     "y": 129,
+     "w": 434
+    },
+    {
+     "type": "text",
+     "text": "$58,000",
+     "x": 907,
+     "y": 185,
+     "size": 40,
+     "bold": true,
+     "color": "#2F8A4A",
+     "w": 400,
+     "from": 0.1,
+     "keys": [
+      {
+       "t": 0.1,
+       "y": 203,
+       "alpha": 0
+      },
+      {
+       "t": 0.35,
+       "y": 185,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "KEVIN.",
+     "x": 760,
+     "y": 50,
+     "size": 60,
+     "bold": true,
+     "from": 0,
+     "keys": [
+      {
+       "t": 0,
+       "y": 68,
+       "alpha": 0
+      },
+      {
+       "t": 0.25,
+       "y": 50,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "\"TEAMWORK\"",
+     "x": 760,
+     "y": 125,
+     "size": 44,
+     "bold": true,
+     "color": "#EC4338",
+     "from": 1.56,
+     "keys": [
+      {
+       "t": 1.56,
+       "y": 143,
+       "alpha": 0
+      },
+      {
+       "t": 1.81,
+       "y": 125,
+       "alpha": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 71.33,
+   "end": 75.61,
+   "layers": [
+    {
+     "type": "image",
+     "path": "art/desk.png",
+     "x": 80,
+     "y": 270,
+     "w": 360
+    },
+    {
+     "type": "image",
+     "path": "art/you-sit-type.png",
+     "x": -53,
+     "y": 192,
+     "w": 385,
+     "to": 1.547
+    },
+    {
+     "type": "image",
+     "path": "art/you-sit-snap.png",
+     "x": -53,
+     "y": 192,
+     "w": 385,
+     "from": 1.547
+    },
+    {
+     "type": "text",
+     "text": "$41,200",
+     "x": 78,
+     "y": 198,
+     "size": 34,
+     "bold": true,
+     "color": "#2F8A4A",
+     "w": 400
+    },
+    {
+     "type": "image",
+     "path": "art/desk.png",
+     "x": 720,
+     "y": 270,
+     "w": 400
+    },
+    {
+     "type": "image",
+     "path": "art/kevin-phone.png",
+     "x": 783,
+     "y": 129,
+     "w": 434
+    },
+    {
+     "type": "text",
+     "text": "$58,000",
+     "x": 907,
+     "y": 185,
+     "size": 40,
+     "bold": true,
+     "color": "#2F8A4A",
+     "w": 400
+    },
+    {
+     "type": "text",
+     "text": "+ $16,800",
+     "x": 470,
+     "y": 160,
+     "size": 80,
+     "bold": true,
+     "color": "#EC4338",
+     "from": 0.8,
+     "keys": [
+      {
+       "t": 0.8,
+       "y": 178,
+       "alpha": 0
+      },
+      {
+       "t": 1.05,
+       "y": 160,
+       "alpha": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 75.61,
+   "end": 82.43,
+   "layers": [
+    {
+     "type": "image",
+     "path": "art/q1.png",
+     "x": 5,
+     "y": 148,
+     "w": 350
+    },
+    {
+     "type": "text",
+     "text": "$ ? ? ?",
+     "x": 114,
+     "y": 185,
+     "size": 36,
+     "bold": true,
+     "color": "#EC4338",
+     "w": 400,
+     "from": 2.82,
+     "keys": [
+      {
+       "t": 2.82,
+       "y": 203,
+       "alpha": 0
+      },
+      {
+       "t": 3.07,
+       "y": 185,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "art/q4.png",
+     "x": 255,
+     "y": 148,
+     "w": 350
+    },
+    {
+     "type": "text",
+     "text": "$ ? ? ?",
+     "x": 364,
+     "y": 185,
+     "size": 36,
+     "bold": true,
+     "color": "#EC4338",
+     "w": 400,
+     "from": 3.1199999999999997,
+     "keys": [
+      {
+       "t": 3.1199999999999997,
+       "y": 203,
+       "alpha": 0
+      },
+      {
+       "t": 3.3699999999999997,
+       "y": 185,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "art/q3.png",
+     "x": 505,
+     "y": 148,
+     "w": 350
+    },
+    {
+     "type": "text",
+     "text": "$ ? ? ?",
+     "x": 614,
+     "y": 185,
+     "size": 36,
+     "bold": true,
+     "color": "#EC4338",
+     "w": 400,
+     "from": 3.42,
+     "keys": [
+      {
+       "t": 3.42,
+       "y": 203,
+       "alpha": 0
+      },
+      {
+       "t": 3.67,
+       "y": 185,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "art/q2.png",
+     "x": 755,
+     "y": 148,
+     "w": 350
+    },
+    {
+     "type": "text",
+     "text": "$ ? ? ?",
+     "x": 864,
+     "y": 185,
+     "size": 36,
+     "bold": true,
+     "color": "#EC4338",
+     "w": 400,
+     "from": 3.7199999999999998,
+     "keys": [
+      {
+       "t": 3.7199999999999998,
+       "y": 203,
+       "alpha": 0
+      },
+      {
+       "t": 3.9699999999999998,
+       "y": 185,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "NOBODY TALKS ABOUT PAY.",
+     "x": 80,
+     "y": 50,
+     "size": 54,
+     "bold": true,
+     "from": 0.3,
+     "keys": [
+      {
+       "t": 0.3,
+       "y": 68,
+       "alpha": 0
+      },
+      {
+       "t": 0.55,
+       "y": 50,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "gaps hide for years",
+     "x": 1000,
+     "y": 300,
+     "size": 40,
+     "bold": true,
+     "color": "#EC4338",
+     "w": 260,
+     "from": 4.26,
+     "keys": [
+      {
+       "t": 4.26,
+       "y": 318,
+       "alpha": 0
+      },
+      {
+       "t": 4.51,
+       "y": 300,
+       "alpha": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 82.43,
+   "end": 93.33,
+   "layers": [
+    {
+     "type": "text",
+     "text": "SALARY RANGES IN JOB ADS",
+     "x": 80,
+     "y": 50,
+     "size": 54,
+     "bold": true,
+     "from": 0.2,
+     "keys": [
+      {
+       "t": 0.2,
+       "y": 68,
+       "alpha": 0
+      },
+      {
+       "t": 0.45,
+       "y": 50,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "art/map.png",
+     "x": 120,
+     "y": 160,
+     "w": 560,
+     "from": 3.8,
+     "keys": [
+      {
+       "t": 3.8,
+       "y": 178,
+       "alpha": 0
+      },
+      {
+       "t": 4.05,
+       "y": 160,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "pay gaps must be explained",
+     "x": 700,
+     "y": 230,
+     "size": 40,
+     "bold": true,
+     "color": "#2F8A4A",
+     "w": 360,
+     "from": 6.42,
+     "keys": [
+      {
+       "t": 6.42,
+       "y": 248,
+       "alpha": 0
+      },
+      {
+       "t": 6.67,
+       "y": 230,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "art/you-think.png",
+     "x": 958,
+     "y": 102,
+     "w": 385
+    }
+   ]
+  },
+  {
+   "start": 93.33,
+   "end": 98.01,
+   "layers": [
+    {
+     "type": "text",
+     "text": "THE SECRET SALARY",
+     "x": 120,
+     "y": 200,
+     "size": 86,
+     "bold": true
+    },
+    {
+     "type": "line",
+     "points": [
+      [
+       110,
+       260
+      ],
+      [
+       880,
+       250
+      ]
+     ],
+     "color": "#EC4338",
+     "lineWidth": 9,
+     "keys": [
+      {
+       "t": 0.4,
+       "progress": 0
+      },
+      {
+       "t": 1.2,
+       "progress": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "...IS DYING.",
+     "x": 140,
+     "y": 330,
+     "size": 66,
+     "bold": true,
+     "color": "#EC4338",
+     "from": 1.2,
+     "keys": [
+      {
+       "t": 1.2,
+       "y": 348,
+       "alpha": 0
+      },
+      {
+       "t": 1.45,
+       "y": 330,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "art/you-grin.png",
+     "x": 843,
+     "y": 39,
+     "w": 434,
+     "from": 2.84
+    },
+    {
+     "type": "image",
+     "path": "art/you-think.png",
+     "x": 843,
+     "y": 39,
+     "w": 434,
+     "to": 2.84
+    }
+   ]
+  },
+  {
+   "start": 98.01,
+   "end": 105.25,
+   "layers": [
+    {
+     "type": "text",
+     "text": "DAY 3",
+     "x": 80,
+     "y": 40,
+     "size": 70,
+     "bold": true,
+     "color": "#EC4338"
+    },
+    {
+     "type": "underline",
+     "x": 82,
+     "y": 118,
+     "w": 200,
+     "color": "#EC4338",
+     "keys": [
+      {
+       "t": 0,
+       "progress": 0
+      },
+      {
+       "t": 0.5,
+       "progress": 1
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "art/door-boss.png",
+     "x": 780,
+     "y": 210,
+     "w": 200
+    },
+    {
+     "type": "image",
+     "path": "art/you-folder.png",
+     "x": 343,
+     "y": 39,
+     "w": 434,
+     "from": 0,
+     "to": 1.2
+    },
+    {
+     "type": "image",
+     "path": "art/you-confident.png",
+     "x": 343,
+     "y": 39,
+     "w": 434,
+     "from": 1.2,
+     "to": 2.4
+    },
+    {
+     "type": "image",
+     "path": "art/you-folder.png",
+     "x": 343,
+     "y": 39,
+     "w": 434,
+     "from": 2.4,
+     "to": 2.44
+    },
+    {
+     "type": "image",
+     "path": "art/you-folder.png",
+     "x": 343,
+     "y": 39,
+     "w": 434,
+     "from": 2.44
+    },
+    {
+     "type": "image",
+     "path": "art/folder.png",
+     "x": 640,
+     "y": 300,
+     "w": 90
+    },
+    {
+     "type": "text",
+     "text": "$41,200",
+     "x": 498,
+     "y": 53,
+     "size": 34,
+     "bold": true,
+     "color": "#2F8A4A",
+     "w": 400
+    },
+    {
+     "type": "text",
+     "text": "ASK FOR A RAISE.",
+     "x": 80,
+     "y": 200,
+     "size": 56,
+     "bold": true,
+     "from": 2.44,
+     "keys": [
+      {
+       "t": 2.44,
+       "y": 218,
+       "alpha": 0
+      },
+      {
+       "t": 2.69,
+       "y": 200,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "unfair advantage",
+     "x": 80,
+     "y": 290,
+     "size": 44,
+     "bold": true,
+     "color": "#EC4338",
+     "from": 5.44,
+     "keys": [
+      {
+       "t": 5.44,
+       "y": 308,
+       "alpha": 0
+      },
+      {
+       "t": 5.69,
+       "y": 290,
+       "alpha": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 105.25,
+   "end": 108.55,
+   "layers": [
+    {
+     "type": "image",
+     "path": "art/desk.png",
+     "x": 620,
+     "y": 300,
+     "w": 380
+    },
+    {
+     "type": "image",
+     "path": "art/boss.png",
+     "x": 743,
+     "y": 39,
+     "w": 434
+    },
+    {
+     "type": "text",
+     "text": "$212,000",
+     "x": 889,
+     "y": 101,
+     "size": 34,
+     "bold": true,
+     "color": "#2F8A4A",
+     "w": 400
+    },
+    {
+     "type": "image",
+     "path": "art/doc-budget.png",
+     "x": 700,
+     "y": 130,
+     "w": 230,
+     "from": 0.1,
+     "keys": [
+      {
+       "t": 0.1,
+       "y": 148,
+       "alpha": 0
+      },
+      {
+       "t": 0.35,
+       "y": 130,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "art/you-folder.png",
+     "x": 83,
+     "y": 39,
+     "w": 434
+    },
+    {
+     "type": "text",
+     "text": "$41,200",
+     "x": 238,
+     "y": 53,
+     "size": 34,
+     "bold": true,
+     "color": "#2F8A4A",
+     "w": 400
+    },
+    {
+     "type": "text",
+     "text": "what the role is worth",
+     "x": 380,
+     "y": 40,
+     "size": 40,
+     "bold": true,
+     "color": "#2F8A4A",
+     "w": 420,
+     "from": 1.72,
+     "keys": [
+      {
+       "t": 1.72,
+       "y": 58,
+       "alpha": 0
+      },
+      {
+       "t": 1.97,
+       "y": 40,
+       "alpha": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 108.55,
+   "end": 111.29,
+   "layers": [
+    {
+     "type": "text",
+     "text": "NO GUESSING.",
+     "x": 80,
+     "y": 80,
+     "size": 64,
+     "bold": true,
+     "from": 0,
+     "keys": [
+      {
+       "t": 0,
+       "y": 98,
+       "alpha": 0
+      },
+      {
+       "t": 0.25,
+       "y": 80,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "NO SORRY.",
+     "x": 80,
+     "y": 170,
+     "size": 64,
+     "bold": true,
+     "from": 0.88,
+     "keys": [
+      {
+       "t": 0.88,
+       "y": 188,
+       "alpha": 0
+      },
+      {
+       "t": 1.13,
+       "y": 170,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "art/you-confident.png",
+     "x": 303,
+     "y": 39,
+     "w": 434,
+     "from": 2.02
+    },
+    {
+     "type": "image",
+     "path": "art/you-folder.png",
+     "x": 303,
+     "y": 39,
+     "w": 434,
+     "to": 2.02
+    },
+    {
+     "type": "text",
+     "text": "\"$55,000.\"",
+     "x": 660,
+     "y": 180,
+     "size": 72,
+     "bold": true,
+     "color": "#2F8A4A",
+     "from": 2.02,
+     "keys": [
+      {
+       "t": 2.02,
+       "y": 198,
+       "alpha": 0
+      },
+      {
+       "t": 2.27,
+       "y": 180,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "art/boss.png",
+     "x": 803,
+     "y": 39,
+     "w": 434
+    }
+   ]
+  },
+  {
+   "start": 111.29,
+   "end": 113.83,
+   "layers": [
+    {
+     "type": "image",
+     "path": "art/boss-sweat.png",
+     "x": 733,
+     "y": 39,
+     "w": 434,
+     "to": 0.9
+    },
+    {
+     "type": "image",
+     "path": "art/boss-nod.png",
+     "x": 733,
+     "y": 39,
+     "w": 434,
+     "from": 0.9
+    },
+    {
+     "type": "text",
+     "text": "\"...fifty-five?\"",
+     "x": 820,
+     "y": 120,
+     "size": 50,
+     "bold": true,
+     "from": 0.1,
+     "keys": [
+      {
+       "t": 0.1,
+       "y": 138,
+       "alpha": 0
+      },
+      {
+       "t": 0.35,
+       "y": 120,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "art/you-grin.png",
+     "x": 113,
+     "y": 39,
+     "w": 434
+    },
+    {
+     "type": "text",
+     "text": "$41,200",
+     "x": 260,
+     "y": 50,
+     "size": 40,
+     "bold": true,
+     "color": "#2F8A4A",
+     "to": 1.3
+    },
+    {
+     "type": "text",
+     "text": "$55,000",
+     "x": 260,
+     "y": 50,
+     "size": 46,
+     "bold": true,
+     "color": "#2F8A4A",
+     "from": 1.3,
+     "keys": [
+      {
+       "t": 1.3,
+       "y": 68,
+       "alpha": 0
+      },
+      {
+       "t": 1.55,
+       "y": 50,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "line",
+     "points": [
+      [
+       255,
+       125
+      ],
+      [
+       400,
+       118
+      ]
+     ],
+     "color": "#EC4338",
+     "lineWidth": 6,
+     "from": 1.1,
+     "to": 1.3
+    }
+   ]
+  },
+  {
+   "start": 113.83,
+   "end": 121.29,
+   "layers": [
+    {
+     "type": "text",
+     "text": "MOST PEOPLE NEVER ASK.",
+     "x": 80,
+     "y": 50,
+     "size": 56,
+     "bold": true
+    },
+    {
+     "type": "image",
+     "path": "art/coins-big.png",
+     "x": 330,
+     "y": 160,
+     "w": 150,
+     "from": 3.98
+    },
+    {
+     "type": "image",
+     "path": "art/coins-small.png",
+     "x": 680,
+     "y": 160,
+     "w": 150,
+     "from": 3.98
+    },
+    {
+     "type": "text",
+     "text": "ASKED",
+     "x": 340,
+     "y": 545,
+     "size": 40,
+     "bold": true,
+     "color": "#2F8A4A",
+     "from": 3.98,
+     "keys": [
+      {
+       "t": 3.98,
+       "y": 563,
+       "alpha": 0
+      },
+      {
+       "t": 4.23,
+       "y": 545,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "DIDN'T ASK",
+     "x": 660,
+     "y": 545,
+     "size": 40,
+     "bold": true,
+     "color": "#EC4338",
+     "from": 4.28,
+     "keys": [
+      {
+       "t": 4.28,
+       "y": 563,
+       "alpha": 0
+      },
+      {
+       "t": 4.53,
+       "y": 545,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "= a fortune over a career",
+     "x": 860,
+     "y": 300,
+     "size": 40,
+     "bold": true,
+     "color": "#EC4338",
+     "w": 380,
+     "from": 5.18,
+     "keys": [
+      {
+       "t": 5.18,
+       "y": 318,
+       "alpha": 0
+      },
+      {
+       "t": 5.43,
+       "y": 300,
+       "alpha": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 121.29,
+   "end": 126.71,
+   "layers": [
+    {
+     "type": "image",
+     "path": "art/you-cheer.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 2.34
+    },
+    {
+     "type": "image",
+     "path": "art/you-confident.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "to": 2.34
+    },
+    {
+     "type": "text",
+     "text": "$55,000",
+     "x": 578,
+     "y": 53,
+     "size": 34,
+     "bold": true,
+     "color": "#2F8A4A",
+     "w": 400
+    },
+    {
+     "type": "text",
+     "text": "JUST ASK.",
+     "x": 80,
+     "y": 160,
+     "size": 90,
+     "bold": true,
+     "color": "#2F8A4A",
+     "from": 2.7399999999999998,
+     "keys": [
+      {
+       "t": 2.7399999999999998,
+       "y": 178,
+       "alpha": 0
+      },
+      {
+       "t": 2.9899999999999998,
+       "y": 160,
+       "alpha": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 126.71,
+   "end": 133.47,
+   "layers": [
+    {
+     "type": "image",
+     "path": "art/leo-car.png",
+     "x": 543,
+     "y": 39,
+     "w": 434
+    },
+    {
+     "type": "image",
+     "path": "art/car.png",
+     "x": 520,
+     "y": 360,
+     "w": 460,
+     "keys": [
+      {
+       "t": 0,
+       "x": 1300
+      },
+      {
+       "t": 1.2,
+       "x": 520
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "NEW CAR",
+     "x": 80,
+     "y": 130,
+     "size": 44,
+     "bold": true,
+     "color": "#191916",
+     "from": 2.82,
+     "keys": [
+      {
+       "t": 2.82,
+       "y": 148,
+       "alpha": 0
+      },
+      {
+       "t": 3.07,
+       "y": 130,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "THE WATCH",
+     "x": 80,
+     "y": 200,
+     "size": 44,
+     "bold": true,
+     "color": "#EC4338",
+     "from": 4.36,
+     "keys": [
+      {
+       "t": 4.36,
+       "y": 218,
+       "alpha": 0
+      },
+      {
+       "t": 4.61,
+       "y": 200,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "WEEKEND TRIPS",
+     "x": 80,
+     "y": 270,
+     "size": 44,
+     "bold": true,
+     "color": "#191916",
+     "from": 5.06,
+     "keys": [
+      {
+       "t": 5.06,
+       "y": 288,
+       "alpha": 0
+      },
+      {
+       "t": 5.31,
+       "y": 270,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "THE PHOTOS",
+     "x": 80,
+     "y": 340,
+     "size": 44,
+     "bold": true,
+     "color": "#EC4338",
+     "from": 5.96,
+     "keys": [
+      {
+       "t": 5.96,
+       "y": 358,
+       "alpha": 0
+      },
+      {
+       "t": 6.21,
+       "y": 340,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "art/you-surprised.png",
+     "x": 975,
+     "y": 148,
+     "w": 350,
+     "from": 1.2
+    }
+   ]
+  },
+  {
+   "start": 133.47,
+   "end": 137.03,
+   "layers": [
+    {
+     "type": "image",
+     "path": "art/leo-quiet.png",
+     "x": 603,
+     "y": 39,
+     "w": 434
+    },
+    {
+     "type": "text",
+     "text": "$52,000",
+     "x": 736,
+     "y": 89,
+     "size": 46,
+     "bold": true,
+     "color": "#2F8A4A",
+     "w": 400,
+     "from": 0.5,
+     "keys": [
+      {
+       "t": 0.5,
+       "y": 107,
+       "alpha": 0
+      },
+      {
+       "t": 0.75,
+       "y": 89,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "art/you-skeptic.png",
+     "x": 143,
+     "y": 39,
+     "w": 434
+    },
+    {
+     "type": "text",
+     "text": "$55,000",
+     "x": 287,
+     "y": 47,
+     "size": 40,
+     "bold": true,
+     "color": "#2F8A4A",
+     "w": 400
+    }
+   ]
+  },
+  {
+   "start": 137.03,
+   "end": 144.99,
+   "layers": [
+    {
+     "type": "image",
+     "path": "art/card.png",
+     "x": 700,
+     "y": 200,
+     "w": 240,
+     "to": 3.46,
+     "keys": [
+      {
+       "t": 0,
+       "w": 240
+      },
+      {
+       "t": 2,
+       "w": 300
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "art/card-cracked.png",
+     "x": 680,
+     "y": 200,
+     "w": 320,
+     "from": 3.46
+    },
+    {
+     "type": "image",
+     "path": "art/leo-quiet.png",
+     "x": 83,
+     "y": 39,
+     "w": 434
+    },
+    {
+     "type": "text",
+     "text": "$52,000",
+     "x": 238,
+     "y": 101,
+     "size": 34,
+     "bold": true,
+     "color": "#2F8A4A",
+     "w": 400
+    },
+    {
+     "type": "text",
+     "text": "...just more quietly.",
+     "x": 680,
+     "y": 420,
+     "size": 44,
+     "bold": true,
+     "color": "#EC4338",
+     "from": 6.24,
+     "keys": [
+      {
+       "t": 6.24,
+       "y": 438,
+       "alpha": 0
+      },
+      {
+       "t": 6.49,
+       "y": 420,
+       "alpha": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 144.99,
+   "end": 155.85,
+   "layers": [
+    {
+     "type": "text",
+     "text": "LOTTERY STUDY · CANADA",
+     "x": 80,
+     "y": 50,
+     "size": 50,
+     "bold": true
+    },
+    {
+     "type": "image",
+     "path": "art/house.png",
+     "x": 80,
+     "y": 300,
+     "w": 150,
+     "keys": [
+      {
+       "t": 6.76,
+       "y": 300
+      },
+      {
+       "t": 7.76,
+       "y": 305
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "art/house.png",
+     "x": 330,
+     "y": 300,
+     "w": 150,
+     "keys": [
+      {
+       "t": 6.76,
+       "y": 300
+      },
+      {
+       "t": 7.76,
+       "y": 305
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "art/house.png",
+     "x": 580,
+     "y": 300,
+     "w": 150
+    },
+    {
+     "type": "image",
+     "path": "art/house.png",
+     "x": 830,
+     "y": 300,
+     "w": 150,
+     "keys": [
+      {
+       "t": 6.76,
+       "y": 300
+      },
+      {
+       "t": 7.76,
+       "y": 305
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "art/house.png",
+     "x": 1080,
+     "y": 300,
+     "w": 150,
+     "keys": [
+      {
+       "t": 6.76,
+       "y": 300
+      },
+      {
+       "t": 7.76,
+       "y": 305
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "WON!",
+     "x": 600,
+     "y": 230,
+     "size": 50,
+     "bold": true,
+     "color": "#2F8A4A",
+     "from": 4.58,
+     "keys": [
+      {
+       "t": 4.58,
+       "y": 248,
+       "alpha": 0
+      },
+      {
+       "t": 4.83,
+       "y": 230,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "LOANS",
+     "x": 100,
+     "y": 470,
+     "size": 32,
+     "bold": true,
+     "w": 160,
+     "from": 6.76,
+     "keys": [
+      {
+       "t": 6.76,
+       "y": 488,
+       "alpha": 0
+      },
+      {
+       "t": 7.01,
+       "y": 470,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "LOANS",
+     "x": 350,
+     "y": 470,
+     "size": 32,
+     "bold": true,
+     "w": 160,
+     "from": 6.88,
+     "keys": [
+      {
+       "t": 6.88,
+       "y": 488,
+       "alpha": 0
+      },
+      {
+       "t": 7.13,
+       "y": 470,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "LOANS",
+     "x": 850,
+     "y": 470,
+     "size": 32,
+     "bold": true,
+     "w": 160,
+     "from": 7.12,
+     "keys": [
+      {
+       "t": 7.12,
+       "y": 488,
+       "alpha": 0
+      },
+      {
+       "t": 7.37,
+       "y": 470,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "LOANS",
+     "x": 1100,
+     "y": 470,
+     "size": 32,
+     "bold": true,
+     "w": 160,
+     "from": 7.24,
+     "keys": [
+      {
+       "t": 7.24,
+       "y": 488,
+       "alpha": 0
+      },
+      {
+       "t": 7.49,
+       "y": 470,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "BANKRUPT",
+     "x": 325,
+     "y": 520,
+     "size": 32,
+     "bold": true,
+     "color": "#EC4338",
+     "from": 8.84,
+     "keys": [
+      {
+       "t": 8.84,
+       "y": 538,
+       "alpha": 0
+      },
+      {
+       "t": 9.09,
+       "y": 520,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "BANKRUPT",
+     "x": 825,
+     "y": 520,
+     "size": 32,
+     "bold": true,
+     "color": "#EC4338",
+     "from": 8.84,
+     "keys": [
+      {
+       "t": 8.84,
+       "y": 538,
+       "alpha": 0
+      },
+      {
+       "t": 9.09,
+       "y": 520,
+       "alpha": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 155.85,
+   "end": 159.53,
+   "layers": [
+    {
+     "type": "text",
+     "text": "NOT LUCK.",
+     "x": 80,
+     "y": 120,
+     "size": 80,
+     "bold": true,
+     "from": 0,
+     "keys": [
+      {
+       "t": 0,
+       "y": 138,
+       "alpha": 0
+      },
+      {
+       "t": 0.25,
+       "y": 120,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "KEEPING UP.",
+     "x": 80,
+     "y": 240,
+     "size": 80,
+     "bold": true,
+     "color": "#EC4338",
+     "from": 2.08,
+     "keys": [
+      {
+       "t": 2.08,
+       "y": 258,
+       "alpha": 0
+      },
+      {
+       "t": 2.33,
+       "y": 240,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "art/you-think.png",
+     "x": 783,
+     "y": 39,
+     "w": 434
+    }
+   ]
+  },
+  {
+   "start": 159.53,
+   "end": 165.65,
+   "layers": [
+    {
+     "type": "image",
+     "path": "art/you-calm.png",
+     "x": 146,
+     "y": 202,
+     "w": 308
+    },
+    {
+     "type": "image",
+     "path": "art/leo-quiet.png",
+     "x": 896,
+     "y": 202,
+     "w": 308
+    },
+    {
+     "type": "text",
+     "text": "1. STOP COMPARING TO LEO'S PHOTOS.",
+     "x": 80,
+     "y": 90,
+     "size": 42,
+     "bold": true,
+     "from": 1.46,
+     "keys": [
+      {
+       "t": 1.46,
+       "y": 108,
+       "alpha": 0
+      },
+      {
+       "t": 1.71,
+       "y": 90,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "2. ASK IF HE'S OKAY.",
+     "x": 80,
+     "y": 160,
+     "size": 42,
+     "bold": true,
+     "color": "#2F8A4A",
+     "from": 4.7,
+     "keys": [
+      {
+       "t": 4.7,
+       "y": 178,
+       "alpha": 0
+      },
+      {
+       "t": 4.95,
+       "y": 160,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "art/heart.png",
+     "x": 640,
+     "y": 330,
+     "w": 90,
+     "from": 5.1000000000000005,
+     "keys": [
+      {
+       "t": 5.1000000000000005,
+       "y": 348,
+       "alpha": 0
+      },
+      {
+       "t": 5.3500000000000005,
+       "y": 330,
+       "alpha": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 165.65,
+   "end": 170.87,
+   "layers": [
+    {
+     "type": "text",
+     "text": "DAY 4",
+     "x": 80,
+     "y": 40,
+     "size": 70,
+     "bold": true,
+     "color": "#EC4338"
+    },
+    {
+     "type": "underline",
+     "x": 82,
+     "y": 118,
+     "w": 200,
+     "color": "#EC4338",
+     "keys": [
+      {
+       "t": 0,
+       "progress": 0
+      },
+      {
+       "t": 0.5,
+       "progress": 1
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "art/table-date.png",
+     "x": 430,
+     "y": 360,
+     "w": 420
+    },
+    {
+     "type": "image",
+     "path": "art/you-sit-table.png",
+     "x": 143,
+     "y": 129,
+     "w": 434
+    },
+    {
+     "type": "text",
+     "text": "$55,000",
+     "x": 298,
+     "y": 143,
+     "size": 34,
+     "bold": true,
+     "color": "#2F8A4A",
+     "w": 400
+    },
+    {
+     "type": "image",
+     "path": "art/maya-sit.png",
+     "x": 703,
+     "y": 129,
+     "w": 434
+    },
+    {
+     "type": "text",
+     "text": "$186,000",
+     "x": 824,
+     "y": 179,
+     "size": 46,
+     "bold": true,
+     "color": "#2F8A4A",
+     "w": 400,
+     "from": 2.9,
+     "keys": [
+      {
+       "t": 2.9,
+       "y": 197,
+       "alpha": 0
+      },
+      {
+       "t": 3.15,
+       "y": 179,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "3x",
+     "x": 600,
+     "y": 160,
+     "size": 70,
+     "bold": true,
+     "color": "#EC4338",
+     "from": 3.7,
+     "keys": [
+      {
+       "t": 3.7,
+       "y": 178,
+       "alpha": 0
+      },
+      {
+       "t": 3.95,
+       "y": 160,
+       "alpha": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 170.87,
+   "end": 174.97,
+   "layers": [
+    {
+     "type": "image",
+     "path": "art/table-date.png",
+     "x": 430,
+     "y": 360,
+     "w": 420
+    },
+    {
+     "type": "image",
+     "path": "art/you-sit-sad.png",
+     "x": 143,
+     "y": 129,
+     "w": 434
+    },
+    {
+     "type": "image",
+     "path": "art/maya-sit.png",
+     "x": 703,
+     "y": 129,
+     "w": 434
+    },
+    {
+     "type": "text",
+     "text": "$186,000",
+     "x": 849,
+     "y": 191,
+     "size": 34,
+     "bold": true,
+     "color": "#2F8A4A",
+     "w": 400
+    },
+    {
+     "type": "image",
+     "path": "art/cloud.png",
+     "x": 280,
+     "y": 130,
+     "w": 180,
+     "from": 0.8,
+     "keys": [
+      {
+       "t": 0.8,
+       "y": 148,
+       "alpha": 0
+      },
+      {
+       "t": 1.05,
+       "y": 130,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "art/cloud.png",
+     "x": 280,
+     "y": 130,
+     "w": 180,
+     "from": 1.1,
+     "to": 1.4
+    },
+    {
+     "type": "image",
+     "path": "art/cloud.png",
+     "x": 284,
+     "y": 134,
+     "w": 180,
+     "from": 1.4,
+     "to": 1.7
+    },
+    {
+     "type": "image",
+     "path": "art/cloud.png",
+     "x": 280,
+     "y": 130,
+     "w": 180,
+     "from": 1.7,
+     "to": 2
+    },
+    {
+     "type": "image",
+     "path": "art/cloud.png",
+     "x": 284,
+     "y": 134,
+     "w": 180,
+     "from": 2,
+     "to": 2.3
+    },
+    {
+     "type": "image",
+     "path": "art/cloud.png",
+     "x": 280,
+     "y": 130,
+     "w": 180,
+     "from": 2.3,
+     "to": 2.6
+    },
+    {
+     "type": "image",
+     "path": "art/cloud.png",
+     "x": 284,
+     "y": 134,
+     "w": 180,
+     "from": 2.6,
+     "to": 2.9
+    },
+    {
+     "type": "image",
+     "path": "art/cloud.png",
+     "x": 280,
+     "y": 130,
+     "w": 180,
+     "from": 2.9,
+     "to": 3.2
+    },
+    {
+     "type": "image",
+     "path": "art/cloud.png",
+     "x": 284,
+     "y": 134,
+     "w": 180,
+     "from": 3.2,
+     "to": 3.5
+    },
+    {
+     "type": "image",
+     "path": "art/cloud.png",
+     "x": 280,
+     "y": 130,
+     "w": 180,
+     "from": 3.5,
+     "to": 3.8
+    }
+   ]
+  },
+  {
+   "start": 174.97,
+   "end": 184.99,
+   "layers": [
+    {
+     "type": "text",
+     "text": "SOCIAL COMPARISON",
+     "x": 80,
+     "y": 60,
+     "size": 70,
+     "bold": true,
+     "color": "#EC4338",
+     "from": 2,
+     "keys": [
+      {
+       "t": 2,
+       "y": 78,
+       "alpha": 0
+      },
+      {
+       "t": 2.25,
+       "y": 60,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "art/seesaw.png",
+     "x": 420,
+     "y": 330,
+     "w": 440,
+     "keys": [
+      {
+       "t": 0,
+       "angle": 0
+      },
+      {
+       "t": 4,
+       "angle": -0.04
+      },
+      {
+       "t": 8,
+       "angle": 0.03
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "art/q1.png",
+     "x": 365,
+     "y": 109,
+     "w": 210
+    },
+    {
+     "type": "image",
+     "path": "art/q3.png",
+     "x": 695,
+     "y": 199,
+     "w": 210
+    },
+    {
+     "type": "text",
+     "text": "what we have",
+     "x": 80,
+     "y": 150,
+     "size": 40,
+     "bold": true,
+     "from": 3.4,
+     "keys": [
+      {
+       "t": 3.4,
+       "y": 168,
+       "alpha": 0
+      },
+      {
+       "t": 3.65,
+       "y": 150,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "vs. what THEY have",
+     "x": 820,
+     "y": 150,
+     "size": 40,
+     "bold": true,
+     "color": "#EC4338",
+     "from": 5.46,
+     "keys": [
+      {
+       "t": 5.46,
+       "y": 168,
+       "alpha": 0
+      },
+      {
+       "t": 5.71,
+       "y": 150,
+       "alpha": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 184.99,
+   "end": 191.43,
+   "layers": [
+    {
+     "type": "image",
+     "path": "art/table-date.png",
+     "x": 430,
+     "y": 360,
+     "w": 420
+    },
+    {
+     "type": "image",
+     "path": "art/you-sit-sad.png",
+     "x": 143,
+     "y": 129,
+     "w": 434,
+     "to": 3.38
+    },
+    {
+     "type": "image",
+     "path": "art/you-sit-smile.png",
+     "x": 143,
+     "y": 129,
+     "w": 434,
+     "from": 3.38
+    },
+    {
+     "type": "image",
+     "path": "art/maya-sit.png",
+     "x": 703,
+     "y": 129,
+     "w": 434,
+     "to": 1.2
+    },
+    {
+     "type": "image",
+     "path": "art/maya-laugh.png",
+     "x": 703,
+     "y": 129,
+     "w": 434,
+     "from": 1.2
+    },
+    {
+     "type": "text",
+     "text": "$186,000",
+     "x": 849,
+     "y": 191,
+     "size": 34,
+     "bold": true,
+     "color": "#2F8A4A",
+     "w": 400
+    },
+    {
+     "type": "image",
+     "path": "art/cloud.png",
+     "x": 280,
+     "y": 130,
+     "w": 180,
+     "keys": [
+      {
+       "t": 3.38,
+       "alpha": 1
+      },
+      {
+       "t": 3.78,
+       "alpha": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 191.43,
+   "end": 194.03,
+   "layers": [
+    {
+     "type": "image",
+     "path": "art/table-date.png",
+     "x": 430,
+     "y": 360,
+     "w": 420
+    },
+    {
+     "type": "image",
+     "path": "art/you-sit-smile.png",
+     "x": 143,
+     "y": 129,
+     "w": 434
+    },
+    {
+     "type": "image",
+     "path": "art/maya-pay.png",
+     "x": 703,
+     "y": 129,
+     "w": 434
+    },
+    {
+     "type": "image",
+     "path": "art/card.png",
+     "x": 620,
+     "y": 250,
+     "w": 120,
+     "from": 0.3,
+     "keys": [
+      {
+       "t": 0.3,
+       "y": 268,
+       "alpha": 0
+      },
+      {
+       "t": 0.55,
+       "y": 250,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "SHE PAYS.",
+     "x": 80,
+     "y": 60,
+     "size": 56,
+     "bold": true,
+     "from": 0.2,
+     "keys": [
+      {
+       "t": 0.2,
+       "y": 78,
+       "alpha": 0
+      },
+      {
+       "t": 0.45,
+       "y": 60,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "YOU LET HER.",
+     "x": 760,
+     "y": 60,
+     "size": 56,
+     "bold": true,
+     "color": "#2F8A4A",
+     "from": 1.52,
+     "keys": [
+      {
+       "t": 1.52,
+       "y": 78,
+       "alpha": 0
+      },
+      {
+       "t": 1.77,
+       "y": 60,
+       "alpha": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 194.03,
+   "end": 203.11,
+   "layers": [
+    {
+     "type": "image",
+     "path": "art/maya-walk.png",
+     "x": 858,
+     "y": 102,
+     "w": 385
+    },
+    {
+     "type": "text",
+     "text": "$186,000",
+     "x": 979,
+     "y": 151,
+     "size": 34,
+     "bold": true,
+     "color": "#2F8A4A",
+     "w": 400
+    },
+    {
+     "type": "image",
+     "path": "art/bunks.png",
+     "x": 140,
+     "y": 210,
+     "w": 380,
+     "from": 0.9200000000000002,
+     "keys": [
+      {
+       "t": 0.9200000000000002,
+       "y": 228,
+       "alpha": 0
+      },
+      {
+       "t": 1.1700000000000002,
+       "y": 210,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "1 ROOM. 4 SISTERS.",
+     "x": 140,
+     "y": 100,
+     "size": 52,
+     "bold": true,
+     "from": 2.36,
+     "keys": [
+      {
+       "t": 2.36,
+       "y": 118,
+       "alpha": 0
+      },
+      {
+       "t": 2.61,
+       "y": 100,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "art/lamp.png",
+     "x": 640,
+     "y": 300,
+     "w": 120,
+     "from": 6.24,
+     "keys": [
+      {
+       "t": 6.24,
+       "y": 318,
+       "alpha": 0
+      },
+      {
+       "t": 6.49,
+       "y": 300,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "one late night at a time",
+     "x": 520,
+     "y": 500,
+     "size": 42,
+     "bold": true,
+     "color": "#2F8A4A",
+     "w": 460,
+     "from": 6.84,
+     "keys": [
+      {
+       "t": 6.84,
+       "y": 518,
+       "alpha": 0
+      },
+      {
+       "t": 7.09,
+       "y": 500,
+       "alpha": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 203.11,
+   "end": 207.91,
+   "layers": [
+    {
+     "type": "image",
+     "path": "art/you-sad.png",
+     "x": 137,
+     "y": 102,
+     "w": 385
+    },
+    {
+     "type": "image",
+     "path": "art/maya-walk.png",
+     "x": 758,
+     "y": 102,
+     "w": 385
+    },
+    {
+     "type": "text",
+     "text": "$186,000",
+     "x": 879,
+     "y": 151,
+     "size": 34,
+     "bold": true,
+     "color": "#2F8A4A",
+     "w": 400
+    },
+    {
+     "type": "text",
+     "text": "JEALOUS OF THE NUMBER.",
+     "x": 80,
+     "y": 30,
+     "size": 50,
+     "bold": true,
+     "from": 0.2,
+     "keys": [
+      {
+       "t": 0.2,
+       "y": 48,
+       "alpha": 0
+      },
+      {
+       "t": 0.45,
+       "y": 30,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "NOT THE WORK.",
+     "x": 80,
+     "y": 95,
+     "size": 50,
+     "bold": true,
+     "color": "#EC4338",
+     "from": 2.34,
+     "keys": [
+      {
+       "t": 2.34,
+       "y": 113,
+       "alpha": 0
+      },
+      {
+       "t": 2.59,
+       "y": 95,
+       "alpha": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 207.91,
+   "end": 212.85,
+   "layers": [
+    {
+     "type": "image",
+     "path": "art/moon.png",
+     "x": 1010,
+     "y": 60,
+     "w": 150
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-a.png",
+     "x": 203,
+     "y": 39,
+     "w": 434,
+     "from": 0,
+     "to": 0.35
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-b.png",
+     "x": 203,
+     "y": 39,
+     "w": 434,
+     "from": 0.35,
+     "to": 0.7
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-a.png",
+     "x": 203,
+     "y": 39,
+     "w": 434,
+     "from": 0.7,
+     "to": 1.05
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-b.png",
+     "x": 203,
+     "y": 39,
+     "w": 434,
+     "from": 1.05,
+     "to": 1.4
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-a.png",
+     "x": 203,
+     "y": 39,
+     "w": 434,
+     "from": 1.4,
+     "to": 1.75
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-b.png",
+     "x": 203,
+     "y": 39,
+     "w": 434,
+     "from": 1.75,
+     "to": 2.1
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-a.png",
+     "x": 203,
+     "y": 39,
+     "w": 434,
+     "from": 2.1,
+     "to": 2.45
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-b.png",
+     "x": 203,
+     "y": 39,
+     "w": 434,
+     "from": 2.45,
+     "to": 2.8
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-a.png",
+     "x": 203,
+     "y": 39,
+     "w": 434,
+     "from": 2.8,
+     "to": 3.15
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-b.png",
+     "x": 203,
+     "y": 39,
+     "w": 434,
+     "from": 3.15,
+     "to": 3.5
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-a.png",
+     "x": 203,
+     "y": 39,
+     "w": 434,
+     "from": 3.5,
+     "to": 3.85
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-b.png",
+     "x": 203,
+     "y": 39,
+     "w": 434,
+     "from": 3.85,
+     "to": 4.2
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-a.png",
+     "x": 203,
+     "y": 39,
+     "w": 434,
+     "from": 4.2,
+     "to": 4.55
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-b.png",
+     "x": 203,
+     "y": 39,
+     "w": 434,
+     "from": 4.55,
+     "to": 4.9
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-a.png",
+     "x": 203,
+     "y": 39,
+     "w": 434,
+     "from": 4.9,
+     "to": 4.939
+    },
+    {
+     "type": "text",
+     "text": "$186,000 = happier?",
+     "x": 640,
+     "y": 230,
+     "size": 52,
+     "bold": true,
+     "color": "#EC4338",
+     "from": 2.52,
+     "keys": [
+      {
+       "t": 2.52,
+       "y": 248,
+       "alpha": 0
+      },
+      {
+       "t": 2.77,
+       "y": 230,
+       "alpha": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 212.85,
+   "end": 220.31,
+   "layers": [
+    {
+     "type": "text",
+     "text": "MONEY vs. HAPPINESS",
+     "x": 80,
+     "y": 50,
+     "size": 60,
+     "bold": true
+    },
+    {
+     "type": "text",
+     "text": "2010: happiness stops rising at some income?",
+     "x": 80,
+     "y": 170,
+     "size": 42,
+     "bold": true,
+     "w": 1100,
+     "from": 3.16,
+     "keys": [
+      {
+       "t": 3.16,
+       "y": 188,
+       "alpha": 0
+      },
+      {
+       "t": 3.41,
+       "y": 170,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "line",
+     "points": [
+      [
+       160,
+       470
+      ],
+      [
+       500,
+       300
+      ],
+      [
+       1000,
+       300
+      ]
+     ],
+     "color": "#EC4338",
+     "lineWidth": 7,
+     "from": 4.72,
+     "keys": [
+      {
+       "t": 4.72,
+       "progress": 0
+      },
+      {
+       "t": 5.92,
+       "progress": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 220.31,
+   "end": 229.69,
+   "layers": [
+    {
+     "type": "image",
+     "path": "art/graph.png",
+     "x": 120,
+     "y": 140,
+     "w": 540,
+     "from": 0,
+     "keys": [
+      {
+       "t": 0,
+       "y": 158,
+       "alpha": 0
+      },
+      {
+       "t": 0.25,
+       "y": 140,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "2023: it keeps rising for most people",
+     "x": 700,
+     "y": 160,
+     "size": 40,
+     "bold": true,
+     "color": "#2F8A4A",
+     "w": 520,
+     "from": 1.88,
+     "keys": [
+      {
+       "t": 1.88,
+       "y": 178,
+       "alpha": 0
+      },
+      {
+       "t": 2.13,
+       "y": 160,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "...just more slowly.",
+     "x": 700,
+     "y": 290,
+     "size": 44,
+     "bold": true,
+     "from": 4.02,
+     "keys": [
+      {
+       "t": 4.02,
+       "y": 308,
+       "alpha": 0
+      },
+      {
+       "t": 4.27,
+       "y": 290,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "each extra $ matters less",
+     "x": 700,
+     "y": 380,
+     "size": 40,
+     "bold": true,
+     "color": "#EC4338",
+     "w": 520,
+     "from": 6.12,
+     "keys": [
+      {
+       "t": 6.12,
+       "y": 398,
+       "alpha": 0
+      },
+      {
+       "t": 6.37,
+       "y": 380,
+       "alpha": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 229.69,
+   "end": 235.51,
+   "layers": [
+    {
+     "type": "image",
+     "path": "art/graph.png",
+     "x": 120,
+     "y": 140,
+     "w": 540
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-a.png",
+     "x": 473,
+     "y": 104,
+     "w": 175,
+     "keys": [
+      {
+       "t": 0,
+       "x": 380,
+       "y": 290
+      },
+      {
+       "t": 4,
+       "x": 520,
+       "y": 200
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "MORE MONEY HELPS.",
+     "x": 720,
+     "y": 160,
+     "size": 48,
+     "bold": true,
+     "color": "#2F8A4A",
+     "from": 0.2,
+     "keys": [
+      {
+       "t": 0.2,
+       "y": 178,
+       "alpha": 0
+      },
+      {
+       "t": 0.45,
+       "y": 160,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "but the climb gets steeper",
+     "x": 720,
+     "y": 260,
+     "size": 40,
+     "bold": true,
+     "w": 520,
+     "from": 1.06,
+     "keys": [
+      {
+       "t": 1.06,
+       "y": 278,
+       "alpha": 0
+      },
+      {
+       "t": 1.31,
+       "y": 260,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "and the view changes less",
+     "x": 720,
+     "y": 340,
+     "size": 40,
+     "bold": true,
+     "color": "#EC4338",
+     "w": 520,
+     "from": 2.66,
+     "keys": [
+      {
+       "t": 2.66,
+       "y": 358,
+       "alpha": 0
+      },
+      {
+       "t": 2.91,
+       "y": 340,
+       "alpha": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 235.51,
+   "end": 243.97,
+   "layers": [
+    {
+     "type": "text",
+     "text": "DAY 5",
+     "x": 80,
+     "y": 40,
+     "size": 70,
+     "bold": true,
+     "color": "#EC4338"
+    },
+    {
+     "type": "underline",
+     "x": 82,
+     "y": 118,
+     "w": 200,
+     "color": "#EC4338",
+     "keys": [
+      {
+       "t": 0,
+       "progress": 0
+      },
+      {
+       "t": 0.5,
+       "progress": 1
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "art/stove.png",
+     "x": 820,
+     "y": 340,
+     "w": 220
+    },
+    {
+     "type": "image",
+     "path": "art/dad.png",
+     "x": 883,
+     "y": 39,
+     "w": 434
+    },
+    {
+     "type": "text",
+     "text": "$37,000",
+     "x": 1016,
+     "y": 89,
+     "size": 46,
+     "bold": true,
+     "color": "#2F8A4A",
+     "w": 400,
+     "from": 3.1599999999999997,
+     "keys": [
+      {
+       "t": 3.1599999999999997,
+       "y": 107,
+       "alpha": 0
+      },
+      {
+       "t": 3.4099999999999997,
+       "y": 89,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "art/you-surprised.png",
+     "x": 343,
+     "y": 39,
+     "w": 434
+    },
+    {
+     "type": "text",
+     "text": "$55,000",
+     "x": 498,
+     "y": 53,
+     "size": 34,
+     "bold": true,
+     "color": "#2F8A4A",
+     "w": 400
+    },
+    {
+     "type": "text",
+     "text": "less than your OLD $41,200",
+     "x": 80,
+     "y": 170,
+     "size": 40,
+     "bold": true,
+     "color": "#EC4338",
+     "w": 600,
+     "from": 5.4,
+     "keys": [
+      {
+       "t": 5.4,
+       "y": 188,
+       "alpha": 0
+      },
+      {
+       "t": 5.65,
+       "y": 170,
+       "alpha": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 243.97,
+   "end": 250.57,
+   "layers": [
+    {
+     "type": "image",
+     "path": "art/bike.png",
+     "x": 100,
+     "y": 220,
+     "w": 260,
+     "from": 0,
+     "keys": [
+      {
+       "t": 0,
+       "y": 238,
+       "alpha": 0
+      },
+      {
+       "t": 0.25,
+       "y": 220,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "art/backpack.png",
+     "x": 470,
+     "y": 230,
+     "w": 150,
+     "from": 0.94,
+     "keys": [
+      {
+       "t": 0.94,
+       "y": 248,
+       "alpha": 0
+      },
+      {
+       "t": 1.19,
+       "y": 230,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "art/laptop-gift.png",
+     "x": 750,
+     "y": 230,
+     "w": 240,
+     "from": 2.22,
+     "keys": [
+      {
+       "t": 2.22,
+       "y": 248,
+       "alpha": 0
+      },
+      {
+       "t": 2.47,
+       "y": 230,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "ALL FROM $37,000.",
+     "x": 160,
+     "y": 470,
+     "size": 64,
+     "bold": true,
+     "color": "#2F8A4A",
+     "from": 4.22,
+     "keys": [
+      {
+       "t": 4.22,
+       "y": 488,
+       "alpha": 0
+      },
+      {
+       "t": 4.47,
+       "y": 470,
+       "alpha": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 250.57,
+   "end": 256.11,
+   "layers": [
+    {
+     "type": "image",
+     "path": "art/stove.png",
+     "x": 820,
+     "y": 340,
+     "w": 220
+    },
+    {
+     "type": "image",
+     "path": "art/dad.png",
+     "x": 883,
+     "y": 39,
+     "w": 434
+    },
+    {
+     "type": "text",
+     "text": "$37,000",
+     "x": 1038,
+     "y": 101,
+     "size": 34,
+     "bold": true,
+     "color": "#2F8A4A",
+     "w": 400
+    },
+    {
+     "type": "image",
+     "path": "art/you-think.png",
+     "x": 408,
+     "y": 102,
+     "w": 385
+    },
+    {
+     "type": "text",
+     "text": "WHAT THEY EARN...",
+     "x": 80,
+     "y": 30,
+     "size": 50,
+     "bold": true,
+     "from": 0.2,
+     "keys": [
+      {
+       "t": 0.2,
+       "y": 48,
+       "alpha": 0
+      },
+      {
+       "t": 0.45,
+       "y": 30,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "...IS NOT WHAT THEY GAVE.",
+     "x": 80,
+     "y": 95,
+     "size": 50,
+     "bold": true,
+     "color": "#EC4338",
+     "from": 2.42,
+     "keys": [
+      {
+       "t": 2.42,
+       "y": 113,
+       "alpha": 0
+      },
+      {
+       "t": 2.67,
+       "y": 95,
+       "alpha": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 256.11,
+   "end": 264.21,
+   "layers": [
+    {
+     "type": "image",
+     "path": "art/table-home.png",
+     "x": 430,
+     "y": 360,
+     "w": 420
+    },
+    {
+     "type": "image",
+     "path": "art/you-sit-listen.png",
+     "x": 143,
+     "y": 129,
+     "w": 434
+    },
+    {
+     "type": "image",
+     "path": "art/dad-laugh.png",
+     "x": 703,
+     "y": 129,
+     "w": 434,
+     "from": 2.68
+    },
+    {
+     "type": "image",
+     "path": "art/dad.png",
+     "x": 733,
+     "y": 39,
+     "w": 434,
+     "to": 2.68
+    },
+    {
+     "type": "text",
+     "text": "\"Of course I did.\"",
+     "x": 680,
+     "y": 90,
+     "size": 44,
+     "bold": true,
+     "from": 4.14,
+     "keys": [
+      {
+       "t": 4.14,
+       "y": 108,
+       "alpha": 0
+      },
+      {
+       "t": 4.39,
+       "y": 90,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "\"But I wanted to be home for dinner more.\"",
+     "x": 300,
+     "y": 170,
+     "size": 42,
+     "bold": true,
+     "color": "#2F8A4A",
+     "w": 900,
+     "from": 5.36,
+     "keys": [
+      {
+       "t": 5.36,
+       "y": 188,
+       "alpha": 0
+      },
+      {
+       "t": 5.61,
+       "y": 170,
+       "alpha": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 264.21,
+   "end": 276.97,
+   "layers": [
+    {
+     "type": "image",
+     "path": "art/table-mum.png",
+     "x": 600,
+     "y": 360,
+     "w": 420
+    },
+    {
+     "type": "image",
+     "path": "art/mum-sit.png",
+     "x": 783,
+     "y": 129,
+     "w": 434
+    },
+    {
+     "type": "text",
+     "text": "$24,000",
+     "x": 927,
+     "y": 185,
+     "size": 40,
+     "bold": true,
+     "color": "#2F8A4A",
+     "w": 400,
+     "from": 0.6,
+     "keys": [
+      {
+       "t": 0.6,
+       "y": 203,
+       "alpha": 0
+      },
+      {
+       "t": 0.85,
+       "y": 185,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "+ every column balanced",
+     "x": 80,
+     "y": 140,
+     "size": 42,
+     "bold": true,
+     "color": "#2F8A4A",
+     "from": 3.62,
+     "keys": [
+      {
+       "t": 3.62,
+       "y": 158,
+       "alpha": 0
+      },
+      {
+       "t": 3.87,
+       "y": 140,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "+ every bill paid",
+     "x": 80,
+     "y": 220,
+     "size": 42,
+     "bold": true,
+     "color": "#2F8A4A",
+     "from": 5.18,
+     "keys": [
+      {
+       "t": 5.18,
+       "y": 238,
+       "alpha": 0
+      },
+      {
+       "t": 5.43,
+       "y": 220,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "30 YEARS",
+     "x": 80,
+     "y": 300,
+     "size": 56,
+     "bold": true,
+     "color": "#EC4338",
+     "from": 6.06,
+     "keys": [
+      {
+       "t": 6.06,
+       "y": 318,
+       "alpha": 0
+      },
+      {
+       "t": 6.31,
+       "y": 300,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "nobody went without",
+     "x": 80,
+     "y": 400,
+     "size": 42,
+     "bold": true,
+     "from": 9.68,
+     "keys": [
+      {
+       "t": 9.68,
+       "y": 418,
+       "alpha": 0
+      },
+      {
+       "t": 9.93,
+       "y": 400,
+       "alpha": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 276.97,
+   "end": 282.03,
+   "layers": [
+    {
+     "type": "image",
+     "path": "art/table-mum.png",
+     "x": 600,
+     "y": 360,
+     "w": 420
+    },
+    {
+     "type": "image",
+     "path": "art/you-sit-listen.png",
+     "x": 303,
+     "y": 129,
+     "w": 434
+    },
+    {
+     "type": "image",
+     "path": "art/mum-sit.png",
+     "x": 783,
+     "y": 129,
+     "w": 434,
+     "to": 2.1
+    },
+    {
+     "type": "image",
+     "path": "art/mum-smile.png",
+     "x": 783,
+     "y": 129,
+     "w": 434,
+     "from": 2.1
+    },
+    {
+     "type": "image",
+     "path": "art/heart.png",
+     "x": 760,
+     "y": 150,
+     "w": 80,
+     "from": 2.5,
+     "keys": [
+      {
+       "t": 2.5,
+       "y": 168,
+       "alpha": 0
+      },
+      {
+       "t": 2.75,
+       "y": 150,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "\"TEACH ME.\"",
+     "x": 80,
+     "y": 100,
+     "size": 60,
+     "bold": true,
+     "color": "#2F8A4A",
+     "from": 2.1,
+     "keys": [
+      {
+       "t": 2.1,
+       "y": 118,
+       "alpha": 0
+      },
+      {
+       "t": 2.35,
+       "y": 100,
+       "alpha": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 282.03,
+   "end": 285.47,
+   "layers": [
+    {
+     "type": "text",
+     "text": "DAY 6",
+     "x": 80,
+     "y": 40,
+     "size": 70,
+     "bold": true,
+     "color": "#EC4338"
+    },
+    {
+     "type": "underline",
+     "x": 82,
+     "y": 118,
+     "w": 200,
+     "color": "#EC4338",
+     "keys": [
+      {
+       "t": 0,
+       "progress": 0
+      },
+      {
+       "t": 0.5,
+       "progress": 1
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "art/tv.png",
+     "x": 440,
+     "y": 150,
+     "w": 400,
+     "from": 2.08,
+     "keys": [
+      {
+       "t": 2.08,
+       "y": 168,
+       "alpha": 0
+      },
+      {
+       "t": 2.33,
+       "y": 150,
+       "alpha": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 285.47,
+   "end": 289.65,
+   "layers": [
+    {
+     "type": "text",
+     "text": "EVERYONE CAN SEE.",
+     "x": 80,
+     "y": 50,
+     "size": 60,
+     "bold": true,
+     "color": "#EC4338",
+     "from": 1.88,
+     "keys": [
+      {
+       "t": 1.88,
+       "y": 68,
+       "alpha": 0
+      },
+      {
+       "t": 2.13,
+       "y": 50,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "art/q1.png",
+     "x": -8,
+     "y": 166,
+     "w": 336
+    },
+    {
+     "type": "text",
+     "text": "$48,000",
+     "x": 105,
+     "y": 205,
+     "size": 30,
+     "bold": true,
+     "color": "#2F8A4A",
+     "w": 400,
+     "from": 1.88,
+     "keys": [
+      {
+       "t": 1.88,
+       "y": 223,
+       "alpha": 0
+      },
+      {
+       "t": 2.13,
+       "y": 205,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "art/q3.png",
+     "x": 232,
+     "y": 166,
+     "w": 336
+    },
+    {
+     "type": "text",
+     "text": "$63,500",
+     "x": 345,
+     "y": 205,
+     "size": 30,
+     "bold": true,
+     "color": "#2F8A4A",
+     "w": 400,
+     "from": 2.1799999999999997,
+     "keys": [
+      {
+       "t": 2.1799999999999997,
+       "y": 223,
+       "alpha": 0
+      },
+      {
+       "t": 2.4299999999999997,
+       "y": 205,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "art/q4.png",
+     "x": 472,
+     "y": 166,
+     "w": 336
+    },
+    {
+     "type": "text",
+     "text": "$22,000",
+     "x": 585,
+     "y": 205,
+     "size": 30,
+     "bold": true,
+     "color": "#2F8A4A",
+     "w": 400,
+     "from": 2.48,
+     "keys": [
+      {
+       "t": 2.48,
+       "y": 223,
+       "alpha": 0
+      },
+      {
+       "t": 2.73,
+       "y": 205,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "art/q2.png",
+     "x": 712,
+     "y": 166,
+     "w": 336
+    },
+    {
+     "type": "text",
+     "text": "$410,000",
+     "x": 818,
+     "y": 205,
+     "size": 30,
+     "bold": true,
+     "color": "#2F8A4A",
+     "w": 400,
+     "from": 2.78,
+     "keys": [
+      {
+       "t": 2.78,
+       "y": 223,
+       "alpha": 0
+      },
+      {
+       "t": 3.03,
+       "y": 205,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "art/q5.png",
+     "x": 952,
+     "y": 166,
+     "w": 336
+    },
+    {
+     "type": "text",
+     "text": "$31,000",
+     "x": 1065,
+     "y": 205,
+     "size": 30,
+     "bold": true,
+     "color": "#2F8A4A",
+     "w": 400,
+     "from": 3.08,
+     "keys": [
+      {
+       "t": 3.08,
+       "y": 223,
+       "alpha": 0
+      },
+      {
+       "t": 3.33,
+       "y": 205,
+       "alpha": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 289.65,
+   "end": 292.43,
+   "layers": [
+    {
+     "type": "text",
+     "text": "THE WORLD GOES CRAZY.",
+     "x": 80,
+     "y": 50,
+     "size": 56,
+     "bold": true
+    },
+    {
+     "type": "image",
+     "path": "art/n-angry-a.png",
+     "x": 67,
+     "y": 102,
+     "w": 385,
+     "from": 0,
+     "to": 0.25
+    },
+    {
+     "type": "image",
+     "path": "art/n-angry-a.png",
+     "x": 72,
+     "y": 102,
+     "w": 385,
+     "from": 0.25,
+     "to": 0.5
+    },
+    {
+     "type": "image",
+     "path": "art/n-angry-a.png",
+     "x": 67,
+     "y": 102,
+     "w": 385,
+     "from": 0.5,
+     "to": 0.75
+    },
+    {
+     "type": "image",
+     "path": "art/n-angry-a.png",
+     "x": 72,
+     "y": 102,
+     "w": 385,
+     "from": 0.75,
+     "to": 1
+    },
+    {
+     "type": "image",
+     "path": "art/n-angry-a.png",
+     "x": 67,
+     "y": 102,
+     "w": 385,
+     "from": 1,
+     "to": 1.25
+    },
+    {
+     "type": "image",
+     "path": "art/n-angry-a.png",
+     "x": 72,
+     "y": 102,
+     "w": 385,
+     "from": 1.25,
+     "to": 1.5
+    },
+    {
+     "type": "image",
+     "path": "art/n-angry-a.png",
+     "x": 67,
+     "y": 102,
+     "w": 385,
+     "from": 1.5,
+     "to": 1.75
+    },
+    {
+     "type": "image",
+     "path": "art/n-angry-a.png",
+     "x": 72,
+     "y": 102,
+     "w": 385,
+     "from": 1.75,
+     "to": 2
+    },
+    {
+     "type": "image",
+     "path": "art/n-angry-a.png",
+     "x": 67,
+     "y": 102,
+     "w": 385,
+     "from": 2,
+     "to": 2.25
+    },
+    {
+     "type": "image",
+     "path": "art/n-angry-a.png",
+     "x": 72,
+     "y": 102,
+     "w": 385,
+     "from": 2.25,
+     "to": 2.5
+    },
+    {
+     "type": "image",
+     "path": "art/n-angry-a.png",
+     "x": 67,
+     "y": 102,
+     "w": 385,
+     "from": 2.5,
+     "to": 2.75
+    },
+    {
+     "type": "image",
+     "path": "art/n-angry-a.png",
+     "x": 72,
+     "y": 102,
+     "w": 385,
+     "from": 2.75,
+     "to": 2.78
+    },
+    {
+     "type": "image",
+     "path": "art/n-angry-b.png",
+     "x": 368,
+     "y": 102,
+     "w": 385
+    },
+    {
+     "type": "text",
+     "text": "$31,000",
+     "x": 198,
+     "y": 151,
+     "size": 34,
+     "bold": true,
+     "color": "#2F8A4A",
+     "w": 400
+    },
+    {
+     "type": "text",
+     "text": "$96,000",
+     "x": 498,
+     "y": 151,
+     "size": 34,
+     "bold": true,
+     "color": "#2F8A4A",
+     "w": 400
+    },
+    {
+     "type": "image",
+     "path": "art/n-sad.png",
+     "x": 758,
+     "y": 102,
+     "w": 385
+    },
+    {
+     "type": "image",
+     "path": "art/hat.png",
+     "x": 895,
+     "y": 200,
+     "w": 110,
+     "from": 0.8,
+     "keys": [
+      {
+       "t": 0.8,
+       "y": 218,
+       "alpha": 0
+      },
+      {
+       "t": 1.05,
+       "y": 200,
+       "alpha": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 292.43,
+   "end": 298.27,
+   "layers": [
+    {
+     "type": "image",
+     "path": "art/house.png",
+     "x": 120,
+     "y": 260,
+     "w": 220
+    },
+    {
+     "type": "image",
+     "path": "art/sign-rent.png",
+     "x": 120,
+     "y": 160,
+     "w": 220,
+     "from": 0.6,
+     "keys": [
+      {
+       "t": 0.6,
+       "y": 178,
+       "alpha": 0
+      },
+      {
+       "t": 0.85,
+       "y": 160,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "$310,000 tenant",
+     "x": 120,
+     "y": 500,
+     "size": 36,
+     "bold": true,
+     "color": "#2F8A4A",
+     "from": 0.9,
+     "keys": [
+      {
+       "t": 0.9,
+       "y": 518,
+       "alpha": 0
+      },
+      {
+       "t": 1.15,
+       "y": 500,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "art/building.png",
+     "x": 820,
+     "y": 140,
+     "w": 200
+    },
+    {
+     "type": "image",
+     "path": "art/sign-donate.png",
+     "x": 560,
+     "y": 320,
+     "w": 230,
+     "from": 3.38,
+     "keys": [
+      {
+       "t": 3.38,
+       "y": 338,
+       "alpha": 0
+      },
+      {
+       "t": 3.63,
+       "y": 320,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "richest doors only",
+     "x": 560,
+     "y": 460,
+     "size": 36,
+     "bold": true,
+     "color": "#EC4338",
+     "from": 3.98,
+     "keys": [
+      {
+       "t": 3.98,
+       "y": 478,
+       "alpha": 0
+      },
+      {
+       "t": 4.23,
+       "y": 460,
+       "alpha": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 298.27,
+   "end": 304.69,
+   "layers": [
+    {
+     "type": "image",
+     "path": "art/boss-walk-a.png",
+     "x": 83,
+     "y": 39,
+     "w": 434,
+     "keys": [
+      {
+       "t": 0,
+       "x": 40
+      },
+      {
+       "t": 5,
+       "x": 200
+      }
+     ],
+     "from": 0,
+     "to": 0.35
+    },
+    {
+     "type": "image",
+     "path": "art/boss-walk-b.png",
+     "x": 83,
+     "y": 39,
+     "w": 434,
+     "keys": [
+      {
+       "t": 0,
+       "x": 40
+      },
+      {
+       "t": 5,
+       "x": 200
+      }
+     ],
+     "from": 0.35,
+     "to": 0.7
+    },
+    {
+     "type": "image",
+     "path": "art/boss-walk-a.png",
+     "x": 83,
+     "y": 39,
+     "w": 434,
+     "keys": [
+      {
+       "t": 0,
+       "x": 40
+      },
+      {
+       "t": 5,
+       "x": 200
+      }
+     ],
+     "from": 0.7,
+     "to": 1.05
+    },
+    {
+     "type": "image",
+     "path": "art/boss-walk-b.png",
+     "x": 83,
+     "y": 39,
+     "w": 434,
+     "keys": [
+      {
+       "t": 0,
+       "x": 40
+      },
+      {
+       "t": 5,
+       "x": 200
+      }
+     ],
+     "from": 1.05,
+     "to": 1.4
+    },
+    {
+     "type": "image",
+     "path": "art/boss-walk-a.png",
+     "x": 83,
+     "y": 39,
+     "w": 434,
+     "keys": [
+      {
+       "t": 0,
+       "x": 40
+      },
+      {
+       "t": 5,
+       "x": 200
+      }
+     ],
+     "from": 1.4,
+     "to": 1.75
+    },
+    {
+     "type": "image",
+     "path": "art/boss-walk-b.png",
+     "x": 83,
+     "y": 39,
+     "w": 434,
+     "keys": [
+      {
+       "t": 0,
+       "x": 40
+      },
+      {
+       "t": 5,
+       "x": 200
+      }
+     ],
+     "from": 1.75,
+     "to": 2.1
+    },
+    {
+     "type": "image",
+     "path": "art/boss-walk-a.png",
+     "x": 83,
+     "y": 39,
+     "w": 434,
+     "keys": [
+      {
+       "t": 0,
+       "x": 40
+      },
+      {
+       "t": 5,
+       "x": 200
+      }
+     ],
+     "from": 2.1,
+     "to": 2.45
+    },
+    {
+     "type": "image",
+     "path": "art/boss-walk-b.png",
+     "x": 83,
+     "y": 39,
+     "w": 434,
+     "keys": [
+      {
+       "t": 0,
+       "x": 40
+      },
+      {
+       "t": 5,
+       "x": 200
+      }
+     ],
+     "from": 2.45,
+     "to": 2.8
+    },
+    {
+     "type": "image",
+     "path": "art/boss-walk-a.png",
+     "x": 83,
+     "y": 39,
+     "w": 434,
+     "keys": [
+      {
+       "t": 0,
+       "x": 40
+      },
+      {
+       "t": 5,
+       "x": 200
+      }
+     ],
+     "from": 2.8,
+     "to": 3.15
+    },
+    {
+     "type": "image",
+     "path": "art/boss-walk-b.png",
+     "x": 83,
+     "y": 39,
+     "w": 434,
+     "keys": [
+      {
+       "t": 0,
+       "x": 40
+      },
+      {
+       "t": 5,
+       "x": 200
+      }
+     ],
+     "from": 3.15,
+     "to": 3.5
+    },
+    {
+     "type": "image",
+     "path": "art/boss-walk-a.png",
+     "x": 83,
+     "y": 39,
+     "w": 434,
+     "keys": [
+      {
+       "t": 0,
+       "x": 40
+      },
+      {
+       "t": 5,
+       "x": 200
+      }
+     ],
+     "from": 3.5,
+     "to": 3.85
+    },
+    {
+     "type": "image",
+     "path": "art/boss-walk-b.png",
+     "x": 83,
+     "y": 39,
+     "w": 434,
+     "keys": [
+      {
+       "t": 0,
+       "x": 40
+      },
+      {
+       "t": 5,
+       "x": 200
+      }
+     ],
+     "from": 3.85,
+     "to": 4.2
+    },
+    {
+     "type": "image",
+     "path": "art/boss-walk-a.png",
+     "x": 83,
+     "y": 39,
+     "w": 434,
+     "keys": [
+      {
+       "t": 0,
+       "x": 40
+      },
+      {
+       "t": 5,
+       "x": 200
+      }
+     ],
+     "from": 4.2,
+     "to": 4.55
+    },
+    {
+     "type": "image",
+     "path": "art/boss-walk-b.png",
+     "x": 83,
+     "y": 39,
+     "w": 434,
+     "keys": [
+      {
+       "t": 0,
+       "x": 40
+      },
+      {
+       "t": 5,
+       "x": 200
+      }
+     ],
+     "from": 4.55,
+     "to": 4.9
+    },
+    {
+     "type": "image",
+     "path": "art/boss-walk-a.png",
+     "x": 83,
+     "y": 39,
+     "w": 434,
+     "keys": [
+      {
+       "t": 0,
+       "x": 40
+      },
+      {
+       "t": 5,
+       "x": 200
+      }
+     ],
+     "from": 4.9,
+     "to": 5.25
+    },
+    {
+     "type": "image",
+     "path": "art/boss-walk-b.png",
+     "x": 83,
+     "y": 39,
+     "w": 434,
+     "keys": [
+      {
+       "t": 0,
+       "x": 40
+      },
+      {
+       "t": 5,
+       "x": 200
+      }
+     ],
+     "from": 5.25,
+     "to": 5.6
+    },
+    {
+     "type": "image",
+     "path": "art/boss-walk-a.png",
+     "x": 83,
+     "y": 39,
+     "w": 434,
+     "keys": [
+      {
+       "t": 0,
+       "x": 40
+      },
+      {
+       "t": 5,
+       "x": 200
+      }
+     ],
+     "from": 5.6,
+     "to": 5.95
+    },
+    {
+     "type": "image",
+     "path": "art/boss-walk-b.png",
+     "x": 83,
+     "y": 39,
+     "w": 434,
+     "keys": [
+      {
+       "t": 0,
+       "x": 40
+      },
+      {
+       "t": 5,
+       "x": 200
+      }
+     ],
+     "from": 5.95,
+     "to": 6.3
+    },
+    {
+     "type": "image",
+     "path": "art/boss-walk-a.png",
+     "x": 83,
+     "y": 39,
+     "w": 434,
+     "keys": [
+      {
+       "t": 0,
+       "x": 40
+      },
+      {
+       "t": 5,
+       "x": 200
+      }
+     ],
+     "from": 6.3,
+     "to": 6.42
+    },
+    {
+     "type": "text",
+     "text": "$212,000",
+     "x": 120,
+     "y": 95,
+     "size": 44,
+     "bold": true,
+     "color": "#2F8A4A",
+     "keys": [
+      {
+       "t": 0,
+       "x": 90
+      },
+      {
+       "t": 5,
+       "x": 250
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "art/q1.png",
+     "x": 603,
+     "y": 193,
+     "w": 315
+    },
+    {
+     "type": "image",
+     "path": "art/q4.png",
+     "x": 803,
+     "y": 193,
+     "w": 315
+    },
+    {
+     "type": "image",
+     "path": "art/q3.png",
+     "x": 1003,
+     "y": 193,
+     "w": 315
+    },
+    {
+     "type": "text",
+     "text": "THE GAP.",
+     "x": 700,
+     "y": 60,
+     "size": 70,
+     "bold": true,
+     "color": "#EC4338",
+     "from": 3.62,
+     "keys": [
+      {
+       "t": 3.62,
+       "y": 78,
+       "alpha": 0
+      },
+      {
+       "t": 3.87,
+       "y": 60,
+       "alpha": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 304.69,
+   "end": 310.15,
+   "layers": [
+    {
+     "type": "image",
+     "path": "art/door-hr.png",
+     "x": 60,
+     "y": 210,
+     "w": 200
+    },
+    {
+     "type": "image",
+     "path": "art/q1.png",
+     "x": 203,
+     "y": 193,
+     "w": 315
+    },
+    {
+     "type": "image",
+     "path": "art/q2.png",
+     "x": 353,
+     "y": 193,
+     "w": 315
+    },
+    {
+     "type": "image",
+     "path": "art/q3.png",
+     "x": 503,
+     "y": 193,
+     "w": 315
+    },
+    {
+     "type": "image",
+     "path": "art/q4.png",
+     "x": 653,
+     "y": 193,
+     "w": 315
+    },
+    {
+     "type": "image",
+     "path": "art/q5.png",
+     "x": 803,
+     "y": 193,
+     "w": 315
+    },
+    {
+     "type": "image",
+     "path": "art/kevin-stand.png",
+     "x": 993,
+     "y": 193,
+     "w": 315,
+     "from": 4.18
+    },
+    {
+     "type": "text",
+     "text": "KEVIN?!",
+     "x": 1080,
+     "y": 160,
+     "size": 50,
+     "bold": true,
+     "color": "#EC4338",
+     "w": 190,
+     "from": 4.18,
+     "keys": [
+      {
+       "t": 4.18,
+       "y": 178,
+       "alpha": 0
+      },
+      {
+       "t": 4.43,
+       "y": 160,
+       "alpha": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 310.15,
+   "end": 314.79,
+   "layers": [
+    {
+     "type": "image",
+     "path": "art/you-skeptic.png",
+     "x": 187,
+     "y": 102,
+     "w": 385
+    },
+    {
+     "type": "text",
+     "text": "$55,000",
+     "x": 318,
+     "y": 108,
+     "size": 34,
+     "bold": true,
+     "color": "#2F8A4A",
+     "w": 400
+    },
+    {
+     "type": "image",
+     "path": "art/kevin-stand.png",
+     "x": 688,
+     "y": 102,
+     "w": 385,
+     "to": 2.96
+    },
+    {
+     "type": "image",
+     "path": "art/kevin-embarrassed.png",
+     "x": 688,
+     "y": 102,
+     "w": 385,
+     "from": 2.96
+    },
+    {
+     "type": "text",
+     "text": "$58,000",
+     "x": 818,
+     "y": 151,
+     "size": 34,
+     "bold": true,
+     "color": "#2F8A4A",
+     "w": 400
+    },
+    {
+     "type": "text",
+     "text": "\"How do you make more than me?\"",
+     "x": 80,
+     "y": 30,
+     "size": 44,
+     "bold": true,
+     "w": 900,
+     "from": 0.3,
+     "keys": [
+      {
+       "t": 0.3,
+       "y": 48,
+       "alpha": 0
+      },
+      {
+       "t": 0.55,
+       "y": 30,
+       "alpha": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 314.79,
+   "end": 319.21,
+   "layers": [
+    {
+     "type": "text",
+     "text": "YEARS AGO...",
+     "x": 80,
+     "y": 50,
+     "size": 44,
+     "bold": true,
+     "color": "#EC4338",
+     "from": 0,
+     "keys": [
+      {
+       "t": 0,
+       "y": 68,
+       "alpha": 0
+      },
+      {
+       "t": 0.25,
+       "y": 50,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "art/kevin-ask.png",
+     "x": 167,
+     "y": 102,
+     "w": 385
+    },
+    {
+     "type": "image",
+     "path": "art/boss.png",
+     "x": 708,
+     "y": 102,
+     "w": 385
+    },
+    {
+     "type": "text",
+     "text": "\"I just asked for more.\"",
+     "x": 80,
+     "y": 120,
+     "size": 48,
+     "bold": true,
+     "from": 1.06,
+     "keys": [
+      {
+       "t": 1.06,
+       "y": 138,
+       "alpha": 0
+      },
+      {
+       "t": 1.31,
+       "y": 120,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "\"YES.\"",
+     "x": 880,
+     "y": 120,
+     "size": 56,
+     "bold": true,
+     "color": "#2F8A4A",
+     "from": 2.72,
+     "keys": [
+      {
+       "t": 2.72,
+       "y": 138,
+       "alpha": 0
+      },
+      {
+       "t": 2.97,
+       "y": 120,
+       "alpha": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 319.21,
+   "end": 322.33,
+   "layers": [
+    {
+     "type": "text",
+     "text": "ONE SENTENCE.",
+     "x": 80,
+     "y": 160,
+     "size": 90,
+     "bold": true,
+     "from": 0.2,
+     "keys": [
+      {
+       "t": 0.2,
+       "y": 178,
+       "alpha": 0
+      },
+      {
+       "t": 0.45,
+       "y": 160,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "YEARS AGO.",
+     "x": 80,
+     "y": 290,
+     "size": 90,
+     "bold": true,
+     "color": "#EC4338",
+     "from": 0.8,
+     "keys": [
+      {
+       "t": 0.8,
+       "y": 308,
+       "alpha": 0
+      },
+      {
+       "t": 1.05,
+       "y": 290,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "art/kevin-embarrassed.png",
+     "x": 833,
+     "y": 39,
+     "w": 434
+    }
+   ]
+  },
+  {
+   "start": 322.33,
+   "end": 331.05,
+   "layers": [
+    {
+     "type": "image",
+     "path": "art/stairs.png",
+     "x": 120,
+     "y": 200,
+     "w": 560,
+     "from": 1.1,
+     "keys": [
+      {
+       "t": 1.1,
+       "y": 218,
+       "alpha": 0
+      },
+      {
+       "t": 1.35,
+       "y": 200,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "small gap at the start...",
+     "x": 720,
+     "y": 220,
+     "size": 44,
+     "bold": true,
+     "w": 520,
+     "from": 1.1,
+     "keys": [
+      {
+       "t": 1.1,
+       "y": 238,
+       "alpha": 0
+      },
+      {
+       "t": 1.35,
+       "y": 220,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "...follows you for years.",
+     "x": 720,
+     "y": 300,
+     "size": 44,
+     "bold": true,
+     "color": "#EC4338",
+     "w": 520,
+     "from": 1.1,
+     "keys": [
+      {
+       "t": 1.1,
+       "y": 318,
+       "alpha": 0
+      },
+      {
+       "t": 1.35,
+       "y": 300,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "every raise builds on it",
+     "x": 720,
+     "y": 400,
+     "size": 40,
+     "bold": true,
+     "color": "#2F8A4A",
+     "w": 520,
+     "from": 4.84,
+     "keys": [
+      {
+       "t": 4.84,
+       "y": 418,
+       "alpha": 0
+      },
+      {
+       "t": 5.09,
+       "y": 400,
+       "alpha": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 331.05,
+   "end": 338.77,
+   "layers": [
+    {
+     "type": "text",
+     "text": "THIS ACTUALLY HAPPENED.",
+     "x": 80,
+     "y": 50,
+     "size": 60,
+     "bold": true,
+     "color": "#EC4338",
+     "from": 1.3,
+     "keys": [
+      {
+       "t": 1.3,
+       "y": 68,
+       "alpha": 0
+      },
+      {
+       "t": 1.55,
+       "y": 50,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "art/sign-norway.png",
+     "x": 120,
+     "y": 200,
+     "w": 280,
+     "from": 3.2,
+     "keys": [
+      {
+       "t": 3.2,
+       "y": 218,
+       "alpha": 0
+      },
+      {
+       "t": 3.45,
+       "y": 200,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "art/doc-public.png",
+     "x": 520,
+     "y": 200,
+     "w": 280,
+     "from": 5.72,
+     "keys": [
+      {
+       "t": 5.72,
+       "y": 218,
+       "alpha": 0
+      },
+      {
+       "t": 5.97,
+       "y": 200,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "art/you-surprised.png",
+     "x": 833,
+     "y": 39,
+     "w": 434
+    }
+   ]
+  },
+  {
+   "start": 338.77,
+   "end": 344.57,
+   "layers": [
+    {
+     "type": "text",
+     "text": "2001: ONLINE.",
+     "x": 80,
+     "y": 50,
+     "size": 64,
+     "bold": true,
+     "from": 0.1,
+     "keys": [
+      {
+       "t": 0.1,
+       "y": 68,
+       "alpha": 0
+      },
+      {
+       "t": 0.35,
+       "y": 50,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "art/desk.png",
+     "x": 140,
+     "y": 260,
+     "w": 420
+    },
+    {
+     "type": "image",
+     "path": "art/n-search.png",
+     "x": -13,
+     "y": 192,
+     "w": 385
+    },
+    {
+     "type": "image",
+     "path": "art/laptop-search.png",
+     "x": 640,
+     "y": 160,
+     "w": 420,
+     "from": 1.26,
+     "keys": [
+      {
+       "t": 1.26,
+       "y": 178,
+       "alpha": 0
+      },
+      {
+       "t": 1.51,
+       "y": 160,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "anyone. in seconds.",
+     "x": 690,
+     "y": 470,
+     "size": 44,
+     "bold": true,
+     "color": "#EC4338",
+     "from": 4.12,
+     "keys": [
+      {
+       "t": 4.12,
+       "y": 488,
+       "alpha": 0
+      },
+      {
+       "t": 4.37,
+       "y": 470,
+       "alpha": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 344.57,
+   "end": 353.37,
+   "layers": [
+    {
+     "type": "text",
+     "text": "WHAT HAPPENED NEXT?",
+     "x": 80,
+     "y": 50,
+     "size": 56,
+     "bold": true
+    },
+    {
+     "type": "image",
+     "path": "art/thermo-rich.png",
+     "x": 300,
+     "y": 170,
+     "w": 130,
+     "keys": [
+      {
+       "t": 2.38,
+       "y": 188,
+       "alpha": 0
+      },
+      {
+       "t": 2.63,
+       "y": 170,
+       "alpha": 1
+      }
+     ],
+     "from": 2.38
+    },
+    {
+     "type": "image",
+     "path": "art/thermo-poor.png",
+     "x": 520,
+     "y": 170,
+     "w": 130,
+     "keys": [
+      {
+       "t": 2.6799999999999997,
+       "y": 188,
+       "alpha": 0
+      },
+      {
+       "t": 2.9299999999999997,
+       "y": 170,
+       "alpha": 1
+      }
+     ],
+     "from": 2.6799999999999997
+    },
+    {
+     "type": "text",
+     "text": "THE GAP GREW.",
+     "x": 760,
+     "y": 260,
+     "size": 64,
+     "bold": true,
+     "color": "#EC4338",
+     "from": 6.5,
+     "keys": [
+      {
+       "t": 6.5,
+       "y": 278,
+       "alpha": 0
+      },
+      {
+       "t": 6.75,
+       "y": 260,
+       "alpha": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 353.37,
+   "end": 359.37,
+   "layers": [
+    {
+     "type": "image",
+     "path": "art/n-sad.png",
+     "x": 423,
+     "y": 39,
+     "w": 434
+    },
+    {
+     "type": "text",
+     "text": "$48,000",
+     "x": 578,
+     "y": 101,
+     "size": 34,
+     "bold": true,
+     "color": "#2F8A4A",
+     "w": 400
+    },
+    {
+     "type": "text",
+     "text": "not richer.",
+     "x": 80,
+     "y": 140,
+     "size": 56,
+     "bold": true,
+     "from": 1.1,
+     "keys": [
+      {
+       "t": 1.1,
+       "y": 158,
+       "alpha": 0
+      },
+      {
+       "t": 1.35,
+       "y": 140,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "just FELT poorer.",
+     "x": 80,
+     "y": 230,
+     "size": 56,
+     "bold": true,
+     "color": "#EC4338",
+     "from": 3.62,
+     "keys": [
+      {
+       "t": 3.62,
+       "y": 248,
+       "alpha": 0
+      },
+      {
+       "t": 3.87,
+       "y": 230,
+       "alpha": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 359.37,
+   "end": 364.65,
+   "layers": [
+    {
+     "type": "image",
+     "path": "art/laptop-search.png",
+     "x": 120,
+     "y": 150,
+     "w": 420,
+     "to": 2.8
+    },
+    {
+     "type": "image",
+     "path": "art/laptop-eye.png",
+     "x": 120,
+     "y": 150,
+     "w": 420,
+     "from": 2.8
+    },
+    {
+     "type": "text",
+     "text": "SEARCHES = TRACEABLE.",
+     "x": 600,
+     "y": 160,
+     "size": 50,
+     "bold": true,
+     "from": 0.4,
+     "keys": [
+      {
+       "t": 0.4,
+       "y": 178,
+       "alpha": 0
+      },
+      {
+       "t": 0.65,
+       "y": 160,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "they can see who looked",
+     "x": 600,
+     "y": 260,
+     "size": 44,
+     "bold": true,
+     "color": "#EC4338",
+     "w": 600,
+     "from": 2.8,
+     "keys": [
+      {
+       "t": 2.8,
+       "y": 278,
+       "alpha": 0
+      },
+      {
+       "t": 3.05,
+       "y": 260,
+       "alpha": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 364.65,
+   "end": 369.51,
+   "layers": [
+    {
+     "type": "text",
+     "text": "SEARCHES PER YEAR",
+     "x": 80,
+     "y": 50,
+     "size": 54,
+     "bold": true
+    },
+    {
+     "type": "image",
+     "path": "art/sign-16m.png",
+     "x": 150,
+     "y": 190,
+     "w": 300,
+     "from": 0.3,
+     "keys": [
+      {
+       "t": 0.3,
+       "y": 208,
+       "alpha": 0
+      },
+      {
+       "t": 0.55,
+       "y": 190,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "arrow",
+     "x": 480,
+     "y": 360,
+     "w": 240,
+     "keys": [
+      {
+       "t": 1.12,
+       "progress": 0
+      },
+      {
+       "t": 1.72,
+       "progress": 1
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "art/sign-2m.png",
+     "x": 780,
+     "y": 400,
+     "w": 150,
+     "from": 1.72,
+     "keys": [
+      {
+       "t": 1.72,
+       "y": 418,
+       "alpha": 0
+      },
+      {
+       "t": 1.97,
+       "y": 400,
+       "alpha": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 369.51,
+   "end": 373.33,
+   "layers": [
+    {
+     "type": "image",
+     "path": "art/calendar-day7.png",
+     "x": 90,
+     "y": 170,
+     "w": 560
+    },
+    {
+     "type": "text",
+     "text": "$?,???,???",
+     "x": 700,
+     "y": 62,
+     "size": 58,
+     "bold": true,
+     "color": "#EC4338",
+     "from": 0.2,
+     "keys": [
+      {
+       "t": 0.2,
+       "y": 80,
+       "alpha": 0
+      },
+      {
+       "t": 0.45,
+       "y": 62,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "art/you-nervous.png",
+     "x": 743,
+     "y": 39,
+     "w": 434,
+     "from": 1.66
+    },
+    {
+     "type": "image",
+     "path": "art/you-calm.png",
+     "x": 743,
+     "y": 39,
+     "w": 434,
+     "to": 1.66
+    }
+   ]
+  },
+  {
+   "start": 373.33,
+   "end": 376.47,
+   "layers": [
+    {
+     "type": "text",
+     "text": "DAY 7",
+     "x": 80,
+     "y": 40,
+     "size": 70,
+     "bold": true,
+     "color": "#EC4338"
+    },
+    {
+     "type": "underline",
+     "x": 82,
+     "y": 118,
+     "w": 200,
+     "color": "#EC4338",
+     "keys": [
+      {
+       "t": 0,
+       "progress": 0
+      },
+      {
+       "t": 0.5,
+       "progress": 1
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-a.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 0,
+     "to": 0.35
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-b.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 0.35,
+     "to": 0.7
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-a.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 0.7,
+     "to": 1.05
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-b.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 1.05,
+     "to": 1.4
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-a.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 1.4,
+     "to": 1.75
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-b.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 1.75,
+     "to": 2.1
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-a.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 2.1,
+     "to": 2.45
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-b.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 2.45,
+     "to": 2.8
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-a.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 2.8,
+     "to": 3.14
+    },
+    {
+     "type": "text",
+     "text": "$55,000",
+     "x": 578,
+     "y": 53,
+     "size": 34,
+     "bold": true,
+     "color": "#2F8A4A",
+     "w": 400
+    },
+    {
+     "type": "image",
+     "path": "art/building.png",
+     "x": 980,
+     "y": 150,
+     "w": 230
+    }
+   ]
+  },
+  {
+   "start": 376.47,
+   "end": 380.71,
+   "layers": [
+    {
+     "type": "image",
+     "path": "art/janitor.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 0,
+     "to": 0.45
+    },
+    {
+     "type": "image",
+     "path": "art/janitor.png",
+     "x": 433,
+     "y": 39,
+     "w": 434,
+     "from": 0.45,
+     "to": 0.9
+    },
+    {
+     "type": "image",
+     "path": "art/janitor.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 0.9,
+     "to": 1.35
+    },
+    {
+     "type": "image",
+     "path": "art/janitor.png",
+     "x": 433,
+     "y": 39,
+     "w": 434,
+     "from": 1.35,
+     "to": 1.8
+    },
+    {
+     "type": "image",
+     "path": "art/janitor.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 1.8,
+     "to": 2.25
+    },
+    {
+     "type": "image",
+     "path": "art/janitor.png",
+     "x": 433,
+     "y": 39,
+     "w": 434,
+     "from": 2.25,
+     "to": 2.7
+    },
+    {
+     "type": "image",
+     "path": "art/janitor.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 2.7,
+     "to": 3.15
+    },
+    {
+     "type": "image",
+     "path": "art/janitor.png",
+     "x": 433,
+     "y": 39,
+     "w": 434,
+     "from": 3.15,
+     "to": 3.6
+    },
+    {
+     "type": "image",
+     "path": "art/janitor.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 3.6,
+     "to": 4.05
+    },
+    {
+     "type": "image",
+     "path": "art/janitor.png",
+     "x": 433,
+     "y": 39,
+     "w": 434,
+     "from": 4.05,
+     "to": 4.239
+    },
+    {
+     "type": "text",
+     "text": "$?,???,???",
+     "x": 520,
+     "y": 100,
+     "size": 48,
+     "bold": true,
+     "color": "#EC4338"
+    },
+    {
+     "type": "text",
+     "text": "30 YEARS HERE",
+     "x": 900,
+     "y": 260,
+     "size": 44,
+     "bold": true,
+     "from": 2.4,
+     "keys": [
+      {
+       "t": 2.4,
+       "y": 278,
+       "alpha": 0
+      },
+      {
+       "t": 2.65,
+       "y": 260,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "art/you-calm.png",
+     "x": 25,
+     "y": 148,
+     "w": 350
+    }
+   ]
+  },
+  {
+   "start": 380.71,
+   "end": 383.73,
+   "layers": [
+    {
+     "type": "image",
+     "path": "art/janitor.png",
+     "x": 683,
+     "y": 39,
+     "w": 434
+    },
+    {
+     "type": "text",
+     "text": "$9,800,000",
+     "x": 600,
+     "y": 90,
+     "size": 72,
+     "bold": true,
+     "color": "#2F8A4A",
+     "from": 0.05,
+     "keys": [
+      {
+       "t": 0.05,
+       "y": 108,
+       "alpha": 0
+      },
+      {
+       "t": 0.3,
+       "y": 90,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "art/you-calm.png",
+     "x": 83,
+     "y": 39,
+     "w": 434,
+     "to": 1.1
+    },
+    {
+     "type": "image",
+     "path": "art/you-drop.png",
+     "x": 83,
+     "y": 39,
+     "w": 434,
+     "from": 1.1
+    },
+    {
+     "type": "image",
+     "path": "art/coffee-spill.png",
+     "x": 300,
+     "y": 520,
+     "w": 150,
+     "from": 1.2,
+     "keys": [
+      {
+       "t": 1.2,
+       "y": 538,
+       "alpha": 0
+      },
+      {
+       "t": 1.45,
+       "y": 520,
+       "alpha": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 383.73,
+   "end": 388.63,
+   "layers": [
+    {
+     "type": "image",
+     "path": "art/doc-shares.png",
+     "x": 80,
+     "y": 140,
+     "w": 280,
+     "from": 0.2,
+     "keys": [
+      {
+       "t": 0.2,
+       "y": 158,
+       "alpha": 0
+      },
+      {
+       "t": 0.45,
+       "y": 140,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "SAVED EVERY MONTH.",
+     "x": 420,
+     "y": 180,
+     "size": 50,
+     "bold": true,
+     "color": "#2F8A4A",
+     "from": 2.36,
+     "keys": [
+      {
+       "t": 2.36,
+       "y": 198,
+       "alpha": 0
+      },
+      {
+       "t": 2.61,
+       "y": 180,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "TOLD NO ONE.",
+     "x": 420,
+     "y": 270,
+     "size": 50,
+     "bold": true,
+     "color": "#EC4338",
+     "from": 3.48,
+     "keys": [
+      {
+       "t": 3.48,
+       "y": 288,
+       "alpha": 0
+      },
+      {
+       "t": 3.73,
+       "y": 270,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "art/janitor.png",
+     "x": 888,
+     "y": 102,
+     "w": 385
+    }
+   ]
+  },
+  {
+   "start": 388.63,
+   "end": 393.19,
+   "layers": [
+    {
+     "type": "image",
+     "path": "art/coins-big.png",
+     "x": 140,
+     "y": 150,
+     "w": 180
+    },
+    {
+     "type": "text",
+     "text": "DIVIDENDS",
+     "x": 80,
+     "y": 60,
+     "size": 46,
+     "bold": true,
+     "color": "#2F8A4A",
+     "from": 0.1,
+     "keys": [
+      {
+       "t": 0.1,
+       "y": 78,
+       "alpha": 0
+      },
+      {
+       "t": 0.35,
+       "y": 60,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "art/q1.png",
+     "x": 420,
+     "y": 238,
+     "w": 280
+    },
+    {
+     "type": "image",
+     "path": "art/q2.png",
+     "x": 570,
+     "y": 238,
+     "w": 280
+    },
+    {
+     "type": "image",
+     "path": "art/q4.png",
+     "x": 720,
+     "y": 238,
+     "w": 280
+    },
+    {
+     "type": "image",
+     "path": "art/q5.png",
+     "x": 870,
+     "y": 238,
+     "w": 280
+    },
+    {
+     "type": "image",
+     "path": "art/kevin-stand.png",
+     "x": 1020,
+     "y": 238,
+     "w": 280
+    },
+    {
+     "type": "text",
+     "text": "> the whole office combined",
+     "x": 520,
+     "y": 120,
+     "size": 44,
+     "bold": true,
+     "color": "#EC4338",
+     "w": 720,
+     "from": 2.18,
+     "keys": [
+      {
+       "t": 2.18,
+       "y": 138,
+       "alpha": 0
+      },
+      {
+       "t": 2.43,
+       "y": 120,
+       "alpha": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 393.19,
+   "end": 395.51,
+   "layers": [
+    {
+     "type": "image",
+     "path": "art/janitor-wave.png",
+     "x": 663,
+     "y": 39,
+     "w": 434,
+     "from": 0,
+     "to": 0.4
+    },
+    {
+     "type": "image",
+     "path": "art/janitor.png",
+     "x": 663,
+     "y": 39,
+     "w": 434,
+     "from": 0.4,
+     "to": 0.8
+    },
+    {
+     "type": "image",
+     "path": "art/janitor-wave.png",
+     "x": 663,
+     "y": 39,
+     "w": 434,
+     "from": 0.8,
+     "to": 1.2
+    },
+    {
+     "type": "image",
+     "path": "art/janitor.png",
+     "x": 663,
+     "y": 39,
+     "w": 434,
+     "from": 1.2,
+     "to": 1.6
+    },
+    {
+     "type": "image",
+     "path": "art/janitor-wave.png",
+     "x": 663,
+     "y": 39,
+     "w": 434,
+     "from": 1.6,
+     "to": 2
+    },
+    {
+     "type": "image",
+     "path": "art/janitor.png",
+     "x": 663,
+     "y": 39,
+     "w": 434,
+     "from": 2,
+     "to": 2.319
+    },
+    {
+     "type": "text",
+     "text": "$9,800,000",
+     "x": 776,
+     "y": 95,
+     "size": 40,
+     "bold": true,
+     "color": "#2F8A4A",
+     "w": 400
+    },
+    {
+     "type": "image",
+     "path": "art/you-surprised.png",
+     "x": 143,
+     "y": 39,
+     "w": 434,
+     "to": 0.94
+    },
+    {
+     "type": "image",
+     "path": "art/you-wave.png",
+     "x": 143,
+     "y": 39,
+     "w": 434,
+     "from": 0.94
+    },
+    {
+     "type": "text",
+     "text": "same as always",
+     "x": 520,
+     "y": 470,
+     "size": 40,
+     "bold": true,
+     "from": 0.94,
+     "keys": [
+      {
+       "t": 0.94,
+       "y": 488,
+       "alpha": 0
+      },
+      {
+       "t": 1.19,
+       "y": 470,
+       "alpha": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 395.51,
+   "end": 407.73,
+   "layers": [
+    {
+     "type": "image",
+     "path": "art/dock.png",
+     "x": 340,
+     "y": 430,
+     "w": 600
+    },
+    {
+     "type": "image",
+     "path": "art/you-sit-listen.png",
+     "x": 288,
+     "y": 192,
+     "w": 385
+    },
+    {
+     "type": "image",
+     "path": "art/janitor-sit.png",
+     "x": 628,
+     "y": 192,
+     "w": 385,
+     "to": 6.44
+    },
+    {
+     "type": "image",
+     "path": "art/janitor-shrug.png",
+     "x": 628,
+     "y": 192,
+     "w": 385,
+     "from": 6.44,
+     "to": 7.6
+    },
+    {
+     "type": "image",
+     "path": "art/janitor-talk.png",
+     "x": 628,
+     "y": 192,
+     "w": 385,
+     "from": 7.6
+    },
+    {
+     "type": "text",
+     "text": "\"Why are you still here?\"",
+     "x": 80,
+     "y": 25,
+     "size": 42,
+     "bold": true,
+     "from": 4.62,
+     "keys": [
+      {
+       "t": 4.62,
+       "y": 43,
+       "alpha": 0
+      },
+      {
+       "t": 4.87,
+       "y": 25,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "\"I like the work. I like the people.\"",
+     "x": 80,
+     "y": 80,
+     "size": 40,
+     "bold": true,
+     "color": "#2F8A4A",
+     "w": 1100,
+     "from": 7.6,
+     "keys": [
+      {
+       "t": 7.6,
+       "y": 98,
+       "alpha": 0
+      },
+      {
+       "t": 7.85,
+       "y": 80,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "\"I never needed anyone to know my number.\"",
+     "x": 80,
+     "y": 135,
+     "size": 40,
+     "bold": true,
+     "color": "#EC4338",
+     "w": 1100,
+     "from": 9.32,
+     "keys": [
+      {
+       "t": 9.32,
+       "y": 153,
+       "alpha": 0
+      },
+      {
+       "t": 9.57,
+       "y": 135,
+       "alpha": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 407.73,
+   "end": 418.47,
+   "layers": [
+    {
+     "type": "image",
+     "path": "art/dock.png",
+     "x": 340,
+     "y": 430,
+     "w": 600
+    },
+    {
+     "type": "image",
+     "path": "art/you-sit-listen.png",
+     "x": 288,
+     "y": 192,
+     "w": 385
+    },
+    {
+     "type": "image",
+     "path": "art/janitor-talk.png",
+     "x": 628,
+     "y": 192,
+     "w": 385
+    },
+    {
+     "type": "image",
+     "path": "art/coins-small.png",
+     "x": 1060,
+     "y": 120,
+     "w": 150,
+     "to": 9.3
+    },
+    {
+     "type": "image",
+     "path": "art/coins-big.png",
+     "x": 1060,
+     "y": 120,
+     "w": 150,
+     "from": 9.3
+    },
+    {
+     "type": "text",
+     "text": "\"Most months, it felt like nothing.\"",
+     "x": 80,
+     "y": 90,
+     "size": 42,
+     "bold": true,
+     "w": 900,
+     "from": 6.32,
+     "keys": [
+      {
+       "t": 6.32,
+       "y": 108,
+       "alpha": 0
+      },
+      {
+       "t": 6.57,
+       "y": 90,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "\"...then it was everything.\"",
+     "x": 80,
+     "y": 170,
+     "size": 46,
+     "bold": true,
+     "color": "#2F8A4A",
+     "w": 900,
+     "from": 9.3,
+     "keys": [
+      {
+       "t": 9.3,
+       "y": 188,
+       "alpha": 0
+      },
+      {
+       "t": 9.55,
+       "y": 170,
+       "alpha": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 418.47,
+   "end": 427.43,
+   "layers": [
+    {
+     "type": "image",
+     "path": "art/janitor-wave.png",
+     "x": 908,
+     "y": 102,
+     "w": 385
+    },
+    {
+     "type": "text",
+     "text": "SPEND LESS THAN YOU MAKE.",
+     "x": 80,
+     "y": 120,
+     "size": 52,
+     "bold": true,
+     "from": 3.56,
+     "keys": [
+      {
+       "t": 3.56,
+       "y": 138,
+       "alpha": 0
+      },
+      {
+       "t": 3.81,
+       "y": 120,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "OWN THINGS THAT PAY YOU.",
+     "x": 80,
+     "y": 210,
+     "size": 52,
+     "bold": true,
+     "color": "#2F8A4A",
+     "from": 4.68,
+     "keys": [
+      {
+       "t": 4.68,
+       "y": 228,
+       "alpha": 0
+      },
+      {
+       "t": 4.93,
+       "y": 210,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "STOP COMPARING NUMBERS.",
+     "x": 80,
+     "y": 300,
+     "size": 52,
+     "bold": true,
+     "color": "#EC4338",
+     "from": 6.42,
+     "keys": [
+      {
+       "t": 6.42,
+       "y": 318,
+       "alpha": 0
+      },
+      {
+       "t": 6.67,
+       "y": 300,
+       "alpha": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 427.43,
+   "end": 431.27,
+   "layers": [
+    {
+     "type": "image",
+     "path": "art/you-calm.png",
+     "x": 808,
+     "y": 102,
+     "w": 385,
+     "to": 1.72
+    },
+    {
+     "type": "image",
+     "path": "art/you-grin.png",
+     "x": 808,
+     "y": 102,
+     "w": 385,
+     "from": 1.72
+    },
+    {
+     "type": "text",
+     "text": "$55,000",
+     "x": 938,
+     "y": 108,
+     "size": 34,
+     "bold": true,
+     "color": "#2F8A4A",
+     "w": 400
+    },
+    {
+     "type": "text",
+     "text": "It didn't ruin your life.",
+     "x": 80,
+     "y": 80,
+     "size": 50,
+     "bold": true,
+     "from": 0.1,
+     "keys": [
+      {
+       "t": 0.1,
+       "y": 98,
+       "alpha": 0
+      },
+      {
+       "t": 0.35,
+       "y": 80,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "It ruined how you judged people.",
+     "x": 80,
+     "y": 160,
+     "size": 50,
+     "bold": true,
+     "color": "#2F8A4A",
+     "w": 1100,
+     "from": 1.72,
+     "keys": [
+      {
+       "t": 1.72,
+       "y": 178,
+       "alpha": 0
+      },
+      {
+       "t": 1.97,
+       "y": 160,
+       "alpha": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 431.27,
+   "end": 433.79,
+   "layers": [
+    {
+     "type": "image",
+     "path": "art/moon.png",
+     "x": 1060,
+     "y": 30,
+     "w": 130
+    },
+    {
+     "type": "image",
+     "path": "art/clock.png",
+     "x": 60,
+     "y": 30,
+     "w": 130
+    },
+    {
+     "type": "image",
+     "path": "art/p-barista.png",
+     "x": 3,
+     "y": 193,
+     "w": 315
+    },
+    {
+     "type": "text",
+     "text": "$29,000",
+     "x": 109,
+     "y": 228,
+     "size": 28,
+     "bold": true,
+     "color": "#2F8A4A",
+     "w": 400,
+     "keys": [
+      {
+       "t": 0.5,
+       "alpha": 1
+      },
+      {
+       "t": 1,
+       "alpha": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "art/p-suit.png",
+     "x": 243,
+     "y": 193,
+     "w": 315
+    },
+    {
+     "type": "text",
+     "text": "$34,000",
+     "x": 349,
+     "y": 228,
+     "size": 28,
+     "bold": true,
+     "color": "#2F8A4A",
+     "w": 400,
+     "keys": [
+      {
+       "t": 0.85,
+       "alpha": 1
+      },
+      {
+       "t": 1.35,
+       "alpha": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "art/janitor.png",
+     "x": 483,
+     "y": 193,
+     "w": 315
+    },
+    {
+     "type": "text",
+     "text": "$9,800,000",
+     "x": 567,
+     "y": 228,
+     "size": 28,
+     "bold": true,
+     "color": "#2F8A4A",
+     "w": 400,
+     "keys": [
+      {
+       "t": 1.2,
+       "alpha": 1
+      },
+      {
+       "t": 1.7,
+       "alpha": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "art/p-jogger.png",
+     "x": 723,
+     "y": 193,
+     "w": 315
+    },
+    {
+     "type": "text",
+     "text": "$96,500",
+     "x": 829,
+     "y": 228,
+     "size": 28,
+     "bold": true,
+     "color": "#2F8A4A",
+     "w": 400,
+     "keys": [
+      {
+       "t": 1.5499999999999998,
+       "alpha": 1
+      },
+      {
+       "t": 2.05,
+       "alpha": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "art/p-dogwalker.png",
+     "x": 963,
+     "y": 193,
+     "w": 315
+    },
+    {
+     "type": "text",
+     "text": "$1,250,000",
+     "x": 1047,
+     "y": 228,
+     "size": 28,
+     "bold": true,
+     "color": "#2F8A4A",
+     "w": 400,
+     "keys": [
+      {
+       "t": 1.9,
+       "alpha": 1
+      },
+      {
+       "t": 2.4,
+       "alpha": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 433.79,
+   "end": 445.35,
+   "layers": [
+    {
+     "type": "image",
+     "path": "art/mirror.png",
+     "x": 760,
+     "y": 50,
+     "w": 380
+    },
+    {
+     "type": "image",
+     "path": "art/you-calm.png",
+     "x": 323,
+     "y": 39,
+     "w": 434
+    },
+    {
+     "type": "image",
+     "path": "art/you-calm-m.png",
+     "x": 803,
+     "y": 135,
+     "w": 294
+    },
+    {
+     "type": "image",
+     "path": "art/sink.png",
+     "x": 800,
+     "y": 400,
+     "w": 300
+    },
+    {
+     "type": "text",
+     "text": "$55,000",
+     "x": 870,
+     "y": 127,
+     "size": 44,
+     "bold": true,
+     "color": "#2F8A4A",
+     "keys": [
+      {
+       "t": 10.2,
+       "alpha": 1
+      },
+      {
+       "t": 11.2,
+       "alpha": 0
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "a grade?",
+     "x": 80,
+     "y": 80,
+     "size": 50,
+     "bold": true,
+     "color": "#EC4338",
+     "from": 2.5,
+     "keys": [
+      {
+       "t": 2.5,
+       "y": 98,
+       "alpha": 0
+      },
+      {
+       "t": 2.75,
+       "y": 80,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "a price for your time.",
+     "x": 80,
+     "y": 160,
+     "size": 50,
+     "bold": true,
+     "color": "#2F8A4A",
+     "w": 600,
+     "from": 8.2,
+     "keys": [
+      {
+       "t": 8.2,
+       "y": 178,
+       "alpha": 0
+      },
+      {
+       "t": 8.45,
+       "y": 160,
+       "alpha": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 445.35,
+   "end": 450.75,
+   "layers": [
+    {
+     "type": "image",
+     "path": "art/stove.png",
+     "x": 120,
+     "y": 230,
+     "w": 220,
+     "from": 0,
+     "keys": [
+      {
+       "t": 0,
+       "y": 248,
+       "alpha": 0
+      },
+      {
+       "t": 0.25,
+       "y": 230,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "art/table-mum.png",
+     "x": 420,
+     "y": 300,
+     "w": 380,
+     "from": 1.9,
+     "keys": [
+      {
+       "t": 1.9,
+       "y": 318,
+       "alpha": 0
+      },
+      {
+       "t": 2.15,
+       "y": 300,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "art/janitor-wave.png",
+     "x": 875,
+     "y": 148,
+     "w": 350,
+     "from": 2.82,
+     "keys": [
+      {
+       "t": 2.82,
+       "y": 166,
+       "alpha": 0
+      },
+      {
+       "t": 3.07,
+       "y": 148,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "A NUMBER SAYS NOTHING ABOUT...",
+     "x": 80,
+     "y": 50,
+     "size": 50,
+     "bold": true
+    }
+   ]
+  },
+  {
+   "start": 450.75,
+   "end": 467.99,
+   "layers": [
+    {
+     "type": "text",
+     "text": "7 DAYS TAUGHT YOU:",
+     "x": 80,
+     "y": 50,
+     "size": 60,
+     "bold": true,
+     "color": "#EC4338"
+    },
+    {
+     "type": "text",
+     "text": "1. YOU CAN'T READ WEALTH FROM CLOTHES.",
+     "x": 80,
+     "y": 160,
+     "size": 44,
+     "bold": true,
+     "color": "#191916",
+     "w": 1120,
+     "from": 3.46,
+     "keys": [
+      {
+       "t": 3.46,
+       "y": 178,
+       "alpha": 0
+      },
+      {
+       "t": 3.71,
+       "y": 160,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "2. NOT KNOWING COSTS MONEY. ASK.",
+     "x": 80,
+     "y": 245,
+     "size": 44,
+     "bold": true,
+     "color": "#2F8A4A",
+     "w": 1120,
+     "from": 5.04,
+     "keys": [
+      {
+       "t": 5.04,
+       "y": 263,
+       "alpha": 0
+      },
+      {
+       "t": 5.29,
+       "y": 245,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "3. COMPARING STEALS HAPPINESS.",
+     "x": 80,
+     "y": 330,
+     "size": 44,
+     "bold": true,
+     "color": "#191916",
+     "w": 1120,
+     "from": 9.54,
+     "keys": [
+      {
+       "t": 9.54,
+       "y": 348,
+       "alpha": 0
+      },
+      {
+       "t": 9.79,
+       "y": 330,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "4. THE NUMBER IS THE LEAST INTERESTING PART.",
+     "x": 80,
+     "y": 415,
+     "size": 44,
+     "bold": true,
+     "color": "#2F8A4A",
+     "w": 1120,
+     "from": 13.42,
+     "keys": [
+      {
+       "t": 13.42,
+       "y": 433,
+       "alpha": 0
+      },
+      {
+       "t": 13.67,
+       "y": 415,
+       "alpha": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 467.99,
+   "end": 472.91,
+   "layers": [
+    {
+     "type": "image",
+     "path": "art/mirror.png",
+     "x": 760,
+     "y": 50,
+     "w": 380
+    },
+    {
+     "type": "image",
+     "path": "art/you-calm.png",
+     "x": 213,
+     "y": 39,
+     "w": 434,
+     "to": 3.66
+    },
+    {
+     "type": "image",
+     "path": "art/you-startled.png",
+     "x": 213,
+     "y": 39,
+     "w": 434,
+     "from": 3.66
+    },
+    {
+     "type": "image",
+     "path": "art/you-calm-m.png",
+     "x": 803,
+     "y": 135,
+     "w": 294
+    },
+    {
+     "type": "image",
+     "path": "art/sink.png",
+     "x": 800,
+     "y": 400,
+     "w": 300
+    },
+    {
+     "type": "text",
+     "text": "+73",
+     "x": 900,
+     "y": 117,
+     "size": 56,
+     "bold": true,
+     "color": "#2F8A4A",
+     "from": 3.66,
+     "keys": [
+      {
+       "t": 3.66,
+       "y": 135,
+       "alpha": 0
+      },
+      {
+       "t": 3.91,
+       "y": 117,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "Not money.",
+     "x": 80,
+     "y": 90,
+     "size": 50,
+     "bold": true,
+     "from": 2.54,
+     "keys": [
+      {
+       "t": 2.54,
+       "y": 108,
+       "alpha": 0
+      },
+      {
+       "t": 2.79,
+       "y": 90,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "KARMA.",
+     "x": 80,
+     "y": 170,
+     "size": 80,
+     "bold": true,
+     "color": "#EC4338",
+     "from": 3.66,
+     "keys": [
+      {
+       "t": 3.66,
+       "y": 188,
+       "alpha": 0
+      },
+      {
+       "t": 3.91,
+       "y": 170,
+       "alpha": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 472.91,
+   "end": 484.63,
+   "layers": [
+    {
+     "type": "image",
+     "path": "art/subscribe.png",
+     "x": 470,
+     "y": 300,
+     "w": 340,
+     "from": 2.52,
+     "keys": [
+      {
+       "t": 2.52,
+       "y": 318,
+       "alpha": 0
+      },
+      {
+       "t": 2.77,
+       "y": 300,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "art/you-calm.png",
+     "x": 83,
+     "y": 39,
+     "w": 434,
+     "to": 2.82
+    },
+    {
+     "type": "image",
+     "path": "art/you-tap.png",
+     "x": 83,
+     "y": 39,
+     "w": 434,
+     "from": 2.82
+    },
+    {
+     "type": "text",
+     "text": "NEXT: WHAT IF YOU COULD SEE EVERYONE'S KARMA?",
+     "x": 80,
+     "y": 60,
+     "size": 46,
+     "bold": true,
+     "color": "#EC4338",
+     "from": 0.2,
+     "keys": [
+      {
+       "t": 0.2,
+       "y": 78,
+       "alpha": 0
+      },
+      {
+       "t": 0.45,
+       "y": 60,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "the numbers change again...",
+     "x": 470,
+     "y": 460,
+     "size": 44,
+     "bold": true,
+     "from": 3.94,
+     "keys": [
+      {
+       "t": 3.94,
+       "y": 478,
+       "alpha": 0
+      },
+      {
+       "t": 4.1899999999999995,
+       "y": 460,
+       "alpha": 1
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "sfx": [
+  {
+   "time": 2.8,
+   "kind": "pop",
+   "gain": 0.18
+  },
+  {
+   "time": 4.95,
+   "kind": "paper",
+   "gain": 0.12
+  },
+  {
+   "time": 10,
+   "kind": "tap",
+   "gain": 0.1
+  },
+  {
+   "time": 10.35,
+   "kind": "tap",
+   "gain": 0.1
+  },
+  {
+   "time": 10.8,
+   "kind": "tap",
+   "gain": 0.1
+  },
+  {
+   "time": 11.15,
+   "kind": "tap",
+   "gain": 0.1
+  },
+  {
+   "time": 14.049999999999999,
+   "kind": "pop",
+   "gain": 0.08
+  },
+  {
+   "time": 14.329999999999998,
+   "kind": "pop",
+   "gain": 0.08
+  },
+  {
+   "time": 14.61,
+   "kind": "pop",
+   "gain": 0.08
+  },
+  {
+   "time": 14.889999999999999,
+   "kind": "pop",
+   "gain": 0.08
+  },
+  {
+   "time": 15.169999999999998,
+   "kind": "pop",
+   "gain": 0.08
+  },
+  {
+   "time": 15.7,
+   "kind": "paper",
+   "gain": 0.1
+  },
+  {
+   "time": 17,
+   "kind": "chime",
+   "gain": 0.1
+  },
+  {
+   "time": 20.05,
+   "kind": "tap",
+   "gain": 0.12
+  },
+  {
+   "time": 21,
+   "kind": "pop",
+   "gain": 0.14
+  },
+  {
+   "time": 26.61,
+   "kind": "pop",
+   "gain": 0.1
+  },
+  {
+   "time": 28.15,
+   "kind": "pop",
+   "gain": 0.1
+  },
+  {
+   "time": 31.89,
+   "kind": "chime",
+   "gain": 0.12
+  },
+  {
+   "time": 36.79,
+   "kind": "paper",
+   "gain": 0.1
+  },
+  {
+   "time": 42.21,
+   "kind": "pop",
+   "gain": 0.12
+  },
+  {
+   "time": 50.25,
+   "kind": "tap",
+   "gain": 0.12
+  },
+  {
+   "time": 61.87,
+   "kind": "chime",
+   "gain": 0.1
+  },
+  {
+   "time": 67.03,
+   "kind": "pop",
+   "gain": 0.12
+  },
+  {
+   "time": 68.49,
+   "kind": "paper",
+   "gain": 0.1
+  },
+  {
+   "time": 73.077,
+   "kind": "tap",
+   "gain": 0.2
+  },
+  {
+   "time": 78.43,
+   "kind": "paper",
+   "gain": 0.1
+  },
+  {
+   "time": 86.53,
+   "kind": "pop",
+   "gain": 0.1
+  },
+  {
+   "time": 88.05,
+   "kind": "pop",
+   "gain": 0.1
+  },
+  {
+   "time": 93.93,
+   "kind": "paper",
+   "gain": 0.12
+  },
+  {
+   "time": 100.45,
+   "kind": "tap",
+   "gain": 0.2
+  },
+  {
+   "time": 100.7,
+   "kind": "tap",
+   "gain": 0.2
+  },
+  {
+   "time": 105.4,
+   "kind": "pop",
+   "gain": 0.12
+  },
+  {
+   "time": 110.57,
+   "kind": "pop",
+   "gain": 0.14
+  },
+  {
+   "time": 112.59,
+   "kind": "chime",
+   "gain": 0.14
+  },
+  {
+   "time": 119.21,
+   "kind": "paper",
+   "gain": 0.1
+  },
+  {
+   "time": 124.03,
+   "kind": "chime",
+   "gain": 0.1
+  },
+  {
+   "time": 129.53,
+   "kind": "pop",
+   "gain": 0.09
+  },
+  {
+   "time": 131.07,
+   "kind": "pop",
+   "gain": 0.09
+  },
+  {
+   "time": 131.77,
+   "kind": "pop",
+   "gain": 0.09
+  },
+  {
+   "time": 132.67,
+   "kind": "pop",
+   "gain": 0.09
+  },
+  {
+   "time": 133.97,
+   "kind": "pop",
+   "gain": 0.12
+  },
+  {
+   "time": 140.49,
+   "kind": "tap",
+   "gain": 0.14
+  },
+  {
+   "time": 149.57,
+   "kind": "jingle",
+   "gain": 0.12
+  },
+  {
+   "time": 153.83,
+   "kind": "tap",
+   "gain": 0.12
+  },
+  {
+   "time": 157.93,
+   "kind": "paper",
+   "gain": 0.1
+  },
+  {
+   "time": 160.99,
+   "kind": "tap",
+   "gain": 0.1
+  },
+  {
+   "time": 164.23,
+   "kind": "tap",
+   "gain": 0.1
+  },
+  {
+   "time": 168.55,
+   "kind": "pop",
+   "gain": 0.12
+  },
+  {
+   "time": 171.67,
+   "kind": "tap",
+   "gain": 0.1
+  },
+  {
+   "time": 176.97,
+   "kind": "paper",
+   "gain": 0.12
+  },
+  {
+   "time": 188.37,
+   "kind": "pop",
+   "gain": 0.1
+  },
+  {
+   "time": 191.73,
+   "kind": "pop",
+   "gain": 0.1
+  },
+  {
+   "time": 196.39,
+   "kind": "pop",
+   "gain": 0.1
+  },
+  {
+   "time": 200.27,
+   "kind": "chime",
+   "gain": 0.1
+  },
+  {
+   "time": 205.45,
+   "kind": "paper",
+   "gain": 0.1
+  },
+  {
+   "time": 210.43,
+   "kind": "pop",
+   "gain": 0.1
+  },
+  {
+   "time": 216.01,
+   "kind": "paper",
+   "gain": 0.1
+  },
+  {
+   "time": 224.33,
+   "kind": "chime",
+   "gain": 0.1
+  },
+  {
+   "time": 229.89,
+   "kind": "pop",
+   "gain": 0.1
+  },
+  {
+   "time": 238.67,
+   "kind": "pop",
+   "gain": 0.12
+  },
+  {
+   "time": 240.91,
+   "kind": "tap",
+   "gain": 0.12
+  },
+  {
+   "time": 243.97,
+   "kind": "pop",
+   "gain": 0.1
+  },
+  {
+   "time": 244.91,
+   "kind": "pop",
+   "gain": 0.1
+  },
+  {
+   "time": 246.19,
+   "kind": "pop",
+   "gain": 0.1
+  },
+  {
+   "time": 248.19,
+   "kind": "chime",
+   "gain": 0.1
+  },
+  {
+   "time": 252.99,
+   "kind": "paper",
+   "gain": 0.1
+  },
+  {
+   "time": 258.79,
+   "kind": "pop",
+   "gain": 0.1
+  },
+  {
+   "time": 267.83,
+   "kind": "tap",
+   "gain": 0.1
+  },
+  {
+   "time": 269.39,
+   "kind": "tap",
+   "gain": 0.1
+  },
+  {
+   "time": 270.27,
+   "kind": "tap",
+   "gain": 0.1
+  },
+  {
+   "time": 279.07,
+   "kind": "paper",
+   "gain": 0.1
+  },
+  {
+   "time": 284.11,
+   "kind": "pop",
+   "gain": 0.14
+  },
+  {
+   "time": 287.35,
+   "kind": "pop",
+   "gain": 0.07
+  },
+  {
+   "time": 287.65,
+   "kind": "pop",
+   "gain": 0.07
+  },
+  {
+   "time": 287.95,
+   "kind": "pop",
+   "gain": 0.07
+  },
+  {
+   "time": 288.25,
+   "kind": "pop",
+   "gain": 0.07
+  },
+  {
+   "time": 288.55,
+   "kind": "pop",
+   "gain": 0.07
+  },
+  {
+   "time": 290.15,
+   "kind": "tap",
+   "gain": 0.12
+  },
+  {
+   "time": 293.03,
+   "kind": "pop",
+   "gain": 0.1
+  },
+  {
+   "time": 295.81,
+   "kind": "pop",
+   "gain": 0.1
+  },
+  {
+   "time": 301.89,
+   "kind": "tap",
+   "gain": 0.1
+  },
+  {
+   "time": 308.87,
+   "kind": "pop",
+   "gain": 0.12
+  },
+  {
+   "time": 313.11,
+   "kind": "tap",
+   "gain": 0.1
+  },
+  {
+   "time": 317.51,
+   "kind": "chime",
+   "gain": 0.12
+  },
+  {
+   "time": 319.51,
+   "kind": "pop",
+   "gain": 0.1
+  },
+  {
+   "time": 323.43,
+   "kind": "pop",
+   "gain": 0.1
+  },
+  {
+   "time": 327.17,
+   "kind": "paper",
+   "gain": 0.1
+  },
+  {
+   "time": 332.35,
+   "kind": "chime",
+   "gain": 0.12
+  },
+  {
+   "time": 334.25,
+   "kind": "pop",
+   "gain": 0.12
+  },
+  {
+   "time": 338.97,
+   "kind": "pop",
+   "gain": 0.12
+  },
+  {
+   "time": 342.89,
+   "kind": "tap",
+   "gain": 0.12
+  },
+  {
+   "time": 349.89,
+   "kind": "paper",
+   "gain": 0.12
+  },
+  {
+   "time": 356.99,
+   "kind": "tap",
+   "gain": 0.1
+  },
+  {
+   "time": 362.17,
+   "kind": "pop",
+   "gain": 0.12
+  },
+  {
+   "time": 364.95,
+   "kind": "pop",
+   "gain": 0.1
+  },
+  {
+   "time": 366.37,
+   "kind": "pop",
+   "gain": 0.1
+  },
+  {
+   "time": 371.17,
+   "kind": "tap",
+   "gain": 0.14
+  },
+  {
+   "time": 378.87,
+   "kind": "paper",
+   "gain": 0.1
+  },
+  {
+   "time": 380.81,
+   "kind": "chime",
+   "gain": 0.16
+  },
+  {
+   "time": 381.91,
+   "kind": "paper",
+   "gain": 0.14
+  },
+  {
+   "time": 386.09,
+   "kind": "tap",
+   "gain": 0.1
+  },
+  {
+   "time": 387.21,
+   "kind": "tap",
+   "gain": 0.1
+  },
+  {
+   "time": 390.81,
+   "kind": "chime",
+   "gain": 0.12
+  },
+  {
+   "time": 393.39,
+   "kind": "pop",
+   "gain": 0.08
+  },
+  {
+   "time": 400.13,
+   "kind": "pop",
+   "gain": 0.1
+  },
+  {
+   "time": 401.95,
+   "kind": "tap",
+   "gain": 0.1
+  },
+  {
+   "time": 417.03,
+   "kind": "chime",
+   "gain": 0.14
+  },
+  {
+   "time": 422.03,
+   "kind": "pop",
+   "gain": 0.1
+  },
+  {
+   "time": 423.15,
+   "kind": "pop",
+   "gain": 0.1
+  },
+  {
+   "time": 424.89,
+   "kind": "pop",
+   "gain": 0.1
+  },
+  {
+   "time": 429.15,
+   "kind": "chime",
+   "gain": 0.1
+  },
+  {
+   "time": 441.99,
+   "kind": "paper",
+   "gain": 0.1
+  },
+  {
+   "time": 445.35,
+   "kind": "pop",
+   "gain": 0.1
+  },
+  {
+   "time": 447.25,
+   "kind": "pop",
+   "gain": 0.1
+  },
+  {
+   "time": 448.17,
+   "kind": "pop",
+   "gain": 0.1
+  },
+  {
+   "time": 454.21,
+   "kind": "tap",
+   "gain": 0.1
+  },
+  {
+   "time": 455.79,
+   "kind": "tap",
+   "gain": 0.1
+  },
+  {
+   "time": 460.29,
+   "kind": "tap",
+   "gain": 0.1
+  },
+  {
+   "time": 464.17,
+   "kind": "tap",
+   "gain": 0.1
+  },
+  {
+   "time": 471.65,
+   "kind": "chime",
+   "gain": 0.16
+  },
+  {
+   "time": 475.83,
+   "kind": "tap",
+   "gain": 0.16
+  }
+ ]
+}

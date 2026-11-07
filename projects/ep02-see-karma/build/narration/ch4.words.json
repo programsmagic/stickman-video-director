@@ -1,0 +1,860 @@
+{
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.64,
+      "word": " Remember"
+    },
+    {
+      "start": 0.64,
+      "end": 0.82,
+      "word": " the"
+    },
+    {
+      "start": 0.82,
+      "end": 1.1,
+      "word": " lowest"
+    },
+    {
+      "start": 1.1,
+      "end": 1.4,
+      "word": " number"
+    },
+    {
+      "start": 1.4,
+      "end": 1.56,
+      "word": " in"
+    },
+    {
+      "start": 1.56,
+      "end": 1.66,
+      "word": " the"
+    },
+    {
+      "start": 1.66,
+      "end": 1.96,
+      "word": " city?"
+    },
+    {
+      "start": 2.56,
+      "end": 2.66,
+      "word": " The"
+    },
+    {
+      "start": 2.66,
+      "end": 2.82,
+      "word": " one"
+    },
+    {
+      "start": 2.82,
+      "end": 2.94,
+      "word": " you"
+    },
+    {
+      "start": 2.94,
+      "end": 3.08,
+      "word": " were"
+    },
+    {
+      "start": 3.08,
+      "end": 3.3,
+      "word": " never"
+    },
+    {
+      "start": 3.3,
+      "end": 3.54,
+      "word": " supposed"
+    },
+    {
+      "start": 3.54,
+      "end": 3.76,
+      "word": " to"
+    },
+    {
+      "start": 3.76,
+      "end": 4.18,
+      "word": " expect?"
+    },
+    {
+      "start": 5.02,
+      "end": 5.22,
+      "word": " day"
+    },
+    {
+      "start": 5.22,
+      "end": 5.66,
+      "word": " seven,"
+    },
+    {
+      "start": 5.98,
+      "end": 6.06,
+      "word": " you"
+    },
+    {
+      "start": 6.06,
+      "end": 6.36,
+      "word": " finally"
+    },
+    {
+      "start": 6.36,
+      "end": 6.66,
+      "word": " find"
+    },
+    {
+      "start": 6.66,
+      "end": 6.98,
+      "word": " it."
+    },
+    {
+      "start": 7.86,
+      "end": 8.0,
+      "word": " It's"
+    },
+    {
+      "start": 8.0,
+      "end": 8.12,
+      "word": " above"
+    },
+    {
+      "start": 8.12,
+      "end": 8.28,
+      "word": " a"
+    },
+    {
+      "start": 8.28,
+      "end": 8.5,
+      "word": " woman"
+    },
+    {
+      "start": 8.5,
+      "end": 8.66,
+      "word": " in"
+    },
+    {
+      "start": 8.66,
+      "end": 8.82,
+      "word": " a"
+    },
+    {
+      "start": 8.82,
+      "end": 8.98,
+      "word": " gray"
+    },
+    {
+      "start": 8.98,
+      "end": 9.52,
+      "word": " uniform,"
+    },
+    {
+      "start": 9.96,
+      "end": 10.16,
+      "word": " standing"
+    },
+    {
+      "start": 10.16,
+      "end": 10.48,
+      "word": " next"
+    },
+    {
+      "start": 10.48,
+      "end": 10.68,
+      "word": " to"
+    },
+    {
+      "start": 10.68,
+      "end": 10.72,
+      "word": " a"
+    },
+    {
+      "start": 10.72,
+      "end": 10.94,
+      "word": " parking"
+    },
+    {
+      "start": 10.94,
+      "end": 11.34,
+      "word": " meter,"
+    },
+    {
+      "start": 12.09999999999999,
+      "end": 12.539999999999996,
+      "word": " minus"
+    },
+    {
+      "start": 12.539999999999996,
+      "end": 12.98,
+      "word": " 4"
+    },
+    {
+      "start": 12.98,
+      "end": 14.08,
+      "word": ",120."
+    },
+    {
+      "start": 15.7,
+      "end": 16.14,
+      "word": " She's"
+    },
+    {
+      "start": 16.14,
+      "end": 16.2,
+      "word": " a"
+    },
+    {
+      "start": 16.2,
+      "end": 16.4,
+      "word": " parking"
+    },
+    {
+      "start": 16.4,
+      "end": 16.92,
+      "word": " officer."
+    },
+    {
+      "start": 17.7,
+      "end": 17.82,
+      "word": " Every"
+    },
+    {
+      "start": 17.82,
+      "end": 18.0,
+      "word": " day,"
+    },
+    {
+      "start": 18.0,
+      "end": 18.3,
+      "word": " people"
+    },
+    {
+      "start": 18.3,
+      "end": 18.64,
+      "word": " curse"
+    },
+    {
+      "start": 18.64,
+      "end": 18.82,
+      "word": " at"
+    },
+    {
+      "start": 18.82,
+      "end": 18.96,
+      "word": " her,"
+    },
+    {
+      "start": 19.26,
+      "end": 19.38,
+      "word": " slam"
+    },
+    {
+      "start": 19.38,
+      "end": 19.62,
+      "word": " their"
+    },
+    {
+      "start": 19.62,
+      "end": 19.82,
+      "word": " car"
+    },
+    {
+      "start": 19.82,
+      "end": 20.08,
+      "word": " doors,"
+    },
+    {
+      "start": 20.18,
+      "end": 20.34,
+      "word": " and"
+    },
+    {
+      "start": 20.34,
+      "end": 20.5,
+      "word": " wish"
+    },
+    {
+      "start": 20.5,
+      "end": 20.62,
+      "word": " her"
+    },
+    {
+      "start": 20.62,
+      "end": 20.74,
+      "word": " the"
+    },
+    {
+      "start": 20.74,
+      "end": 21.06,
+      "word": " worst."
+    },
+    {
+      "start": 21.86,
+      "end": 22.14,
+      "word": " But"
+    },
+    {
+      "start": 22.14,
+      "end": 22.32,
+      "word": " here's"
+    },
+    {
+      "start": 22.32,
+      "end": 22.44,
+      "word": " the"
+    },
+    {
+      "start": 22.44,
+      "end": 22.76,
+      "word": " thing."
+    },
+    {
+      "start": 23.4,
+      "end": 23.52,
+      "word": " Her"
+    },
+    {
+      "start": 23.52,
+      "end": 23.7,
+      "word": " number"
+    },
+    {
+      "start": 23.7,
+      "end": 24.0,
+      "word": " isn't"
+    },
+    {
+      "start": 24.0,
+      "end": 24.18,
+      "word": " low"
+    },
+    {
+      "start": 24.18,
+      "end": 24.42,
+      "word": " because"
+    },
+    {
+      "start": 24.42,
+      "end": 24.56,
+      "word": " of"
+    },
+    {
+      "start": 24.56,
+      "end": 24.74,
+      "word": " what"
+    },
+    {
+      "start": 24.74,
+      "end": 24.96,
+      "word": " she's"
+    },
+    {
+      "start": 24.96,
+      "end": 25.24,
+      "word": " done."
+    },
+    {
+      "start": 25.92,
+      "end": 26.34,
+      "word": " It's"
+    },
+    {
+      "start": 26.34,
+      "end": 26.42,
+      "word": " low"
+    },
+    {
+      "start": 26.42,
+      "end": 26.68,
+      "word": " because"
+    },
+    {
+      "start": 26.68,
+      "end": 26.84,
+      "word": " of"
+    },
+    {
+      "start": 26.84,
+      "end": 26.96,
+      "word": " what"
+    },
+    {
+      "start": 26.96,
+      "end": 27.22,
+      "word": " everyone"
+    },
+    {
+      "start": 27.22,
+      "end": 27.72,
+      "word": " else"
+    },
+    {
+      "start": 27.72,
+      "end": 28.04,
+      "word": " has"
+    },
+    {
+      "start": 28.04,
+      "end": 28.2,
+      "word": " said"
+    },
+    {
+      "start": 28.2,
+      "end": 28.36,
+      "word": " to"
+    },
+    {
+      "start": 28.36,
+      "end": 28.68,
+      "word": " her."
+    },
+    {
+      "start": 29.319999999999997,
+      "end": 29.56,
+      "word": " And"
+    },
+    {
+      "start": 29.56,
+      "end": 29.68,
+      "word": " when"
+    },
+    {
+      "start": 29.68,
+      "end": 29.88,
+      "word": " you"
+    },
+    {
+      "start": 29.88,
+      "end": 30.06,
+      "word": " look"
+    },
+    {
+      "start": 30.06,
+      "end": 30.44,
+      "word": " closer,"
+    },
+    {
+      "start": 30.98,
+      "end": 31.14,
+      "word": " number"
+    },
+    {
+      "start": 31.14,
+      "end": 31.94,
+      "word": " flickers."
+    },
+    {
+      "start": 32.48,
+      "end": 32.96,
+      "word": " Underneath,"
+    },
+    {
+      "start": 33.04,
+      "end": 33.48,
+      "word": " faint,"
+    },
+    {
+      "start": 33.68,
+      "end": 33.86,
+      "word": " and"
+    },
+    {
+      "start": 33.86,
+      "end": 34.16,
+      "word": " small."
+    },
+    {
+      "start": 34.72,
+      "end": 34.88,
+      "word": " There's"
+    },
+    {
+      "start": 34.88,
+      "end": 34.94,
+      "word": " a"
+    },
+    {
+      "start": 34.94,
+      "end": 35.24,
+      "word": " second"
+    },
+    {
+      "start": 35.24,
+      "end": 35.74,
+      "word": " one."
+    },
+    {
+      "start": 36.28,
+      "end": 36.62,
+      "word": " Plus"
+    },
+    {
+      "start": 36.62,
+      "end": 37.02,
+      "word": " 3"
+    },
+    {
+      "start": 37.02,
+      "end": 37.74,
+      "word": ",600."
+    },
+    {
+      "start": 38.68,
+      "end": 38.76,
+      "word": " Her"
+    },
+    {
+      "start": 38.76,
+      "end": 39.16,
+      "word": " real"
+    },
+    {
+      "start": 39.16,
+      "end": 39.5,
+      "word": " karma."
+    },
+    {
+      "start": 40.44,
+      "end": 40.52,
+      "word": " The"
+    },
+    {
+      "start": 40.52,
+      "end": 40.8,
+      "word": " big"
+    },
+    {
+      "start": 40.8,
+      "end": 40.94,
+      "word": " red"
+    },
+    {
+      "start": 40.94,
+      "end": 41.24,
+      "word": " number"
+    },
+    {
+      "start": 41.24,
+      "end": 41.62,
+      "word": " was"
+    },
+    {
+      "start": 41.62,
+      "end": 41.86,
+      "word": " never"
+    },
+    {
+      "start": 41.86,
+      "end": 42.24,
+      "word": " hers."
+    },
+    {
+      "start": 43.06,
+      "end": 43.38,
+      "word": " Who's"
+    },
+    {
+      "start": 43.38,
+      "end": 43.7,
+      "word": " ours?"
+    },
+    {
+      "start": 44.82,
+      "end": 45.0,
+      "word": " You"
+    },
+    {
+      "start": 45.0,
+      "end": 45.14,
+      "word": " walk"
+    },
+    {
+      "start": 45.14,
+      "end": 45.5,
+      "word": " over,"
+    },
+    {
+      "start": 46.08,
+      "end": 46.18,
+      "word": " and"
+    },
+    {
+      "start": 46.18,
+      "end": 46.26,
+      "word": " you"
+    },
+    {
+      "start": 46.26,
+      "end": 46.42,
+      "word": " tell"
+    },
+    {
+      "start": 46.42,
+      "end": 46.52,
+      "word": " her"
+    },
+    {
+      "start": 46.52,
+      "end": 46.64,
+      "word": " she's"
+    },
+    {
+      "start": 46.64,
+      "end": 46.82,
+      "word": " doing"
+    },
+    {
+      "start": 46.82,
+      "end": 46.94,
+      "word": " a"
+    },
+    {
+      "start": 46.94,
+      "end": 47.24,
+      "word": " hard"
+    },
+    {
+      "start": 47.24,
+      "end": 47.62,
+      "word": " job"
+    },
+    {
+      "start": 47.62,
+      "end": 48.3,
+      "word": " well."
+    },
+    {
+      "start": 49.02,
+      "end": 49.24,
+      "word": " She"
+    },
+    {
+      "start": 49.24,
+      "end": 49.56,
+      "word": " laughs."
+    },
+    {
+      "start": 50.2,
+      "end": 50.34,
+      "word": " She"
+    },
+    {
+      "start": 50.34,
+      "end": 50.54,
+      "word": " says"
+    },
+    {
+      "start": 50.54,
+      "end": 50.94,
+      "word": " nobody"
+    },
+    {
+      "start": 50.94,
+      "end": 51.28,
+      "word": " has"
+    },
+    {
+      "start": 51.28,
+      "end": 51.42,
+      "word": " said"
+    },
+    {
+      "start": 51.42,
+      "end": 51.6,
+      "word": " that"
+    },
+    {
+      "start": 51.6,
+      "end": 51.76,
+      "word": " to"
+    },
+    {
+      "start": 51.76,
+      "end": 51.96,
+      "word": " her"
+    },
+    {
+      "start": 51.96,
+      "end": 52.06,
+      "word": " in"
+    },
+    {
+      "start": 52.06,
+      "end": 52.36,
+      "word": " 11"
+    },
+    {
+      "start": 52.36,
+      "end": 52.94,
+      "word": " years."
+    },
+    {
+      "start": 53.7,
+      "end": 53.94,
+      "word": " Then"
+    },
+    {
+      "start": 53.94,
+      "end": 54.1,
+      "word": " she"
+    },
+    {
+      "start": 54.1,
+      "end": 54.26,
+      "word": " tells"
+    },
+    {
+      "start": 54.26,
+      "end": 54.42,
+      "word": " you"
+    },
+    {
+      "start": 54.42,
+      "end": 54.58,
+      "word": " about"
+    },
+    {
+      "start": 54.58,
+      "end": 54.68,
+      "word": " a"
+    },
+    {
+      "start": 54.68,
+      "end": 54.9,
+      "word": " man"
+    },
+    {
+      "start": 54.9,
+      "end": 55.04,
+      "word": " who"
+    },
+    {
+      "start": 55.04,
+      "end": 55.28,
+      "word": " wants"
+    },
+    {
+      "start": 55.28,
+      "end": 55.46,
+      "word": " thank"
+    },
+    {
+      "start": 55.46,
+      "end": 55.58,
+      "word": " you"
+    },
+    {
+      "start": 55.58,
+      "end": 55.76,
+      "word": " for"
+    },
+    {
+      "start": 55.76,
+      "end": 55.88,
+      "word": " a"
+    },
+    {
+      "start": 55.88,
+      "end": 56.2,
+      "word": " ticket,"
+    },
+    {
+      "start": 56.2,
+      "end": 56.66,
+      "word": " because"
+    },
+    {
+      "start": 56.66,
+      "end": 56.8,
+      "word": " it"
+    },
+    {
+      "start": 56.8,
+      "end": 57.12,
+      "word": " reminded"
+    },
+    {
+      "start": 57.12,
+      "end": 57.38,
+      "word": " him"
+    },
+    {
+      "start": 57.38,
+      "end": 57.44,
+      "word": " to"
+    },
+    {
+      "start": 57.44,
+      "end": 57.68,
+      "word": " fix"
+    },
+    {
+      "start": 57.68,
+      "end": 57.88,
+      "word": " his"
+    },
+    {
+      "start": 57.88,
+      "end": 58.18,
+      "word": " brakes"
+    },
+    {
+      "start": 58.18,
+      "end": 58.5,
+      "word": " before"
+    },
+    {
+      "start": 58.5,
+      "end": 58.64,
+      "word": " a"
+    },
+    {
+      "start": 58.64,
+      "end": 58.9,
+      "word": " long"
+    },
+    {
+      "start": 58.9,
+      "end": 59.2,
+      "word": " drive"
+    },
+    {
+      "start": 59.2,
+      "end": 59.34,
+      "word": " with"
+    },
+    {
+      "start": 59.34,
+      "end": 59.44,
+      "word": " his"
+    },
+    {
+      "start": 59.44,
+      "end": 59.82,
+      "word": " kids."
+    },
+    {
+      "start": 60.42,
+      "end": 60.7,
+      "word": " She"
+    },
+    {
+      "start": 60.7,
+      "end": 60.96,
+      "word": " still"
+    },
+    {
+      "start": 60.96,
+      "end": 61.2,
+      "word": " remembers"
+    },
+    {
+      "start": 61.2,
+      "end": 61.44,
+      "word": " his"
+    },
+    {
+      "start": 61.44,
+      "end": 61.7,
+      "word": " face."
+    }
+  ],
+  "method": "openai-whisper word_timestamps; human text/timing review required"
+}

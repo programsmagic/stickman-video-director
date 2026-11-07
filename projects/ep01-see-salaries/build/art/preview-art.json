@@ -1,0 +1,401 @@
+{
+ "assets": {
+  "you-sleepy": {
+   "figure": {
+    "facing": "right",
+    "torso": 4,
+    "head": 8,
+    "armL": [
+     -8,
+     -2
+    ],
+    "armR": [
+     10,
+     4
+    ],
+    "eyes": "closed",
+    "brows": "sad",
+    "mouth": "flat",
+    "accessories": [
+     "wizard-hat",
+     "glasses"
+    ]
+   }
+  },
+  "you-sleepy-m": {
+   "mirror": true,
+   "figure": {
+    "facing": "right",
+    "torso": 4,
+    "head": 8,
+    "armL": [
+     -8,
+     -2
+    ],
+    "armR": [
+     10,
+     4
+    ],
+    "eyes": "closed",
+    "brows": "sad",
+    "mouth": "flat",
+    "accessories": [
+     "wizard-hat",
+     "glasses"
+    ]
+   }
+  },
+  "you-startled": {
+   "figure": {
+    "facing": "right",
+    "torso": -4,
+    "head": -6,
+    "armL": [
+     -25,
+     -40
+    ],
+    "armR": [
+     30,
+     60
+    ],
+    "eyes": "wide",
+    "brows": "raised",
+    "mouth": "o",
+    "marks": [
+     "shock"
+    ],
+    "accessories": [
+     "wizard-hat",
+     "glasses"
+    ]
+   }
+  },
+  "you-startled-m": {
+   "mirror": true,
+   "figure": {
+    "facing": "right",
+    "torso": -4,
+    "head": -6,
+    "armL": [
+     -25,
+     -40
+    ],
+    "armR": [
+     30,
+     60
+    ],
+    "eyes": "wide",
+    "brows": "raised",
+    "mouth": "o",
+    "marks": [
+     "shock"
+    ],
+    "accessories": [
+     "wizard-hat",
+     "glasses"
+    ]
+   }
+  },
+  "you-swat-a": {
+   "figure": {
+    "facing": "front",
+    "head": -10,
+    "armL": [
+     -25,
+     -10
+    ],
+    "armR": [
+     115,
+     175
+    ],
+    "eyes": "wide",
+    "brows": "angry",
+    "mouth": "open",
+    "accessories": [
+     "wizard-hat",
+     "glasses"
+    ]
+   }
+  },
+  "you-swat-b": {
+   "figure": {
+    "facing": "front",
+    "head": -10,
+    "armL": [
+     -25,
+     -10
+    ],
+    "armR": [
+     100,
+     145
+    ],
+    "eyes": "wide",
+    "brows": "angry",
+    "mouth": "open",
+    "accessories": [
+     "wizard-hat",
+     "glasses"
+    ]
+   }
+  },
+  "you-confused": {
+   "figure": {
+    "facing": "right",
+    "head": 12,
+    "armL": [
+     -12,
+     -4
+    ],
+    "armR": [
+     120,
+     200
+    ],
+    "brows": "one-up",
+    "mouth": "wavy",
+    "accessories": [
+     "wizard-hat",
+     "glasses"
+    ]
+   }
+  },
+  "you-window": {
+   "figure": {
+    "facing": "right",
+    "torso": 10,
+    "head": 6,
+    "armL": [
+     55,
+     90
+    ],
+    "armR": [
+     70,
+     95
+    ],
+    "eyes": "normal",
+    "brows": "raised",
+    "mouth": "o",
+    "accessories": [
+     "wizard-hat",
+     "glasses"
+    ]
+   }
+  },
+  "you-amazed": {
+   "figure": {
+    "facing": "front",
+    "armL": [
+     -125,
+     -150
+    ],
+    "armR": [
+     125,
+     150
+    ],
+    "legL": [
+     -22,
+     -14
+    ],
+    "legR": [
+     22,
+     14
+    ],
+    "eyes": "wide",
+    "brows": "raised",
+    "mouth": "grin",
+    "accessories": [
+     "wizard-hat",
+     "glasses"
+    ]
+   }
+  },
+  "you-nervous": {
+   "figure": {
+    "facing": "front",
+    "torso": -3,
+    "head": 6,
+    "armL": [
+     -35,
+     40
+    ],
+    "armR": [
+     35,
+     -40
+    ],
+    "eyes": "wide",
+    "brows": "sad",
+    "mouth": "wavy",
+    "marks": [
+     "sweat"
+    ],
+    "accessories": [
+     "wizard-hat",
+     "glasses"
+    ]
+   }
+  },
+  "p-barista": {
+   "seed": 21,
+   "figure": {
+    "scarf": false,
+    "accessory": "apron",
+    "facing": "left",
+    "armL": [
+     -60,
+     -100
+    ],
+    "armR": [
+     15,
+     5
+    ],
+    "mouth": "smile"
+   }
+  },
+  "p-suit": {
+   "seed": 33,
+   "figure": {
+    "scarf": false,
+    "accessory": "tie",
+    "facing": "right",
+    "armL": [
+     -10,
+     -5
+    ],
+    "armR": [
+     25,
+     60
+    ],
+    "brows": "angry",
+    "mouth": "flat"
+   }
+  },
+  "p-dogwalker": {
+   "seed": 45,
+   "figure": {
+    "scarf": false,
+    "facing": "right",
+    "armL": [
+     -15,
+     -5
+    ],
+    "armR": [
+     40,
+     30
+    ],
+    "mouth": "smile",
+    "brows": "raised"
+   }
+  },
+  "p-jogger": {
+   "seed": 57,
+   "figure": {
+    "scarf": false,
+    "facing": "right",
+    "torso": 12,
+    "armL": [
+     -50,
+     30
+    ],
+    "armR": [
+     50,
+     -30
+    ],
+    "legL": [
+     -35,
+     5
+    ],
+    "legR": [
+     30,
+     60
+    ],
+    "mouth": "open"
+   }
+  },
+  "p-kid": {
+   "seed": 69,
+   "figure": {
+    "scarf": false,
+    "facing": "left",
+    "armL": [
+     -40,
+     -20
+    ],
+    "armR": [
+     40,
+     20
+    ],
+    "mouth": "grin"
+   }
+  },
+  "mirror": {
+   "prop": "mirror",
+   "size": [
+    380,
+    470
+   ]
+  },
+  "sink": {
+   "prop": "sink",
+   "size": [
+    300,
+    140
+   ]
+  },
+  "window": {
+   "prop": "window",
+   "size": [
+    420,
+    360
+   ]
+  },
+  "calendar": {
+   "prop": "calendar",
+   "size": [
+    560,
+    260
+   ]
+  },
+  "calendar-day7": {
+   "prop": "calendar",
+   "size": [
+    560,
+    260
+   ],
+   "circle": true
+  },
+  "paycheck": {
+   "prop": "paycheck",
+   "size": [
+    220,
+    140
+   ]
+  },
+  "bill": {
+   "prop": "bill",
+   "size": [
+    220,
+    110
+   ]
+  },
+  "coins": {
+   "prop": "coins",
+   "size": [
+    150,
+    170
+   ]
+  },
+  "house": {
+   "prop": "house",
+   "size": [
+    170,
+    170
+   ]
+  },
+  "dog": {
+   "prop": "dog",
+   "size": [
+    170,
+    120
+   ]
+  }
+ }
+}

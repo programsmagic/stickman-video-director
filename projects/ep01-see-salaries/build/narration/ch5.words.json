@@ -1,0 +1,85 @@
+{
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.44,
+      "word": " If"
+    },
+    {
+      "start": 0.44,
+      "end": 0.64,
+      "word": " you"
+    },
+    {
+      "start": 0.64,
+      "end": 0.94,
+      "word": " want"
+    },
+    {
+      "start": 0.94,
+      "end": 1.0,
+      "word": " to"
+    },
+    {
+      "start": 1.0,
+      "end": 1.22,
+      "word": " see"
+    },
+    {
+      "start": 1.22,
+      "end": 1.42,
+      "word": " what"
+    },
+    {
+      "start": 1.42,
+      "end": 1.72,
+      "word": " happens"
+    },
+    {
+      "start": 1.72,
+      "end": 2.24,
+      "word": " next,"
+    },
+    {
+      "start": 2.52,
+      "end": 3.04,
+      "word": " subscribe."
+    },
+    {
+      "start": 3.94,
+      "end": 4.02,
+      "word": " Because"
+    },
+    {
+      "start": 4.02,
+      "end": 4.32,
+      "word": " tomorrow"
+    },
+    {
+      "start": 4.32,
+      "end": 4.6,
+      "word": " at"
+    },
+    {
+      "start": 4.6,
+      "end": 4.94,
+      "word": " midnight,"
+    },
+    {
+      "start": 5.44,
+      "end": 5.68,
+      "word": " numbers"
+    },
+    {
+      "start": 5.68,
+      "end": 6.1,
+      "word": " change"
+    },
+    {
+      "start": 6.1,
+      "end": 6.42,
+      "word": " again."
+    }
+  ],
+  "method": "openai-whisper word_timestamps; human text/timing review required"
+}

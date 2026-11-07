@@ -1,0 +1,130 @@
+{
+  "fingerprint": "4b152bb8a06653621b58693b5616fbb5f18ef0cc6f1185c664f4534c6767f132",
+  "preview_seconds": 23.6,
+  "output": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep01-see-salaries/build/output/preview.mp4",
+  "output_sha256": "103b42d36465727fe18d4f5e96f6a8b034d4363a3db36baab177fc8304452dc1",
+  "original_voice_sha256": "1915762160172fe01924f364ac650454ab634e2f0669cca33bd3d34dee1de5e2",
+  "original_voice_duration": 479.48,
+  "voice_rate": "unchanged; leading/trailing padding only",
+  "frames": 708,
+  "duration": 23.6,
+  "cache_hits": 1,
+  "shot_count": 7,
+  "full_decode": "pass",
+  "caption_count": 12,
+  "human_review": "required; technical checks are not acceptance",
+  "inputs": [
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep01-see-salaries/build/art/bill.png",
+      "sha256": "7bf95a400ea475908f5946b5ef6481bfa96b9f3223abd8a3112aef05f478bdcd"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep01-see-salaries/build/art/calendar-day7.png",
+      "sha256": "7cd5b740dd09f6113b80826bff98db125992b7fce3e8f6387cfd58216d411414"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep01-see-salaries/build/art/calendar.png",
+      "sha256": "49f8d733e29cd589751b05a35ec85b1181a741e97f6e882b8b5a176eb7bb8549"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep01-see-salaries/build/art/coins.png",
+      "sha256": "c64646e2dddb351f2913ce343c1fe121d6064d96196cd383450e64ac83fb6344"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep01-see-salaries/build/art/dog.png",
+      "sha256": "b9dfbba51b41b0f0e5d44f28ec57f3338d257ad1266b09800d27b605599dbc5e"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep01-see-salaries/build/art/house.png",
+      "sha256": "1efe963b5711f09c4f58d28dec88296f076caa213a8a6adf1341f14c485d7976"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep01-see-salaries/build/art/mirror.png",
+      "sha256": "52470fc1e69fef91282addead44b4b917848119dd9970be11e56ad6853436752"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep01-see-salaries/build/art/p-barista.png",
+      "sha256": "7f27ecc3f7b8160e539b104908cf5f97d4c8845b7ef2f66a995b346703181e22"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep01-see-salaries/build/art/p-dogwalker.png",
+      "sha256": "b02cd65e1b987a99244a9252c8ec8671d215716097dae900c02a051c56535abd"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep01-see-salaries/build/art/p-jogger.png",
+      "sha256": "208d3013f55c006cf820bd725b2e0f844755875145ffd6284e4960b1d3404212"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep01-see-salaries/build/art/p-kid.png",
+      "sha256": "389e53d18eb6a8b339dac8d1721b0a1cad20c9fc45048347565c80e9ff06c679"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep01-see-salaries/build/art/p-suit.png",
+      "sha256": "8a8ed5fdf3bcea95203d4036162a1b76b254a8f872d339d82da6e143e16407d2"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep01-see-salaries/build/art/paycheck.png",
+      "sha256": "9c5a8f19c3a965a7d4958d3e2b973231e0409d63630d9d01b660775f33f3f73c"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep01-see-salaries/build/art/sink.png",
+      "sha256": "82b749aa6f33e5edd458b3354d10ca5f964099ebb3774f601e002c019086d5c8"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep01-see-salaries/build/art/window.png",
+      "sha256": "956063b1590c17ac22507c87226459a7d723406efea8ddaf406eb041033911f9"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep01-see-salaries/build/art/you-amazed.png",
+      "sha256": "a9c8bb37257d5744eb4e3529bd53d0f813266d5effffb89914c5d41a13e31b69"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep01-see-salaries/build/art/you-confused.png",
+      "sha256": "eeace63bf1ac6a05048ca66980895b44e7bda31a3849e0fd8dc9539da04ca09e"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep01-see-salaries/build/art/you-nervous.png",
+      "sha256": "524fb366594ecd9d69a02b5be32d2053df213d169bccb22a5172cd92c63e5038"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep01-see-salaries/build/art/you-sleepy-m.png",
+      "sha256": "853766a96579bac86c43c9af4b8c46f036528d42153764c60690d632d44105c7"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep01-see-salaries/build/art/you-sleepy.png",
+      "sha256": "c73dc8621b936fd73f7a64ad90afce40bc01f76d68703e5aaa14ad3128d7c683"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep01-see-salaries/build/art/you-startled-m.png",
+      "sha256": "d44d89d360f579ed3d81e341193fb49018306dd049ba8de2b46929d62f1ea607"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep01-see-salaries/build/art/you-startled.png",
+      "sha256": "599609864a530301b258b7f39027ba4fb11d65d0ea05f90443bd50446c005b9b"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep01-see-salaries/build/art/you-swat-a.png",
+      "sha256": "2ed3b0d7427c685f4908b9e7a5e4b96872bc626af84d1709b80b17ae69b1abad"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep01-see-salaries/build/art/you-swat-b.png",
+      "sha256": "4558f5262d997901dc5593e1c6f348d6cd8deab7213067119513276c19637c5d"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep01-see-salaries/build/art/you-window.png",
+      "sha256": "44517c5d80f5745eb65f2609c73538e319c0133280f9730492135872621d4d56"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep01-see-salaries/build/narration.wav",
+      "sha256": "1915762160172fe01924f364ac650454ab634e2f0669cca33bd3d34dee1de5e2"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/skills/directing-stickman-videos/assets/fonts/Caveat.ttf",
+      "sha256": "0bdb6b660482d31531b3945849fba5916b3ef8695da7024a9e6b9ee3c4157988"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/skills/directing-stickman-videos/assets/fonts/NotoSans.ttf",
+      "sha256": "bfb7bb691513f12e734dc346c03a03f784912432d7e3fa8e56efcf906fe86b3d"
+    }
+  ]
+}

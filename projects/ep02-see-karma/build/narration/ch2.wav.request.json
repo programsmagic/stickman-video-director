@@ -1,0 +1,11 @@
+{
+  "kind": "speech",
+  "model": "gemini-3.8-flash-tts",
+  "requested_at": "2026-11-07T03:55:24.516Z",
+  "request_id": "06eeaad1-f6ec-42f6-b643-265c4e8becfe",
+  "status": "complete",
+  "warning": "One request only; inspect provider history before retrying",
+  "mime_type": "audio/wav",
+  "output": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep02-see-karma/build/narration/ch2.wav",
+  "sha256": "37318a56185a18a9891c1ecffd7b50174488bcbcd11db25f9a4e71739c04c96a"
+}
