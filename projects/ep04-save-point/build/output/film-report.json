@@ -1,0 +1,146 @@
+{
+  "fingerprint": "d668b9d44ad9c7c87e2ad5ddddbaa7e28c49e9cf548cdf0901a58464ea875532",
+  "preview_seconds": null,
+  "output": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep04-save-point/build/output/film.mp4",
+  "output_sha256": "7c184a1f0660095eb757fa25d0d4d8f7b3e9ce0836690d70f7451b4db66528cf",
+  "original_voice_sha256": "a8bf05f4f8b8556ce5967422011c681ef6aad6962fea164d021a5d2269b56fd3",
+  "original_voice_duration": 440.68,
+  "voice_rate": "unchanged; leading/trailing padding only",
+  "frames": 13375,
+  "duration": 445.833333,
+  "cache_hits": 4,
+  "shot_count": 22,
+  "full_decode": "pass",
+  "caption_count": 239,
+  "human_review": "required; technical checks are not acceptance",
+  "inputs": [
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep04-save-point/build/art/bike.png",
+      "sha256": "7e7edfca37d722af06591ce2c7468e7509a148f47463fd9edca396ac21ea57d4"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep04-save-point/build/art/boss-sweat.png",
+      "sha256": "b25512789850fa3eb880b3047970d2624205b7ce4a09b3e735b211f19f73fad1"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep04-save-point/build/art/building.png",
+      "sha256": "68ef95dd8593049073f4523000cef658ca31790d68dd952b38393e7d9b06de67"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep04-save-point/build/art/calendar.png",
+      "sha256": "49f8d733e29cd589751b05a35ec85b1181a741e97f6e882b8b5a176eb7bb8549"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep04-save-point/build/art/car.png",
+      "sha256": "e5bd309ee8067b4d2c27335b7fc485cb7d03729f2dc826002cdf166bf38cad20"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep04-save-point/build/art/clock.png",
+      "sha256": "04f908ac61947c631ff9934a26b23820e5726481807bd9a5b9f6fbbc1afda2cb"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep04-save-point/build/art/coffee-spill.png",
+      "sha256": "53a843b36798128cebd4bec37a818a28511630e4d5e86cccbff69578d2255706"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep04-save-point/build/art/coffee.png",
+      "sha256": "c0fb633b47f803c14181c0867d5290eea87d4e6cd4977ba161adfcb2584c247d"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep04-save-point/build/art/cyclist.png",
+      "sha256": "0fbd9e920b37e816176af14283b48f04e73c3826234f452127034952dedb7e03"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep04-save-point/build/art/friend-confused.png",
+      "sha256": "eda5116e51dd2981541aa2345dffd65878e85a5fc5ef30e877cfd7a69613bf87"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep04-save-point/build/art/friend-cry.png",
+      "sha256": "1e62904bee9d777b9c7a50828d2e7f9e598364e9f891bc65d42419c6edc2e8ec"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep04-save-point/build/art/graph.png",
+      "sha256": "419417011523425f97fbb2f575cf52a4624824719e9e2419177b22112cadfeb0"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep04-save-point/build/art/pizza.png",
+      "sha256": "714632986a0b7972af01b22ec4d2758bf6fa10408b437f68a30df45f4f2d3efa"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep04-save-point/build/art/salesman.png",
+      "sha256": "b9321039f704a5611cd609f45fd1b950d38f46a9bf9139ed0a515b6b37e731ef"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep04-save-point/build/art/you-amazed.png",
+      "sha256": "a9c8bb37257d5744eb4e3529bd53d0f813266d5effffb89914c5d41a13e31b69"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep04-save-point/build/art/you-calm.png",
+      "sha256": "7de1dfa7a8cf298afe33a565c1c79b2fe9cfa037d2871ff9861bed7e0e03ed1f"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep04-save-point/build/art/you-cape.png",
+      "sha256": "1181a5c164afc83534934e5ce6bb853de2e22232b1d943d3b1003707f74bebe6"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep04-save-point/build/art/you-ear.png",
+      "sha256": "3b36786100114b8904ce5fef9bdfd1717577687c22249764c15b97b0520115b1"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep04-save-point/build/art/you-give.png",
+      "sha256": "8b46f29d3e4352370cf0ac373d42081d0aa42259fc490c068e43ba0efa079874"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep04-save-point/build/art/you-grin.png",
+      "sha256": "040bb11f7dbc620b448e8cabfe0e3c11497af7be403059a5b000aa55da846246"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep04-save-point/build/art/you-kind.png",
+      "sha256": "2c0824fdc6067ae2a3d39d8f0d889872a9a2d0882760a455cfb4b3917b04c0b5"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep04-save-point/build/art/you-nervous.png",
+      "sha256": "524fb366594ecd9d69a02b5be32d2053df213d169bccb22a5172cd92c63e5038"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep04-save-point/build/art/you-relieved.png",
+      "sha256": "4da90bbff4bef819d894c8c3104800ecaaed6311b298678363d06785b52dd435"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep04-save-point/build/art/you-shocked.png",
+      "sha256": "35dfdeb211183cde43e7974aa3742c8279d9ec6a12f6b58a37d0ca525ee85694"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep04-save-point/build/art/you-skeptic.png",
+      "sha256": "6c5a8fae10ed561e8cddc8f4fc20c17893bc288a39ae62aad90fd1ab6c9a9db2"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep04-save-point/build/art/you-sleepy.png",
+      "sha256": "c73dc8621b936fd73f7a64ad90afce40bc01f76d68703e5aaa14ad3128d7c683"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep04-save-point/build/art/you-walk-a.png",
+      "sha256": "8f1ad817fb70b2f96b150e05f16868a3f31b6365f72086c912a5f482c40be467"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep04-save-point/build/art/you-walk-b.png",
+      "sha256": "e0da43ca4fe1aedf8ef7b6806699ac8043b99d7a505d39c036a9ac3d234982a7"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep04-save-point/build/art/you-wrist-tap.png",
+      "sha256": "6790922603d33f1b9b078057577efd3e0812c2615ef1c86d8d6cec7397b53350"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep04-save-point/build/narration.wav",
+      "sha256": "a8bf05f4f8b8556ce5967422011c681ef6aad6962fea164d021a5d2269b56fd3"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/skills/directing-stickman-videos/assets/fonts/Caveat.ttf",
+      "sha256": "0bdb6b660482d31531b3945849fba5916b3ef8695da7024a9e6b9ee3c4157988"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/skills/directing-stickman-videos/assets/fonts/NotoSans.ttf",
+      "sha256": "bfb7bb691513f12e734dc346c03a03f784912432d7e3fa8e56efcf906fe86b3d"
+    }
+  ]
+}

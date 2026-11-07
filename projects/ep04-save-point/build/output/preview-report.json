@@ -1,0 +1,66 @@
+{
+  "fingerprint": "33f89384fce6df3c6f5222db31b3bbb556023a50684f3b5d0123a36365ee3ab8",
+  "preview_seconds": 30.35,
+  "output": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep04-save-point/build/output/preview.mp4",
+  "output_sha256": "3f74363c4b4f99385ad4fa57862f28844b8117b51764ac9a170125379c10ae4d",
+  "original_voice_sha256": "a8bf05f4f8b8556ce5967422011c681ef6aad6962fea164d021a5d2269b56fd3",
+  "original_voice_duration": 440.68,
+  "voice_rate": "unchanged; leading/trailing padding only",
+  "frames": 911,
+  "duration": 30.366667,
+  "cache_hits": 5,
+  "shot_count": 5,
+  "full_decode": "pass",
+  "caption_count": 16,
+  "human_review": "required; technical checks are not acceptance",
+  "inputs": [
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep04-save-point/build/art/building.png",
+      "sha256": "68ef95dd8593049073f4523000cef658ca31790d68dd952b38393e7d9b06de67"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep04-save-point/build/art/calendar.png",
+      "sha256": "49f8d733e29cd589751b05a35ec85b1181a741e97f6e882b8b5a176eb7bb8549"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep04-save-point/build/art/car.png",
+      "sha256": "e5bd309ee8067b4d2c27335b7fc485cb7d03729f2dc826002cdf166bf38cad20"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep04-save-point/build/art/clock.png",
+      "sha256": "04f908ac61947c631ff9934a26b23820e5726481807bd9a5b9f6fbbc1afda2cb"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep04-save-point/build/art/you-amazed.png",
+      "sha256": "a9c8bb37257d5744eb4e3529bd53d0f813266d5effffb89914c5d41a13e31b69"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep04-save-point/build/art/you-ear.png",
+      "sha256": "3b36786100114b8904ce5fef9bdfd1717577687c22249764c15b97b0520115b1"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep04-save-point/build/art/you-skeptic.png",
+      "sha256": "6c5a8fae10ed561e8cddc8f4fc20c17893bc288a39ae62aad90fd1ab6c9a9db2"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep04-save-point/build/art/you-sleepy.png",
+      "sha256": "c73dc8621b936fd73f7a64ad90afce40bc01f76d68703e5aaa14ad3128d7c683"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep04-save-point/build/art/you-wrist-tap.png",
+      "sha256": "6790922603d33f1b9b078057577efd3e0812c2615ef1c86d8d6cec7397b53350"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep04-save-point/build/narration.wav",
+      "sha256": "a8bf05f4f8b8556ce5967422011c681ef6aad6962fea164d021a5d2269b56fd3"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/skills/directing-stickman-videos/assets/fonts/Caveat.ttf",
+      "sha256": "0bdb6b660482d31531b3945849fba5916b3ef8695da7024a9e6b9ee3c4157988"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/skills/directing-stickman-videos/assets/fonts/NotoSans.ttf",
+      "sha256": "bfb7bb691513f12e734dc346c03a03f784912432d7e3fa8e56efcf906fe86b3d"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "kind": "speech",
+  "model": "gemini-3.8-flash-tts",
+  "requested_at": "2026-11-07T13:46:28.463Z",
+  "request_id": "9823c0f0-8cb8-4cc3-9088-1e42d0ec0e9b",
+  "status": "complete",
+  "warning": "One request only; inspect provider history before retrying",
+  "mime_type": "audio/wav",
+  "output": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep04-save-point/build/narration/ch4.wav",
+  "sha256": "2c7e67c2402f57a7dd68f1e004f5aac5beb22c557f2609971e7b1b8172bfc2ad"
+}

@@ -1,0 +1,3263 @@
+{
+ "version": 1,
+ "style": "B1",
+ "width": 1280,
+ "height": 720,
+ "fps": 30,
+ "voice": {
+  "path": "narration.wav",
+  "lead": 0.15,
+  "tail": 5
+ },
+ "captions": [
+  {
+   "start": 0.15,
+   "end": 1.71,
+   "text": "You wake up at seven in the morning,"
+  },
+  {
+   "start": 2.13,
+   "end": 3.33,
+   "text": "and floating in front of your"
+  },
+  {
+   "start": 3.33,
+   "end": 5.25,
+   "text": "chest is a translucent menu."
+  },
+  {
+   "start": 5.97,
+   "end": 6.93,
+   "text": "Save point created."
+  },
+  {
+   "start": 7.79,
+   "end": 9.29,
+   "text": "At first, you think you're still dreaming."
+  },
+  {
+   "start": 9.77,
+   "end": 10.99,
+   "text": "You swipe your hand through it,"
+  },
+  {
+   "start": 11.09,
+   "end": 14.05,
+   "text": "but your fingers buzz with a mild electric hum."
+  },
+  {
+   "start": 14.69,
+   "end": 16.67,
+   "text": "Then small text appears beneath it:"
+  },
+  {
+   "start": 17.13,
+   "end": 19.15,
+   "text": "Tap your wrists together twice to reload."
+  },
+  {
+   "start": 19.89,
+   "end": 20.65,
+   "text": "You look out the window."
+  },
+  {
+   "start": 21.31,
+   "end": 22.01,
+   "text": "The streets are moving,"
+  },
+  {
+   "start": 22.35,
+   "end": 22.95,
+   "text": "buses are running,"
+  },
+  {
+   "start": 23.41,
+   "end": 24.93,
+   "text": "the world is completely normal."
+  },
+  {
+   "start": 25.35,
+   "end": 26.09,
+   "text": "Except for you."
+  },
+  {
+   "start": 26.59,
+   "end": 27.87,
+   "text": "For the next seven days,"
+  },
+  {
+   "start": 27.97,
+   "end": 29.97,
+   "text": "you have one active save point."
+  },
+  {
+   "start": 30.35,
+   "end": 31.33,
+   "text": "No matter what happens,"
+  },
+  {
+   "start": 31.49,
+   "end": 33.83,
+   "text": "no matter what embarrassing mistake you make,"
+  },
+  {
+   "start": 34.09,
+   "end": 35.37,
+   "text": "what bad news you hear,"
+  },
+  {
+   "start": 35.49,
+   "end": 36.79,
+   "text": "or what disaster strikes,"
+  },
+  {
+   "start": 37.21,
+   "end": 38.47,
+   "text": "two taps of your wrists,"
+  },
+  {
+   "start": 38.47,
+   "end": 41.21,
+   "text": "and you're back in bed at seven o'clock this morning"
+  },
+  {
+   "start": 41.21,
+   "end": 43.37,
+   "text": "with full memory of everything that happened."
+  },
+  {
+   "start": 43.97,
+   "end": 46.37,
+   "text": "At first, it feels like godhood."
+  },
+  {
+   "start": 47.03,
+   "end": 47.83,
+   "text": "By day seven,"
+  },
+  {
+   "start": 47.83,
+   "end": 50.59,
+   "text": "it becomes the most terrifying prison ever created."
+  },
+  {
+   "start": 51.29,
+   "end": 53.15,
+   "text": "At first, it's just pure,"
+  },
+  {
+   "start": 53.15,
+   "end": 54.59,
+   "text": "unrestrained freedom."
+  },
+  {
+   "start": 54.59,
+   "end": 55.93,
+   "text": "Because your whole life,"
+  },
+  {
+   "start": 55.93,
+   "end": 57.87,
+   "text": "fear has been your silent manager."
+  },
+  {
+   "start": 57.87,
+   "end": 59.21,
+   "text": "Fear of looking stupid."
+  },
+  {
+   "start": 59.47,
+   "end": 60.27,
+   "text": "Fear of rejection."
+  },
+  {
+   "start": 60.61,
+   "end": 61.89,
+   "text": "Fear of losing money."
+  },
+  {
+   "start": 61.89,
+   "end": 63.25,
+   "text": "At the coffee shop,"
+  },
+  {
+   "start": 63.39,
+   "end": 65.19,
+   "text": "the person you've had a crush on for six"
+  },
+  {
+   "start": 65.19,
+   "end": 66.53,
+   "text": "months is standing by the counter."
+  },
+  {
+   "start": 67.09,
+   "end": 68.49,
+   "text": "Normally, your brain calculates"
+  },
+  {
+   "start": 68.49,
+   "end": 70.47,
+   "text": "forty-seven reasons to stay silent."
+  },
+  {
+   "start": 71.03,
+   "end": 71.31,
+   "text": "Today?"
+  },
+  {
+   "start": 71.63,
+   "end": 72.65,
+   "text": "You walk right up,"
+  },
+  {
+   "start": 72.79,
+   "end": 73.57,
+   "text": "look them in the eye,"
+  },
+  {
+   "start": 73.85,
+   "end": 74.89,
+   "text": "and say the boldest,"
+  },
+  {
+   "start": 74.89,
+   "end": 77.23,
+   "text": "most direct compliment you've ever thought of."
+  },
+  {
+   "start": 77.77,
+   "end": 78.31,
+   "text": "They blush."
+  },
+  {
+   "start": 78.55,
+   "end": 78.93,
+   "text": "They smile."
+  },
+  {
+   "start": 79.45,
+   "end": 80.73,
+   "text": "They hand you their number on a napkin."
+  },
+  {
+   "start": 81.29,
+   "end": 82.29,
+   "text": "You walk outside,"
+  },
+  {
+   "start": 82.39,
+   "end": 83.67,
+   "text": "grinning from ear to ear."
+  },
+  {
+   "start": 84.27,
+   "end": 85.69,
+   "text": "Then you see your boss pulling"
+  },
+  {
+   "start": 85.69,
+   "end": 86.93,
+   "text": "into the office parking lot."
+  },
+  {
+   "start": 87.37,
+   "end": 89.77,
+   "text": "You walk right up to him and tell him exactly what everyone"
+  },
+  {
+   "start": 89.77,
+   "end": 91.61,
+   "text": "in the department thinks of his Saturday emails."
+  },
+  {
+   "start": 92.11,
+   "end": 93.01,
+   "text": "His face turns purple."
+  },
+  {
+   "start": 93.47,
+   "end": 94.57,
+   "text": "He screams that you're fired."
+  },
+  {
+   "start": 95.25,
+   "end": 95.63,
+   "text": "You smile."
+  },
+  {
+   "start": 96.19,
+   "end": 97.51,
+   "text": "You tap your wrists together twice."
+  },
+  {
+   "start": 98.21,
+   "end": 98.65,
+   "text": "Back in bed."
+  },
+  {
+   "start": 99.11,
+   "end": 100.33,
+   "text": "Seven o'clock."
+  },
+  {
+   "start": 100.33,
+   "end": 101.49,
+   "text": "The boss has no idea."
+  },
+  {
+   "start": 102.19,
+   "end": 103.07,
+   "text": "The argument never happened."
+  },
+  {
+   "start": 103.59,
+   "end": 104.53,
+   "text": "The world was reset,"
+  },
+  {
+   "start": 104.93,
+   "end": 106.83,
+   "text": "but the experience stayed in your head."
+  },
+  {
+   "start": 107.51,
+   "end": 109.67,
+   "text": "Lesson one: living without fear"
+  },
+  {
+   "start": 109.67,
+   "end": 110.81,
+   "text": "feels like a superpower."
+  },
+  {
+   "start": 111.69,
+   "end": 112.67,
+   "text": "By day two,"
+  },
+  {
+   "start": 113.09,
+   "end": 114.05,
+   "text": "the games get bigger."
+  },
+  {
+   "start": 114.61,
+   "end": 115.65,
+   "text": "You watch the opening bell."
+  },
+  {
+   "start": 116.31,
+   "end": 117.57,
+   "text": "You note which stock spikes"
+  },
+  {
+   "start": 117.57,
+   "end": 118.91,
+   "text": "three hundred percent by noon."
+  },
+  {
+   "start": 119.45,
+   "end": 120.13,
+   "text": "Then you reload."
+  },
+  {
+   "start": 120.87,
+   "end": 121.73,
+   "text": "At seven in the morning,"
+  },
+  {
+   "start": 121.91,
+   "end": 124.71,
+   "text": "you put your entire savings into that exact trade."
+  },
+  {
+   "start": 125.19,
+   "end": 126.97,
+   "text": "By lunch, you're wealthy."
+  },
+  {
+   "start": 127.81,
+   "end": 128.79,
+   "text": "By day three,"
+  },
+  {
+   "start": 129.17,
+   "end": 131.73,
+   "text": "you've tried thirty-two different ways to handle your"
+  },
+  {
+   "start": 131.73,
+   "end": 134.75,
+   "text": "morning meeting until you deliver a presentation so"
+  },
+  {
+   "start": 134.75,
+   "end": 137.67,
+   "text": "flawless your manager gives you a standing ovation."
+  },
+  {
+   "start": 138.23,
+   "end": 139.55,
+   "text": "You feel invincible."
+  },
+  {
+   "start": 140.03,
+   "end": 142.11,
+   "text": "Until five o'clock on day three."
+  },
+  {
+   "start": 142.11,
+   "end": 143.63,
+   "text": "You're sitting on your couch,"
+  },
+  {
+   "start": 143.63,
+   "end": 145.17,
+   "text": "looking at your bank account,"
+  },
+  {
+   "start": 145.37,
+   "end": 147.45,
+   "text": "and something cold creeps into your stomach."
+  },
+  {
+   "start": 148.13,
+   "end": 149.09,
+   "text": "You want to order dinner,"
+  },
+  {
+   "start": 149.23,
+   "end": 151.13,
+   "text": "but suddenly, you hesitate."
+  },
+  {
+   "start": 151.83,
+   "end": 153.31,
+   "text": "What if the pizza place is slow tonight?"
+  },
+  {
+   "start": 154.03,
+   "end": 155.35,
+   "text": "What if the sushi place is better?"
+  },
+  {
+   "start": 156.09,
+   "end": 157.39,
+   "text": "Normally, you'd just pick one,"
+  },
+  {
+   "start": 157.39,
+   "end": 158.55,
+   "text": "eat, and move on."
+  },
+  {
+   "start": 159.05,
+   "end": 159.53,
+   "text": "Now?"
+  },
+  {
+   "start": 159.77,
+   "end": 160.67,
+   "text": "You order pizza,"
+  },
+  {
+   "start": 161.17,
+   "end": 161.83,
+   "text": "eat two slices,"
+  },
+  {
+   "start": 162.33,
+   "end": 163.03,
+   "text": "tap your wrists,"
+  },
+  {
+   "start": 163.39,
+   "end": 164.67,
+   "text": "reload, and order sushi."
+  },
+  {
+   "start": 165.15,
+   "end": 167.23,
+   "text": "Then you reload again because you wonder if"
+  },
+  {
+   "start": 167.23,
+   "end": 169.21,
+   "text": "the Thai curry was the optimal choice."
+  },
+  {
+   "start": 169.21,
+   "end": 171.59,
+   "text": "Psychologists have a name for this:"
+  },
+  {
+   "start": 172.09,
+   "end": 173.35,
+   "text": "Maximization Paralysis."
+  },
+  {
+   "start": 174.03,
+   "end": 175.89,
+   "text": "When mistakes are impossible to undo,"
+  },
+  {
+   "start": 176.47,
+   "end": 178.71,
+   "text": "humans accept good-enough outcomes."
+  },
+  {
+   "start": 179.19,
+   "end": 181.99,
+   "text": "When every choice can theoretically be perfected,"
+  },
+  {
+   "start": 182.01,
+   "end": 183.97,
+   "text": "satisfaction drops to zero."
+  },
+  {
+   "start": 184.37,
+   "end": 186.67,
+   "text": "Because now, every minor imperfection"
+  },
+  {
+   "start": 186.67,
+   "end": 188.53,
+   "text": "is your fault for not resetting."
+  },
+  {
+   "start": 188.99,
+   "end": 189.97,
+   "text": "On day four,"
+  },
+  {
+   "start": 190.45,
+   "end": 192.11,
+   "text": "reality stops being a game."
+  },
+  {
+   "start": 192.11,
+   "end": 193.07,
+   "text": "At two fifteen,"
+  },
+  {
+   "start": 193.07,
+   "end": 194.67,
+   "text": "you're walking across Fifth Street."
+  },
+  {
+   "start": 195.17,
+   "end": 197.89,
+   "text": "A delivery van runs a red light and clips a cyclist."
+  },
+  {
+   "start": 198.43,
+   "end": 199.53,
+   "text": "You scream, rush over,"
+  },
+  {
+   "start": 199.53,
+   "end": 200.53,
+   "text": "and see blood on the pavement."
+  },
+  {
+   "start": 201.07,
+   "end": 201.91,
+   "text": "Instinct kicks in."
+  },
+  {
+   "start": 202.41,
+   "end": 203.09,
+   "text": "You tap your wrists."
+  },
+  {
+   "start": 203.95,
+   "end": 204.57,
+   "text": "You wake up."
+  },
+  {
+   "start": 205.19,
+   "end": 206.85,
+   "text": "You have seven hours to prevent it."
+  },
+  {
+   "start": 207.43,
+   "end": 208.07,
+   "text": "At two ten,"
+  },
+  {
+   "start": 208.07,
+   "end": 209.77,
+   "text": "you stand at that exact intersection."
+  },
+  {
+   "start": 210.21,
+   "end": 211.53,
+   "text": "When the cyclist arrives,"
+  },
+  {
+   "start": 211.79,
+   "end": 213.17,
+   "text": "you step in front of him and ask for"
+  },
+  {
+   "start": 213.17,
+   "end": 215.09,
+   "text": "directions to delay him by thirty seconds."
+  },
+  {
+   "start": 215.51,
+   "end": 217.15,
+   "text": "He stops, points down the street,"
+  },
+  {
+   "start": 217.39,
+   "end": 217.61,
+   "text": "annoyed."
+  },
+  {
+   "start": 218.17,
+   "end": 220.77,
+   "text": "The delivery van speeds past through the intersection."
+  },
+  {
+   "start": 221.43,
+   "end": 221.93,
+   "text": "No crash."
+  },
+  {
+   "start": 221.93,
+   "end": 223.89,
+   "text": "You breathe a sigh of relief."
+  },
+  {
+   "start": 224.63,
+   "end": 225.47,
+   "text": "You saved him."
+  },
+  {
+   "start": 226.03,
+   "end": 227.05,
+   "text": "Until you turn the corner."
+  },
+  {
+   "start": 227.65,
+   "end": 229.25,
+   "text": "Because you delayed the cyclist,"
+  },
+  {
+   "start": 229.47,
+   "end": 231.67,
+   "text": "the delivery van entered the next intersection"
+  },
+  {
+   "start": 231.67,
+   "end": 233.59,
+   "text": "two seconds earlier than before."
+  },
+  {
+   "start": 233.95,
+   "end": 236.57,
+   "text": "Where it slammed directly into a crowded city bus."
+  },
+  {
+   "start": 237.13,
+   "end": 238.05,
+   "text": "Four people are injured."
+  },
+  {
+   "start": 238.67,
+   "end": 239.11,
+   "text": "You reload."
+  },
+  {
+   "start": 240.17,
+   "end": 241.07,
+   "text": "You wake up at seven."
+  },
+  {
+   "start": 241.67,
+   "end": 242.11,
+   "text": "Heart pounding."
+  },
+  {
+   "start": 242.83,
+   "end": 243.03,
+   "text": "Sweating."
+  },
+  {
+   "start": 243.69,
+   "end": 244.35,
+   "text": "You try again."
+  },
+  {
+   "start": 244.81,
+   "end": 246.19,
+   "text": "You pull the fire alarm in the coffee"
+  },
+  {
+   "start": 246.19,
+   "end": 247.65,
+   "text": "shop to delay the van driver."
+  },
+  {
+   "start": 248.21,
+   "end": 249.83,
+   "text": "That causes a traffic jam that blocks"
+  },
+  {
+   "start": 249.83,
+   "end": 251.55,
+   "text": "an ambulance three miles away."
+  },
+  {
+   "start": 252.09,
+   "end": 253.19,
+   "text": "No matter what you tweak,"
+  },
+  {
+   "start": 253.73,
+   "end": 255.49,
+   "text": "chaotic systems refuse to be tamed."
+  },
+  {
+   "start": 256.13,
+   "end": 257.09,
+   "text": "In complex systems,"
+  },
+  {
+   "start": 257.09,
+   "end": 259.37,
+   "text": "eliminating one point of friction always"
+  },
+  {
+   "start": 259.37,
+   "end": 261.25,
+   "text": "displaces energy somewhere else."
+  },
+  {
+   "start": 261.77,
+   "end": 262.55,
+   "text": "By day five,"
+  },
+  {
+   "start": 262.67,
+   "end": 263.33,
+   "text": "you haven't slept."
+  },
+  {
+   "start": 263.93,
+   "end": 266.19,
+   "text": "You've lived through Tuesday nineteen times."
+  },
+  {
+   "start": 266.79,
+   "end": 268.17,
+   "text": "You realize the horrible truth:"
+  },
+  {
+   "start": 268.67,
+   "end": 269.63,
+   "text": "you aren't playing god."
+  },
+  {
+   "start": 270.15,
+   "end": 272.99,
+   "text": "You're just a frantic janitor trying to mop the ocean."
+  },
+  {
+   "start": 273.65,
+   "end": 275.09,
+   "text": "On day six,"
+  },
+  {
+   "start": 275.09,
+   "end": 277.55,
+   "text": "you decide not to touch the outside world."
+  },
+  {
+   "start": 278.05,
+   "end": 278.83,
+   "text": "You stay inside."
+  },
+  {
+   "start": 279.33,
+   "end": 280.51,
+   "text": "You spend the whole day with"
+  },
+  {
+   "start": 280.51,
+   "end": 281.85,
+   "text": "the people who matter most:"
+  },
+  {
+   "start": 282.35,
+   "end": 283.23,
+   "text": "your closest friend,"
+  },
+  {
+   "start": 283.59,
+   "end": 285.01,
+   "text": "your partner, your family."
+  },
+  {
+   "start": 285.57,
+   "end": 286.81,
+   "text": "You have the most heartfelt,"
+  },
+  {
+   "start": 287.05,
+   "end": 289.09,
+   "text": "honest conversation of your life."
+  },
+  {
+   "start": 289.77,
+   "end": 290.53,
+   "text": "Your friend cries."
+  },
+  {
+   "start": 291.03,
+   "end": 293.43,
+   "text": "They tell you things they've never shared with anyone."
+  },
+  {
+   "start": 294.07,
+   "end": 294.57,
+   "text": "You hug."
+  },
+  {
+   "start": 295.03,
+   "end": 296.83,
+   "text": "It is the deepest human connection"
+  },
+  {
+   "start": 296.83,
+   "end": 298.05,
+   "text": "you've ever experienced."
+  },
+  {
+   "start": 298.89,
+   "end": 300.79,
+   "text": "Then, right before you go to bed,"
+  },
+  {
+   "start": 300.79,
+   "end": 302.73,
+   "text": "your friend accidentally knocks over"
+  },
+  {
+   "start": 302.73,
+   "end": 304.65,
+   "text": "your grandfather's vintage coffee mug."
+  },
+  {
+   "start": 304.89,
+   "end": 306.53,
+   "text": "It shatters across the tiles."
+  },
+  {
+   "start": 307.11,
+   "end": 308.05,
+   "text": "They look horrified,"
+  },
+  {
+   "start": 308.49,
+   "end": 309.43,
+   "text": "apologizing repeatedly."
+  },
+  {
+   "start": 310.23,
+   "end": 311.27,
+   "text": "You look at the shards."
+  },
+  {
+   "start": 311.59,
+   "end": 312.41,
+   "text": "You look at your wrists."
+  },
+  {
+   "start": 312.99,
+   "end": 313.77,
+   "text": "It's so easy."
+  },
+  {
+   "start": 314.19,
+   "end": 315.01,
+   "text": "Just two taps."
+  },
+  {
+   "start": 315.41,
+   "end": 316.87,
+   "text": "The mug will be back on the shelf."
+  },
+  {
+   "start": 317.43,
+   "end": 318.41,
+   "text": "You tap your wrists."
+  },
+  {
+   "start": 319.27,
+   "end": 320.91,
+   "text": "The mug is sitting safely on the counter."
+  },
+  {
+   "start": 321.55,
+   "end": 322.45,
+   "text": "Two hours later,"
+  },
+  {
+   "start": 322.49,
+   "end": 323.49,
+   "text": "your friend comes over."
+  },
+  {
+   "start": 323.91,
+   "end": 324.89,
+   "text": "You smile at them,"
+  },
+  {
+   "start": 324.89,
+   "end": 326.11,
+   "text": "feeling that warm,"
+  },
+  {
+   "start": 326.25,
+   "end": 327.81,
+   "text": "deep bond from yesterday."
+  },
+  {
+   "start": 328.35,
+   "end": 330.21,
+   "text": "You bring up what they told you in tears."
+  },
+  {
+   "start": 330.89,
+   "end": 332.65,
+   "text": "They look at you with total confusion."
+  },
+  {
+   "start": 333.55,
+   "end": 334.55,
+   "text": "What are you talking about?"
+  },
+  {
+   "start": 334.97,
+   "end": 336.19,
+   "text": "I never said that."
+  },
+  {
+   "start": 336.61,
+   "end": 338.23,
+   "text": "A pit opens in your stomach."
+  },
+  {
+   "start": 338.83,
+   "end": 339.89,
+   "text": "They didn't say that."
+  },
+  {
+   "start": 340.13,
+   "end": 341.17,
+   "text": "Not in this reality."
+  },
+  {
+   "start": 341.87,
+   "end": 343.39,
+   "text": "The breakthrough, the vulnerability,"
+  },
+  {
+   "start": 343.77,
+   "end": 346.03,
+   "text": "the tears, the sacred moment,"
+  },
+  {
+   "start": 346.33,
+   "end": 348.23,
+   "text": "it only happened in your private,"
+  },
+  {
+   "start": 348.23,
+   "end": 349.17,
+   "text": "erased memory."
+  },
+  {
+   "start": 349.73,
+   "end": 351.55,
+   "text": "To them, it never existed."
+  },
+  {
+   "start": 352.33,
+   "end": 353.83,
+   "text": "In erasing the broken mug,"
+  },
+  {
+   "start": 354.17,
+   "end": 356.57,
+   "text": "you erased the memory that bonded you together."
+  },
+  {
+   "start": 357.19,
+   "end": 358.93,
+   "text": "You are now completely alone with"
+  },
+  {
+   "start": 358.93,
+   "end": 360.87,
+   "text": "memories no one else will ever share."
+  },
+  {
+   "start": 361.63,
+   "end": 362.95,
+   "text": "Day seven arrives."
+  },
+  {
+   "start": 363.39,
+   "end": 364.87,
+   "text": "The prompt is counting down."
+  },
+  {
+   "start": 365.25,
+   "end": 366.81,
+   "text": "You have five minutes to decide:"
+  },
+  {
+   "start": 367.31,
+   "end": 369.63,
+   "text": "do you reload one last time to your safety net,"
+  },
+  {
+   "start": 370.15,
+   "end": 371.89,
+   "text": "or do you let the clock strike midnight"
+  },
+  {
+   "start": 371.89,
+   "end": 373.23,
+   "text": "and surrender to the unknown?"
+  },
+  {
+   "start": 374.13,
+   "end": 375.11,
+   "text": "You look at your hands."
+  },
+  {
+   "start": 375.65,
+   "end": 376.65,
+   "text": "For seven days,"
+  },
+  {
+   "start": 376.65,
+   "end": 379.13,
+   "text": "you tried to craft an existence without pain,"
+  },
+  {
+   "start": 379.49,
+   "end": 381.63,
+   "text": "without embarrassment, without heartbreak."
+  },
+  {
+   "start": 382.05,
+   "end": 382.87,
+   "text": "And what did you get?"
+  },
+  {
+   "start": 383.49,
+   "end": 384.09,
+   "text": "Paralysis."
+  },
+  {
+   "start": 384.51,
+   "end": 384.99,
+   "text": "Isolation."
+  },
+  {
+   "start": 385.63,
+   "end": 386.91,
+   "text": "A life where nothing matters"
+  },
+  {
+   "start": 386.91,
+   "end": 388.49,
+   "text": "because nothing carries weight."
+  },
+  {
+   "start": 389.29,
+   "end": 391.31,
+   "text": "Psychologist Carl Jung wrote that to be"
+  },
+  {
+   "start": 391.31,
+   "end": 394.37,
+   "text": "alive is to bear the tension of opposites."
+  },
+  {
+   "start": 394.53,
+   "end": 397.07,
+   "text": "Courage only exists because danger is real."
+  },
+  {
+   "start": 397.81,
+   "end": 399.95,
+   "text": "Love only matters because loss is possible."
+  },
+  {
+   "start": 400.67,
+   "end": 403.15,
+   "text": "Joy only tastes sweet because bad days exist."
+  },
+  {
+   "start": 403.15,
+   "end": 404.61,
+   "text": "The menu flashes:"
+  },
+  {
+   "start": 405.29,
+   "end": 406.29,
+   "text": "Ten seconds remaining."
+  },
+  {
+   "start": 406.95,
+   "end": 407.47,
+   "text": "Reload?"
+  },
+  {
+   "start": 407.47,
+   "end": 409.85,
+   "text": "Magi puts his hands by his side."
+  },
+  {
+   "start": 410.45,
+   "end": 412.39,
+   "text": "He lets his wrists stay apart."
+  },
+  {
+   "start": 413.19,
+   "end": 414.29,
+   "text": "The clock strikes twelve."
+  },
+  {
+   "start": 414.99,
+   "end": 415.79,
+   "text": "The prompt vanishes."
+  },
+  {
+   "start": 416.75,
+   "end": 417.97,
+   "text": "Tomorrow will be messy."
+  },
+  {
+   "start": 418.43,
+   "end": 419.65,
+   "text": "You might say the wrong thing."
+  },
+  {
+   "start": 419.65,
+   "end": 421.25,
+   "text": "You might spill your coffee."
+  },
+  {
+   "start": 421.65,
+   "end": 422.63,
+   "text": "You might get your heart broken."
+  },
+  {
+   "start": 423.31,
+   "end": 425.19,
+   "text": "And for the first time in seven days,"
+  },
+  {
+   "start": 425.57,
+   "end": 426.17,
+   "text": "you smile."
+  },
+  {
+   "start": 426.17,
+   "end": 427.51,
+   "text": "Because it's real."
+  },
+  {
+   "start": 428.23,
+   "end": 430.45,
+   "text": "If you had one real-life save point"
+  },
+  {
+   "start": 430.45,
+   "end": 432.55,
+   "text": "that you could return to anytime,"
+  },
+  {
+   "start": 432.55,
+   "end": 433.63,
+   "text": "would you use it to fix a"
+  },
+  {
+   "start": 433.63,
+   "end": 435.21,
+   "text": "specific moment from your past,"
+  },
+  {
+   "start": 435.65,
+   "end": 437.61,
+   "text": "or would you be too afraid of what you might erase?"
+  },
+  {
+   "start": 438.43,
+   "end": 439.25,
+   "text": "Drop your answer below."
+  }
+ ],
+ "shots": [
+  {
+   "start": 0,
+   "end": 5.5,
+   "layers": [
+    {
+     "type": "image",
+     "path": "art/clock.png",
+     "x": 120,
+     "y": 80,
+     "w": 160
+    },
+    {
+     "type": "text",
+     "text": "07:00 AM",
+     "x": 290,
+     "y": 150,
+     "size": 48,
+     "bold": true,
+     "color": "#3D7DD8"
+    },
+    {
+     "type": "image",
+     "path": "art/you-sleepy.png",
+     "x": 633,
+     "y": 59,
+     "w": 434,
+     "to": 2.2
+    },
+    {
+     "type": "image",
+     "path": "art/you-amazed.png",
+     "x": 633,
+     "y": 59,
+     "w": 434,
+     "from": 2.2
+    },
+    {
+     "type": "text",
+     "text": "SAVE POINT CREATED",
+     "x": 400,
+     "y": 260,
+     "size": 44,
+     "bold": true,
+     "color": "#2F8A4A",
+     "from": 2.8,
+     "keys": [
+      {
+       "t": 2.8,
+       "y": 278,
+       "alpha": 0
+      },
+      {
+       "t": 3.05,
+       "y": 260,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "DAY 1 · 07:00 AM",
+     "x": 450,
+     "y": 320,
+     "size": 32,
+     "bold": true,
+     "color": "#7A8288",
+     "from": 3.4,
+     "keys": [
+      {
+       "t": 3.4,
+       "y": 338,
+       "alpha": 0
+      },
+      {
+       "t": 3.65,
+       "y": 320,
+       "alpha": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 5.5,
+   "end": 11,
+   "layers": [
+    {
+     "type": "text",
+     "text": "SAVE POINT CREATED",
+     "x": 400,
+     "y": 260,
+     "size": 44,
+     "bold": true,
+     "color": "#2F8A4A",
+     "from": 0,
+     "keys": [
+      {
+       "t": 0,
+       "y": 278,
+       "alpha": 0
+      },
+      {
+       "t": 0.25,
+       "y": 260,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "ELECTRIC HUM",
+     "x": 470,
+     "y": 320,
+     "size": 30,
+     "bold": true,
+     "color": "#3D7DD8",
+     "from": 4.5,
+     "keys": [
+      {
+       "t": 4.5,
+       "y": 338,
+       "alpha": 0
+      },
+      {
+       "t": 4.75,
+       "y": 320,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "art/you-ear.png",
+     "x": 633,
+     "y": 59,
+     "w": 434
+    }
+   ]
+  },
+  {
+   "start": 11,
+   "end": 19.5,
+   "layers": [
+    {
+     "type": "text",
+     "text": "TAP WRISTS TWICE",
+     "x": 120,
+     "y": 100,
+     "size": 56,
+     "bold": true,
+     "color": "#EC4338",
+     "from": 2.5,
+     "keys": [
+      {
+       "t": 2.5,
+       "y": 118,
+       "alpha": 0
+      },
+      {
+       "t": 2.75,
+       "y": 100,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "underline",
+     "x": 120,
+     "y": 170,
+     "w": 420,
+     "color": "#EC4338",
+     "keys": [
+      {
+       "t": 2.6,
+       "progress": 0
+      },
+      {
+       "t": 3.2,
+       "progress": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "TO RELOAD",
+     "x": 120,
+     "y": 190,
+     "size": 48,
+     "bold": true,
+     "from": 3.5,
+     "keys": [
+      {
+       "t": 3.5,
+       "y": 208,
+       "alpha": 0
+      },
+      {
+       "t": 3.75,
+       "y": 190,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "art/you-wrist-tap.png",
+     "x": 633,
+     "y": 59,
+     "w": 434
+    }
+   ]
+  },
+  {
+   "start": 19.5,
+   "end": 25.5,
+   "layers": [
+    {
+     "type": "image",
+     "path": "art/building.png",
+     "x": 80,
+     "y": 140,
+     "w": 300
+    },
+    {
+     "type": "image",
+     "path": "art/car.png",
+     "x": 420,
+     "y": 460,
+     "w": 240
+    },
+    {
+     "type": "image",
+     "path": "art/you-skeptic.png",
+     "x": 733,
+     "y": 59,
+     "w": 434
+    },
+    {
+     "type": "text",
+     "text": "NORMAL WORLD.",
+     "x": 100,
+     "y": 70,
+     "size": 52,
+     "bold": true,
+     "from": 2,
+     "keys": [
+      {
+       "t": 2,
+       "y": 88,
+       "alpha": 0
+      },
+      {
+       "t": 2.25,
+       "y": 70,
+       "alpha": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 25.5,
+   "end": 30.35,
+   "layers": [
+    {
+     "type": "text",
+     "text": "7 DAYS.",
+     "x": 90,
+     "y": 60,
+     "size": 66,
+     "bold": true
+    },
+    {
+     "type": "image",
+     "path": "art/calendar.png",
+     "x": 90,
+     "y": 170,
+     "w": 560
+    },
+    {
+     "type": "text",
+     "text": "ONE SAVE POINT.",
+     "x": 700,
+     "y": 72,
+     "size": 48,
+     "bold": true,
+     "color": "#2F8A4A",
+     "from": 1.2,
+     "keys": [
+      {
+       "t": 1.2,
+       "y": 90,
+       "alpha": 0
+      },
+      {
+       "t": 1.45,
+       "y": 72,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "ZERO CONSEQUENCES.",
+     "x": 660,
+     "y": 190,
+     "size": 42,
+     "bold": true,
+     "color": "#EC4338",
+     "from": 2.5,
+     "keys": [
+      {
+       "t": 2.5,
+       "y": 208,
+       "alpha": 0
+      },
+      {
+       "t": 2.75,
+       "y": 190,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "art/you-amazed.png",
+     "x": 763,
+     "y": 59,
+     "w": 434
+    }
+   ]
+  },
+  {
+   "start": 30.35,
+   "end": 43.97,
+   "layers": [
+    {
+     "type": "image",
+     "path": "art/you-wrist-tap.png",
+     "x": 423,
+     "y": 39,
+     "w": 434
+    },
+    {
+     "type": "text",
+     "text": "BACK TO 07:00 AM",
+     "x": 200,
+     "y": 100,
+     "size": 52,
+     "bold": true,
+     "color": "#3D7DD8",
+     "from": 6.86,
+     "keys": [
+      {
+       "t": 6.86,
+       "y": 118,
+       "alpha": 0
+      },
+      {
+       "t": 7.11,
+       "y": 100,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "WITH ALL MEMORIES INTACT",
+     "x": 200,
+     "y": 170,
+     "size": 36,
+     "bold": true,
+     "color": "#7A8288",
+     "from": 7.66,
+     "keys": [
+      {
+       "t": 7.66,
+       "y": 188,
+       "alpha": 0
+      },
+      {
+       "t": 7.91,
+       "y": 170,
+       "alpha": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 43.97,
+   "end": 51.29,
+   "layers": [
+    {
+     "type": "image",
+     "path": "art/you-cape.png",
+     "x": 133,
+     "y": 39,
+     "w": 434,
+     "to": 3.86
+    },
+    {
+     "type": "image",
+     "path": "art/you-nervous.png",
+     "x": 133,
+     "y": 39,
+     "w": 434,
+     "from": 3.86
+    },
+    {
+     "type": "text",
+     "text": "GODHOOD.",
+     "x": 750,
+     "y": 120,
+     "size": 64,
+     "bold": true,
+     "color": "#2F8A4A",
+     "from": 0.2,
+     "keys": [
+      {
+       "t": 0.2,
+       "y": 138,
+       "alpha": 0
+      },
+      {
+       "t": 0.45,
+       "y": 120,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "OR A PRISON?",
+     "x": 750,
+     "y": 200,
+     "size": 54,
+     "bold": true,
+     "color": "#EC4338",
+     "from": 3.86,
+     "keys": [
+      {
+       "t": 3.86,
+       "y": 218,
+       "alpha": 0
+      },
+      {
+       "t": 4.109999999999999,
+       "y": 200,
+       "alpha": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 51.29,
+   "end": 61.89,
+   "layers": [
+    {
+     "type": "text",
+     "text": "DAY 1",
+     "x": 80,
+     "y": 40,
+     "size": 70,
+     "bold": true,
+     "color": "#EC4338"
+    },
+    {
+     "type": "underline",
+     "x": 82,
+     "y": 118,
+     "w": 200,
+     "color": "#EC4338",
+     "keys": [
+      {
+       "t": 0,
+       "progress": 0
+      },
+      {
+       "t": 0.5,
+       "progress": 1
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-a.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 0,
+     "to": 0.35
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-b.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 0.35,
+     "to": 0.7
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-a.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 0.7,
+     "to": 1.05
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-b.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 1.05,
+     "to": 1.4
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-a.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 1.4,
+     "to": 1.75
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-b.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 1.75,
+     "to": 2.1
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-a.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 2.1,
+     "to": 2.45
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-b.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 2.45,
+     "to": 2.8
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-a.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 2.8,
+     "to": 3.15
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-b.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 3.15,
+     "to": 3.5
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-a.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 3.5,
+     "to": 3.85
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-b.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 3.85,
+     "to": 4.2
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-a.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 4.2,
+     "to": 4.55
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-b.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 4.55,
+     "to": 4.9
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-a.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 4.9,
+     "to": 5.25
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-b.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 5.25,
+     "to": 5.6
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-a.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 5.6,
+     "to": 5.95
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-b.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 5.95,
+     "to": 6.3
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-a.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 6.3,
+     "to": 6.65
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-b.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 6.65,
+     "to": 7
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-a.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 7,
+     "to": 7.35
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-b.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 7.35,
+     "to": 7.7
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-a.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 7.7,
+     "to": 8.05
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-b.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 8.05,
+     "to": 8.4
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-a.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 8.4,
+     "to": 8.75
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-b.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 8.75,
+     "to": 9.1
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-a.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 9.1,
+     "to": 9.45
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-b.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 9.45,
+     "to": 9.8
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-a.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 9.8,
+     "to": 10.15
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-b.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 10.15,
+     "to": 10.5
+    },
+    {
+     "type": "image",
+     "path": "art/you-walk-a.png",
+     "x": 423,
+     "y": 39,
+     "w": 434,
+     "from": 10.5,
+     "to": 10.6
+    },
+    {
+     "type": "image",
+     "path": "art/building.png",
+     "x": 980,
+     "y": 150,
+     "w": 230
+    },
+    {
+     "type": "image",
+     "path": "art/building.png",
+     "x": 60,
+     "y": 190,
+     "w": 190
+    }
+   ]
+  },
+  {
+   "start": 61.89,
+   "end": 84.27,
+   "layers": [
+    {
+     "type": "image",
+     "path": "art/salesman.png",
+     "x": 57,
+     "y": 102,
+     "w": 385
+    },
+    {
+     "type": "image",
+     "path": "art/coffee.png",
+     "x": 310,
+     "y": 330,
+     "w": 60
+    },
+    {
+     "type": "image",
+     "path": "art/you-give.png",
+     "x": 583,
+     "y": 39,
+     "w": 434
+    },
+    {
+     "type": "text",
+     "text": "NO FEAR.",
+     "x": 100,
+     "y": 80,
+     "size": 60,
+     "bold": true,
+     "color": "#2F8A4A",
+     "from": 1.5,
+     "keys": [
+      {
+       "t": 1.5,
+       "y": 98,
+       "alpha": 0
+      },
+      {
+       "t": 1.75,
+       "y": 80,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "GOT THE NUMBER",
+     "x": 450,
+     "y": 480,
+     "size": 38,
+     "bold": true,
+     "color": "#2F8A4A",
+     "from": 15.88,
+     "keys": [
+      {
+       "t": 15.88,
+       "y": 498,
+       "alpha": 0
+      },
+      {
+       "t": 16.130000000000003,
+       "y": 480,
+       "alpha": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 84.27,
+   "end": 98.21,
+   "layers": [
+    {
+     "type": "image",
+     "path": "art/boss-sweat.png",
+     "x": 93,
+     "y": 12,
+     "w": 455
+    },
+    {
+     "type": "image",
+     "path": "art/you-grin.png",
+     "x": 633,
+     "y": 39,
+     "w": 434,
+     "to": 11.92
+    },
+    {
+     "type": "image",
+     "path": "art/you-wrist-tap.png",
+     "x": 633,
+     "y": 39,
+     "w": 434,
+     "from": 11.92
+    },
+    {
+     "type": "text",
+     "text": "\"YOU'RE FIRED!\"",
+     "x": 100,
+     "y": 80,
+     "size": 58,
+     "bold": true,
+     "color": "#EC4338",
+     "from": 9.2,
+     "keys": [
+      {
+       "t": 9.2,
+       "y": 98,
+       "alpha": 0
+      },
+      {
+       "t": 9.45,
+       "y": 80,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "RESET.",
+     "x": 850,
+     "y": 52,
+     "size": 64,
+     "bold": true,
+     "color": "#3D7DD8",
+     "from": 11.92,
+     "keys": [
+      {
+       "t": 11.92,
+       "y": 70,
+       "alpha": 0
+      },
+      {
+       "t": 12.17,
+       "y": 52,
+       "alpha": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 98.21,
+   "end": 111.69,
+   "layers": [
+    {
+     "type": "image",
+     "path": "art/clock.png",
+     "x": 120,
+     "y": 80,
+     "w": 160
+    },
+    {
+     "type": "text",
+     "text": "07:00 AM",
+     "x": 290,
+     "y": 150,
+     "size": 48,
+     "bold": true,
+     "color": "#3D7DD8"
+    },
+    {
+     "type": "image",
+     "path": "art/you-sleepy.png",
+     "x": 633,
+     "y": 59,
+     "w": 434
+    },
+    {
+     "type": "text",
+     "text": "LIVING WITHOUT FEAR",
+     "x": 100,
+     "y": 300,
+     "size": 52,
+     "bold": true,
+     "from": 2,
+     "keys": [
+      {
+       "t": 2,
+       "y": 318,
+       "alpha": 0
+      },
+      {
+       "t": 2.25,
+       "y": 300,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "FEELS LIKE A SUPERPOWER",
+     "x": 100,
+     "y": 370,
+     "size": 44,
+     "bold": true,
+     "color": "#2F8A4A",
+     "from": 3.5,
+     "keys": [
+      {
+       "t": 3.5,
+       "y": 388,
+       "alpha": 0
+      },
+      {
+       "t": 3.75,
+       "y": 370,
+       "alpha": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 111.69,
+   "end": 140.03,
+   "layers": [
+    {
+     "type": "text",
+     "text": "DAY 2",
+     "x": 80,
+     "y": 40,
+     "size": 70,
+     "bold": true,
+     "color": "#EC4338"
+    },
+    {
+     "type": "underline",
+     "x": 82,
+     "y": 118,
+     "w": 200,
+     "color": "#EC4338",
+     "keys": [
+      {
+       "t": 0,
+       "progress": 0
+      },
+      {
+       "t": 0.5,
+       "progress": 1
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "art/graph.png",
+     "x": 120,
+     "y": 160,
+     "w": 480
+    },
+    {
+     "type": "text",
+     "text": "+300% NOON SPIKE",
+     "x": 140,
+     "y": 120,
+     "size": 46,
+     "bold": true,
+     "color": "#2F8A4A",
+     "from": 5.88,
+     "keys": [
+      {
+       "t": 5.88,
+       "y": 138,
+       "alpha": 0
+      },
+      {
+       "t": 6.13,
+       "y": 120,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "art/you-calm.png",
+     "x": 683,
+     "y": 39,
+     "w": 434
+    }
+   ]
+  },
+  {
+   "start": 140.03,
+   "end": 188.99,
+   "layers": [
+    {
+     "type": "text",
+     "text": "DAY 3",
+     "x": 80,
+     "y": 40,
+     "size": 70,
+     "bold": true,
+     "color": "#EC4338"
+    },
+    {
+     "type": "underline",
+     "x": 82,
+     "y": 118,
+     "w": 200,
+     "color": "#EC4338",
+     "keys": [
+      {
+       "t": 0,
+       "progress": 0
+      },
+      {
+       "t": 0.5,
+       "progress": 1
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "art/you-nervous.png",
+     "x": 183,
+     "y": 39,
+     "w": 434
+    },
+    {
+     "type": "image",
+     "path": "art/pizza.png",
+     "x": 650,
+     "y": 250,
+     "w": 140,
+     "from": 2,
+     "keys": [
+      {
+       "t": 2,
+       "y": 268,
+       "alpha": 0
+      },
+      {
+       "t": 2.25,
+       "y": 250,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "PIZZA OR SUSHI?",
+     "x": 620,
+     "y": 150,
+     "size": 44,
+     "bold": true,
+     "from": 2.5,
+     "keys": [
+      {
+       "t": 2.5,
+       "y": 168,
+       "alpha": 0
+      },
+      {
+       "t": 2.75,
+       "y": 150,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "MAXIMIZATION PARALYSIS",
+     "x": 100,
+     "y": 480,
+     "size": 48,
+     "bold": true,
+     "color": "#EC4338",
+     "from": 32.06,
+     "keys": [
+      {
+       "t": 32.06,
+       "y": 498,
+       "alpha": 0
+      },
+      {
+       "t": 32.31,
+       "y": 480,
+       "alpha": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 188.99,
+   "end": 205.19,
+   "layers": [
+    {
+     "type": "text",
+     "text": "DAY 4",
+     "x": 80,
+     "y": 40,
+     "size": 70,
+     "bold": true,
+     "color": "#EC4338"
+    },
+    {
+     "type": "underline",
+     "x": 82,
+     "y": 118,
+     "w": 200,
+     "color": "#EC4338",
+     "keys": [
+      {
+       "t": 0,
+       "progress": 0
+      },
+      {
+       "t": 0.5,
+       "progress": 1
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "art/car.png",
+     "x": 200,
+     "y": 350,
+     "w": 320
+    },
+    {
+     "type": "image",
+     "path": "art/bike.png",
+     "x": 700,
+     "y": 380,
+     "w": 200
+    },
+    {
+     "type": "image",
+     "path": "art/you-shocked.png",
+     "x": 833,
+     "y": 39,
+     "w": 434
+    },
+    {
+     "type": "text",
+     "text": "CAR CRASH · 02:15 PM",
+     "x": 100,
+     "y": 80,
+     "size": 52,
+     "bold": true,
+     "color": "#EC4338",
+     "from": 6.18,
+     "keys": [
+      {
+       "t": 6.18,
+       "y": 98,
+       "alpha": 0
+      },
+      {
+       "t": 6.43,
+       "y": 80,
+       "alpha": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 205.19,
+   "end": 256.13,
+   "layers": [
+    {
+     "type": "image",
+     "path": "art/you-walk-a.png",
+     "x": 83,
+     "y": 39,
+     "w": 434
+    },
+    {
+     "type": "image",
+     "path": "art/cyclist.png",
+     "x": 340,
+     "y": 57,
+     "w": 420
+    },
+    {
+     "type": "text",
+     "text": "DELAYED THE CYCLIST...",
+     "x": 100,
+     "y": 32,
+     "size": 48,
+     "bold": true,
+     "color": "#2F8A4A",
+     "from": 1.5,
+     "keys": [
+      {
+       "t": 1.5,
+       "y": 50,
+       "alpha": 0
+      },
+      {
+       "t": 1.75,
+       "y": 32,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "BUT THE VAN HIT THE BUS.",
+     "x": 100,
+     "y": 102,
+     "size": 52,
+     "bold": true,
+     "color": "#EC4338",
+     "from": 28.76,
+     "keys": [
+      {
+       "t": 28.76,
+       "y": 120,
+       "alpha": 0
+      },
+      {
+       "t": 29.01,
+       "y": 102,
+       "alpha": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 256.13,
+   "end": 273.65,
+   "layers": [
+    {
+     "type": "image",
+     "path": "art/you-skeptic.png",
+     "x": 423,
+     "y": 39,
+     "w": 434
+    },
+    {
+     "type": "text",
+     "text": "CHAOS THEORY",
+     "x": 200,
+     "y": 120,
+     "size": 60,
+     "bold": true,
+     "color": "#EC4338",
+     "from": 0.5,
+     "keys": [
+      {
+       "t": 0.5,
+       "y": 138,
+       "alpha": 0
+      },
+      {
+       "t": 0.75,
+       "y": 120,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "ELIMINATING FRICTION DISPLACES ENERGY",
+     "x": 120,
+     "y": 200,
+     "size": 38,
+     "bold": true,
+     "from": 2,
+     "keys": [
+      {
+       "t": 2,
+       "y": 218,
+       "alpha": 0
+      },
+      {
+       "t": 2.25,
+       "y": 200,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "LIVED TUESDAY 19 TIMES",
+     "x": 220,
+     "y": 320,
+     "size": 46,
+     "bold": true,
+     "color": "#7A8288",
+     "from": 5,
+     "keys": [
+      {
+       "t": 5,
+       "y": 338,
+       "alpha": 0
+      },
+      {
+       "t": 5.25,
+       "y": 320,
+       "alpha": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 273.65,
+   "end": 298.89,
+   "layers": [
+    {
+     "type": "text",
+     "text": "DAY 6",
+     "x": 80,
+     "y": 40,
+     "size": 70,
+     "bold": true,
+     "color": "#EC4338"
+    },
+    {
+     "type": "underline",
+     "x": 82,
+     "y": 118,
+     "w": 200,
+     "color": "#EC4338",
+     "keys": [
+      {
+       "t": 0,
+       "progress": 0
+      },
+      {
+       "t": 0.5,
+       "progress": 1
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "art/you-kind.png",
+     "x": 183,
+     "y": 39,
+     "w": 434
+    },
+    {
+     "type": "image",
+     "path": "art/friend-cry.png",
+     "x": 533,
+     "y": 39,
+     "w": 434
+    },
+    {
+     "type": "image",
+     "path": "art/coffee.png",
+     "x": 560,
+     "y": 360,
+     "w": 60
+    },
+    {
+     "type": "text",
+     "text": "DEEPEST HUMAN CONNECTION",
+     "x": 100,
+     "y": 32,
+     "size": 48,
+     "bold": true,
+     "color": "#2F8A4A",
+     "from": 1,
+     "keys": [
+      {
+       "t": 1,
+       "y": 50,
+       "alpha": 0
+      },
+      {
+       "t": 1.25,
+       "y": 32,
+       "alpha": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 298.89,
+   "end": 319.27,
+   "layers": [
+    {
+     "type": "image",
+     "path": "art/coffee-spill.png",
+     "x": 500,
+     "y": 450,
+     "w": 120
+    },
+    {
+     "type": "image",
+     "path": "art/you-shocked.png",
+     "x": 133,
+     "y": 39,
+     "w": 434,
+     "to": 18.54
+    },
+    {
+     "type": "image",
+     "path": "art/you-wrist-tap.png",
+     "x": 133,
+     "y": 39,
+     "w": 434,
+     "from": 18.54
+    },
+    {
+     "type": "text",
+     "text": "BROKEN MUG.",
+     "x": 100,
+     "y": 32,
+     "size": 54,
+     "bold": true,
+     "color": "#EC4338",
+     "from": 6,
+     "keys": [
+      {
+       "t": 6,
+       "y": 50,
+       "alpha": 0
+      },
+      {
+       "t": 6.25,
+       "y": 32,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "JUST RELOAD.",
+     "x": 750,
+     "y": 120,
+     "size": 52,
+     "bold": true,
+     "color": "#3D7DD8",
+     "from": 18.54,
+     "keys": [
+      {
+       "t": 18.54,
+       "y": 138,
+       "alpha": 0
+      },
+      {
+       "t": 18.79,
+       "y": 120,
+       "alpha": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 319.27,
+   "end": 361.63,
+   "layers": [
+    {
+     "type": "image",
+     "path": "art/you-amazed.png",
+     "x": 133,
+     "y": 39,
+     "w": 434
+    },
+    {
+     "type": "image",
+     "path": "art/friend-confused.png",
+     "x": 533,
+     "y": 39,
+     "w": 434
+    },
+    {
+     "type": "text",
+     "text": "\"I NEVER SAID THAT.\"",
+     "x": 600,
+     "y": 100,
+     "size": 52,
+     "bold": true,
+     "color": "#EC4338",
+     "from": 11.62,
+     "keys": [
+      {
+       "t": 11.62,
+       "y": 118,
+       "alpha": 0
+      },
+      {
+       "t": 11.87,
+       "y": 100,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "THE MEMORY WAS ERASED.",
+     "x": 100,
+     "y": 240,
+     "size": 48,
+     "bold": true,
+     "from": 4,
+     "keys": [
+      {
+       "t": 4,
+       "y": 258,
+       "alpha": 0
+      },
+      {
+       "t": 4.25,
+       "y": 240,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "YOU ARE COMPLETELY ALONE.",
+     "x": 100,
+     "y": 310,
+     "size": 46,
+     "bold": true,
+     "color": "#7A8288",
+     "from": 7,
+     "keys": [
+      {
+       "t": 7,
+       "y": 328,
+       "alpha": 0
+      },
+      {
+       "t": 7.25,
+       "y": 310,
+       "alpha": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 361.63,
+   "end": 403.15,
+   "layers": [
+    {
+     "type": "text",
+     "text": "DAY 7",
+     "x": 80,
+     "y": 40,
+     "size": 70,
+     "bold": true,
+     "color": "#EC4338"
+    },
+    {
+     "type": "underline",
+     "x": 82,
+     "y": 118,
+     "w": 200,
+     "color": "#EC4338",
+     "keys": [
+      {
+       "t": 0,
+       "progress": 0
+      },
+      {
+       "t": 0.5,
+       "progress": 1
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "art/you-calm.png",
+     "x": 423,
+     "y": 39,
+     "w": 434
+    },
+    {
+     "type": "text",
+     "text": "SAVE POINT EXPIRES IN 5 MIN",
+     "x": 150,
+     "y": 100,
+     "size": 48,
+     "bold": true,
+     "color": "#EC4338",
+     "from": 1,
+     "keys": [
+      {
+       "t": 1,
+       "y": 118,
+       "alpha": 0
+      },
+      {
+       "t": 1.25,
+       "y": 100,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "\"TO BE ALIVE IS TO BEAR TENSION\"",
+     "x": 100,
+     "y": 200,
+     "size": 42,
+     "bold": true,
+     "color": "#3D7DD8",
+     "from": 27.66,
+     "keys": [
+      {
+       "t": 27.66,
+       "y": 218,
+       "alpha": 0
+      },
+      {
+       "t": 27.91,
+       "y": 200,
+       "alpha": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 403.15,
+   "end": 428.23,
+   "layers": [
+    {
+     "type": "image",
+     "path": "art/you-relieved.png",
+     "x": 423,
+     "y": 39,
+     "w": 434
+    },
+    {
+     "type": "text",
+     "text": "PROMPT DISSOLVES.",
+     "x": 220,
+     "y": 120,
+     "size": 56,
+     "bold": true,
+     "color": "#2F8A4A",
+     "from": 10.04,
+     "keys": [
+      {
+       "t": 10.04,
+       "y": 138,
+       "alpha": 0
+      },
+      {
+       "t": 10.29,
+       "y": 120,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "LIFE IS UNCERTAIN. AND REAL.",
+     "x": 120,
+     "y": 220,
+     "size": 48,
+     "bold": true,
+     "from": 12.04,
+     "keys": [
+      {
+       "t": 12.04,
+       "y": 238,
+       "alpha": 0
+      },
+      {
+       "t": 12.29,
+       "y": 220,
+       "alpha": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 428.23,
+   "end": 445.83,
+   "layers": [
+    {
+     "type": "image",
+     "path": "art/you-calm.png",
+     "x": 83,
+     "y": 39,
+     "w": 434
+    },
+    {
+     "type": "text",
+     "text": "WHAT WOULD YOU DO?",
+     "x": 100,
+     "y": 22,
+     "size": 54,
+     "bold": true,
+     "color": "#EC4338",
+     "from": 0.2,
+     "keys": [
+      {
+       "t": 0.2,
+       "y": 40,
+       "alpha": 0
+      },
+      {
+       "t": 0.45,
+       "y": 22,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "Would you fix a mistake...",
+     "x": 400,
+     "y": 220,
+     "size": 44,
+     "bold": true,
+     "from": 1.5,
+     "keys": [
+      {
+       "t": 1.5,
+       "y": 238,
+       "alpha": 0
+      },
+      {
+       "t": 1.75,
+       "y": 220,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "...or fear what you might erase?",
+     "x": 400,
+     "y": 300,
+     "size": 44,
+     "bold": true,
+     "color": "#3D7DD8",
+     "from": 3.5,
+     "keys": [
+      {
+       "t": 3.5,
+       "y": 318,
+       "alpha": 0
+      },
+      {
+       "t": 3.75,
+       "y": 300,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "DROP YOUR ANSWER BELOW",
+     "x": 350,
+     "y": 440,
+     "size": 42,
+     "bold": true,
+     "color": "#2F8A4A",
+     "from": 5.5,
+     "keys": [
+      {
+       "t": 5.5,
+       "y": 458,
+       "alpha": 0
+      },
+      {
+       "t": 5.75,
+       "y": 440,
+       "alpha": 1
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "sfx": [
+  {
+   "time": 0.2,
+   "kind": "chime",
+   "gain": 0.15
+  },
+  {
+   "time": 2.8,
+   "kind": "pop",
+   "gain": 0.18
+  },
+  {
+   "time": 6,
+   "kind": "tap",
+   "gain": 0.14
+  },
+  {
+   "time": 9.8,
+   "kind": "paper",
+   "gain": 0.12
+  },
+  {
+   "time": 14.7,
+   "kind": "pop",
+   "gain": 0.14
+  },
+  {
+   "time": 17.2,
+   "kind": "chime",
+   "gain": 0.16
+  },
+  {
+   "time": 21.3,
+   "kind": "paper",
+   "gain": 0.1
+  },
+  {
+   "time": 26.6,
+   "kind": "chime",
+   "gain": 0.15
+  },
+  {
+   "time": 28,
+   "kind": "pop",
+   "gain": 0.15
+  },
+  {
+   "time": 30.45,
+   "kind": "pop",
+   "gain": 0.1
+  },
+  {
+   "time": 37.31,
+   "kind": "chime",
+   "gain": 0.12
+  },
+  {
+   "time": 44.17,
+   "kind": "chime",
+   "gain": 0.15
+  },
+  {
+   "time": 47.83,
+   "kind": "pop",
+   "gain": 0.15
+  },
+  {
+   "time": 51.39,
+   "kind": "paper",
+   "gain": 0.1
+  },
+  {
+   "time": 61.99,
+   "kind": "pop",
+   "gain": 0.1
+  },
+  {
+   "time": 77.77,
+   "kind": "chime",
+   "gain": 0.12
+  },
+  {
+   "time": 92.11,
+   "kind": "pop",
+   "gain": 0.15
+  },
+  {
+   "time": 96.19,
+   "kind": "chime",
+   "gain": 0.15
+  },
+  {
+   "time": 98.41,
+   "kind": "chime",
+   "gain": 0.15
+  },
+  {
+   "time": 111.79,
+   "kind": "paper",
+   "gain": 0.1
+  },
+  {
+   "time": 117.57,
+   "kind": "chime",
+   "gain": 0.15
+  },
+  {
+   "time": 140.13,
+   "kind": "pop",
+   "gain": 0.1
+  },
+  {
+   "time": 172.09,
+   "kind": "tap",
+   "gain": 0.12
+  },
+  {
+   "time": 189.09,
+   "kind": "paper",
+   "gain": 0.1
+  },
+  {
+   "time": 195.17,
+   "kind": "pop",
+   "gain": 0.15
+  },
+  {
+   "time": 205.29,
+   "kind": "chime",
+   "gain": 0.12
+  },
+  {
+   "time": 233.95,
+   "kind": "pop",
+   "gain": 0.18
+  },
+  {
+   "time": 256.23,
+   "kind": "tap",
+   "gain": 0.12
+  },
+  {
+   "time": 273.75,
+   "kind": "paper",
+   "gain": 0.1
+  },
+  {
+   "time": 274.65,
+   "kind": "chime",
+   "gain": 0.12
+  },
+  {
+   "time": 304.89,
+   "kind": "pop",
+   "gain": 0.18
+  },
+  {
+   "time": 317.43,
+   "kind": "chime",
+   "gain": 0.15
+  },
+  {
+   "time": 319.37,
+   "kind": "chime",
+   "gain": 0.12
+  },
+  {
+   "time": 330.89,
+   "kind": "pop",
+   "gain": 0.14
+  },
+  {
+   "time": 361.73,
+   "kind": "paper",
+   "gain": 0.1
+  },
+  {
+   "time": 389.29,
+   "kind": "chime",
+   "gain": 0.14
+  },
+  {
+   "time": 403.25,
+   "kind": "pop",
+   "gain": 0.14
+  },
+  {
+   "time": 413.19,
+   "kind": "chime",
+   "gain": 0.2
+  },
+  {
+   "time": 428.33,
+   "kind": "chime",
+   "gain": 0.15
+  }
+ ]
+}

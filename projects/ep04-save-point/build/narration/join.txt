@@ -1,0 +1,10 @@
+file 'ch1.wav'
+file 'gap.wav'
+file 'ch2.wav'
+file 'gap.wav'
+file 'ch3.wav'
+file 'gap.wav'
+file 'ch4.wav'
+file 'gap.wav'
+file 'ch5.wav'
+
