@@ -1,0 +1,12 @@
+{
+  "kind": "speech",
+  "model": "gemini-3.8-flash-tts",
+  "requested_at": "2026-11-08T03:36:16.062Z",
+  "request_id": "ba0de1d3-3869-4064-817d-25916cf693a4",
+  "status": "complete",
+  "warning": "One request only; inspect provider history before retrying",
+  "key_index": 2,
+  "mime_type": "audio/wav",
+  "output": "/Users/prashantmishra/Developer/video-generator-stickman/exports/creator_pad_voice.wav",
+  "sha256": "ac698ebef1b4cedf767fc32811249581c364d0bdbccee745288b6fe11bb7026f"
+}

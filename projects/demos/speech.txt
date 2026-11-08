@@ -1,0 +1,1 @@
+Look at how information flows through this attention network. Every token recalculates its mathematical weight in real time.

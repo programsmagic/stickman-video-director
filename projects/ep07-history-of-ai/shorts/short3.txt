@@ -1,0 +1,7 @@
+When you ask an AI model a question, it does not read like a human. It does not read one word at a time.
+In 2017, eight researchers at Google published a paper titled "Attention Is All You Need."
+They introduced the Transformer.
+Instead of reading sequentially, a transformer looks at every word in a sentence simultaneously.
+It calculates mathematical relationships, or attention weights, between every single token at the speed of light.
+Scale that equation up with supercomputers, and you get modern language models and autonomous agents.
+Watch the full documentary on Programs Magic.

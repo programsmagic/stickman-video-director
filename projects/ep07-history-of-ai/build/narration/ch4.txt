@@ -1,0 +1,4 @@
+Despite deep learning's success, models struggled with sequences. Recurrent neural networks read text one word at a time, forgetting the beginning of a paragraph by the time they reached the end.
+Then, in June 2017, eight researchers at Google Brain published a short, unassuming paper with an audacious title: "Attention Is All You Need."
+They introduced the Transformer. Instead of processing words sequentially, transformers look at every word in a sentence simultaneously, measuring the mathematical relationship—or "attention"—between every token.
+The Transformer became the architectural blueprint of modern civilization. Scale it up with trillions of words and supercomputer clusters, and you get large language models that can write essays, explain jokes, and understand code.

@@ -1,0 +1,13 @@
+Early computers were clumsy. A top machine in the 1960s had less memory than a modern kitchen toaster!
+When scientists asked a computer to translate the Russian saying, "The spirit is willing, but the flesh is weak"—meaning you want to do your chores, but your body is too sleepy—the computer had no idea what feelings were.
+It translated it as: "The vodka is good, but the meat is rotten!"
+Then, in 1969, a brilliant scientist named Marvin Minsky proved that early artificial brains couldn't even solve a basic child's puzzle called XOR.
+Imagine four cookies on a table:
+A cookie with plain dough? No.
+A cookie with chocolate and sprinkles? No.
+A cookie with ONLY chocolate? Yes!
+A cookie with ONLY sprinkles? Yes!
+Can you place one single straight ruler on the table to separate the two YES cookies from the two NO cookies?
+Try it. It is physically impossible! A straight line cannot separate cookies that sit diagonal from each other.
+Because early AI could only draw one straight line, it failed.
+In 1973, a British report by Sir James Lighthill concluded AI had failed its promises. Governments pulled funding, and the world entered the cold First AI Winter.

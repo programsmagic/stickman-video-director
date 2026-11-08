@@ -1,0 +1,517 @@
+[
+  {
+    "start": 0.0,
+    "end": 1.69,
+    "text": "Look down at your phone."
+  },
+  {
+    "start": 1.69,
+    "end": 8.11,
+    "text": "It feels like magic, but inside, it is fundamentally just a handful of sand from the beach."
+  },
+  {
+    "start": 8.11,
+    "end": 11.78,
+    "text": "Sand is made of tiny quartz crystals called silicon."
+  },
+  {
+    "start": 11.78,
+    "end": 20.95,
+    "text": "Humans figured out that if you melt sand down and carve billions of microscopic switches into it, you can trap electricity inside."
+  },
+  {
+    "start": 20.95,
+    "end": 23.48,
+    "text": "When a switch is OFF, it means ZERO."
+  },
+  {
+    "start": 23.48,
+    "end": 25.67,
+    "text": "When it flips ON, it means ONE."
+  },
+  {
+    "start": 25.67,
+    "end": 27.5,
+    "text": "That is all a computer is:"
+  },
+  {
+    "start": 27.5,
+    "end": 30.96,
+    "text": "a beach of sand with lightning flipping switches."
+  },
+  {
+    "start": 30.96,
+    "end": 33.99,
+    "text": "So how on earth did we teach sand to think?"
+  },
+  {
+    "start": 33.99,
+    "end": 39.35,
+    "text": "In 1950, a British math genius named Alan Turing published a landmark paper."
+  },
+  {
+    "start": 39.35,
+    "end": 41.33,
+    "text": "He asked seven simple words:"
+  },
+  {
+    "start": 41.33,
+    "end": 49.01,
+    "text": "\"Can machines think?\"\nTuring imagined a machine with an infinite paper tape, like a never-ending comic strip."
+  },
+  {
+    "start": 49.01,
+    "end": 57.83,
+    "text": "And he proved that every computer in the universe only needs seven simple rules\u2014what mathematicians call the seven variables:"
+  },
+  {
+    "start": 57.83,
+    "end": 58.46,
+    "text": "First, Q:"
+  },
+  {
+    "start": 58.46,
+    "end": 60.79,
+    "text": "the robot's mood or memory state."
+  },
+  {
+    "start": 60.79,
+    "end": 61.78,
+    "text": "Second, Sigma:"
+  },
+  {
+    "start": 61.78,
+    "end": 65.3,
+    "text": "the secret alphabet it reads, like zeros and ones."
+  },
+  {
+    "start": 65.3,
+    "end": 66.22,
+    "text": "Third, Gamma:"
+  },
+  {
+    "start": 66.22,
+    "end": 69.18,
+    "text": "all the symbols written on its paper tape."
+  },
+  {
+    "start": 69.18,
+    "end": 70.17,
+    "text": "Fourth, Delta:"
+  },
+  {
+    "start": 70.17,
+    "end": 71.3,
+    "text": "the recipe book."
+  },
+  {
+    "start": 71.3,
+    "end": 75.32,
+    "text": "If you see a one, erase it, write a zero, and step right!"
+  },
+  {
+    "start": 75.32,
+    "end": 76.31,
+    "text": "Fifth, Q-zero:"
+  },
+  {
+    "start": 76.31,
+    "end": 79.27,
+    "text": "the start button where the robot wakes up."
+  },
+  {
+    "start": 79.27,
+    "end": 79.9,
+    "text": "Sixth, B:"
+  },
+  {
+    "start": 79.9,
+    "end": 83.57,
+    "text": "an empty blank box on the paper waiting for an idea."
+  },
+  {
+    "start": 83.57,
+    "end": 84.63,
+    "text": "And seventh, F:"
+  },
+  {
+    "start": 84.63,
+    "end": 89.0,
+    "text": "the finish line, when the puzzle is solved and the robot says:"
+  },
+  {
+    "start": 89.0,
+    "end": 89.63,
+    "text": "I did it!"
+  },
+  {
+    "start": 89.63,
+    "end": 98.59,
+    "text": "Six years later, in 1956, two scientists named John McCarthy and Claude Shannon gathered in an attic room at Dartmouth College."
+  },
+  {
+    "start": 98.59,
+    "end": 102.05,
+    "text": "They officially gave this dream a brand-new name:"
+  },
+  {
+    "start": 102.05,
+    "end": 103.88,
+    "text": "\"Artificial Intelligence.\""
+  },
+  {
+    "start": 104.68,
+    "end": 106.6,
+    "text": "Early computers were clumsy."
+  },
+  {
+    "start": 106.6,
+    "end": 111.6,
+    "text": "A top machine in the 1960s had less memory than a modern kitchen toaster!"
+  },
+  {
+    "start": 111.6,
+    "end": 126.76,
+    "text": "When scientists asked a computer to translate the Russian saying, \"The spirit is willing, but the flesh is weak\"\u2014meaning you want to do your chores, but your body is too sleepy\u2014the computer had no idea what feelings were."
+  },
+  {
+    "start": 126.76,
+    "end": 128.13,
+    "text": "It translated it as:"
+  },
+  {
+    "start": 128.13,
+    "end": 141.29,
+    "text": "\"The vodka is good, but the meat is rotten!\"\nThen, in 1969, a brilliant scientist named Marvin Minsky proved that early artificial brains couldn't even solve a basic child's puzzle called XOR."
+  },
+  {
+    "start": 141.29,
+    "end": 143.48,
+    "text": "Imagine four cookies on a table:"
+  },
+  {
+    "start": 143.48,
+    "end": 145.27,
+    "text": "A cookie with plain dough?"
+  },
+  {
+    "start": 145.27,
+    "end": 145.47,
+    "text": "No."
+  },
+  {
+    "start": 145.47,
+    "end": 148.08,
+    "text": "A cookie with chocolate and sprinkles?"
+  },
+  {
+    "start": 148.08,
+    "end": 148.28,
+    "text": "No."
+  },
+  {
+    "start": 148.28,
+    "end": 150.27,
+    "text": "A cookie with ONLY chocolate?"
+  },
+  {
+    "start": 150.27,
+    "end": 150.54,
+    "text": "Yes!"
+  },
+  {
+    "start": 150.54,
+    "end": 152.53,
+    "text": "A cookie with ONLY sprinkles?"
+  },
+  {
+    "start": 152.53,
+    "end": 152.81,
+    "text": "Yes!"
+  },
+  {
+    "start": 152.81,
+    "end": 160.28,
+    "text": "Can you place one single straight ruler on the table to separate the two YES cookies from the two NO cookies?"
+  },
+  {
+    "start": 160.28,
+    "end": 160.76,
+    "text": "Try it."
+  },
+  {
+    "start": 160.76,
+    "end": 162.68,
+    "text": "It is physically impossible!"
+  },
+  {
+    "start": 162.68,
+    "end": 167.75,
+    "text": "A straight line cannot separate cookies that sit diagonal from each other."
+  },
+  {
+    "start": 167.75,
+    "end": 172.0,
+    "text": "Because early AI could only draw one straight line, it failed."
+  },
+  {
+    "start": 172.0,
+    "end": 177.9,
+    "text": "In 1973, a British report by Sir James Lighthill concluded AI had failed its promises."
+  },
+  {
+    "start": 177.9,
+    "end": 183.04,
+    "text": "Governments pulled funding, and the world entered the cold First AI Winter."
+  },
+  {
+    "start": 183.84,
+    "end": 189.53,
+    "text": "While the world gave up, a stubborn researcher named Geoffrey Hinton refused to quit."
+  },
+  {
+    "start": 189.53,
+    "end": 192.68,
+    "text": "Hinton believed neural networks weren't broken."
+  },
+  {
+    "start": 192.68,
+    "end": 194.56,
+    "text": "They just needed two things:"
+  },
+  {
+    "start": 194.56,
+    "end": 201.32,
+    "text": "millions of real photos, and chips that could do thousands of math problems at the exact same second."
+  },
+  {
+    "start": 201.32,
+    "end": 203.86,
+    "text": "And then came an accidental discovery:"
+  },
+  {
+    "start": 203.86,
+    "end": 204.67,
+    "text": "video games!"
+  },
+  {
+    "start": 204.67,
+    "end": 212.24,
+    "text": "To draw a 3D video game on your screen, a graphics card has to color two million pixels sixty times every second."
+  },
+  {
+    "start": 212.24,
+    "end": 219.07,
+    "text": "A normal computer processor is like a brilliant professor who solves one giant math problem at a time."
+  },
+  {
+    "start": 219.07,
+    "end": 227.24,
+    "text": "A gaming graphics card is like an army of thousands of painters who can all multiply colors at the exact same millisecond."
+  },
+  {
+    "start": 227.24,
+    "end": 234.07,
+    "text": "And coloring video game pixels turns out to be the exact same math as training artificial brain cells!"
+  },
+  {
+    "start": 234.07,
+    "end": 243.18,
+    "text": "In October 2012, Hinton and his student Ilya Sutskever created an artificial brain called AlexNet, powered by two gaming graphics cards."
+  },
+  {
+    "start": 243.18,
+    "end": 253.83,
+    "text": "At a world contest identifying a million images, AlexNet destroyed every standard computer, dropping the error rate from twenty-six percent to fifteen percent."
+  },
+  {
+    "start": 253.83,
+    "end": 256.84,
+    "text": "The modern deep learning revolution was born."
+  },
+  {
+    "start": 257.64,
+    "end": 262.13,
+    "text": "Even with graphics cards, computers still read like anxious robots:"
+  },
+  {
+    "start": 262.13,
+    "end": 262.59,
+    "text": "word..."
+  },
+  {
+    "start": 262.59,
+    "end": 262.93,
+    "text": "by..."
+  },
+  {
+    "start": 262.93,
+    "end": 263.26,
+    "text": "word."
+  },
+  {
+    "start": 263.26,
+    "end": 268.55,
+    "text": "By the time they reached the end of a long sentence, they forgot the beginning!"
+  },
+  {
+    "start": 268.55,
+    "end": 273.58,
+    "text": "Then, in 2017, eight researchers at Google published a revolutionary paper:"
+  },
+  {
+    "start": 273.58,
+    "end": 277.53,
+    "text": "\"Attention Is All You Need.\"\nThey invented the Transformer."
+  },
+  {
+    "start": 277.53,
+    "end": 284.36,
+    "text": "Instead of reading one word at a time, a transformer looks at every word in a sentence simultaneously."
+  },
+  {
+    "start": 284.36,
+    "end": 285.76,
+    "text": "Imagine the sentence:"
+  },
+  {
+    "start": 285.76,
+    "end": 290.85,
+    "text": "\"The robot didn't cross the street because IT was too tired.\"\nWho was tired?"
+  },
+  {
+    "start": 290.85,
+    "end": 291.59,
+    "text": "The street?"
+  },
+  {
+    "start": 291.59,
+    "end": 292.46,
+    "text": "Or the robot?"
+  },
+  {
+    "start": 292.46,
+    "end": 295.81,
+    "text": "A human child instantly knows the robot was tired."
+  },
+  {
+    "start": 295.81,
+    "end": 302.57,
+    "text": "The transformer figures this out by shining invisible mathematical laser beams between all the words."
+  },
+  {
+    "start": 302.57,
+    "end": 310.54,
+    "text": "The word \"IT\" shines its brightest laser beam directly at \"ROBOT.\"\nThat laser connection is called an Attention Weight."
+  },
+  {
+    "start": 310.54,
+    "end": 322.12,
+    "text": "Scale that attention equation up with supercomputers, and you get modern language models like ChatGPT and Gemini that can write poems, explain homework, and understand code."
+  },
+  {
+    "start": 322.92,
+    "end": 326.82,
+    "text": "For seventy years, AI only analyzed what humans gave it."
+  },
+  {
+    "start": 326.82,
+    "end": 329.54,
+    "text": "It tagged photos and predicted numbers."
+  },
+  {
+    "start": 329.54,
+    "end": 334.48,
+    "text": "Then in 2020, scientists taught computers how to dream using diffusion."
+  },
+  {
+    "start": 334.48,
+    "end": 342.91,
+    "text": "Imagine taking a crystal-clear photograph and slowly sprinkling static noise over it until it looks like television snow."
+  },
+  {
+    "start": 342.91,
+    "end": 353.98,
+    "text": "Scientists taught a neural network how to reverse that snow step by step\u2014wiping away the noise until a brand new, photorealistic image appears out of thin air."
+  },
+  {
+    "start": 353.98,
+    "end": 359.62,
+    "text": "By 2024, diffusion merged with transformers to create video generators like Sora."
+  },
+  {
+    "start": 359.62,
+    "end": 362.69,
+    "text": "Computers weren't just reading text anymore."
+  },
+  {
+    "start": 362.69,
+    "end": 368.4,
+    "text": "They were imagining 3D worlds, simulating reflections, water ripples, and gravity."
+  },
+  {
+    "start": 369.2,
+    "end": 371.28,
+    "text": "And that brings us to today."
+  },
+  {
+    "start": 371.28,
+    "end": 373.65,
+    "text": "A chatbot is just a talking toy:"
+  },
+  {
+    "start": 373.65,
+    "end": 376.4,
+    "text": "you type a prompt, it gives you text."
+  },
+  {
+    "start": 376.4,
+    "end": 379.3,
+    "text": "The real frontier is Autonomous Agents:"
+  },
+  {
+    "start": 379.3,
+    "end": 382.64,
+    "text": "artificial intelligence with hands and tools."
+  },
+  {
+    "start": 382.64,
+    "end": 391.03,
+    "text": "An agent is given a big goal\u2014like \"create a full animated video.\"\nInstead of guessing, it acts like a smart team:"
+  },
+  {
+    "start": 391.03,
+    "end": 392.96,
+    "text": "First, it plans the steps."
+  },
+  {
+    "start": 392.96,
+    "end": 395.26,
+    "text": "Second, it uses external tools:"
+  },
+  {
+    "start": 395.26,
+    "end": 399.34,
+    "text": "running terminals, editing files, and drawing graphics."
+  },
+  {
+    "start": 399.34,
+    "end": 406.91,
+    "text": "Third, if it makes a mistake, it reads the error, debugs its own code, and tries again until it works!"
+  },
+  {
+    "start": 406.91,
+    "end": 418.57,
+    "text": "From Alan Turing's paper tape in 1950 to autonomous agents directing complete documentaries in 2026, the story of AI has never been about replacing humanity."
+  },
+  {
+    "start": 418.57,
+    "end": 422.2,
+    "text": "It has always been our grandest scientific quest:"
+  },
+  {
+    "start": 422.2,
+    "end": 427.92,
+    "text": "using sand and lightning to understand the miracle of how our own minds work."
+  }
+]

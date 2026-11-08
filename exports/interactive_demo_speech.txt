@@ -1,0 +1,1 @@
+First, you give the agent a goal. Instead of waiting for you, the agent breaks it down, writes the code, and verifies the result. In seconds, the job is done.

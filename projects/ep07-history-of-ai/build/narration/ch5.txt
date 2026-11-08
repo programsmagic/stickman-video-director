@@ -1,0 +1,3 @@
+For sixty years, AI was an analyzer: it classified images, filtered spam, and predicted numbers.
+Then came the generative explosion. In 2020, diffusion models flipped the paradigm. By training neural networks to remove noise from blurred images, computers learned to reverse the process: hallucinating high-definition artwork, photorealistic faces, and music from pure noise.
+By 2024, diffusion models merged with transformers to create video generation engines like Sora and Hunyuan. Computers were no longer just reading descriptions. They were simulating three-dimensional physical motion, reflections, and light.

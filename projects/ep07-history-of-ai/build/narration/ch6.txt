@@ -1,0 +1,4 @@
+And that brings us to right now.
+For the past two years, the world treated AI like an oracle in a chat box: you type a prompt, it gives you text.
+But chatbots are already yesterday's architecture. The true frontier is Autonomous Agents: systems that don't just answer questions, but break goals down into tasks, write and run their own code, use external tools, self-correct their mistakes, and execute end-to-end workflows without human intervention.
+From Alan Turing's paper tape to autonomous agents directing full animated films, the story of AI has never been about replacing humanity. It has always been about understanding how our own minds work.

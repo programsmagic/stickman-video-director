@@ -1,0 +1,6 @@
+In 1969, two MIT scientists killed artificial intelligence research for twenty years using a single math problem.
+Early neural networks could solve simple logic. But when researchers tested an XOR gate, the system crashed.
+Why? Because an XOR problem is mathematically non-linear. You cannot separate its points with a single straight line.
+In 1973, governments concluded AI had failed its promises. DARPA slashed funding, plunging the world into the brutal First AI Winter.
+It took twenty years for researchers to realize: neural networks weren't broken. We just needed more layers.
+Watch the full documentary on Programs Magic.

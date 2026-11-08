@@ -1,0 +1,12 @@
+{
+  "kind": "speech",
+  "model": "gemini-3.8-flash-tts",
+  "requested_at": "2026-11-08T04:47:33.811Z",
+  "request_id": "52696af4-c235-415c-88e2-31beca1981e1",
+  "status": "complete",
+  "warning": "One request only; inspect provider history before retrying",
+  "key_index": 2,
+  "mime_type": "audio/wav",
+  "output": "/Users/prashantmishra/Developer/video-generator-stickman/projects/demos/demo_voice.wav",
+  "sha256": "e182d02c9216a881ae355e521e56dca8aa8cbb697a2d02a8161126395c35d7bb"
+}

@@ -1,0 +1,7 @@
+The modern AI revolution did not start in a government supercomputer lab. It started on a gamer's graphics card.
+In 2012, three researchers at the University of Toronto made a crazy bet.
+Standard computer processors calculate one heavy equation at a time. But NVIDIA graphics cards are designed to calculate thousands of video game pixels at the exact same millisecond.
+And rendering pixels turns out to be mathematically identical to multiplying matrices in neural networks.
+When they ran AlexNet on two gaming GPUs, the error rate plunged from twenty-six percent to fifteen percent.
+Deep learning had arrived.
+Watch the full documentary on Programs Magic.

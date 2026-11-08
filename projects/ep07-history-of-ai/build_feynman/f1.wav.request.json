@@ -1,0 +1,12 @@
+{
+  "kind": "speech",
+  "model": "gemini-3.8-flash-tts",
+  "requested_at": "2026-11-08T07:04:07.672Z",
+  "request_id": "2b3f033f-4072-4e1a-84a1-df2bfe002d2e",
+  "status": "complete",
+  "warning": "One request only; inspect provider history before retrying",
+  "key_index": 2,
+  "mime_type": "audio/wav",
+  "output": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep07-history-of-ai/build_feynman/f1.wav",
+  "sha256": "0c93f98939f61828ad9ed519ab942f9779dcb13d9427683b2b995d07d59ed24a"
+}

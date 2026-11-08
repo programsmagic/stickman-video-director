@@ -1,0 +1,3570 @@
+{
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.94,
+      "word": " Computers"
+    },
+    {
+      "start": 0.94,
+      "end": 1.3,
+      "word": " are"
+    },
+    {
+      "start": 1.3,
+      "end": 2.22,
+      "word": " fundamentally"
+    },
+    {
+      "start": 2.22,
+      "end": 2.9,
+      "word": " rocks"
+    },
+    {
+      "start": 2.9,
+      "end": 3.4,
+      "word": " that"
+    },
+    {
+      "start": 3.4,
+      "end": 3.54,
+      "word": " we"
+    },
+    {
+      "start": 3.54,
+      "end": 3.82,
+      "word": " melted"
+    },
+    {
+      "start": 3.82,
+      "end": 4.2,
+      "word": " down,"
+    },
+    {
+      "start": 4.52,
+      "end": 4.86,
+      "word": " carved"
+    },
+    {
+      "start": 4.86,
+      "end": 5.0,
+      "word": " into"
+    },
+    {
+      "start": 5.0,
+      "end": 5.36,
+      "word": " micro"
+    },
+    {
+      "start": 5.36,
+      "end": 5.8,
+      "word": " switches,"
+    },
+    {
+      "start": 6.46,
+      "end": 6.56,
+      "word": " and"
+    },
+    {
+      "start": 6.56,
+      "end": 7.04,
+      "word": " infused"
+    },
+    {
+      "start": 7.04,
+      "end": 7.6,
+      "word": " with"
+    },
+    {
+      "start": 7.6,
+      "end": 8.12,
+      "word": " electricity."
+    },
+    {
+      "start": 9.12,
+      "end": 9.34,
+      "word": " Sand."
+    },
+    {
+      "start": 10.12,
+      "end": 10.26,
+      "word": " How"
+    },
+    {
+      "start": 10.26,
+      "end": 10.4,
+      "word": " did"
+    },
+    {
+      "start": 10.4,
+      "end": 10.58,
+      "word": " we"
+    },
+    {
+      "start": 10.58,
+      "end": 10.92,
+      "word": " teach"
+    },
+    {
+      "start": 10.92,
+      "end": 11.34,
+      "word": " sand"
+    },
+    {
+      "start": 11.34,
+      "end": 11.86,
+      "word": " to"
+    },
+    {
+      "start": 11.86,
+      "end": 12.16,
+      "word": " think?"
+    },
+    {
+      "start": 13.42,
+      "end": 13.56,
+      "word": " In"
+    },
+    {
+      "start": 13.56,
+      "end": 14.12,
+      "word": " 1950,"
+    },
+    {
+      "start": 14.74,
+      "end": 14.88,
+      "word": " British"
+    },
+    {
+      "start": 14.88,
+      "end": 15.52,
+      "word": " mathematician"
+    },
+    {
+      "start": 15.52,
+      "end": 15.94,
+      "word": " Alan"
+    },
+    {
+      "start": 15.94,
+      "end": 16.4,
+      "word": " Turing"
+    },
+    {
+      "start": 16.4,
+      "end": 16.84,
+      "word": " published"
+    },
+    {
+      "start": 16.84,
+      "end": 17.08,
+      "word": " a"
+    },
+    {
+      "start": 17.08,
+      "end": 17.48,
+      "word": " landmark"
+    },
+    {
+      "start": 17.48,
+      "end": 17.84,
+      "word": " paper"
+    },
+    {
+      "start": 17.84,
+      "end": 18.28,
+      "word": " titled"
+    },
+    {
+      "start": 18.28,
+      "end": 19.02,
+      "word": " Computing"
+    },
+    {
+      "start": 19.02,
+      "end": 19.54,
+      "word": " Machinery"
+    },
+    {
+      "start": 19.54,
+      "end": 19.84,
+      "word": " and"
+    },
+    {
+      "start": 19.84,
+      "end": 20.28,
+      "word": " Intelligence."
+    },
+    {
+      "start": 21.0,
+      "end": 21.46,
+      "word": " He"
+    },
+    {
+      "start": 21.46,
+      "end": 21.64,
+      "word": " opened"
+    },
+    {
+      "start": 21.64,
+      "end": 21.88,
+      "word": " with"
+    },
+    {
+      "start": 21.88,
+      "end": 22.24,
+      "word": " seven"
+    },
+    {
+      "start": 22.24,
+      "end": 22.72,
+      "word": " simple"
+    },
+    {
+      "start": 22.72,
+      "end": 22.98,
+      "word": " words."
+    },
+    {
+      "start": 23.76,
+      "end": 24.04,
+      "word": " I"
+    },
+    {
+      "start": 24.04,
+      "end": 24.36,
+      "word": " proposed"
+    },
+    {
+      "start": 24.36,
+      "end": 24.6,
+      "word": " to"
+    },
+    {
+      "start": 24.6,
+      "end": 24.96,
+      "word": " consider"
+    },
+    {
+      "start": 24.96,
+      "end": 25.14,
+      "word": " the"
+    },
+    {
+      "start": 25.14,
+      "end": 25.58,
+      "word": " question,"
+    },
+    {
+      "start": 26.24,
+      "end": 26.4,
+      "word": " Can"
+    },
+    {
+      "start": 26.4,
+      "end": 27.14,
+      "word": " Machines"
+    },
+    {
+      "start": 27.14,
+      "end": 27.46,
+      "word": " Think?"
+    },
+    {
+      "start": 28.279999999999998,
+      "end": 28.88,
+      "word": " Six"
+    },
+    {
+      "start": 28.88,
+      "end": 29.12,
+      "word": " years"
+    },
+    {
+      "start": 29.12,
+      "end": 29.42,
+      "word": " later,"
+    },
+    {
+      "start": 29.72,
+      "end": 29.74,
+      "word": " in"
+    },
+    {
+      "start": 29.74,
+      "end": 29.84,
+      "word": " the"
+    },
+    {
+      "start": 29.84,
+      "end": 30.02,
+      "word": " summer"
+    },
+    {
+      "start": 30.02,
+      "end": 30.2,
+      "word": " of"
+    },
+    {
+      "start": 30.2,
+      "end": 31.08,
+      "word": " 1956,"
+    },
+    {
+      "start": 31.78,
+      "end": 31.88,
+      "word": " a"
+    },
+    {
+      "start": 31.88,
+      "end": 32.2,
+      "word": " handful"
+    },
+    {
+      "start": 32.2,
+      "end": 33.06,
+      "word": " mathematicians"
+    },
+    {
+      "start": 33.06,
+      "end": 33.34,
+      "word": " gathered"
+    },
+    {
+      "start": 33.34,
+      "end": 33.58,
+      "word": " in"
+    },
+    {
+      "start": 33.58,
+      "end": 33.66,
+      "word": " a"
+    },
+    {
+      "start": 33.66,
+      "end": 34.0,
+      "word": " small"
+    },
+    {
+      "start": 34.0,
+      "end": 34.44,
+      "word": " attic"
+    },
+    {
+      "start": 34.44,
+      "end": 34.72,
+      "word": " room"
+    },
+    {
+      "start": 34.72,
+      "end": 34.94,
+      "word": " at"
+    },
+    {
+      "start": 34.94,
+      "end": 35.1,
+      "word": " Dartmouth"
+    },
+    {
+      "start": 35.1,
+      "end": 35.64,
+      "word": " College."
+    },
+    {
+      "start": 36.48,
+      "end": 36.58,
+      "word": " John"
+    },
+    {
+      "start": 36.58,
+      "end": 37.04,
+      "word": " McCarthy,"
+    },
+    {
+      "start": 37.42,
+      "end": 37.62,
+      "word": " Marvin"
+    },
+    {
+      "start": 37.62,
+      "end": 38.02,
+      "word": " Minsky,"
+    },
+    {
+      "start": 38.56,
+      "end": 38.8,
+      "word": " Nathaniel"
+    },
+    {
+      "start": 38.8,
+      "end": 39.18,
+      "word": " Rochester,"
+    },
+    {
+      "start": 39.56,
+      "end": 39.62,
+      "word": " and"
+    },
+    {
+      "start": 39.62,
+      "end": 40.04,
+      "word": " Claude"
+    },
+    {
+      "start": 40.04,
+      "end": 40.4,
+      "word": " Shannon,"
+    },
+    {
+      "start": 40.86,
+      "end": 40.96,
+      "word": " coined"
+    },
+    {
+      "start": 40.96,
+      "end": 41.12,
+      "word": " a"
+    },
+    {
+      "start": 41.12,
+      "end": 41.36,
+      "word": " brand"
+    },
+    {
+      "start": 41.36,
+      "end": 41.58,
+      "word": " new"
+    },
+    {
+      "start": 41.58,
+      "end": 41.9,
+      "word": " phrase,"
+    },
+    {
+      "start": 42.6,
+      "end": 43.0,
+      "word": " artificial"
+    },
+    {
+      "start": 43.0,
+      "end": 43.74,
+      "word": " intelligence."
+    },
+    {
+      "start": 44.26,
+      "end": 44.86,
+      "word": " They"
+    },
+    {
+      "start": 44.86,
+      "end": 45.02,
+      "word": " were"
+    },
+    {
+      "start": 45.02,
+      "end": 45.72,
+      "word": " wildly"
+    },
+    {
+      "start": 45.72,
+      "end": 46.26,
+      "word": " optimistic,"
+    },
+    {
+      "start": 46.78,
+      "end": 46.98,
+      "word": " claiming"
+    },
+    {
+      "start": 46.98,
+      "end": 47.18,
+      "word": " that"
+    },
+    {
+      "start": 47.18,
+      "end": 47.26,
+      "word": " a"
+    },
+    {
+      "start": 47.26,
+      "end": 47.52,
+      "word": " two"
+    },
+    {
+      "start": 47.52,
+      "end": 47.78,
+      "word": "-month,"
+    },
+    {
+      "start": 47.94,
+      "end": 48.22,
+      "word": " ten"
+    },
+    {
+      "start": 48.22,
+      "end": 48.42,
+      "word": "-man"
+    },
+    {
+      "start": 48.42,
+      "end": 48.84,
+      "word": " study"
+    },
+    {
+      "start": 48.84,
+      "end": 49.06,
+      "word": " could"
+    },
+    {
+      "start": 49.06,
+      "end": 49.2,
+      "word": " make"
+    },
+    {
+      "start": 49.2,
+      "end": 49.86,
+      "word": " significant"
+    },
+    {
+      "start": 49.86,
+      "end": 50.46,
+      "word": " progress"
+    },
+    {
+      "start": 50.46,
+      "end": 50.74,
+      "word": " in"
+    },
+    {
+      "start": 50.74,
+      "end": 51.24,
+      "word": " language,"
+    },
+    {
+      "start": 51.82,
+      "end": 52.64,
+      "word": " abstractions,"
+    },
+    {
+      "start": 52.82,
+      "end": 52.96,
+      "word": " and"
+    },
+    {
+      "start": 52.96,
+      "end": 53.48,
+      "word": " creativity."
+    },
+    {
+      "start": 54.04,
+      "end": 54.64,
+      "word": " They"
+    },
+    {
+      "start": 54.64,
+      "end": 54.74,
+      "word": " were"
+    },
+    {
+      "start": 54.74,
+      "end": 54.96,
+      "word": " wrong"
+    },
+    {
+      "start": 54.96,
+      "end": 55.18,
+      "word": " about"
+    },
+    {
+      "start": 55.18,
+      "end": 55.28,
+      "word": " the"
+    },
+    {
+      "start": 55.28,
+      "end": 55.66,
+      "word": " timeline,"
+    },
+    {
+      "start": 55.66,
+      "end": 56.52,
+      "word": " but"
+    },
+    {
+      "start": 56.52,
+      "end": 56.66,
+      "word": " they"
+    },
+    {
+      "start": 56.66,
+      "end": 56.8,
+      "word": " lit"
+    },
+    {
+      "start": 56.8,
+      "end": 56.92,
+      "word": " a"
+    },
+    {
+      "start": 56.92,
+      "end": 57.26,
+      "word": " fire"
+    },
+    {
+      "start": 57.26,
+      "end": 57.62,
+      "word": " that"
+    },
+    {
+      "start": 57.62,
+      "end": 57.76,
+      "word": " would"
+    },
+    {
+      "start": 57.76,
+      "end": 58.06,
+      "word": " never"
+    },
+    {
+      "start": 58.06,
+      "end": 58.28,
+      "word": " go"
+    },
+    {
+      "start": 58.28,
+      "end": 58.56,
+      "word": " out."
+    },
+    {
+      "start": 59.92,
+      "end": 60.56,
+      "word": " Early"
+    },
+    {
+      "start": 60.56,
+      "end": 61.14,
+      "word": " computers"
+    },
+    {
+      "start": 61.14,
+      "end": 61.48,
+      "word": " were"
+    },
+    {
+      "start": 61.48,
+      "end": 62.22,
+      "word": " shockingly"
+    },
+    {
+      "start": 62.22,
+      "end": 62.66,
+      "word": " primitive."
+    },
+    {
+      "start": 63.24,
+      "end": 63.36,
+      "word": " A"
+    },
+    {
+      "start": 63.36,
+      "end": 63.58,
+      "word": " top"
+    },
+    {
+      "start": 63.58,
+      "end": 63.82,
+      "word": "-tier"
+    },
+    {
+      "start": 63.82,
+      "end": 64.18,
+      "word": " machine"
+    },
+    {
+      "start": 64.18,
+      "end": 64.34,
+      "word": " in"
+    },
+    {
+      "start": 64.34,
+      "end": 64.4,
+      "word": " the"
+    },
+    {
+      "start": 64.4,
+      "end": 65.34,
+      "word": " 1960s"
+    },
+    {
+      "start": 65.34,
+      "end": 65.46,
+      "word": " had"
+    },
+    {
+      "start": 65.46,
+      "end": 65.74,
+      "word": " less"
+    },
+    {
+      "start": 65.74,
+      "end": 66.18,
+      "word": " memory"
+    },
+    {
+      "start": 66.18,
+      "end": 66.64,
+      "word": " than"
+    },
+    {
+      "start": 66.64,
+      "end": 66.76,
+      "word": " a"
+    },
+    {
+      "start": 66.76,
+      "end": 67.14,
+      "word": " modern"
+    },
+    {
+      "start": 67.14,
+      "end": 67.64,
+      "word": " kitchen"
+    },
+    {
+      "start": 67.64,
+      "end": 68.32,
+      "word": " toaster."
+    },
+    {
+      "start": 69.06,
+      "end": 69.4,
+      "word": " When"
+    },
+    {
+      "start": 69.4,
+      "end": 69.78,
+      "word": " researchers"
+    },
+    {
+      "start": 69.78,
+      "end": 70.14,
+      "word": " tried"
+    },
+    {
+      "start": 70.14,
+      "end": 70.28,
+      "word": " to"
+    },
+    {
+      "start": 70.28,
+      "end": 70.72,
+      "word": " translate"
+    },
+    {
+      "start": 70.72,
+      "end": 71.1,
+      "word": " Russian"
+    },
+    {
+      "start": 71.1,
+      "end": 71.28,
+      "word": " to"
+    },
+    {
+      "start": 71.28,
+      "end": 71.62,
+      "word": " English,"
+    },
+    {
+      "start": 72.1,
+      "end": 72.18,
+      "word": " the"
+    },
+    {
+      "start": 72.18,
+      "end": 72.5,
+      "word": " computer"
+    },
+    {
+      "start": 72.5,
+      "end": 73.06,
+      "word": " famously"
+    },
+    {
+      "start": 73.06,
+      "end": 73.68,
+      "word": " translated"
+    },
+    {
+      "start": 73.68,
+      "end": 74.16,
+      "word": " the"
+    },
+    {
+      "start": 74.16,
+      "end": 74.54,
+      "word": " Spirit"
+    },
+    {
+      "start": 74.54,
+      "end": 74.76,
+      "word": " is"
+    },
+    {
+      "start": 74.76,
+      "end": 75.0,
+      "word": " willing,"
+    },
+    {
+      "start": 75.24,
+      "end": 75.3,
+      "word": " but"
+    },
+    {
+      "start": 75.3,
+      "end": 75.44,
+      "word": " the"
+    },
+    {
+      "start": 75.44,
+      "end": 75.72,
+      "word": " flush"
+    },
+    {
+      "start": 75.72,
+      "end": 75.92,
+      "word": " is"
+    },
+    {
+      "start": 75.92,
+      "end": 76.2,
+      "word": " weak,"
+    },
+    {
+      "start": 76.58,
+      "end": 76.82,
+      "word": " into"
+    },
+    {
+      "start": 76.82,
+      "end": 77.34,
+      "word": " the"
+    },
+    {
+      "start": 77.34,
+      "end": 77.74,
+      "word": " vodka"
+    },
+    {
+      "start": 77.74,
+      "end": 78.02,
+      "word": " is"
+    },
+    {
+      "start": 78.02,
+      "end": 78.34,
+      "word": " good,"
+    },
+    {
+      "start": 78.66,
+      "end": 78.76,
+      "word": " but"
+    },
+    {
+      "start": 78.76,
+      "end": 78.92,
+      "word": " the"
+    },
+    {
+      "start": 78.92,
+      "end": 79.18,
+      "word": " meat"
+    },
+    {
+      "start": 79.18,
+      "end": 79.48,
+      "word": " is"
+    },
+    {
+      "start": 79.48,
+      "end": 79.88,
+      "word": " rotten."
+    },
+    {
+      "start": 80.88,
+      "end": 81.28,
+      "word": " In"
+    },
+    {
+      "start": 81.28,
+      "end": 82.18,
+      "word": " 1969,"
+    },
+    {
+      "start": 82.74,
+      "end": 82.92,
+      "word": " Marvin"
+    },
+    {
+      "start": 82.92,
+      "end": 83.32,
+      "word": " Minsky"
+    },
+    {
+      "start": 83.32,
+      "end": 83.6,
+      "word": " and"
+    },
+    {
+      "start": 83.6,
+      "end": 84.0,
+      "word": " Seymour"
+    },
+    {
+      "start": 84.0,
+      "end": 84.4,
+      "word": " Pappert"
+    },
+    {
+      "start": 84.4,
+      "end": 84.82,
+      "word": " proved"
+    },
+    {
+      "start": 84.82,
+      "end": 85.08,
+      "word": " that"
+    },
+    {
+      "start": 85.08,
+      "end": 85.44,
+      "word": " early"
+    },
+    {
+      "start": 85.44,
+      "end": 85.88,
+      "word": " single"
+    },
+    {
+      "start": 85.88,
+      "end": 86.3,
+      "word": "-layer"
+    },
+    {
+      "start": 86.3,
+      "end": 86.62,
+      "word": " neural"
+    },
+    {
+      "start": 86.62,
+      "end": 87.14,
+      "word": " networks"
+    },
+    {
+      "start": 87.14,
+      "end": 87.54,
+      "word": " couldn't"
+    },
+    {
+      "start": 87.54,
+      "end": 87.82,
+      "word": " even"
+    },
+    {
+      "start": 87.82,
+      "end": 88.16,
+      "word": " solve"
+    },
+    {
+      "start": 88.16,
+      "end": 88.36,
+      "word": " a"
+    },
+    {
+      "start": 88.36,
+      "end": 88.74,
+      "word": " basic"
+    },
+    {
+      "start": 88.74,
+      "end": 89.38,
+      "word": " logical"
+    },
+    {
+      "start": 89.38,
+      "end": 89.94,
+      "word": " XOR"
+    },
+    {
+      "start": 89.94,
+      "end": 90.46,
+      "word": " problem."
+    },
+    {
+      "start": 90.96,
+      "end": 91.72,
+      "word": " In"
+    },
+    {
+      "start": 91.72,
+      "end": 92.5,
+      "word": " 1973,"
+    },
+    {
+      "start": 92.98,
+      "end": 93.16,
+      "word": " the"
+    },
+    {
+      "start": 93.16,
+      "end": 93.32,
+      "word": " British"
+    },
+    {
+      "start": 93.32,
+      "end": 93.68,
+      "word": " government"
+    },
+    {
+      "start": 93.68,
+      "end": 94.06,
+      "word": " published"
+    },
+    {
+      "start": 94.06,
+      "end": 94.28,
+      "word": " the"
+    },
+    {
+      "start": 94.28,
+      "end": 94.86,
+      "word": " Devastating"
+    },
+    {
+      "start": 94.86,
+      "end": 95.16,
+      "word": " Light"
+    },
+    {
+      "start": 95.16,
+      "end": 95.38,
+      "word": " Hill"
+    },
+    {
+      "start": 95.38,
+      "end": 95.78,
+      "word": " Report,"
+    },
+    {
+      "start": 96.16,
+      "end": 96.64,
+      "word": " concluding"
+    },
+    {
+      "start": 96.64,
+      "end": 96.76,
+      "word": " that"
+    },
+    {
+      "start": 96.76,
+      "end": 96.96,
+      "word": " AI"
+    },
+    {
+      "start": 96.96,
+      "end": 97.46,
+      "word": " research"
+    },
+    {
+      "start": 97.46,
+      "end": 97.7,
+      "word": " had"
+    },
+    {
+      "start": 97.7,
+      "end": 98.06,
+      "word": " failed"
+    },
+    {
+      "start": 98.06,
+      "end": 98.3,
+      "word": " to"
+    },
+    {
+      "start": 98.3,
+      "end": 98.6,
+      "word": " achieve"
+    },
+    {
+      "start": 98.6,
+      "end": 98.84,
+      "word": " its"
+    },
+    {
+      "start": 98.84,
+      "end": 99.14,
+      "word": " grand"
+    },
+    {
+      "start": 99.14,
+      "end": 99.66,
+      "word": " promises."
+    },
+    {
+      "start": 100.42,
+      "end": 100.72,
+      "word": " DARPA"
+    },
+    {
+      "start": 100.72,
+      "end": 101.14,
+      "word": " slashed"
+    },
+    {
+      "start": 101.14,
+      "end": 101.52,
+      "word": " funding."
+    },
+    {
+      "start": 101.98,
+      "end": 102.06,
+      "word": " The"
+    },
+    {
+      "start": 102.06,
+      "end": 102.28,
+      "word": " field"
+    },
+    {
+      "start": 102.28,
+      "end": 102.54,
+      "word": " entered"
+    },
+    {
+      "start": 102.54,
+      "end": 102.72,
+      "word": " the"
+    },
+    {
+      "start": 102.72,
+      "end": 103.1,
+      "word": " first"
+    },
+    {
+      "start": 103.1,
+      "end": 103.44,
+      "word": " AI"
+    },
+    {
+      "start": 103.44,
+      "end": 103.9,
+      "word": " winter."
+    },
+    {
+      "start": 104.58,
+      "end": 105.24,
+      "word": " A"
+    },
+    {
+      "start": 105.24,
+      "end": 105.46,
+      "word": " decade"
+    },
+    {
+      "start": 105.46,
+      "end": 105.84,
+      "word": " later,"
+    },
+    {
+      "start": 106.16,
+      "end": 106.46,
+      "word": " companies"
+    },
+    {
+      "start": 106.46,
+      "end": 106.7,
+      "word": " tried"
+    },
+    {
+      "start": 106.7,
+      "end": 106.98,
+      "word": " again"
+    },
+    {
+      "start": 106.98,
+      "end": 107.22,
+      "word": " with"
+    },
+    {
+      "start": 107.22,
+      "end": 107.72,
+      "word": " expert"
+    },
+    {
+      "start": 107.72,
+      "end": 108.28,
+      "word": " systems."
+    },
+    {
+      "start": 108.28,
+      "end": 108.98,
+      "word": " Hand"
+    },
+    {
+      "start": 108.98,
+      "end": 109.4,
+      "word": "-coded"
+    },
+    {
+      "start": 109.4,
+      "end": 109.94,
+      "word": " rulebooks"
+    },
+    {
+      "start": 109.94,
+      "end": 110.1,
+      "word": " of"
+    },
+    {
+      "start": 110.1,
+      "end": 110.32,
+      "word": " human"
+    },
+    {
+      "start": 110.32,
+      "end": 110.82,
+      "word": " knowledge,"
+    },
+    {
+      "start": 111.14,
+      "end": 111.62,
+      "word": " but"
+    },
+    {
+      "start": 111.62,
+      "end": 111.9,
+      "word": " human"
+    },
+    {
+      "start": 111.9,
+      "end": 112.44,
+      "word": " reality"
+    },
+    {
+      "start": 112.44,
+      "end": 112.72,
+      "word": " has"
+    },
+    {
+      "start": 112.72,
+      "end": 112.98,
+      "word": " too"
+    },
+    {
+      "start": 112.98,
+      "end": 113.28,
+      "word": " many"
+    },
+    {
+      "start": 113.28,
+      "end": 113.8,
+      "word": " exceptions."
+    },
+    {
+      "start": 114.36,
+      "end": 114.78,
+      "word": " By"
+    },
+    {
+      "start": 114.78,
+      "end": 115.44,
+      "word": " 1987,"
+    },
+    {
+      "start": 115.9,
+      "end": 115.94,
+      "word": " the"
+    },
+    {
+      "start": 115.94,
+      "end": 116.16,
+      "word": " market"
+    },
+    {
+      "start": 116.16,
+      "end": 116.62,
+      "word": " crashed."
+    },
+    {
+      "start": 117.14,
+      "end": 117.22,
+      "word": " The"
+    },
+    {
+      "start": 117.22,
+      "end": 117.66,
+      "word": " second"
+    },
+    {
+      "start": 117.66,
+      "end": 117.94,
+      "word": " AI"
+    },
+    {
+      "start": 117.94,
+      "end": 118.32,
+      "word": " winter"
+    },
+    {
+      "start": 118.32,
+      "end": 118.7,
+      "word": " froze"
+    },
+    {
+      "start": 118.7,
+      "end": 118.88,
+      "word": " the"
+    },
+    {
+      "start": 118.88,
+      "end": 119.26,
+      "word": " discipline"
+    },
+    {
+      "start": 119.26,
+      "end": 119.5,
+      "word": " for"
+    },
+    {
+      "start": 119.5,
+      "end": 119.72,
+      "word": " another"
+    },
+    {
+      "start": 119.72,
+      "end": 120.18,
+      "word": " decade."
+    },
+    {
+      "start": 121.56,
+      "end": 121.8,
+      "word": " While"
+    },
+    {
+      "start": 121.8,
+      "end": 121.92,
+      "word": " the"
+    },
+    {
+      "start": 121.92,
+      "end": 122.2,
+      "word": " world"
+    },
+    {
+      "start": 122.2,
+      "end": 122.46,
+      "word": " gave"
+    },
+    {
+      "start": 122.46,
+      "end": 122.78,
+      "word": " up"
+    },
+    {
+      "start": 122.78,
+      "end": 123.02,
+      "word": " on"
+    },
+    {
+      "start": 123.02,
+      "end": 123.22,
+      "word": " neural"
+    },
+    {
+      "start": 123.22,
+      "end": 123.76,
+      "word": " networks,"
+    },
+    {
+      "start": 124.12,
+      "end": 124.18,
+      "word": " a"
+    },
+    {
+      "start": 124.18,
+      "end": 124.52,
+      "word": " tiny"
+    },
+    {
+      "start": 124.52,
+      "end": 124.84,
+      "word": " group"
+    },
+    {
+      "start": 124.84,
+      "end": 125.02,
+      "word": " of"
+    },
+    {
+      "start": 125.02,
+      "end": 125.32,
+      "word": " stubborn"
+    },
+    {
+      "start": 125.32,
+      "end": 125.98,
+      "word": " researchers,"
+    },
+    {
+      "start": 126.34,
+      "end": 126.56,
+      "word": " most"
+    },
+    {
+      "start": 126.56,
+      "end": 126.98,
+      "word": " notably"
+    },
+    {
+      "start": 126.98,
+      "end": 127.36,
+      "word": " Jeffrey"
+    },
+    {
+      "start": 127.36,
+      "end": 127.8,
+      "word": " Hinton,"
+    },
+    {
+      "start": 128.14,
+      "end": 128.28,
+      "word": " Jan"
+    },
+    {
+      "start": 128.28,
+      "end": 128.72,
+      "word": " Lecun,"
+    },
+    {
+      "start": 129.1,
+      "end": 129.18,
+      "word": " and"
+    },
+    {
+      "start": 129.18,
+      "end": 129.56,
+      "word": " Yoshua"
+    },
+    {
+      "start": 129.56,
+      "end": 130.2,
+      "word": " Benjio,"
+    },
+    {
+      "start": 130.46,
+      "end": 130.68,
+      "word": " kept"
+    },
+    {
+      "start": 130.68,
+      "end": 131.02,
+      "word": " working"
+    },
+    {
+      "start": 131.02,
+      "end": 131.22,
+      "word": " in"
+    },
+    {
+      "start": 131.22,
+      "end": 131.32,
+      "word": " the"
+    },
+    {
+      "start": 131.32,
+      "end": 131.64,
+      "word": " shadows."
+    },
+    {
+      "start": 132.28,
+      "end": 132.62,
+      "word": " They"
+    },
+    {
+      "start": 132.62,
+      "end": 132.74,
+      "word": " had"
+    },
+    {
+      "start": 132.74,
+      "end": 132.82,
+      "word": " a"
+    },
+    {
+      "start": 132.82,
+      "end": 133.28,
+      "word": " radical"
+    },
+    {
+      "start": 133.28,
+      "end": 133.92,
+      "word": " hypothesis."
+    },
+    {
+      "start": 134.56,
+      "end": 134.64,
+      "word": " The"
+    },
+    {
+      "start": 134.64,
+      "end": 134.96,
+      "word": " math"
+    },
+    {
+      "start": 134.96,
+      "end": 135.32,
+      "word": " behind"
+    },
+    {
+      "start": 135.32,
+      "end": 135.64,
+      "word": " neural"
+    },
+    {
+      "start": 135.64,
+      "end": 136.16,
+      "word": " networks"
+    },
+    {
+      "start": 136.16,
+      "end": 136.52,
+      "word": " wasn't"
+    },
+    {
+      "start": 136.52,
+      "end": 136.88,
+      "word": " flawed."
+    },
+    {
+      "start": 136.88,
+      "end": 137.48,
+      "word": " We"
+    },
+    {
+      "start": 137.48,
+      "end": 137.64,
+      "word": " just"
+    },
+    {
+      "start": 137.64,
+      "end": 137.9,
+      "word": " needed"
+    },
+    {
+      "start": 137.9,
+      "end": 138.38,
+      "word": " millions"
+    },
+    {
+      "start": 138.38,
+      "end": 138.64,
+      "word": " of"
+    },
+    {
+      "start": 138.64,
+      "end": 138.98,
+      "word": " times"
+    },
+    {
+      "start": 138.98,
+      "end": 139.32,
+      "word": " more"
+    },
+    {
+      "start": 139.32,
+      "end": 139.78,
+      "word": " data"
+    },
+    {
+      "start": 139.78,
+      "end": 140.26,
+      "word": " and"
+    },
+    {
+      "start": 140.26,
+      "end": 140.5,
+      "word": " chips"
+    },
+    {
+      "start": 140.5,
+      "end": 140.72,
+      "word": " that"
+    },
+    {
+      "start": 140.72,
+      "end": 140.8,
+      "word": " could"
+    },
+    {
+      "start": 140.8,
+      "end": 141.22,
+      "word": " process"
+    },
+    {
+      "start": 141.22,
+      "end": 141.78,
+      "word": " thousands"
+    },
+    {
+      "start": 141.78,
+      "end": 142.04,
+      "word": " of"
+    },
+    {
+      "start": 142.04,
+      "end": 142.6,
+      "word": " calculations"
+    },
+    {
+      "start": 142.6,
+      "end": 142.98,
+      "word": " at"
+    },
+    {
+      "start": 142.98,
+      "end": 143.12,
+      "word": " the"
+    },
+    {
+      "start": 143.12,
+      "end": 143.46,
+      "word": " exact"
+    },
+    {
+      "start": 143.46,
+      "end": 143.96,
+      "word": " same"
+    },
+    {
+      "start": 143.96,
+      "end": 144.4,
+      "word": " instant."
+    },
+    {
+      "start": 144.78,
+      "end": 145.2,
+      "word": " In"
+    },
+    {
+      "start": 145.2,
+      "end": 145.3,
+      "word": " the"
+    },
+    {
+      "start": 145.3,
+      "end": 145.46,
+      "word": " late"
+    },
+    {
+      "start": 145.46,
+      "end": 146.28,
+      "word": " 2000s,"
+    },
+    {
+      "start": 146.72,
+      "end": 146.98,
+      "word": " researchers"
+    },
+    {
+      "start": 146.98,
+      "end": 147.36,
+      "word": " made"
+    },
+    {
+      "start": 147.36,
+      "end": 147.56,
+      "word": " an"
+    },
+    {
+      "start": 147.56,
+      "end": 148.14,
+      "word": " accidental"
+    },
+    {
+      "start": 148.14,
+      "end": 148.92,
+      "word": " discovery."
+    },
+    {
+      "start": 149.54,
+      "end": 149.66,
+      "word": " In"
+    },
+    {
+      "start": 149.66,
+      "end": 150.56,
+      "word": " videographic's"
+    },
+    {
+      "start": 150.56,
+      "end": 150.82,
+      "word": " cards,"
+    },
+    {
+      "start": 151.18,
+      "end": 151.46,
+      "word": " designed"
+    },
+    {
+      "start": 151.46,
+      "end": 151.62,
+      "word": " to"
+    },
+    {
+      "start": 151.62,
+      "end": 151.78,
+      "word": " render"
+    },
+    {
+      "start": 151.78,
+      "end": 152.14,
+      "word": " video"
+    },
+    {
+      "start": 152.14,
+      "end": 152.34,
+      "word": " game"
+    },
+    {
+      "start": 152.34,
+      "end": 152.66,
+      "word": " pixels,"
+    },
+    {
+      "start": 153.12,
+      "end": 153.28,
+      "word": " were"
+    },
+    {
+      "start": 153.28,
+      "end": 153.82,
+      "word": " mathematically"
+    },
+    {
+      "start": 153.82,
+      "end": 154.7,
+      "word": " identical"
+    },
+    {
+      "start": 154.7,
+      "end": 155.04,
+      "word": " to"
+    },
+    {
+      "start": 155.04,
+      "end": 155.48,
+      "word": " Matrix"
+    },
+    {
+      "start": 155.48,
+      "end": 156.1,
+      "word": " multiplication"
+    },
+    {
+      "start": 156.1,
+      "end": 156.78,
+      "word": " engines"
+    },
+    {
+      "start": 156.78,
+      "end": 157.2,
+      "word": " needed"
+    },
+    {
+      "start": 157.2,
+      "end": 157.48,
+      "word": " for"
+    },
+    {
+      "start": 157.48,
+      "end": 157.98,
+      "word": " artificial"
+    },
+    {
+      "start": 157.98,
+      "end": 158.4,
+      "word": " neurons."
+    },
+    {
+      "start": 158.94,
+      "end": 159.46,
+      "word": " In"
+    },
+    {
+      "start": 159.46,
+      "end": 159.78,
+      "word": " October"
+    },
+    {
+      "start": 159.78,
+      "end": 160.52,
+      "word": " 2012,"
+    },
+    {
+      "start": 161.0,
+      "end": 161.1,
+      "word": " at"
+    },
+    {
+      "start": 161.1,
+      "end": 161.22,
+      "word": " the"
+    },
+    {
+      "start": 161.22,
+      "end": 161.72,
+      "word": " ImageNet"
+    },
+    {
+      "start": 161.72,
+      "end": 162.16,
+      "word": " computer"
+    },
+    {
+      "start": 162.16,
+      "end": 162.56,
+      "word": " vision"
+    },
+    {
+      "start": 162.56,
+      "end": 163.12,
+      "word": " competition,"
+    },
+    {
+      "start": 163.12,
+      "end": 163.64,
+      "word": " a"
+    },
+    {
+      "start": 163.64,
+      "end": 163.96,
+      "word": " network"
+    },
+    {
+      "start": 163.96,
+      "end": 164.34,
+      "word": " named"
+    },
+    {
+      "start": 164.34,
+      "end": 164.7,
+      "word": " Alex"
+    },
+    {
+      "start": 164.7,
+      "end": 165.04,
+      "word": " Net,"
+    },
+    {
+      "start": 165.5,
+      "end": 165.66,
+      "word": " trained"
+    },
+    {
+      "start": 165.66,
+      "end": 165.84,
+      "word": " on"
+    },
+    {
+      "start": 165.84,
+      "end": 166.1,
+      "word": " two"
+    },
+    {
+      "start": 166.1,
+      "end": 166.46,
+      "word": " gaming"
+    },
+    {
+      "start": 166.46,
+      "end": 166.82,
+      "word": " graphics"
+    },
+    {
+      "start": 166.82,
+      "end": 167.22,
+      "word": " cards"
+    },
+    {
+      "start": 167.22,
+      "end": 167.46,
+      "word": " by"
+    },
+    {
+      "start": 167.46,
+      "end": 167.76,
+      "word": " Alex"
+    },
+    {
+      "start": 167.76,
+      "end": 168.38,
+      "word": " Krizefsky,"
+    },
+    {
+      "start": 168.84,
+      "end": 168.96,
+      "word": " Ilya"
+    },
+    {
+      "start": 168.96,
+      "end": 169.58,
+      "word": " Sutskyver,"
+    },
+    {
+      "start": 169.76,
+      "end": 169.78,
+      "word": " and"
+    },
+    {
+      "start": 169.78,
+      "end": 170.06,
+      "word": " Jeffrey"
+    },
+    {
+      "start": 170.06,
+      "end": 170.44,
+      "word": " Hinton,"
+    },
+    {
+      "start": 170.96,
+      "end": 171.38,
+      "word": " slashed"
+    },
+    {
+      "start": 171.38,
+      "end": 171.56,
+      "word": " the"
+    },
+    {
+      "start": 171.56,
+      "end": 171.78,
+      "word": " error"
+    },
+    {
+      "start": 171.78,
+      "end": 172.04,
+      "word": " rate"
+    },
+    {
+      "start": 172.04,
+      "end": 172.24,
+      "word": " from"
+    },
+    {
+      "start": 172.24,
+      "end": 172.8,
+      "word": " 26"
+    },
+    {
+      "start": 172.8,
+      "end": 173.2,
+      "word": "%"
+    },
+    {
+      "start": 173.2,
+      "end": 173.56,
+      "word": " to"
+    },
+    {
+      "start": 173.56,
+      "end": 175.02,
+      "word": " 15%."
+    },
+    {
+      "start": 175.02,
+      "end": 175.4,
+      "word": " Deep"
+    },
+    {
+      "start": 175.4,
+      "end": 175.76,
+      "word": " learning"
+    },
+    {
+      "start": 175.76,
+      "end": 176.36,
+      "word": " had"
+    },
+    {
+      "start": 176.36,
+      "end": 176.86,
+      "word": " arrived."
+    },
+    {
+      "start": 178.26,
+      "end": 178.72,
+      "word": " Despite"
+    },
+    {
+      "start": 178.72,
+      "end": 179.16,
+      "word": " deep"
+    },
+    {
+      "start": 179.16,
+      "end": 179.54,
+      "word": " learning"
+    },
+    {
+      "start": 179.54,
+      "end": 180.1,
+      "word": " success,"
+    },
+    {
+      "start": 180.62,
+      "end": 180.86,
+      "word": " models"
+    },
+    {
+      "start": 180.86,
+      "end": 181.38,
+      "word": " struggled"
+    },
+    {
+      "start": 181.38,
+      "end": 181.68,
+      "word": " with"
+    },
+    {
+      "start": 181.68,
+      "end": 182.38,
+      "word": " sequences."
+    },
+    {
+      "start": 183.0,
+      "end": 183.64,
+      "word": " Recurrent"
+    },
+    {
+      "start": 183.64,
+      "end": 183.88,
+      "word": " neural"
+    },
+    {
+      "start": 183.88,
+      "end": 184.46,
+      "word": " networks"
+    },
+    {
+      "start": 184.46,
+      "end": 184.72,
+      "word": " read"
+    },
+    {
+      "start": 184.72,
+      "end": 185.16,
+      "word": " text"
+    },
+    {
+      "start": 185.16,
+      "end": 185.36,
+      "word": " one"
+    },
+    {
+      "start": 185.36,
+      "end": 185.6,
+      "word": " word"
+    },
+    {
+      "start": 185.6,
+      "end": 185.74,
+      "word": " at"
+    },
+    {
+      "start": 185.74,
+      "end": 185.86,
+      "word": " a"
+    },
+    {
+      "start": 185.86,
+      "end": 186.24,
+      "word": " time,"
+    },
+    {
+      "start": 186.54,
+      "end": 186.78,
+      "word": " forgetting"
+    },
+    {
+      "start": 186.78,
+      "end": 187.1,
+      "word": " the"
+    },
+    {
+      "start": 187.1,
+      "end": 187.44,
+      "word": " beginning"
+    },
+    {
+      "start": 187.44,
+      "end": 187.68,
+      "word": " of"
+    },
+    {
+      "start": 187.68,
+      "end": 187.76,
+      "word": " a"
+    },
+    {
+      "start": 187.76,
+      "end": 188.18,
+      "word": " paragraph"
+    },
+    {
+      "start": 188.18,
+      "end": 188.5,
+      "word": " by"
+    },
+    {
+      "start": 188.5,
+      "end": 188.6,
+      "word": " the"
+    },
+    {
+      "start": 188.6,
+      "end": 188.78,
+      "word": " time"
+    },
+    {
+      "start": 188.78,
+      "end": 188.94,
+      "word": " they"
+    },
+    {
+      "start": 188.94,
+      "end": 189.12,
+      "word": " reached"
+    },
+    {
+      "start": 189.12,
+      "end": 189.34,
+      "word": " the"
+    },
+    {
+      "start": 189.34,
+      "end": 189.62,
+      "word": " end."
+    },
+    {
+      "start": 189.62,
+      "end": 190.56,
+      "word": " Then,"
+    },
+    {
+      "start": 190.78,
+      "end": 190.94,
+      "word": " in"
+    },
+    {
+      "start": 190.94,
+      "end": 191.24,
+      "word": " June"
+    },
+    {
+      "start": 191.24,
+      "end": 192.14,
+      "word": " 2017,"
+    },
+    {
+      "start": 192.64,
+      "end": 192.82,
+      "word": " eight"
+    },
+    {
+      "start": 192.82,
+      "end": 193.4,
+      "word": " researchers"
+    },
+    {
+      "start": 193.4,
+      "end": 193.68,
+      "word": " at"
+    },
+    {
+      "start": 193.68,
+      "end": 193.94,
+      "word": " Google"
+    },
+    {
+      "start": 193.94,
+      "end": 194.32,
+      "word": " Brain"
+    },
+    {
+      "start": 194.32,
+      "end": 194.76,
+      "word": " published"
+    },
+    {
+      "start": 194.76,
+      "end": 195.02,
+      "word": " a"
+    },
+    {
+      "start": 195.02,
+      "end": 195.34,
+      "word": " short,"
+    },
+    {
+      "start": 195.72,
+      "end": 196.16,
+      "word": " unassuming"
+    },
+    {
+      "start": 196.16,
+      "end": 196.56,
+      "word": " paper"
+    },
+    {
+      "start": 196.56,
+      "end": 196.8,
+      "word": " with"
+    },
+    {
+      "start": 196.8,
+      "end": 196.98,
+      "word": " an"
+    },
+    {
+      "start": 196.98,
+      "end": 197.44,
+      "word": " audacious"
+    },
+    {
+      "start": 197.44,
+      "end": 197.88,
+      "word": " title."
+    },
+    {
+      "start": 198.44,
+      "end": 198.78,
+      "word": " Attention"
+    },
+    {
+      "start": 198.78,
+      "end": 199.36,
+      "word": " is"
+    },
+    {
+      "start": 199.36,
+      "end": 199.7,
+      "word": " all"
+    },
+    {
+      "start": 199.7,
+      "end": 199.94,
+      "word": " you"
+    },
+    {
+      "start": 199.94,
+      "end": 200.26,
+      "word": " need."
+    },
+    {
+      "start": 201.08,
+      "end": 201.28,
+      "word": " They"
+    },
+    {
+      "start": 201.28,
+      "end": 201.74,
+      "word": " introduced"
+    },
+    {
+      "start": 201.74,
+      "end": 202.0,
+      "word": " the"
+    },
+    {
+      "start": 202.0,
+      "end": 202.72,
+      "word": " transformer."
+    },
+    {
+      "start": 203.38,
+      "end": 203.62,
+      "word": " Instead"
+    },
+    {
+      "start": 203.62,
+      "end": 203.76,
+      "word": " of"
+    },
+    {
+      "start": 203.76,
+      "end": 204.24,
+      "word": " processing"
+    },
+    {
+      "start": 204.24,
+      "end": 204.72,
+      "word": " words"
+    },
+    {
+      "start": 204.72,
+      "end": 205.44,
+      "word": " sequentially,"
+    },
+    {
+      "start": 205.96,
+      "end": 206.56,
+      "word": " transformers"
+    },
+    {
+      "start": 206.56,
+      "end": 206.74,
+      "word": " look"
+    },
+    {
+      "start": 206.74,
+      "end": 206.88,
+      "word": " at"
+    },
+    {
+      "start": 206.88,
+      "end": 207.32,
+      "word": " every"
+    },
+    {
+      "start": 207.32,
+      "end": 207.62,
+      "word": " word"
+    },
+    {
+      "start": 207.62,
+      "end": 207.82,
+      "word": " in"
+    },
+    {
+      "start": 207.82,
+      "end": 207.94,
+      "word": " a"
+    },
+    {
+      "start": 207.94,
+      "end": 208.28,
+      "word": " sentence"
+    },
+    {
+      "start": 208.28,
+      "end": 209.28,
+      "word": " simultaneously,"
+    },
+    {
+      "start": 209.96,
+      "end": 210.26,
+      "word": " measuring"
+    },
+    {
+      "start": 210.26,
+      "end": 210.44,
+      "word": " the"
+    },
+    {
+      "start": 210.44,
+      "end": 210.9,
+      "word": " mathematical"
+    },
+    {
+      "start": 210.9,
+      "end": 211.64,
+      "word": " relationship"
+    },
+    {
+      "start": 211.64,
+      "end": 212.08,
+      "word": " or"
+    },
+    {
+      "start": 212.08,
+      "end": 212.7,
+      "word": " attention"
+    },
+    {
+      "start": 212.7,
+      "end": 213.34,
+      "word": " between"
+    },
+    {
+      "start": 213.34,
+      "end": 213.88,
+      "word": " every"
+    },
+    {
+      "start": 213.88,
+      "end": 214.24,
+      "word": " token."
+    },
+    {
+      "start": 215.0,
+      "end": 215.34,
+      "word": " The"
+    },
+    {
+      "start": 215.34,
+      "end": 215.84,
+      "word": " transformer"
+    },
+    {
+      "start": 215.84,
+      "end": 216.26,
+      "word": " became"
+    },
+    {
+      "start": 216.26,
+      "end": 216.54,
+      "word": " the"
+    },
+    {
+      "start": 216.54,
+      "end": 217.26,
+      "word": " architectural"
+    },
+    {
+      "start": 217.26,
+      "end": 217.78,
+      "word": " blueprint"
+    },
+    {
+      "start": 217.78,
+      "end": 218.1,
+      "word": " of"
+    },
+    {
+      "start": 218.1,
+      "end": 218.46,
+      "word": " modern"
+    },
+    {
+      "start": 218.46,
+      "end": 218.86,
+      "word": " civilization."
+    },
+    {
+      "start": 219.86,
+      "end": 220.24,
+      "word": " Scale"
+    },
+    {
+      "start": 220.24,
+      "end": 220.46,
+      "word": " it"
+    },
+    {
+      "start": 220.46,
+      "end": 220.58,
+      "word": " up"
+    },
+    {
+      "start": 220.58,
+      "end": 220.8,
+      "word": " with"
+    },
+    {
+      "start": 220.8,
+      "end": 221.28,
+      "word": " trillions"
+    },
+    {
+      "start": 221.28,
+      "end": 221.52,
+      "word": " of"
+    },
+    {
+      "start": 221.52,
+      "end": 221.78,
+      "word": " words"
+    },
+    {
+      "start": 221.78,
+      "end": 222.06,
+      "word": " and"
+    },
+    {
+      "start": 222.06,
+      "end": 222.68,
+      "word": " supercomputer"
+    },
+    {
+      "start": 222.68,
+      "end": 223.18,
+      "word": " clusters"
+    },
+    {
+      "start": 223.18,
+      "end": 223.68,
+      "word": " and"
+    },
+    {
+      "start": 223.68,
+      "end": 223.84,
+      "word": " you"
+    },
+    {
+      "start": 223.84,
+      "end": 224.06,
+      "word": " get"
+    },
+    {
+      "start": 224.06,
+      "end": 224.52,
+      "word": " large"
+    },
+    {
+      "start": 224.52,
+      "end": 225.04,
+      "word": " language"
+    },
+    {
+      "start": 225.04,
+      "end": 225.44,
+      "word": " models"
+    },
+    {
+      "start": 225.44,
+      "end": 225.68,
+      "word": " that"
+    },
+    {
+      "start": 225.68,
+      "end": 225.82,
+      "word": " can"
+    },
+    {
+      "start": 225.82,
+      "end": 226.0,
+      "word": " write"
+    },
+    {
+      "start": 226.0,
+      "end": 226.48,
+      "word": " essays,"
+    },
+    {
+      "start": 227.04,
+      "end": 227.1,
+      "word": " explain"
+    },
+    {
+      "start": 227.1,
+      "end": 227.46,
+      "word": " jokes,"
+    },
+    {
+      "start": 227.9,
+      "end": 227.92,
+      "word": " and"
+    },
+    {
+      "start": 227.92,
+      "end": 228.32,
+      "word": " understand"
+    },
+    {
+      "start": 228.32,
+      "end": 228.82,
+      "word": " code."
+    },
+    {
+      "start": 230.28,
+      "end": 230.38,
+      "word": " For"
+    },
+    {
+      "start": 230.38,
+      "end": 230.74,
+      "word": " 60"
+    },
+    {
+      "start": 230.74,
+      "end": 231.22,
+      "word": " years,"
+    },
+    {
+      "start": 231.42,
+      "end": 231.62,
+      "word": " AI"
+    },
+    {
+      "start": 231.62,
+      "end": 231.92,
+      "word": " was"
+    },
+    {
+      "start": 231.92,
+      "end": 232.06,
+      "word": " an"
+    },
+    {
+      "start": 232.06,
+      "end": 232.76,
+      "word": " analyzer."
+    },
+    {
+      "start": 233.1,
+      "end": 233.16,
+      "word": " It"
+    },
+    {
+      "start": 233.16,
+      "end": 233.52,
+      "word": " classified"
+    },
+    {
+      "start": 233.52,
+      "end": 234.1,
+      "word": " images,"
+    },
+    {
+      "start": 234.52,
+      "end": 234.76,
+      "word": " filtered"
+    },
+    {
+      "start": 234.76,
+      "end": 235.18,
+      "word": " spam,"
+    },
+    {
+      "start": 235.44,
+      "end": 235.46,
+      "word": " and"
+    },
+    {
+      "start": 235.46,
+      "end": 235.76,
+      "word": " predicted"
+    },
+    {
+      "start": 235.76,
+      "end": 236.18,
+      "word": " numbers."
+    },
+    {
+      "start": 236.82,
+      "end": 237.18,
+      "word": " Then"
+    },
+    {
+      "start": 237.18,
+      "end": 237.48,
+      "word": " came"
+    },
+    {
+      "start": 237.48,
+      "end": 237.66,
+      "word": " the"
+    },
+    {
+      "start": 237.66,
+      "end": 238.22,
+      "word": " generative"
+    },
+    {
+      "start": 238.22,
+      "end": 238.94,
+      "word": " explosion."
+    },
+    {
+      "start": 239.58,
+      "end": 239.68,
+      "word": " In"
+    },
+    {
+      "start": 239.68,
+      "end": 240.38,
+      "word": " 2020,"
+    },
+    {
+      "start": 240.84,
+      "end": 241.26,
+      "word": " diffusion"
+    },
+    {
+      "start": 241.26,
+      "end": 241.7,
+      "word": " models"
+    },
+    {
+      "start": 241.7,
+      "end": 242.0,
+      "word": " flipped"
+    },
+    {
+      "start": 242.0,
+      "end": 242.2,
+      "word": " the"
+    },
+    {
+      "start": 242.2,
+      "end": 242.6,
+      "word": " paradigm."
+    },
+    {
+      "start": 243.12,
+      "end": 243.26,
+      "word": " By"
+    },
+    {
+      "start": 243.26,
+      "end": 243.62,
+      "word": " training"
+    },
+    {
+      "start": 243.62,
+      "end": 243.98,
+      "word": " neural"
+    },
+    {
+      "start": 243.98,
+      "end": 244.36,
+      "word": " networks"
+    },
+    {
+      "start": 244.36,
+      "end": 244.62,
+      "word": " to"
+    },
+    {
+      "start": 244.62,
+      "end": 244.88,
+      "word": " remove"
+    },
+    {
+      "start": 244.88,
+      "end": 245.42,
+      "word": " noise"
+    },
+    {
+      "start": 245.42,
+      "end": 245.72,
+      "word": " from"
+    },
+    {
+      "start": 245.72,
+      "end": 246.0,
+      "word": " blurred"
+    },
+    {
+      "start": 246.0,
+      "end": 246.42,
+      "word": " images,"
+    },
+    {
+      "start": 246.42,
+      "end": 247.26,
+      "word": " computers"
+    },
+    {
+      "start": 247.26,
+      "end": 247.62,
+      "word": " learned"
+    },
+    {
+      "start": 247.62,
+      "end": 247.86,
+      "word": " to"
+    },
+    {
+      "start": 247.86,
+      "end": 248.18,
+      "word": " reverse"
+    },
+    {
+      "start": 248.18,
+      "end": 248.52,
+      "word": " the"
+    },
+    {
+      "start": 248.52,
+      "end": 249.16,
+      "word": " process,"
+    },
+    {
+      "start": 249.42,
+      "end": 250.12,
+      "word": " hallucinating"
+    },
+    {
+      "start": 250.12,
+      "end": 250.48,
+      "word": " high"
+    },
+    {
+      "start": 250.48,
+      "end": 250.92,
+      "word": "-definition"
+    },
+    {
+      "start": 250.92,
+      "end": 251.44,
+      "word": " artwork,"
+    },
+    {
+      "start": 251.8,
+      "end": 251.98,
+      "word": " photo"
+    },
+    {
+      "start": 251.98,
+      "end": 252.5,
+      "word": "-realistic"
+    },
+    {
+      "start": 252.5,
+      "end": 252.92,
+      "word": " faces"
+    },
+    {
+      "start": 252.92,
+      "end": 253.18,
+      "word": " and"
+    },
+    {
+      "start": 253.18,
+      "end": 253.62,
+      "word": " music"
+    },
+    {
+      "start": 253.62,
+      "end": 254.04,
+      "word": " from"
+    },
+    {
+      "start": 254.04,
+      "end": 254.36,
+      "word": " pure"
+    },
+    {
+      "start": 254.36,
+      "end": 254.74,
+      "word": " noise."
+    },
+    {
+      "start": 255.24,
+      "end": 255.5,
+      "word": " By"
+    },
+    {
+      "start": 255.5,
+      "end": 256.22,
+      "word": " 2024,"
+    },
+    {
+      "start": 256.72,
+      "end": 257.06,
+      "word": " diffusion"
+    },
+    {
+      "start": 257.06,
+      "end": 257.4,
+      "word": " models"
+    },
+    {
+      "start": 257.4,
+      "end": 257.86,
+      "word": " merged"
+    },
+    {
+      "start": 257.86,
+      "end": 258.1,
+      "word": " with"
+    },
+    {
+      "start": 258.1,
+      "end": 258.86,
+      "word": " transformers"
+    },
+    {
+      "start": 258.86,
+      "end": 258.98,
+      "word": " to"
+    },
+    {
+      "start": 258.98,
+      "end": 259.26,
+      "word": " create"
+    },
+    {
+      "start": 259.26,
+      "end": 259.68,
+      "word": " video"
+    },
+    {
+      "start": 259.68,
+      "end": 260.1,
+      "word": " generation"
+    },
+    {
+      "start": 260.1,
+      "end": 260.68,
+      "word": " engines"
+    },
+    {
+      "start": 260.68,
+      "end": 260.96,
+      "word": " like"
+    },
+    {
+      "start": 260.96,
+      "end": 261.42,
+      "word": " Sora"
+    },
+    {
+      "start": 261.42,
+      "end": 261.84,
+      "word": " and"
+    },
+    {
+      "start": 261.84,
+      "end": 262.22,
+      "word": " Hunwan."
+    },
+    {
+      "start": 262.92,
+      "end": 263.36,
+      "word": " Computers"
+    },
+    {
+      "start": 263.36,
+      "end": 263.48,
+      "word": " were"
+    },
+    {
+      "start": 263.48,
+      "end": 263.66,
+      "word": " no"
+    },
+    {
+      "start": 263.66,
+      "end": 263.98,
+      "word": " longer"
+    },
+    {
+      "start": 263.98,
+      "end": 264.28,
+      "word": " just"
+    },
+    {
+      "start": 264.28,
+      "end": 264.6,
+      "word": " reading"
+    },
+    {
+      "start": 264.6,
+      "end": 265.2,
+      "word": " descriptions."
+    },
+    {
+      "start": 265.78,
+      "end": 265.9,
+      "word": " They"
+    },
+    {
+      "start": 265.9,
+      "end": 266.02,
+      "word": " were"
+    },
+    {
+      "start": 266.02,
+      "end": 266.64,
+      "word": " simulating"
+    },
+    {
+      "start": 266.64,
+      "end": 267.1,
+      "word": " three"
+    },
+    {
+      "start": 267.1,
+      "end": 267.4,
+      "word": "-dimensional"
+    },
+    {
+      "start": 267.4,
+      "end": 268.1,
+      "word": " physical"
+    },
+    {
+      "start": 268.1,
+      "end": 268.66,
+      "word": " motion,"
+    },
+    {
+      "start": 269.04,
+      "end": 269.54,
+      "word": " reflections"
+    },
+    {
+      "start": 269.54,
+      "end": 269.92,
+      "word": " and"
+    },
+    {
+      "start": 269.92,
+      "end": 270.2,
+      "word": " light."
+    },
+    {
+      "start": 271.08,
+      "end": 271.84,
+      "word": " And"
+    },
+    {
+      "start": 271.84,
+      "end": 272.14,
+      "word": " that"
+    },
+    {
+      "start": 272.14,
+      "end": 272.52,
+      "word": " brings"
+    },
+    {
+      "start": 272.52,
+      "end": 272.8,
+      "word": " us"
+    },
+    {
+      "start": 272.8,
+      "end": 273.14,
+      "word": " to"
+    },
+    {
+      "start": 273.14,
+      "end": 273.42,
+      "word": " right"
+    },
+    {
+      "start": 273.42,
+      "end": 273.88,
+      "word": " now."
+    },
+    {
+      "start": 273.88,
+      "end": 274.68,
+      "word": " For"
+    },
+    {
+      "start": 274.68,
+      "end": 274.78,
+      "word": " the"
+    },
+    {
+      "start": 274.78,
+      "end": 274.94,
+      "word": " past"
+    },
+    {
+      "start": 274.94,
+      "end": 275.22,
+      "word": " two"
+    },
+    {
+      "start": 275.22,
+      "end": 275.48,
+      "word": " years,"
+    },
+    {
+      "start": 275.7,
+      "end": 275.72,
+      "word": " the"
+    },
+    {
+      "start": 275.72,
+      "end": 275.96,
+      "word": " world"
+    },
+    {
+      "start": 275.96,
+      "end": 276.46,
+      "word": " treated"
+    },
+    {
+      "start": 276.46,
+      "end": 276.84,
+      "word": " AI"
+    },
+    {
+      "start": 276.84,
+      "end": 277.22,
+      "word": " like"
+    },
+    {
+      "start": 277.22,
+      "end": 277.48,
+      "word": " an"
+    },
+    {
+      "start": 277.48,
+      "end": 278.02,
+      "word": " oracle"
+    },
+    {
+      "start": 278.02,
+      "end": 278.32,
+      "word": " in"
+    },
+    {
+      "start": 278.32,
+      "end": 278.4,
+      "word": " a"
+    },
+    {
+      "start": 278.4,
+      "end": 278.64,
+      "word": " chat"
+    },
+    {
+      "start": 278.64,
+      "end": 278.92,
+      "word": " box."
+    },
+    {
+      "start": 279.46,
+      "end": 279.6,
+      "word": " You"
+    },
+    {
+      "start": 279.6,
+      "end": 279.78,
+      "word": " type"
+    },
+    {
+      "start": 279.78,
+      "end": 279.9,
+      "word": " a"
+    },
+    {
+      "start": 279.9,
+      "end": 280.14,
+      "word": " prompt,"
+    },
+    {
+      "start": 280.48,
+      "end": 280.7,
+      "word": " it"
+    },
+    {
+      "start": 280.7,
+      "end": 280.88,
+      "word": " gives"
+    },
+    {
+      "start": 280.88,
+      "end": 281.04,
+      "word": " you"
+    },
+    {
+      "start": 281.04,
+      "end": 281.38,
+      "word": " text."
+    },
+    {
+      "start": 281.96,
+      "end": 282.1,
+      "word": " But"
+    },
+    {
+      "start": 282.1,
+      "end": 282.66,
+      "word": " chatbots"
+    },
+    {
+      "start": 282.66,
+      "end": 282.88,
+      "word": " are"
+    },
+    {
+      "start": 282.88,
+      "end": 283.38,
+      "word": " already"
+    },
+    {
+      "start": 283.38,
+      "end": 284.16,
+      "word": " yesterday's"
+    },
+    {
+      "start": 284.16,
+      "end": 284.68,
+      "word": " architecture."
+    },
+    {
+      "start": 285.28,
+      "end": 285.42,
+      "word": " The"
+    },
+    {
+      "start": 285.42,
+      "end": 285.78,
+      "word": " true"
+    },
+    {
+      "start": 285.78,
+      "end": 286.18,
+      "word": " frontier"
+    },
+    {
+      "start": 286.18,
+      "end": 286.72,
+      "word": " is"
+    },
+    {
+      "start": 286.72,
+      "end": 287.28,
+      "word": " autonomous"
+    },
+    {
+      "start": 287.28,
+      "end": 287.92,
+      "word": " agents,"
+    },
+    {
+      "start": 288.5,
+      "end": 288.72,
+      "word": " systems"
+    },
+    {
+      "start": 288.72,
+      "end": 288.94,
+      "word": " that"
+    },
+    {
+      "start": 288.94,
+      "end": 289.16,
+      "word": " don't"
+    },
+    {
+      "start": 289.16,
+      "end": 289.34,
+      "word": " just"
+    },
+    {
+      "start": 289.34,
+      "end": 289.68,
+      "word": " answer"
+    },
+    {
+      "start": 289.68,
+      "end": 290.3,
+      "word": " questions,"
+    },
+    {
+      "start": 290.6,
+      "end": 290.74,
+      "word": " but"
+    },
+    {
+      "start": 290.74,
+      "end": 291.06,
+      "word": " break"
+    },
+    {
+      "start": 291.06,
+      "end": 291.34,
+      "word": " goals"
+    },
+    {
+      "start": 291.34,
+      "end": 291.64,
+      "word": " down"
+    },
+    {
+      "start": 291.64,
+      "end": 292.04,
+      "word": " into"
+    },
+    {
+      "start": 292.04,
+      "end": 292.46,
+      "word": " tasks,"
+    },
+    {
+      "start": 293.06,
+      "end": 293.16,
+      "word": " write"
+    },
+    {
+      "start": 293.16,
+      "end": 293.34,
+      "word": " and"
+    },
+    {
+      "start": 293.34,
+      "end": 293.5,
+      "word": " run"
+    },
+    {
+      "start": 293.5,
+      "end": 293.66,
+      "word": " their"
+    },
+    {
+      "start": 293.66,
+      "end": 293.84,
+      "word": " own"
+    },
+    {
+      "start": 293.84,
+      "end": 294.28,
+      "word": " code,"
+    },
+    {
+      "start": 294.64,
+      "end": 294.82,
+      "word": " use"
+    },
+    {
+      "start": 294.82,
+      "end": 295.3,
+      "word": " external"
+    },
+    {
+      "start": 295.3,
+      "end": 295.8,
+      "word": " tools,"
+    },
+    {
+      "start": 296.34,
+      "end": 296.48,
+      "word": " self"
+    },
+    {
+      "start": 296.48,
+      "end": 296.76,
+      "word": "-correct"
+    },
+    {
+      "start": 296.76,
+      "end": 296.94,
+      "word": " their"
+    },
+    {
+      "start": 296.94,
+      "end": 297.26,
+      "word": " mistakes,"
+    },
+    {
+      "start": 297.7,
+      "end": 297.8,
+      "word": " and"
+    },
+    {
+      "start": 297.8,
+      "end": 298.32,
+      "word": " execute"
+    },
+    {
+      "start": 298.32,
+      "end": 298.7,
+      "word": " end"
+    },
+    {
+      "start": 298.7,
+      "end": 298.9,
+      "word": "-to"
+    },
+    {
+      "start": 298.9,
+      "end": 299.02,
+      "word": "-end"
+    },
+    {
+      "start": 299.02,
+      "end": 299.5,
+      "word": " workflows"
+    },
+    {
+      "start": 299.5,
+      "end": 300.08,
+      "word": " without"
+    },
+    {
+      "start": 300.08,
+      "end": 300.58,
+      "word": " human"
+    },
+    {
+      "start": 300.58,
+      "end": 301.16,
+      "word": " intervention."
+    },
+    {
+      "start": 301.16,
+      "end": 302.38,
+      "word": " From"
+    },
+    {
+      "start": 302.38,
+      "end": 302.64,
+      "word": " Alan"
+    },
+    {
+      "start": 302.64,
+      "end": 303.1,
+      "word": " Turing's"
+    },
+    {
+      "start": 303.1,
+      "end": 303.32,
+      "word": " paper"
+    },
+    {
+      "start": 303.32,
+      "end": 303.6,
+      "word": " tape"
+    },
+    {
+      "start": 303.6,
+      "end": 303.86,
+      "word": " to"
+    },
+    {
+      "start": 303.86,
+      "end": 304.36,
+      "word": " autonomous"
+    },
+    {
+      "start": 304.36,
+      "end": 304.8,
+      "word": " agents"
+    },
+    {
+      "start": 304.8,
+      "end": 305.26,
+      "word": " directing"
+    },
+    {
+      "start": 305.26,
+      "end": 305.68,
+      "word": " full"
+    },
+    {
+      "start": 305.68,
+      "end": 306.12,
+      "word": " animated"
+    },
+    {
+      "start": 306.12,
+      "end": 306.49,
+      "word": " films,"
+    },
+    {
+      "start": 307.2,
+      "end": 307.26,
+      "word": " the"
+    },
+    {
+      "start": 307.26,
+      "end": 307.64,
+      "word": " story"
+    },
+    {
+      "start": 307.64,
+      "end": 307.82,
+      "word": " of"
+    },
+    {
+      "start": 307.82,
+      "end": 308.08,
+      "word": " AI"
+    },
+    {
+      "start": 308.08,
+      "end": 308.44,
+      "word": " has"
+    },
+    {
+      "start": 308.44,
+      "end": 308.76,
+      "word": " never"
+    },
+    {
+      "start": 308.76,
+      "end": 308.9,
+      "word": " been"
+    },
+    {
+      "start": 308.9,
+      "end": 309.1,
+      "word": " about"
+    },
+    {
+      "start": 309.1,
+      "end": 309.72,
+      "word": " replacing"
+    },
+    {
+      "start": 309.72,
+      "end": 310.34,
+      "word": " humanity."
+    },
+    {
+      "start": 310.82,
+      "end": 310.92,
+      "word": " It"
+    },
+    {
+      "start": 310.92,
+      "end": 311.06,
+      "word": " has"
+    },
+    {
+      "start": 311.06,
+      "end": 311.26,
+      "word": " always"
+    },
+    {
+      "start": 311.26,
+      "end": 311.46,
+      "word": " been"
+    },
+    {
+      "start": 311.46,
+      "end": 311.68,
+      "word": " about"
+    },
+    {
+      "start": 311.68,
+      "end": 312.52,
+      "word": " understanding"
+    },
+    {
+      "start": 312.52,
+      "end": 312.92,
+      "word": " how"
+    },
+    {
+      "start": 312.92,
+      "end": 313.08,
+      "word": " our"
+    },
+    {
+      "start": 313.08,
+      "end": 313.38,
+      "word": " own"
+    },
+    {
+      "start": 313.38,
+      "end": 313.78,
+      "word": " minds"
+    },
+    {
+      "start": 313.78,
+      "end": 314.24,
+      "word": " work."
+    }
+  ],
+  "method": "openai-whisper word_timestamps; human text/timing review required"
+}

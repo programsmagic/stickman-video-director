@@ -1,0 +1,12 @@
+{
+  "kind": "speech",
+  "model": "gemini-3.8-flash-tts",
+  "requested_at": "2026-11-08T06:17:44.794Z",
+  "request_id": "d4f00001-f953-442d-bf09-093c97a46011",
+  "status": "complete",
+  "warning": "One request only; inspect provider history before retrying",
+  "key_index": 1,
+  "mime_type": "audio/wav",
+  "output": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep07-history-of-ai/shorts/short1.wav",
+  "sha256": "0665da1acb420a4f8d00d859c0c58f73798f2b999c950327658feabcf412bfed"
+}

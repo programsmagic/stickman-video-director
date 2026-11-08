@@ -1,0 +1,12 @@
+{
+  "kind": "speech",
+  "model": "gemini-3.8-flash-tts",
+  "requested_at": "2026-11-08T04:06:25.918Z",
+  "request_id": "0782eb75-b9f0-4d67-afa6-5ec360c503f3",
+  "status": "complete",
+  "warning": "One request only; inspect provider history before retrying",
+  "key_index": 2,
+  "mime_type": "audio/wav",
+  "output": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep07-history-of-ai/build/narration/ch1.wav",
+  "sha256": "37fd6d028623642e8fa07e451fea72d76b39460539a406cf2d284b9b06472309"
+}

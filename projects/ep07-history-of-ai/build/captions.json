@@ -1,0 +1,657 @@
+[
+  {
+    "start": 0.0,
+    "end": 3.4,
+    "text": "Computers are fundamentally rocks that"
+  },
+  {
+    "start": 3.4,
+    "end": 5.8,
+    "text": "we melted down, carved into micro switches,"
+  },
+  {
+    "start": 6.46,
+    "end": 8.12,
+    "text": "and infused with electricity."
+  },
+  {
+    "start": 9.12,
+    "end": 12.16,
+    "text": "Sand. How did we teach sand to think?"
+  },
+  {
+    "start": 13.42,
+    "end": 16.4,
+    "text": "In 1950, British mathematician Alan Turing"
+  },
+  {
+    "start": 16.4,
+    "end": 19.02,
+    "text": "published a landmark paper titled Computing"
+  },
+  {
+    "start": 19.02,
+    "end": 20.28,
+    "text": "Machinery and Intelligence."
+  },
+  {
+    "start": 21.0,
+    "end": 22.98,
+    "text": "He opened with seven simple words."
+  },
+  {
+    "start": 23.76,
+    "end": 25.58,
+    "text": "I proposed to consider the question,"
+  },
+  {
+    "start": 26.24,
+    "end": 29.42,
+    "text": "Can Machines Think? Six years later,"
+  },
+  {
+    "start": 29.72,
+    "end": 31.08,
+    "text": "in the summer of 1956,"
+  },
+  {
+    "start": 31.78,
+    "end": 33.58,
+    "text": "a handful mathematicians gathered in"
+  },
+  {
+    "start": 33.58,
+    "end": 35.64,
+    "text": "a small attic room at Dartmouth College."
+  },
+  {
+    "start": 36.48,
+    "end": 38.02,
+    "text": "John McCarthy, Marvin Minsky,"
+  },
+  {
+    "start": 38.56,
+    "end": 39.18,
+    "text": "Nathaniel Rochester,"
+  },
+  {
+    "start": 39.56,
+    "end": 41.58,
+    "text": "and Claude Shannon, coined a brand new"
+  },
+  {
+    "start": 41.58,
+    "end": 43.74,
+    "text": "phrase, artificial intelligence."
+  },
+  {
+    "start": 44.26,
+    "end": 46.26,
+    "text": "They were wildly optimistic,"
+  },
+  {
+    "start": 46.78,
+    "end": 47.78,
+    "text": "claiming that a two -month,"
+  },
+  {
+    "start": 47.94,
+    "end": 49.86,
+    "text": "ten -man study could make significant"
+  },
+  {
+    "start": 49.86,
+    "end": 51.24,
+    "text": "progress in language,"
+  },
+  {
+    "start": 51.82,
+    "end": 53.48,
+    "text": "abstractions, and creativity."
+  },
+  {
+    "start": 54.04,
+    "end": 55.66,
+    "text": "They were wrong about the timeline,"
+  },
+  {
+    "start": 55.66,
+    "end": 58.06,
+    "text": "but they lit a fire that would never"
+  },
+  {
+    "start": 58.06,
+    "end": 62.22,
+    "text": "go out. Early computers were shockingly"
+  },
+  {
+    "start": 62.22,
+    "end": 64.4,
+    "text": "primitive. A top -tier machine in the"
+  },
+  {
+    "start": 64.4,
+    "end": 67.64,
+    "text": "1960s had less memory than a modern kitchen"
+  },
+  {
+    "start": 67.64,
+    "end": 70.72,
+    "text": "toaster. When researchers tried to translate"
+  },
+  {
+    "start": 70.72,
+    "end": 73.06,
+    "text": "Russian to English, the computer famously"
+  },
+  {
+    "start": 73.06,
+    "end": 75.0,
+    "text": "translated the Spirit is willing,"
+  },
+  {
+    "start": 75.24,
+    "end": 76.2,
+    "text": "but the flush is weak,"
+  },
+  {
+    "start": 76.58,
+    "end": 78.34,
+    "text": "into the vodka is good,"
+  },
+  {
+    "start": 78.66,
+    "end": 79.88,
+    "text": "but the meat is rotten."
+  },
+  {
+    "start": 80.88,
+    "end": 84.4,
+    "text": "In 1969, Marvin Minsky and Seymour Pappert"
+  },
+  {
+    "start": 84.4,
+    "end": 86.62,
+    "text": "proved that early single -layer neural"
+  },
+  {
+    "start": 86.62,
+    "end": 88.74,
+    "text": "networks couldn't even solve a basic"
+  },
+  {
+    "start": 88.74,
+    "end": 90.46,
+    "text": "logical XOR problem."
+  },
+  {
+    "start": 90.96,
+    "end": 94.06,
+    "text": "In 1973, the British government published"
+  },
+  {
+    "start": 94.06,
+    "end": 95.78,
+    "text": "the Devastating Light Hill Report,"
+  },
+  {
+    "start": 96.16,
+    "end": 98.06,
+    "text": "concluding that AI research had failed"
+  },
+  {
+    "start": 98.06,
+    "end": 99.66,
+    "text": "to achieve its grand promises."
+  },
+  {
+    "start": 100.42,
+    "end": 101.52,
+    "text": "DARPA slashed funding."
+  },
+  {
+    "start": 101.98,
+    "end": 103.9,
+    "text": "The field entered the first AI winter."
+  },
+  {
+    "start": 104.58,
+    "end": 106.98,
+    "text": "A decade later, companies tried again"
+  },
+  {
+    "start": 106.98,
+    "end": 108.28,
+    "text": "with expert systems."
+  },
+  {
+    "start": 108.28,
+    "end": 110.82,
+    "text": "Hand -coded rulebooks of human knowledge,"
+  },
+  {
+    "start": 111.14,
+    "end": 113.8,
+    "text": "but human reality has too many exceptions."
+  },
+  {
+    "start": 114.36,
+    "end": 116.62,
+    "text": "By 1987, the market crashed."
+  },
+  {
+    "start": 117.14,
+    "end": 119.26,
+    "text": "The second AI winter froze the discipline"
+  },
+  {
+    "start": 119.26,
+    "end": 122.46,
+    "text": "for another decade. While the world gave"
+  },
+  {
+    "start": 122.46,
+    "end": 123.76,
+    "text": "up on neural networks,"
+  },
+  {
+    "start": 124.12,
+    "end": 125.98,
+    "text": "a tiny group of stubborn researchers,"
+  },
+  {
+    "start": 126.34,
+    "end": 127.8,
+    "text": "most notably Jeffrey Hinton,"
+  },
+  {
+    "start": 128.14,
+    "end": 130.2,
+    "text": "Jan Lecun, and Yoshua Benjio,"
+  },
+  {
+    "start": 130.46,
+    "end": 131.64,
+    "text": "kept working in the shadows."
+  },
+  {
+    "start": 132.28,
+    "end": 133.92,
+    "text": "They had a radical hypothesis."
+  },
+  {
+    "start": 134.56,
+    "end": 136.52,
+    "text": "The math behind neural networks wasn't"
+  },
+  {
+    "start": 136.52,
+    "end": 138.98,
+    "text": "flawed. We just needed millions of times"
+  },
+  {
+    "start": 138.98,
+    "end": 141.22,
+    "text": "more data and chips that could process"
+  },
+  {
+    "start": 141.22,
+    "end": 143.46,
+    "text": "thousands of calculations at the exact"
+  },
+  {
+    "start": 143.46,
+    "end": 146.28,
+    "text": "same instant. In the late 2000s,"
+  },
+  {
+    "start": 146.72,
+    "end": 148.92,
+    "text": "researchers made an accidental discovery."
+  },
+  {
+    "start": 149.54,
+    "end": 150.82,
+    "text": "In videographic's cards,"
+  },
+  {
+    "start": 151.18,
+    "end": 152.66,
+    "text": "designed to render video game pixels,"
+  },
+  {
+    "start": 153.12,
+    "end": 155.48,
+    "text": "were mathematically identical to Matrix"
+  },
+  {
+    "start": 155.48,
+    "end": 157.98,
+    "text": "multiplication engines needed for artificial"
+  },
+  {
+    "start": 157.98,
+    "end": 160.52,
+    "text": "neurons. In October 2012,"
+  },
+  {
+    "start": 161.0,
+    "end": 163.12,
+    "text": "at the ImageNet computer vision competition,"
+  },
+  {
+    "start": 163.12,
+    "end": 165.04,
+    "text": "a network named Alex Net,"
+  },
+  {
+    "start": 165.5,
+    "end": 167.22,
+    "text": "trained on two gaming graphics cards"
+  },
+  {
+    "start": 167.22,
+    "end": 169.58,
+    "text": "by Alex Krizefsky, Ilya Sutskyver,"
+  },
+  {
+    "start": 169.76,
+    "end": 171.78,
+    "text": "and Jeffrey Hinton, slashed the error"
+  },
+  {
+    "start": 171.78,
+    "end": 175.02,
+    "text": "rate from 26 % to 15%."
+  },
+  {
+    "start": 175.02,
+    "end": 176.86,
+    "text": "Deep learning had arrived."
+  },
+  {
+    "start": 178.26,
+    "end": 180.1,
+    "text": "Despite deep learning success,"
+  },
+  {
+    "start": 180.62,
+    "end": 182.38,
+    "text": "models struggled with sequences."
+  },
+  {
+    "start": 183.0,
+    "end": 185.36,
+    "text": "Recurrent neural networks read text one"
+  },
+  {
+    "start": 185.36,
+    "end": 187.44,
+    "text": "word at a time, forgetting the beginning"
+  },
+  {
+    "start": 187.44,
+    "end": 189.12,
+    "text": "of a paragraph by the time they reached"
+  },
+  {
+    "start": 189.12,
+    "end": 192.14,
+    "text": "the end. Then, in June 2017,"
+  },
+  {
+    "start": 192.64,
+    "end": 194.76,
+    "text": "eight researchers at Google Brain published"
+  },
+  {
+    "start": 194.76,
+    "end": 197.44,
+    "text": "a short, unassuming paper with an audacious"
+  },
+  {
+    "start": 197.44,
+    "end": 200.26,
+    "text": "title. Attention is all you need."
+  },
+  {
+    "start": 201.08,
+    "end": 202.72,
+    "text": "They introduced the transformer."
+  },
+  {
+    "start": 203.38,
+    "end": 205.44,
+    "text": "Instead of processing words sequentially,"
+  },
+  {
+    "start": 205.96,
+    "end": 207.94,
+    "text": "transformers look at every word in a"
+  },
+  {
+    "start": 207.94,
+    "end": 209.28,
+    "text": "sentence simultaneously,"
+  },
+  {
+    "start": 209.96,
+    "end": 211.64,
+    "text": "measuring the mathematical relationship"
+  },
+  {
+    "start": 211.64,
+    "end": 214.24,
+    "text": "or attention between every token."
+  },
+  {
+    "start": 215.0,
+    "end": 217.26,
+    "text": "The transformer became the architectural"
+  },
+  {
+    "start": 217.26,
+    "end": 218.86,
+    "text": "blueprint of modern civilization."
+  },
+  {
+    "start": 219.86,
+    "end": 222.06,
+    "text": "Scale it up with trillions of words and"
+  },
+  {
+    "start": 222.06,
+    "end": 224.52,
+    "text": "supercomputer clusters and you get large"
+  },
+  {
+    "start": 224.52,
+    "end": 226.48,
+    "text": "language models that can write essays,"
+  },
+  {
+    "start": 227.04,
+    "end": 228.82,
+    "text": "explain jokes, and understand code."
+  },
+  {
+    "start": 230.28,
+    "end": 232.76,
+    "text": "For 60 years, AI was an analyzer."
+  },
+  {
+    "start": 233.1,
+    "end": 234.1,
+    "text": "It classified images,"
+  },
+  {
+    "start": 234.52,
+    "end": 236.18,
+    "text": "filtered spam, and predicted numbers."
+  },
+  {
+    "start": 236.82,
+    "end": 238.94,
+    "text": "Then came the generative explosion."
+  },
+  {
+    "start": 239.58,
+    "end": 242.2,
+    "text": "In 2020, diffusion models flipped the"
+  },
+  {
+    "start": 242.2,
+    "end": 244.36,
+    "text": "paradigm. By training neural networks"
+  },
+  {
+    "start": 244.36,
+    "end": 246.42,
+    "text": "to remove noise from blurred images,"
+  },
+  {
+    "start": 246.42,
+    "end": 249.16,
+    "text": "computers learned to reverse the process,"
+  },
+  {
+    "start": 249.42,
+    "end": 251.44,
+    "text": "hallucinating high -definition artwork,"
+  },
+  {
+    "start": 251.8,
+    "end": 254.04,
+    "text": "photo -realistic faces and music from"
+  },
+  {
+    "start": 254.04,
+    "end": 256.22,
+    "text": "pure noise. By 2024,"
+  },
+  {
+    "start": 256.72,
+    "end": 258.86,
+    "text": "diffusion models merged with transformers"
+  },
+  {
+    "start": 258.86,
+    "end": 260.96,
+    "text": "to create video generation engines like"
+  },
+  {
+    "start": 260.96,
+    "end": 263.98,
+    "text": "Sora and Hunwan. Computers were no longer"
+  },
+  {
+    "start": 263.98,
+    "end": 265.2,
+    "text": "just reading descriptions."
+  },
+  {
+    "start": 265.78,
+    "end": 267.4,
+    "text": "They were simulating three -dimensional"
+  },
+  {
+    "start": 267.4,
+    "end": 270.2,
+    "text": "physical motion, reflections and light."
+  },
+  {
+    "start": 271.08,
+    "end": 273.88,
+    "text": "And that brings us to right now."
+  },
+  {
+    "start": 273.88,
+    "end": 275.48,
+    "text": "For the past two years,"
+  },
+  {
+    "start": 275.7,
+    "end": 278.32,
+    "text": "the world treated AI like an oracle in"
+  },
+  {
+    "start": 278.32,
+    "end": 280.14,
+    "text": "a chat box. You type a prompt,"
+  },
+  {
+    "start": 280.48,
+    "end": 283.38,
+    "text": "it gives you text. But chatbots are already"
+  },
+  {
+    "start": 283.38,
+    "end": 284.68,
+    "text": "yesterday's architecture."
+  },
+  {
+    "start": 285.28,
+    "end": 287.92,
+    "text": "The true frontier is autonomous agents,"
+  },
+  {
+    "start": 288.5,
+    "end": 290.3,
+    "text": "systems that don't just answer questions,"
+  },
+  {
+    "start": 290.6,
+    "end": 292.46,
+    "text": "but break goals down into tasks,"
+  },
+  {
+    "start": 293.06,
+    "end": 294.28,
+    "text": "write and run their own code,"
+  },
+  {
+    "start": 294.64,
+    "end": 296.94,
+    "text": "use external tools, self -correct their"
+  },
+  {
+    "start": 296.94,
+    "end": 299.5,
+    "text": "mistakes, and execute end -to -end workflows"
+  },
+  {
+    "start": 299.5,
+    "end": 301.16,
+    "text": "without human intervention."
+  },
+  {
+    "start": 301.16,
+    "end": 304.36,
+    "text": "From Alan Turing's paper tape to autonomous"
+  },
+  {
+    "start": 304.36,
+    "end": 306.49,
+    "text": "agents directing full animated films,"
+  },
+  {
+    "start": 307.2,
+    "end": 309.1,
+    "text": "the story of AI has never been about"
+  },
+  {
+    "start": 309.1,
+    "end": 311.46,
+    "text": "replacing humanity. It has always been"
+  },
+  {
+    "start": 311.46,
+    "end": 313.78,
+    "text": "about understanding how our own minds"
+  },
+  {
+    "start": 313.78,
+    "end": 314.24,
+    "text": "work."
+  }
+]

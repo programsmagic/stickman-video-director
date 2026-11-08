@@ -1,0 +1,12 @@
+{
+  "kind": "speech",
+  "model": "gemini-3.8-flash-tts",
+  "requested_at": "2026-11-08T03:55:43.701Z",
+  "request_id": "cb8360e9-b86f-46e1-b02d-d2419dc6b171",
+  "status": "complete",
+  "warning": "One request only; inspect provider history before retrying",
+  "key_index": 2,
+  "mime_type": "audio/wav",
+  "output": "/Users/prashantmishra/Developer/video-generator-stickman/exports/physical_agent_voice.wav",
+  "sha256": "3fdcfe48a3b3151b7d9d860ca213059a2add2f6de6a63d4f920b56b60f85b92c"
+}

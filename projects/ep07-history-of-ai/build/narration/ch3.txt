@@ -1,0 +1,4 @@
+While the world gave up on neural networks, a tiny group of stubborn researchers—most notably Geoffrey Hinton, Yann LeCun, and Yoshua Bengio—kept working in the shadows.
+They had a radical hypothesis: the math behind neural networks wasn't flawed. We just needed millions of times more data, and chips that could process thousands of calculations at the exact same instant.
+In the late 2000s, researchers made an accidental discovery: NVIDIA graphics cards, designed to render video game pixels, were mathematically identical to matrix multiplication engines needed for artificial neurons.
+In October 2012, at the ImageNet computer vision competition, a network named AlexNet—trained on two gaming graphics cards by Alex Krizhevsky, Ilya Sutskever, and Geoffrey Hinton—slashed the error rate from twenty-six percent to fifteen percent. Deep learning had arrived.

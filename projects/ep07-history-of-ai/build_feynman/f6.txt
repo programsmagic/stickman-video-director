@@ -1,0 +1,10 @@
+And that brings us to today.
+A chatbot is just a talking toy: you type a prompt, it gives you text.
+The real frontier is Autonomous Agents: artificial intelligence with hands and tools.
+An agent is given a big goal—like "create a full animated video."
+Instead of guessing, it acts like a smart team:
+First, it plans the steps.
+Second, it uses external tools: running terminals, editing files, and drawing graphics.
+Third, if it makes a mistake, it reads the error, debugs its own code, and tries again until it works!
+From Alan Turing's paper tape in 1950 to autonomous agents directing complete documentaries in 2026, the story of AI has never been about replacing humanity.
+It has always been our grandest scientific quest: using sand and lightning to understand the miracle of how our own minds work.

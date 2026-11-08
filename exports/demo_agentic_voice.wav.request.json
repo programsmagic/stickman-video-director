@@ -1,0 +1,12 @@
+{
+  "kind": "speech",
+  "model": "gemini-3.8-flash-tts",
+  "requested_at": "2026-11-08T03:15:07.312Z",
+  "request_id": "3968ea8d-3df4-419d-ab10-7e1911b981b3",
+  "status": "complete",
+  "warning": "One request only; inspect provider history before retrying",
+  "key_index": 1,
+  "mime_type": "audio/wav",
+  "output": "/Users/prashantmishra/Developer/video-generator-stickman/exports/demo_agentic_voice.wav",
+  "sha256": "7541e9247ac0c6745717fec6f693bffc84cddee9f5bfa6995ba47a97a04a385a"
+}

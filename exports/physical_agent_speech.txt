@@ -1,0 +1,1 @@
+To understand how an AI agent actually works, you have to watch what happens inside the machine. You give it a single goal. The agent steps forward, breaks the problem into pieces, and runs the entire pipeline autonomously. No waiting. Pure execution.
