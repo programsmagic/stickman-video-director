@@ -1,6 +1,0 @@
-For seventy years, AI only analyzed what humans gave it. It tagged photos and predicted numbers.
-Then in 2020, scientists taught computers how to dream using diffusion.
-Imagine taking a crystal-clear photograph and slowly sprinkling static noise over it until it looks like television snow.
-Scientists taught a neural network how to reverse that snow step by step—wiping away the noise until a brand new, photorealistic image appears out of thin air.
-By 2024, diffusion merged with transformers to create video generators like Sora.
-Computers weren't just reading text anymore. They were imagining 3D worlds, simulating reflections, water ripples, and gravity.

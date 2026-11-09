@@ -1,4 +1,0 @@
-Computers are fundamentally rocks that we melted down, carved into micro-switches, and infused with electricity. Sand. How did we teach sand to think?
-In 1950, British mathematician Alan Turing published a landmark paper titled "Computing Machinery and Intelligence." He opened with seven simple words: "I propose to consider the question: Can machines think?"
-Six years later, in the summer of 1956, a handful of mathematicians gathered in a small attic room at Dartmouth College. John McCarthy, Marvin Minsky, Nathaniel Rochester, and Claude Shannon coined a brand new phrase: "Artificial Intelligence." They were wildly optimistic, claiming that a two-month, ten-man study could make significant progress in language, abstractions, and creativity.
-They were wrong about the timeline. But they lit a fire that would never go out.

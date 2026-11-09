@@ -1,4 +1,0 @@
-Early computers were shockingly primitive. A top-tier machine in the 1960s had less memory than a modern kitchen toaster. When researchers tried to translate Russian to English, the computer famously translated "The spirit is willing, but the flesh is weak" into "The vodka is good, but the meat is rotten."
-In 1969, Marvin Minsky and Seymour Papert proved that early single-layer neural networks couldn't even solve a basic logical XOR problem.
-In 1973, the British government published the devastating Lighthill Report, concluding that AI research had failed to achieve its grand promises. DARPA slashed funding. The field entered the First AI Winter.
-A decade later, companies tried again with "Expert Systems"—hand-coded rulebooks of human knowledge. But human reality has too many exceptions. By 1987, the market crashed. The Second AI Winter froze the discipline for another decade.
