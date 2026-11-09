@@ -19,17 +19,5 @@ No weeks of animation.
 Just a strong hook,
 
 6
-00:00:09,595 --> 00:00:10,610
+00:00:09,595 --> 00:00:10,000
 a clear story,
-
-7
-00:00:10,902 --> 00:00:12,565
-and an open-source workflow.
-
-8
-00:00:13,288 --> 00:00:14,943
-Here's how to turn one idea
-
-9
-00:00:14,943 --> 00:00:15,986
-into a video.

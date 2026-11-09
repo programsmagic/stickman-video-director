@@ -1,17 +1,17 @@
 {
-  "fingerprint": "775795a6a248032a116e2c64082c401653755528230e65a509b4c1d1984ef425",
-  "preview_seconds": 16,
+  "fingerprint": "988d9c2cc6795c2cd5d32013ca001073fc355de9805529781c9a4c07ddd92da0",
+  "preview_seconds": 10,
   "output": "/Users/prashantmishra/Developer/video-generator-stickman/projects/b1-example/output/preview.mp4",
-  "output_sha256": "9e4a4ec09db5c7ea919f3564338bb3f55a42abd51ba2d53ae9736fc0a6306738",
+  "output_sha256": "ab0cb61f0e2491ffff0ccc2af2bbcc8663689771400179243954acfe5a53d6c1",
   "original_voice_sha256": "d1598463a23ac55c7e58c53fb53dfe504ae17ee4578891daef9fb6f7d4cf4df5",
   "original_voice_duration": 16.4,
   "voice_rate": "unchanged; leading/trailing padding only",
-  "frames": 480,
-  "duration": 16,
-  "cache_hits": 5,
-  "shot_count": 6,
+  "frames": 300,
+  "duration": 10,
+  "cache_hits": 3,
+  "shot_count": 4,
   "full_decode": "pass",
-  "caption_count": 9,
+  "caption_count": 6,
   "human_review": "required; technical checks are not acceptance",
   "inputs": [
     {
@@ -41,14 +41,6 @@
     {
       "path": "/Users/prashantmishra/Developer/video-generator-stickman/skills/directing-stickman-videos/assets/b1/idea-note-crayon.png",
       "sha256": "078a53c4b1efa343bdc033371129e62dcab80e752884725202c3d7d79e3b9739"
-    },
-    {
-      "path": "/Users/prashantmishra/Developer/video-generator-stickman/skills/directing-stickman-videos/assets/b1/open-source-crayon.png",
-      "sha256": "37a2d8c008d155670dda3af50d944144a8f6d9221c5d47c4adb64c85dba0c2ca"
-    },
-    {
-      "path": "/Users/prashantmishra/Developer/video-generator-stickman/skills/directing-stickman-videos/assets/b1/script-page-crayon.png",
-      "sha256": "72c11003b310fec896ce5b5f62a150115efcf10bcc6e8c43d63dcdf5709a508e"
     },
     {
       "path": "/Users/prashantmishra/Developer/video-generator-stickman/skills/directing-stickman-videos/assets/b1/youtube-crayon.png",
