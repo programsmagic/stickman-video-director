@@ -43,375 +43,393 @@ In 1950, a British math genius named Alan Turing published a landmark paper.
 He asked seven simple words:
 
 12
-00:00:41,329 --> 00:00:49,009
+00:00:41,329 --> 00:00:44,000
 "Can machines think?"
-Turing imagined a machine with an infinite paper tape, like a never-ending comic strip.
 
 13
+00:00:44,000 --> 00:00:49,009
+Turing imagined a machine with an infinite paper tape, like a never-ending comic strip.
+
+14
 00:00:49,009 --> 00:00:57,829
 And he proved that every computer in the universe only needs seven simple rules—what mathematicians call the seven variables:
 
-14
+15
 00:00:57,829 --> 00:00:58,460
 First, Q:
 
-15
+16
 00:00:58,460 --> 00:01:00,789
 the robot's mood or memory state.
 
-16
+17
 00:01:00,789 --> 00:01:01,780
 Second, Sigma:
 
-17
+18
 00:01:01,780 --> 00:01:05,299
 the secret alphabet it reads, like zeros and ones.
 
-18
+19
 00:01:05,299 --> 00:01:06,219
 Third, Gamma:
 
-19
+20
 00:01:06,219 --> 00:01:09,180
 all the symbols written on its paper tape.
 
-20
+21
 00:01:09,180 --> 00:01:10,170
 Fourth, Delta:
 
-21
+22
 00:01:10,170 --> 00:01:11,299
 the recipe book.
 
-22
+23
 00:01:11,299 --> 00:01:15,319
 If you see a one, erase it, write a zero, and step right!
 
-23
+24
 00:01:15,319 --> 00:01:16,310
 Fifth, Q-zero:
 
-24
+25
 00:01:16,310 --> 00:01:19,269
 the start button where the robot wakes up.
 
-25
+26
 00:01:19,269 --> 00:01:19,900
 Sixth, B:
 
-26
+27
 00:01:19,900 --> 00:01:23,569
 an empty blank box on the paper waiting for an idea.
 
-27
+28
 00:01:23,569 --> 00:01:24,629
 And seventh, F:
 
-28
+29
 00:01:24,629 --> 00:01:29,000
 the finish line, when the puzzle is solved and the robot says:
 
-29
+30
 00:01:29,000 --> 00:01:29,629
 I did it!
 
-30
+31
 00:01:29,629 --> 00:01:38,590
 Six years later, in 1956, two scientists named John McCarthy and Claude Shannon gathered in an attic room at Dartmouth College.
 
-31
+32
 00:01:38,590 --> 00:01:42,049
 They officially gave this dream a brand-new name:
 
-32
+33
 00:01:42,049 --> 00:01:43,879
 "Artificial Intelligence."
 
-33
+34
 00:01:44,680 --> 00:01:46,599
 Early computers were clumsy.
 
-34
+35
 00:01:46,599 --> 00:01:51,599
 A top machine in the 1960s had less memory than a modern kitchen toaster!
 
-35
+36
 00:01:51,599 --> 00:02:06,760
 When scientists asked a computer to translate the Russian saying, "The spirit is willing, but the flesh is weak"—meaning you want to do your chores, but your body is too sleepy—the computer had no idea what feelings were.
 
-36
+37
 00:02:06,760 --> 00:02:08,129
 It translated it as:
 
-37
-00:02:08,129 --> 00:02:21,289
+38
+00:02:08,129 --> 00:02:12,300
 "The vodka is good, but the meat is rotten!"
+
+39
+00:02:12,300 --> 00:02:21,289
 Then, in 1969, a brilliant scientist named Marvin Minsky proved that early artificial brains couldn't even solve a basic child's puzzle called XOR.
 
-38
+40
 00:02:21,289 --> 00:02:23,479
 Imagine four cookies on a table:
 
-39
+41
 00:02:23,479 --> 00:02:25,270
 A cookie with plain dough?
 
-40
+42
 00:02:25,270 --> 00:02:25,469
 No.
 
-41
+43
 00:02:25,469 --> 00:02:28,080
 A cookie with chocolate and sprinkles?
 
-42
+44
 00:02:28,080 --> 00:02:28,280
 No.
 
-43
+45
 00:02:28,280 --> 00:02:30,270
 A cookie with ONLY chocolate?
 
-44
+46
 00:02:30,270 --> 00:02:30,539
 Yes!
 
-45
+47
 00:02:30,539 --> 00:02:32,530
 A cookie with ONLY sprinkles?
 
-46
+48
 00:02:32,530 --> 00:02:32,810
 Yes!
 
-47
+49
 00:02:32,810 --> 00:02:40,280
 Can you place one single straight ruler on the table to separate the two YES cookies from the two NO cookies?
 
-48
+50
 00:02:40,280 --> 00:02:40,759
 Try it.
 
-49
+51
 00:02:40,759 --> 00:02:42,680
 It is physically impossible!
 
-50
+52
 00:02:42,680 --> 00:02:47,750
 A straight line cannot separate cookies that sit diagonal from each other.
 
-51
+53
 00:02:47,750 --> 00:02:52,000
 Because early AI could only draw one straight line, it failed.
 
-52
+54
 00:02:52,000 --> 00:02:57,900
 In 1973, a British report by Sir James Lighthill concluded AI had failed its promises.
 
-53
+55
 00:02:57,900 --> 00:03:03,039
 Governments pulled funding, and the world entered the cold First AI Winter.
 
-54
+56
 00:03:03,840 --> 00:03:09,530
 While the world gave up, a stubborn researcher named Geoffrey Hinton refused to quit.
 
-55
+57
 00:03:09,530 --> 00:03:12,680
 Hinton believed neural networks weren't broken.
 
-56
+58
 00:03:12,680 --> 00:03:14,560
 They just needed two things:
 
-57
+59
 00:03:14,560 --> 00:03:21,319
 millions of real photos, and chips that could do thousands of math problems at the exact same second.
 
-58
+60
 00:03:21,319 --> 00:03:23,860
 And then came an accidental discovery:
 
-59
+61
 00:03:23,860 --> 00:03:24,669
 video games!
 
-60
+62
 00:03:24,669 --> 00:03:32,240
 To draw a 3D video game on your screen, a graphics card has to color two million pixels sixty times every second.
 
-61
+63
 00:03:32,240 --> 00:03:39,069
 A normal computer processor is like a brilliant professor who solves one giant math problem at a time.
 
-62
+64
 00:03:39,069 --> 00:03:47,240
 A gaming graphics card is like an army of thousands of painters who can all multiply colors at the exact same millisecond.
 
-63
+65
 00:03:47,240 --> 00:03:54,069
 And coloring video game pixels turns out to be the exact same math as training artificial brain cells!
 
-64
+66
 00:03:54,069 --> 00:04:03,180
 In October 2012, Hinton and his student Ilya Sutskever created an artificial brain called AlexNet, powered by two gaming graphics cards.
 
-65
+67
 00:04:03,180 --> 00:04:13,830
 At a world contest identifying a million images, AlexNet destroyed every standard computer, dropping the error rate from twenty-six percent to fifteen percent.
 
-66
+68
 00:04:13,830 --> 00:04:16,839
 The modern deep learning revolution was born.
 
-67
+69
 00:04:17,639 --> 00:04:22,129
 Even with graphics cards, computers still read like anxious robots:
 
-68
+70
 00:04:22,129 --> 00:04:22,589
 word...
 
-69
+71
 00:04:22,589 --> 00:04:22,930
 by...
 
-70
+72
 00:04:22,930 --> 00:04:23,259
 word.
 
-71
+73
 00:04:23,259 --> 00:04:28,550
 By the time they reached the end of a long sentence, they forgot the beginning!
 
-72
+74
 00:04:28,550 --> 00:04:33,579
 Then, in 2017, eight researchers at Google published a revolutionary paper:
 
-73
-00:04:33,579 --> 00:04:37,529
+75
+00:04:33,579 --> 00:04:35,600
 "Attention Is All You Need."
+
+76
+00:04:35,600 --> 00:04:37,529
 They invented the Transformer.
 
-74
+77
 00:04:37,529 --> 00:04:44,360
 Instead of reading one word at a time, a transformer looks at every word in a sentence simultaneously.
 
-75
+78
 00:04:44,360 --> 00:04:45,759
 Imagine the sentence:
 
-76
-00:04:45,759 --> 00:04:50,850
+79
+00:04:45,759 --> 00:04:49,399
 "The robot didn't cross the street because IT was too tired."
+
+80
+00:04:49,399 --> 00:04:50,850
 Who was tired?
 
-77
+81
 00:04:50,850 --> 00:04:51,589
 The street?
 
-78
+82
 00:04:51,589 --> 00:04:52,459
 Or the robot?
 
-79
+83
 00:04:52,459 --> 00:04:55,810
 A human child instantly knows the robot was tired.
 
-80
+84
 00:04:55,810 --> 00:05:02,569
 The transformer figures this out by shining invisible mathematical laser beams between all the words.
 
-81
-00:05:02,569 --> 00:05:10,540
+85
+00:05:02,569 --> 00:05:06,800
 The word "IT" shines its brightest laser beam directly at "ROBOT."
+
+86
+00:05:06,800 --> 00:05:10,540
 That laser connection is called an Attention Weight.
 
-82
+87
 00:05:10,540 --> 00:05:22,120
 Scale that attention equation up with supercomputers, and you get modern language models like ChatGPT and Gemini that can write poems, explain homework, and understand code.
 
-83
+88
 00:05:22,920 --> 00:05:26,819
 For seventy years, AI only analyzed what humans gave it.
 
-84
+89
 00:05:26,819 --> 00:05:29,540
 It tagged photos and predicted numbers.
 
-85
+90
 00:05:29,540 --> 00:05:34,480
 Then in 2020, scientists taught computers how to dream using diffusion.
 
-86
+91
 00:05:34,480 --> 00:05:42,910
 Imagine taking a crystal-clear photograph and slowly sprinkling static noise over it until it looks like television snow.
 
-87
+92
 00:05:42,910 --> 00:05:53,980
 Scientists taught a neural network how to reverse that snow step by step—wiping away the noise until a brand new, photorealistic image appears out of thin air.
 
-88
+93
 00:05:53,980 --> 00:05:59,620
 By 2024, diffusion merged with transformers to create video generators like Sora.
 
-89
+94
 00:05:59,620 --> 00:06:02,689
 Computers weren't just reading text anymore.
 
-90
+95
 00:06:02,689 --> 00:06:08,399
 They were imagining 3D worlds, simulating reflections, water ripples, and gravity.
 
-91
+96
 00:06:09,199 --> 00:06:11,279
 And that brings us to today.
 
-92
+97
 00:06:11,279 --> 00:06:13,649
 A chatbot is just a talking toy:
 
-93
+98
 00:06:13,649 --> 00:06:16,399
 you type a prompt, it gives you text.
 
-94
+99
 00:06:16,399 --> 00:06:19,300
 The real frontier is Autonomous Agents:
 
-95
+100
 00:06:19,300 --> 00:06:22,639
 artificial intelligence with hands and tools.
 
-96
-00:06:22,639 --> 00:06:31,029
+101
+00:06:22,639 --> 00:06:27,000
 An agent is given a big goal—like "create a full animated video."
+
+102
+00:06:27,000 --> 00:06:31,029
 Instead of guessing, it acts like a smart team:
 
-97
+103
 00:06:31,029 --> 00:06:32,959
 First, it plans the steps.
 
-98
+104
 00:06:32,959 --> 00:06:35,259
 Second, it uses external tools:
 
-99
+105
 00:06:35,259 --> 00:06:39,339
 running terminals, editing files, and drawing graphics.
 
-100
+106
 00:06:39,339 --> 00:06:46,910
 Third, if it makes a mistake, it reads the error, debugs its own code, and tries again until it works!
 
-101
+107
 00:06:46,910 --> 00:06:58,569
 From Alan Turing's paper tape in 1950 to autonomous agents directing complete documentaries in 2026, the story of AI has never been about replacing humanity.
 
-102
+108
 00:06:58,569 --> 00:07:02,199
 It has always been our grandest scientific quest:
 
-103
+109
 00:07:02,199 --> 00:07:07,920
 using sand and lightning to understand the miracle of how our own minds work.

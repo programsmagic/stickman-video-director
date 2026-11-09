@@ -1,0 +1,47 @@
+1
+00:00:00,000 --> 00:00:01,690
+Look down at your phone.
+
+2
+00:00:01,690 --> 00:00:04,500
+It feels like magic, but inside,
+
+3
+00:00:04,500 --> 00:00:08,110
+it is fundamentally just a handful of sand from the beach.
+
+4
+00:00:08,110 --> 00:00:11,780
+Sand is made of tiny quartz crystals called silicon.
+
+5
+00:00:11,780 --> 00:00:16,000
+Humans figured out that if you melt sand down
+
+6
+00:00:16,000 --> 00:00:18,500
+and carve billions of microscopic switches into it,
+
+7
+00:00:18,500 --> 00:00:20,950
+you can trap electricity inside.
+
+8
+00:00:20,950 --> 00:00:23,480
+When a switch is OFF, it means ZERO.
+
+9
+00:00:23,480 --> 00:00:25,670
+When it flips ON, it means ONE.
+
+10
+00:00:25,670 --> 00:00:27,500
+That is all a computer is:
+
+11
+00:00:27,500 --> 00:00:30,960
+a beach of sand with lightning flipping switches.
+
+12
+00:00:30,960 --> 00:00:34,000
+So how on earth did we teach sand to think?

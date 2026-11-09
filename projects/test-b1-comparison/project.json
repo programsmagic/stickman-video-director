@@ -1,0 +1,1205 @@
+{
+  "version": 1,
+  "style": "B1",
+  "width": 1280,
+  "height": 720,
+  "fps": 30,
+  "voice": {
+    "path": "narration.wav",
+    "lead": 0,
+    "tail": 0
+  },
+  "captions": [
+    {
+      "start": 0,
+      "end": 1.69,
+      "text": "Look down at your phone."
+    },
+    {
+      "start": 1.69,
+      "end": 4.5,
+      "text": "It feels like magic, but inside,"
+    },
+    {
+      "start": 4.5,
+      "end": 8.11,
+      "text": "it is fundamentally just a handful of sand from the beach."
+    },
+    {
+      "start": 8.11,
+      "end": 11.78,
+      "text": "Sand is made of tiny quartz crystals called silicon."
+    },
+    {
+      "start": 11.78,
+      "end": 16,
+      "text": "Humans figured out that if you melt sand down"
+    },
+    {
+      "start": 16,
+      "end": 18.5,
+      "text": "and carve billions of microscopic switches into it,"
+    },
+    {
+      "start": 18.5,
+      "end": 20.95,
+      "text": "you can trap electricity inside."
+    },
+    {
+      "start": 20.95,
+      "end": 23.48,
+      "text": "When a switch is OFF, it means ZERO."
+    },
+    {
+      "start": 23.48,
+      "end": 25.67,
+      "text": "When it flips ON, it means ONE."
+    },
+    {
+      "start": 25.67,
+      "end": 27.5,
+      "text": "That is all a computer is:"
+    },
+    {
+      "start": 27.5,
+      "end": 30.96,
+      "text": "a beach of sand with lightning flipping switches."
+    },
+    {
+      "start": 30.96,
+      "end": 34,
+      "text": "So how on earth did we teach sand to think?"
+    }
+  ],
+  "shots": [
+    {
+      "start": 0,
+      "end": 1.69,
+      "layers": [
+        {
+          "type": "text",
+          "text": "LOOK DOWN AT YOUR PHONE.",
+          "x": 100,
+          "y": 100,
+          "size": 58,
+          "bold": true,
+          "from": 0.1,
+          "keys": [
+            {
+              "t": 0.1,
+              "y": 118,
+              "alpha": 0
+            },
+            {
+              "t": 0.35,
+              "y": 100,
+              "alpha": 1
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "path": "art/you-calm.png",
+          "x": 623,
+          "y": 12,
+          "w": 455,
+          "to": 0.8
+        },
+        {
+          "type": "image",
+          "path": "art/you-amazed.png",
+          "x": 623,
+          "y": 12,
+          "w": 455,
+          "from": 0.8
+        }
+      ]
+    },
+    {
+      "start": 1.69,
+      "end": 8.11,
+      "layers": [
+        {
+          "type": "text",
+          "text": "IT FEELS LIKE MAGIC.",
+          "x": 100,
+          "y": 90,
+          "size": 54,
+          "bold": true
+        },
+        {
+          "type": "text",
+          "text": "FUNDAMENTALLY JUST BEACH SAND.",
+          "x": 100,
+          "y": 165,
+          "size": 48,
+          "bold": true,
+          "color": "#EC4338",
+          "from": 2.2,
+          "keys": [
+            {
+              "t": 2.2,
+              "y": 183,
+              "alpha": 0
+            },
+            {
+              "t": 2.45,
+              "y": 165,
+              "alpha": 1
+            }
+          ]
+        },
+        {
+          "type": "underline",
+          "x": 105,
+          "y": 240,
+          "w": 560,
+          "color": "#EC4338",
+          "keys": [
+            {
+              "t": 2.3,
+              "progress": 0
+            },
+            {
+              "t": 3,
+              "progress": 1
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "path": "art/you-amazed.png",
+          "x": 673,
+          "y": 12,
+          "w": 455,
+          "to": 2
+        },
+        {
+          "type": "image",
+          "path": "art/you-think.png",
+          "x": 673,
+          "y": 12,
+          "w": 455,
+          "from": 2,
+          "to": 2.25
+        },
+        {
+          "type": "image",
+          "path": "art/you-skeptic.png",
+          "x": 673,
+          "y": 12,
+          "w": 455,
+          "from": 2.25,
+          "to": 2.5
+        },
+        {
+          "type": "image",
+          "path": "art/you-think.png",
+          "x": 673,
+          "y": 12,
+          "w": 455,
+          "from": 2.5,
+          "to": 2.75
+        },
+        {
+          "type": "image",
+          "path": "art/you-skeptic.png",
+          "x": 673,
+          "y": 12,
+          "w": 455,
+          "from": 2.75,
+          "to": 3
+        },
+        {
+          "type": "image",
+          "path": "art/you-think.png",
+          "x": 673,
+          "y": 12,
+          "w": 455,
+          "from": 3,
+          "to": 3.25
+        },
+        {
+          "type": "image",
+          "path": "art/you-skeptic.png",
+          "x": 673,
+          "y": 12,
+          "w": 455,
+          "from": 3.25,
+          "to": 3.5
+        },
+        {
+          "type": "image",
+          "path": "art/you-think.png",
+          "x": 673,
+          "y": 12,
+          "w": 455,
+          "from": 3.5,
+          "to": 3.75
+        },
+        {
+          "type": "image",
+          "path": "art/you-skeptic.png",
+          "x": 673,
+          "y": 12,
+          "w": 455,
+          "from": 3.75,
+          "to": 4
+        },
+        {
+          "type": "image",
+          "path": "art/you-think.png",
+          "x": 673,
+          "y": 12,
+          "w": 455,
+          "from": 4,
+          "to": 4.25
+        },
+        {
+          "type": "image",
+          "path": "art/you-skeptic.png",
+          "x": 673,
+          "y": 12,
+          "w": 455,
+          "from": 4.25,
+          "to": 4.5
+        },
+        {
+          "type": "image",
+          "path": "art/you-think.png",
+          "x": 673,
+          "y": 12,
+          "w": 455,
+          "from": 4.5,
+          "to": 4.75
+        },
+        {
+          "type": "image",
+          "path": "art/you-skeptic.png",
+          "x": 673,
+          "y": 12,
+          "w": 455,
+          "from": 4.75,
+          "to": 5
+        },
+        {
+          "type": "image",
+          "path": "art/you-think.png",
+          "x": 673,
+          "y": 12,
+          "w": 455,
+          "from": 5,
+          "to": 5.25
+        },
+        {
+          "type": "image",
+          "path": "art/you-skeptic.png",
+          "x": 673,
+          "y": 12,
+          "w": 455,
+          "from": 5.25,
+          "to": 5.5
+        },
+        {
+          "type": "image",
+          "path": "art/you-think.png",
+          "x": 673,
+          "y": 12,
+          "w": 455,
+          "from": 5.5,
+          "to": 5.75
+        },
+        {
+          "type": "image",
+          "path": "art/you-skeptic.png",
+          "x": 673,
+          "y": 12,
+          "w": 455,
+          "from": 5.75,
+          "to": 6
+        },
+        {
+          "type": "image",
+          "path": "art/you-think.png",
+          "x": 673,
+          "y": 12,
+          "w": 455,
+          "from": 6,
+          "to": 6.25
+        },
+        {
+          "type": "image",
+          "path": "art/you-skeptic.png",
+          "x": 673,
+          "y": 12,
+          "w": 455,
+          "from": 6.25,
+          "to": 6.42
+        },
+        {
+          "type": "arrow",
+          "x": 380,
+          "y": 360,
+          "w": 220,
+          "keys": [
+            {
+              "t": 3.5,
+              "progress": 0
+            },
+            {
+              "t": 4.2,
+              "progress": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 8.11,
+      "end": 11.78,
+      "layers": [
+        {
+          "type": "text",
+          "text": "QUARTZ CRYSTALS:",
+          "x": 100,
+          "y": 95,
+          "size": 52,
+          "bold": true
+        },
+        {
+          "type": "text",
+          "text": "SILICON DIOXIDE (SiO2)",
+          "x": 100,
+          "y": 170,
+          "size": 58,
+          "bold": true,
+          "color": "#2F8A4A",
+          "from": 0.6,
+          "keys": [
+            {
+              "t": 0.6,
+              "y": 188,
+              "alpha": 0
+            },
+            {
+              "t": 0.85,
+              "y": 170,
+              "alpha": 1
+            }
+          ]
+        },
+        {
+          "type": "underline",
+          "x": 105,
+          "y": 250,
+          "w": 480,
+          "color": "#2F8A4A",
+          "keys": [
+            {
+              "t": 0.7,
+              "progress": 0
+            },
+            {
+              "t": 1.4,
+              "progress": 1
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "path": "art/you-confident.png",
+          "x": 653,
+          "y": 12,
+          "w": 455
+        }
+      ]
+    },
+    {
+      "start": 11.78,
+      "end": 20.95,
+      "layers": [
+        {
+          "type": "text",
+          "text": "MELT SAND +",
+          "x": 80,
+          "y": 80,
+          "size": 48,
+          "bold": true
+        },
+        {
+          "type": "text",
+          "text": "TRAP ELECTRICITY",
+          "x": 80,
+          "y": 135,
+          "size": 48,
+          "bold": true
+        },
+        {
+          "type": "text",
+          "text": "BILLIONS OF MICROSCOPIC SWITCHES",
+          "x": 80,
+          "y": 210,
+          "size": 42,
+          "bold": true,
+          "color": "#2563EB",
+          "from": 2.5,
+          "keys": [
+            {
+              "t": 2.5,
+              "y": 228,
+              "alpha": 0
+            },
+            {
+              "t": 2.75,
+              "y": 210,
+              "alpha": 1
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "path": "art/cloud.png",
+          "x": 950,
+          "y": 60,
+          "w": 180
+        },
+        {
+          "type": "line",
+          "points": [
+            [
+              1040,
+              240
+            ],
+            [
+              1020,
+              300
+            ],
+            [
+              1050,
+              320
+            ],
+            [
+              1030,
+              390
+            ]
+          ],
+          "color": "#EAB308",
+          "lineWidth": 5,
+          "keys": [
+            {
+              "t": 1.5,
+              "progress": 0
+            },
+            {
+              "t": 2,
+              "progress": 1
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "path": "art/you-walk-a.png",
+          "x": 423,
+          "y": 12,
+          "w": 455,
+          "from": 0.5,
+          "to": 0.72
+        },
+        {
+          "type": "image",
+          "path": "art/you-walk-b.png",
+          "x": 423,
+          "y": 12,
+          "w": 455,
+          "from": 0.72,
+          "to": 0.94
+        },
+        {
+          "type": "image",
+          "path": "art/you-walk-a.png",
+          "x": 423,
+          "y": 12,
+          "w": 455,
+          "from": 0.94,
+          "to": 1.16
+        },
+        {
+          "type": "image",
+          "path": "art/you-walk-b.png",
+          "x": 423,
+          "y": 12,
+          "w": 455,
+          "from": 1.16,
+          "to": 1.38
+        },
+        {
+          "type": "image",
+          "path": "art/you-walk-a.png",
+          "x": 423,
+          "y": 12,
+          "w": 455,
+          "from": 1.38,
+          "to": 1.6
+        },
+        {
+          "type": "image",
+          "path": "art/you-walk-b.png",
+          "x": 423,
+          "y": 12,
+          "w": 455,
+          "from": 1.6,
+          "to": 1.82
+        },
+        {
+          "type": "image",
+          "path": "art/you-walk-a.png",
+          "x": 423,
+          "y": 12,
+          "w": 455,
+          "from": 1.82,
+          "to": 2.04
+        },
+        {
+          "type": "image",
+          "path": "art/you-walk-b.png",
+          "x": 423,
+          "y": 12,
+          "w": 455,
+          "from": 2.04,
+          "to": 2.26
+        },
+        {
+          "type": "image",
+          "path": "art/you-walk-a.png",
+          "x": 423,
+          "y": 12,
+          "w": 455,
+          "from": 2.26,
+          "to": 2.48
+        },
+        {
+          "type": "image",
+          "path": "art/you-walk-b.png",
+          "x": 423,
+          "y": 12,
+          "w": 455,
+          "from": 2.48,
+          "to": 2.7
+        },
+        {
+          "type": "image",
+          "path": "art/you-walk-a.png",
+          "x": 423,
+          "y": 12,
+          "w": 455,
+          "from": 2.7,
+          "to": 2.92
+        },
+        {
+          "type": "image",
+          "path": "art/you-walk-b.png",
+          "x": 423,
+          "y": 12,
+          "w": 455,
+          "from": 2.92,
+          "to": 3.14
+        },
+        {
+          "type": "image",
+          "path": "art/you-walk-a.png",
+          "x": 423,
+          "y": 12,
+          "w": 455,
+          "from": 3.14,
+          "to": 3.36
+        },
+        {
+          "type": "image",
+          "path": "art/you-walk-b.png",
+          "x": 423,
+          "y": 12,
+          "w": 455,
+          "from": 3.36,
+          "to": 3.58
+        },
+        {
+          "type": "image",
+          "path": "art/you-walk-a.png",
+          "x": 423,
+          "y": 12,
+          "w": 455,
+          "from": 3.58,
+          "to": 3.8
+        },
+        {
+          "type": "image",
+          "path": "art/you-walk-b.png",
+          "x": 423,
+          "y": 12,
+          "w": 455,
+          "from": 3.8,
+          "to": 4.02
+        },
+        {
+          "type": "image",
+          "path": "art/you-walk-a.png",
+          "x": 423,
+          "y": 12,
+          "w": 455,
+          "from": 4.02,
+          "to": 4.24
+        },
+        {
+          "type": "image",
+          "path": "art/you-walk-b.png",
+          "x": 423,
+          "y": 12,
+          "w": 455,
+          "from": 4.24,
+          "to": 4.46
+        },
+        {
+          "type": "image",
+          "path": "art/you-walk-a.png",
+          "x": 423,
+          "y": 12,
+          "w": 455,
+          "from": 4.46,
+          "to": 4.68
+        },
+        {
+          "type": "image",
+          "path": "art/you-walk-b.png",
+          "x": 423,
+          "y": 12,
+          "w": 455,
+          "from": 4.68,
+          "to": 4.9
+        },
+        {
+          "type": "image",
+          "path": "art/you-walk-a.png",
+          "x": 423,
+          "y": 12,
+          "w": 455,
+          "from": 4.9,
+          "to": 5.12
+        },
+        {
+          "type": "image",
+          "path": "art/you-walk-b.png",
+          "x": 423,
+          "y": 12,
+          "w": 455,
+          "from": 5.12,
+          "to": 5.34
+        },
+        {
+          "type": "image",
+          "path": "art/you-walk-a.png",
+          "x": 423,
+          "y": 12,
+          "w": 455,
+          "from": 5.34,
+          "to": 5.56
+        },
+        {
+          "type": "image",
+          "path": "art/you-walk-b.png",
+          "x": 423,
+          "y": 12,
+          "w": 455,
+          "from": 5.56,
+          "to": 5.78
+        },
+        {
+          "type": "image",
+          "path": "art/you-walk-a.png",
+          "x": 423,
+          "y": 12,
+          "w": 455,
+          "from": 5.78,
+          "to": 6
+        },
+        {
+          "type": "image",
+          "path": "art/you-walk-b.png",
+          "x": 423,
+          "y": 12,
+          "w": 455,
+          "from": 6,
+          "to": 6.22
+        },
+        {
+          "type": "image",
+          "path": "art/you-walk-a.png",
+          "x": 423,
+          "y": 12,
+          "w": 455,
+          "from": 6.22,
+          "to": 6.44
+        },
+        {
+          "type": "image",
+          "path": "art/you-walk-b.png",
+          "x": 423,
+          "y": 12,
+          "w": 455,
+          "from": 6.44,
+          "to": 6.66
+        },
+        {
+          "type": "image",
+          "path": "art/you-walk-a.png",
+          "x": 423,
+          "y": 12,
+          "w": 455,
+          "from": 6.66,
+          "to": 6.88
+        },
+        {
+          "type": "image",
+          "path": "art/you-walk-b.png",
+          "x": 423,
+          "y": 12,
+          "w": 455,
+          "from": 6.88,
+          "to": 7.1
+        },
+        {
+          "type": "image",
+          "path": "art/you-walk-a.png",
+          "x": 423,
+          "y": 12,
+          "w": 455,
+          "from": 7.1,
+          "to": 7.32
+        },
+        {
+          "type": "image",
+          "path": "art/you-walk-b.png",
+          "x": 423,
+          "y": 12,
+          "w": 455,
+          "from": 7.32,
+          "to": 7.54
+        },
+        {
+          "type": "image",
+          "path": "art/you-walk-a.png",
+          "x": 423,
+          "y": 12,
+          "w": 455,
+          "from": 7.54,
+          "to": 7.76
+        },
+        {
+          "type": "image",
+          "path": "art/you-walk-b.png",
+          "x": 423,
+          "y": 12,
+          "w": 455,
+          "from": 7.76,
+          "to": 7.98
+        },
+        {
+          "type": "image",
+          "path": "art/you-walk-a.png",
+          "x": 423,
+          "y": 12,
+          "w": 455,
+          "from": 7.98,
+          "to": 8.2
+        },
+        {
+          "type": "image",
+          "path": "art/you-walk-b.png",
+          "x": 423,
+          "y": 12,
+          "w": 455,
+          "from": 8.2,
+          "to": 8.42
+        },
+        {
+          "type": "image",
+          "path": "art/you-walk-a.png",
+          "x": 423,
+          "y": 12,
+          "w": 455,
+          "from": 8.42,
+          "to": 8.5
+        }
+      ]
+    },
+    {
+      "start": 20.95,
+      "end": 27.5,
+      "layers": [
+        {
+          "type": "text",
+          "text": "SWITCH OFF  =  0",
+          "x": 100,
+          "y": 120,
+          "size": 62,
+          "bold": true,
+          "color": "#EC4338",
+          "from": 0.2,
+          "keys": [
+            {
+              "t": 0.2,
+              "y": 138,
+              "alpha": 0
+            },
+            {
+              "t": 0.45,
+              "y": 120,
+              "alpha": 1
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "SWITCH ON   =  1",
+          "x": 100,
+          "y": 220,
+          "size": 62,
+          "bold": true,
+          "color": "#2F8A4A",
+          "from": 2.6,
+          "keys": [
+            {
+              "t": 2.6,
+              "y": 238,
+              "alpha": 0
+            },
+            {
+              "t": 2.85,
+              "y": 220,
+              "alpha": 1
+            }
+          ]
+        },
+        {
+          "type": "underline",
+          "x": 105,
+          "y": 310,
+          "w": 420,
+          "color": "#2F8A4A",
+          "keys": [
+            {
+              "t": 2.7,
+              "progress": 0
+            },
+            {
+              "t": 3.4,
+              "progress": 1
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "path": "art/you-tap.png",
+          "x": 673,
+          "y": 12,
+          "w": 455
+        }
+      ]
+    },
+    {
+      "start": 27.5,
+      "end": 34.2,
+      "layers": [
+        {
+          "type": "text",
+          "text": "A BEACH OF SAND",
+          "x": 80,
+          "y": 75,
+          "size": 46,
+          "bold": true
+        },
+        {
+          "type": "text",
+          "text": "DANCING WITH LIGHTNING.",
+          "x": 80,
+          "y": 130,
+          "size": 46,
+          "bold": true
+        },
+        {
+          "type": "text",
+          "text": "HOW DID WE TEACH",
+          "x": 80,
+          "y": 210,
+          "size": 52,
+          "bold": true,
+          "color": "#2F8A4A",
+          "from": 3.2,
+          "keys": [
+            {
+              "t": 3.2,
+              "y": 228,
+              "alpha": 0
+            },
+            {
+              "t": 3.45,
+              "y": 210,
+              "alpha": 1
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "SAND TO THINK?",
+          "x": 80,
+          "y": 270,
+          "size": 52,
+          "bold": true,
+          "color": "#2F8A4A",
+          "from": 3.2,
+          "keys": [
+            {
+              "t": 3.2,
+              "y": 288,
+              "alpha": 0
+            },
+            {
+              "t": 3.45,
+              "y": 270,
+              "alpha": 1
+            }
+          ]
+        },
+        {
+          "type": "underline",
+          "x": 85,
+          "y": 345,
+          "w": 380,
+          "color": "#2F8A4A",
+          "keys": [
+            {
+              "t": 3.4,
+              "progress": 0
+            },
+            {
+              "t": 4.4,
+              "progress": 1
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "path": "art/you-amazed.png",
+          "x": 723,
+          "y": 12,
+          "w": 455,
+          "to": 3
+        },
+        {
+          "type": "image",
+          "path": "art/you-cheer.png",
+          "x": 723,
+          "y": 12,
+          "w": 455,
+          "from": 3,
+          "to": 3.22
+        },
+        {
+          "type": "image",
+          "path": "art/you-grin.png",
+          "x": 723,
+          "y": 12,
+          "w": 455,
+          "from": 3.22,
+          "to": 3.44
+        },
+        {
+          "type": "image",
+          "path": "art/you-cheer.png",
+          "x": 723,
+          "y": 12,
+          "w": 455,
+          "from": 3.44,
+          "to": 3.66
+        },
+        {
+          "type": "image",
+          "path": "art/you-grin.png",
+          "x": 723,
+          "y": 12,
+          "w": 455,
+          "from": 3.66,
+          "to": 3.88
+        },
+        {
+          "type": "image",
+          "path": "art/you-cheer.png",
+          "x": 723,
+          "y": 12,
+          "w": 455,
+          "from": 3.88,
+          "to": 4.1
+        },
+        {
+          "type": "image",
+          "path": "art/you-grin.png",
+          "x": 723,
+          "y": 12,
+          "w": 455,
+          "from": 4.1,
+          "to": 4.32
+        },
+        {
+          "type": "image",
+          "path": "art/you-cheer.png",
+          "x": 723,
+          "y": 12,
+          "w": 455,
+          "from": 4.32,
+          "to": 4.54
+        },
+        {
+          "type": "image",
+          "path": "art/you-grin.png",
+          "x": 723,
+          "y": 12,
+          "w": 455,
+          "from": 4.54,
+          "to": 4.76
+        },
+        {
+          "type": "image",
+          "path": "art/you-cheer.png",
+          "x": 723,
+          "y": 12,
+          "w": 455,
+          "from": 4.76,
+          "to": 4.98
+        },
+        {
+          "type": "image",
+          "path": "art/you-grin.png",
+          "x": 723,
+          "y": 12,
+          "w": 455,
+          "from": 4.98,
+          "to": 5.2
+        },
+        {
+          "type": "image",
+          "path": "art/you-cheer.png",
+          "x": 723,
+          "y": 12,
+          "w": 455,
+          "from": 5.2,
+          "to": 5.42
+        },
+        {
+          "type": "image",
+          "path": "art/you-grin.png",
+          "x": 723,
+          "y": 12,
+          "w": 455,
+          "from": 5.42,
+          "to": 5.64
+        },
+        {
+          "type": "image",
+          "path": "art/you-cheer.png",
+          "x": 723,
+          "y": 12,
+          "w": 455,
+          "from": 5.64,
+          "to": 5.86
+        },
+        {
+          "type": "image",
+          "path": "art/you-grin.png",
+          "x": 723,
+          "y": 12,
+          "w": 455,
+          "from": 5.86,
+          "to": 6.08
+        },
+        {
+          "type": "image",
+          "path": "art/you-cheer.png",
+          "x": 723,
+          "y": 12,
+          "w": 455,
+          "from": 6.08,
+          "to": 6.3
+        },
+        {
+          "type": "image",
+          "path": "art/you-grin.png",
+          "x": 723,
+          "y": 12,
+          "w": 455,
+          "from": 6.3,
+          "to": 6.52
+        },
+        {
+          "type": "image",
+          "path": "art/you-cheer.png",
+          "x": 723,
+          "y": 12,
+          "w": 455,
+          "from": 6.52,
+          "to": 6.7
+        }
+      ]
+    }
+  ],
+  "sfx": [
+    {
+      "time": 0.2,
+      "kind": "pop",
+      "gain": 0.18
+    },
+    {
+      "time": 2.3,
+      "kind": "paper",
+      "gain": 0.15
+    },
+    {
+      "time": 3.6,
+      "kind": "pop",
+      "gain": 0.12
+    },
+    {
+      "time": 8.8,
+      "kind": "tap",
+      "gain": 0.18
+    },
+    {
+      "time": 13.5,
+      "kind": "pop",
+      "gain": 0.2
+    },
+    {
+      "time": 16,
+      "kind": "tap",
+      "gain": 0.18
+    },
+    {
+      "time": 21.2,
+      "kind": "tap",
+      "gain": 0.22
+    },
+    {
+      "time": 23.6,
+      "kind": "tap",
+      "gain": 0.22
+    },
+    {
+      "time": 28,
+      "kind": "pop",
+      "gain": 0.18
+    },
+    {
+      "time": 31,
+      "kind": "paper",
+      "gain": 0.18
+    }
+  ]
+}

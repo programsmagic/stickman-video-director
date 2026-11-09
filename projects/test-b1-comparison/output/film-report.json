@@ -1,0 +1,74 @@
+{
+  "fingerprint": "987beca3269cea67bc41ad9f1f007f3572143abfaa6acac4edb3e4a6d1f5f256",
+  "preview_seconds": null,
+  "output": "/Users/prashantmishra/Developer/video-generator-stickman/projects/test-b1-comparison/output/film.mp4",
+  "output_sha256": "084f4c9d2b4d7b48d3599110024aa76b101adcbd57ae25296a4ca00120606c19",
+  "original_voice_sha256": "9d2dc385183771af37839ce4da320749d5ed99f0b5ecddd899b1e73919181433",
+  "original_voice_duration": 34.218667,
+  "voice_rate": "unchanged; leading/trailing padding only",
+  "frames": 1027,
+  "duration": 34.233333,
+  "cache_hits": 6,
+  "shot_count": 6,
+  "full_decode": "pass",
+  "caption_count": 12,
+  "human_review": "required; technical checks are not acceptance",
+  "inputs": [
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/test-b1-comparison/art/cloud.png",
+      "sha256": "20827f258f0c627be8269836d43d5bf28f80897a31a38997b64929e996132772"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/test-b1-comparison/art/you-amazed.png",
+      "sha256": "a9c8bb37257d5744eb4e3529bd53d0f813266d5effffb89914c5d41a13e31b69"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/test-b1-comparison/art/you-calm.png",
+      "sha256": "7de1dfa7a8cf298afe33a565c1c79b2fe9cfa037d2871ff9861bed7e0e03ed1f"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/test-b1-comparison/art/you-cheer.png",
+      "sha256": "b87cee0e05b37683c15f3d2fdbd3b6764b5b15e2edefd995b4642a43eb65455b"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/test-b1-comparison/art/you-confident.png",
+      "sha256": "4df47211705a05c47580f6863a9cbb891c3b85293d3c23ced0c02cdf77661d04"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/test-b1-comparison/art/you-grin.png",
+      "sha256": "040bb11f7dbc620b448e8cabfe0e3c11497af7be403059a5b000aa55da846246"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/test-b1-comparison/art/you-skeptic.png",
+      "sha256": "6c5a8fae10ed561e8cddc8f4fc20c17893bc288a39ae62aad90fd1ab6c9a9db2"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/test-b1-comparison/art/you-tap.png",
+      "sha256": "bf5e35337a764c4eb93f9e54acf6adc70e4cfe5acc143aa1832714bd91427afb"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/test-b1-comparison/art/you-think.png",
+      "sha256": "78d8f6d57c4578fdfa2bb67cdd04a1ed792041e652938270ad399e187bf461fa"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/test-b1-comparison/art/you-walk-a.png",
+      "sha256": "8f1ad817fb70b2f96b150e05f16868a3f31b6365f72086c912a5f482c40be467"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/test-b1-comparison/art/you-walk-b.png",
+      "sha256": "e0da43ca4fe1aedf8ef7b6806699ac8043b99d7a505d39c036a9ac3d234982a7"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/test-b1-comparison/narration.wav",
+      "sha256": "9d2dc385183771af37839ce4da320749d5ed99f0b5ecddd899b1e73919181433"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/skills/directing-stickman-videos/assets/fonts/Caveat.ttf",
+      "sha256": "0bdb6b660482d31531b3945849fba5916b3ef8695da7024a9e6b9ee3c4157988"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/skills/directing-stickman-videos/assets/fonts/NotoSans.ttf",
+      "sha256": "bfb7bb691513f12e734dc346c03a03f784912432d7e3fa8e56efcf906fe86b3d"
+    }
+  ]
+}

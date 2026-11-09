@@ -16,6 +16,14 @@ Computers are fundamentally rocks and sand that humanity melted down, carved int
 
 In this documentary, Magi breaks down the complete, 76-year journey of Artificial Intelligence: from Alan Turing's 1950 thought experiment and the euphoric 1956 Dartmouth conference, through the brutal freezes of the AI Winters and the logical failure of XOR, to the accidental GPU gaming revolution, Transformers ("Attention Is All You Need"), generative video diffusion, and modern Autonomous Agents.
 
+📚 COMPANION FIELD GUIDE & ILLUSTRATED EBOOK (33 PAGES):
+Want to master every concept, formula, and student puzzle? Download the official companion textbook:
+"How We Taught Sand to Think: The Illustrated Field Guide to AI" (PDF Edition available in channel links & community tab).
+• Includes the 7 Formal Turing Variables Decoded
+• The 4-Cookie XOR Ruler Challenge
+• 1 CPU Professor vs 1,000 GPU Painters Math Breakdown
+• Attention Weight Laser Equations & Autonomous Agent Workflows
+
 Every single historical fact, algorithm, and quote in this video is academically cited and verified against original research papers.
 
 ⏱️ TIMESTAMPS & CHAPTERS:
