@@ -1,0 +1,189 @@
+{
+  "assets": {
+    "magi-host-a": {
+      "figure": {
+        "facing": "right",
+        "torso": 2,
+        "head": 4,
+        "armL": [-15, -10],
+        "armR": [35, 20],
+        "eyes": "normal",
+        "brows": "neutral",
+        "mouth": "smile",
+        "accessories": ["wizard-hat", "mic"]
+      }
+    },
+    "magi-host-b": {
+      "figure": {
+        "facing": "right",
+        "torso": 4,
+        "head": 6,
+        "armL": [-18, -12],
+        "armR": [38, 25],
+        "eyes": "normal",
+        "brows": "raised",
+        "mouth": "smile",
+        "accessories": ["wizard-hat", "mic"]
+      }
+    },
+    "magi-shock": {
+      "figure": {
+        "facing": "right",
+        "torso": -5,
+        "head": -8,
+        "armL": [-50, -80],
+        "armR": [50, 80],
+        "eyes": "wide",
+        "brows": "raised",
+        "mouth": "open",
+        "marks": ["shock"],
+        "accessories": ["wizard-hat"]
+      }
+    },
+    "magi-facepalm-a": {
+      "figure": {
+        "facing": "right",
+        "torso": -2,
+        "head": 6,
+        "armL": [-10, -5],
+        "armR": [15, 120],
+        "eyes": "squint",
+        "brows": "angry",
+        "mouth": "flat",
+        "marks": ["sweat"],
+        "accessories": ["wizard-hat"]
+      }
+    },
+    "magi-facepalm-b": {
+      "figure": {
+        "facing": "right",
+        "torso": -1,
+        "head": 8,
+        "armL": [-12, -6],
+        "armR": [16, 122],
+        "eyes": "squint",
+        "brows": "angry",
+        "mouth": "wavy",
+        "marks": ["sweat"],
+        "accessories": ["wizard-hat"]
+      }
+    },
+    "bot-nervous-a": {
+      "figure": {
+        "facing": "left",
+        "torso": -2,
+        "head": -4,
+        "armL": [-25, -40],
+        "armR": [10, 5],
+        "eyes": "wide",
+        "brows": "sad",
+        "mouth": "wavy",
+        "marks": ["sweat"],
+        "scarf": false,
+        "accessories": []
+      }
+    },
+    "bot-nervous-b": {
+      "figure": {
+        "facing": "left",
+        "torso": -1,
+        "head": -3,
+        "armL": [-28, -45],
+        "armR": [8, 3],
+        "eyes": "wide",
+        "brows": "sad",
+        "mouth": "o",
+        "marks": ["sweat"],
+        "scarf": false,
+        "accessories": []
+      }
+    },
+    "bot-slam": {
+      "figure": {
+        "facing": "left",
+        "torso": -25,
+        "head": -35,
+        "armL": [-70, -85],
+        "armR": [-60, -75],
+        "eyes": "closed",
+        "brows": "angry",
+        "mouth": "open",
+        "scarf": false,
+        "accessories": []
+      }
+    },
+    "detective-think-a": {
+      "figure": {
+        "facing": "right",
+        "torso": 0,
+        "head": 5,
+        "armL": [-10, -20],
+        "armR": [20, 90],
+        "eyes": "squint",
+        "brows": "one-up",
+        "mouth": "flat",
+        "scarf": false,
+        "accessories": ["deerstalker", "trenchcoat"]
+      }
+    },
+    "detective-think-b": {
+      "figure": {
+        "facing": "right",
+        "torso": 2,
+        "head": 7,
+        "armL": [-8, -18],
+        "armR": [22, 92],
+        "eyes": "squint",
+        "brows": "one-up",
+        "mouth": "flat",
+        "scarf": false,
+        "accessories": ["deerstalker", "trenchcoat"]
+      }
+    },
+    "detective-solved": {
+      "figure": {
+        "facing": "right",
+        "torso": -3,
+        "head": -2,
+        "armL": [-15, -10],
+        "armR": [45, 65],
+        "eyes": "normal",
+        "brows": "neutral",
+        "mouth": "grin",
+        "scarf": false,
+        "accessories": ["deerstalker", "trenchcoat", "magnifier"]
+      }
+    },
+    "podium": {
+      "prop": "podium",
+      "size": [260, 420]
+    },
+    "buzzer-idle": {
+      "prop": "buzzer",
+      "size": [180, 160],
+      "pressed": false
+    },
+    "buzzer-pressed": {
+      "prop": "buzzer",
+      "size": [180, 160],
+      "pressed": true
+    },
+    "cross-x": {
+      "prop": "crossX",
+      "size": [220, 220]
+    },
+    "check-mark": {
+      "prop": "checkMark",
+      "size": [220, 220]
+    },
+    "notepad-strawberry": {
+      "prop": "notepadStrawberry",
+      "size": [440, 320]
+    },
+    "think-cloud": {
+      "prop": "thinkCloud",
+      "size": [260, 180]
+    }
+  }
+}
+

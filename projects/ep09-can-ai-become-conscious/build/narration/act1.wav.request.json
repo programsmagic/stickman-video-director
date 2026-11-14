@@ -1,0 +1,12 @@
+{
+  "kind": "speech",
+  "model": "gemini-3.8-flash-tts",
+  "requested_at": "2026-11-13T11:55:38.882Z",
+  "request_id": "0d0b63f5-4299-4b57-865a-f1b95c0647df",
+  "status": "complete",
+  "warning": "One request only; inspect provider history before retrying",
+  "key_index": 1,
+  "mime_type": "audio/wav",
+  "output": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep09-can-ai-become-conscious/build/narration/act1.wav",
+  "sha256": "3fe66e4531d2f267532c22f30c57a1dc98b22b5de98f255f2f321e6a999b5f7a"
+}

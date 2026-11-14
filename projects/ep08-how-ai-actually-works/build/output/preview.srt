@@ -1,0 +1,31 @@
+1
+00:00:00,150 --> 00:00:03,142
+Ask an AI: how many R's are in strawberry?
+
+2
+00:00:03,392 --> 00:00:05,955
+It slams the buzzer and screams: TWO!
+
+3
+00:00:06,105 --> 00:00:07,265
+Completely wrong.
+
+4
+00:00:07,515 --> 00:00:09,250
+Because 'berry' has two R's,
+
+5
+00:00:09,400 --> 00:00:11,405
+and it never bothered to spell it out.
+
+6
+00:00:11,655 --> 00:00:13,149
+Enter the reasoning model:
+
+7
+00:00:13,299 --> 00:00:15,580
+Generating secret thinking tokens.
+
+8
+00:00:15,830 --> 00:00:18,410
+One, two, three. Solved.

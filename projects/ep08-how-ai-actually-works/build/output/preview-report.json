@@ -1,0 +1,102 @@
+{
+  "fingerprint": "8beb33e8d86ebaea7935a3dc6d9bf531556205bbdcca39eb2f5a554377ff87b4",
+  "preview_seconds": 19.309749999999998,
+  "output": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep08-how-ai-actually-works/build/output/preview.mp4",
+  "output_sha256": "06b46aa4feb75ff91d793b856eb7aeff5320d9722dfb616ac5d67da9be4cdbd2",
+  "original_voice_sha256": "056ea94ee696c9cf94edcbb30e7a0dd02ef04472afa29f6674680ed940ac9c77",
+  "original_voice_duration": 18.65975,
+  "voice_rate": "unchanged; leading/trailing padding only",
+  "frames": 580,
+  "duration": 19.333333,
+  "cache_hits": 0,
+  "shot_count": 5,
+  "full_decode": "pass",
+  "caption_count": 8,
+  "human_review": "required; technical checks are not acceptance",
+  "inputs": [
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep08-how-ai-actually-works/build/art/bot-nervous-a.png",
+      "sha256": "f052538f215a604c2f36da493aa01d5ca577ddb5a04c0a8a92b4a9efbefc58d8"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep08-how-ai-actually-works/build/art/bot-nervous-b.png",
+      "sha256": "96db7226c99c8273534f50c3ed6ba93cdab9beb3fe11964331e2b5c8f41216b8"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep08-how-ai-actually-works/build/art/bot-slam.png",
+      "sha256": "f90898131a72c14f93c315903f1e3c68ebcc9645b51ae6915b1c14e83ea3f735"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep08-how-ai-actually-works/build/art/buzzer-idle.png",
+      "sha256": "ab150072ac06a4f83b4d4f0dc307f05e8ec0ea69bc95883ff28cb489783b9a9b"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep08-how-ai-actually-works/build/art/buzzer-pressed.png",
+      "sha256": "0d831bb4c0087dbd9510a1d167eb1fee63983edfd6cf9d275ac7aa5397083bed"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep08-how-ai-actually-works/build/art/check-mark.png",
+      "sha256": "6dff0703497434240f973217e12163f2db6e08c0b0bf5379dc64e285c5420d6a"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep08-how-ai-actually-works/build/art/cross-x.png",
+      "sha256": "919ede299b2404065b1623f3b4d8df73d112cf4538304c50da01e0116e6b5b00"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep08-how-ai-actually-works/build/art/detective-solved.png",
+      "sha256": "44c2d4b3ecda3594dd24fe08cb8bacd6e1a7b0fde85fb3563dbd6f22a85ef5f7"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep08-how-ai-actually-works/build/art/detective-think-a.png",
+      "sha256": "b30d6828bd74e58f0885542307b9dce9a65592873948086880fcb20a7c8d5d5a"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep08-how-ai-actually-works/build/art/detective-think-b.png",
+      "sha256": "7748d78fe5654378c6054a750516d3ca46dc37932dc88432db1b7dc5a4cc7ec2"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep08-how-ai-actually-works/build/art/magi-facepalm-a.png",
+      "sha256": "d44cb12a569b7444ba47df0989c19b871b527383669d916695cc01862a817345"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep08-how-ai-actually-works/build/art/magi-facepalm-b.png",
+      "sha256": "ddd2f7a82b0c12e716f68608ff421da80839effe14af1361c56efd9e8dbf579b"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep08-how-ai-actually-works/build/art/magi-host-a.png",
+      "sha256": "db0a17f94014343fc057f86733ace4c78478f287c667f27edba26ce2138983b2"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep08-how-ai-actually-works/build/art/magi-host-b.png",
+      "sha256": "3beb626bc9deff5b16876afe5506de50812ca5687144077850bcbe3e343d0b24"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep08-how-ai-actually-works/build/art/magi-shock.png",
+      "sha256": "f1642a0c7fb5c9be0f37b19e48d0a93d92833b025c55d6ea8c085d812b1d1e64"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep08-how-ai-actually-works/build/art/notepad-strawberry.png",
+      "sha256": "94b7a73d91c0391fee8157bfdae7d82823fa66200fc68ba7ff252d06c9c35af2"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep08-how-ai-actually-works/build/art/podium.png",
+      "sha256": "17b3d095d785e721400ce3892219ec5b2ca2b78de5996e789a737ac557e49f80"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep08-how-ai-actually-works/build/art/think-cloud.png",
+      "sha256": "4474e6eb03f88252a20d9a85d0e1c0ad36c0d84a361f307b0652d1156955054b"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep08-how-ai-actually-works/build/narration.wav",
+      "sha256": "056ea94ee696c9cf94edcbb30e7a0dd02ef04472afa29f6674680ed940ac9c77"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/skills/directing-stickman-videos/assets/fonts/Caveat.ttf",
+      "sha256": "0bdb6b660482d31531b3945849fba5916b3ef8695da7024a9e6b9ee3c4157988"
+    },
+    {
+      "path": "/Users/prashantmishra/Developer/video-generator-stickman/skills/directing-stickman-videos/assets/fonts/NotoSans.ttf",
+      "sha256": "bfb7bb691513f12e734dc346c03a03f784912432d7e3fa8e56efcf906fe86b3d"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+Ask an AI: how many R's are in strawberry? It instantly shouts: TWO! Wrong. Berry has two R's, so it didn't bother to think. But reasoning models use hidden thinking tokens. They check every letter. One, two, three. Solved.

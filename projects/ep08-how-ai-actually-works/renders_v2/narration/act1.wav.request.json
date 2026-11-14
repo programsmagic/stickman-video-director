@@ -1,0 +1,12 @@
+{
+  "kind": "speech",
+  "model": "gemini-3.8-flash-tts",
+  "requested_at": "2026-11-14T02:13:30.317Z",
+  "request_id": "864eea8c-ed86-4285-8e6d-bb6c66eb26b6",
+  "status": "complete",
+  "warning": "One request only; inspect provider history before retrying",
+  "key_index": 1,
+  "mime_type": "audio/wav",
+  "output": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep08-how-ai-actually-works/renders_v2/narration/act1.wav",
+  "sha256": "97eaad66ca28b4247e471de7bd143dca996e3ee7eb730996f3716a7a01e33025"
+}

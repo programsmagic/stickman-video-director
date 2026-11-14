@@ -1,0 +1,296 @@
+{
+  "project": {
+    "id": "ep-hurricane-category-explained",
+    "title": "Every Hurricane Category Explained",
+    "subtitle": "The Deadly Math of Wind, Water, and the Category 6 Debate",
+    "series": "Every X Explained",
+    "mascot": "Magi",
+    "style": "B1 Code-Drawn Animated Stickman",
+    "canvas": {
+      "width": 1280,
+      "height": 720,
+      "fps": 30
+    },
+    "runtime": {
+      "target_seconds": 390.0,
+      "formatted_target": "6m 30s",
+      "spoken_word_count": 980
+    },
+    "voice_actor": {
+      "engine": "gemini-bodi",
+      "speed": 1.0,
+      "sample_rate_hz": 48000
+    }
+  },
+  "scientific_pedagogy": {
+    "core_thesis": "Human perception assumes hurricane categories scale linearly (1 to 5), but dynamic aerodynamic wind pressure scales with the square of velocity (v^2) and kinetic energy dissipation scales with the cube (v^3). Cat 5 delivers 4.5x the dynamic pressure and 20x the destructive potential of Cat 1.",
+    "formulas": [
+      {
+        "name": "Dynamic Aerodynamic Pressure",
+        "latex": "q = \\frac{1}{2} \\rho v^2",
+        "description": "Pressure exerted by moving air on a perpendicular surface (rho = 1.225 kg/m^3)"
+      },
+      {
+        "name": "Kinetic Energy Flux / Destructive Power",
+        "latex": "P = \\frac{1}{2} \\rho A v^3",
+        "description": "Rate of kinetic energy delivered per unit time, scaling cubically with wind speed"
+      },
+      {
+        "name": "Bernoulli Lift on Roof Structures",
+        "latex": "\\Delta P = \\frac{1}{2} \\rho (v_{top}^2 - v_{internal}^2)",
+        "description": "Pressure drop above roof ridge causing vertical uplift and framing shear"
+      },
+      {
+        "name": "Hydrostatic Storm Surge Drag",
+        "latex": "\\tau_w = \\rho_a C_d U_{10}^2",
+        "description": "Wind shear stress piling ocean water against shallow continental shelves"
+      }
+    ],
+    "visual_analogies": [
+      {
+        "name": "The Inverted Umbrella Wind Tunnel",
+        "concept": "Quadratic force demonstration",
+        "mechanic": "Magi tests standard umbrella at 75 mph (Cat 1) inside an aeronautical wind tunnel; ribs flex, snap backward, and yank Magi off his feet."
+      },
+      {
+        "name": "The 3D House Aerodynamic Cross-Section",
+        "concept": "Bernoulli lift + interior pressurization failure",
+        "mechanic": "Windward stagnation pressure pushes inward, accelerating airflow creates negative suction over eaves. Garage door fails, attic pressurizes like a balloon, and roof trusses pop off like a champagne cork."
+      },
+      {
+        "name": "The Glass Water Tank Flume",
+        "concept": "Storm surge bathymetry & water density",
+        "mechanic": "Cross-section flume showing seawater (800x denser than air). Surface wind friction rolls water forward; shallow shelf forces water vertically into a 20+ ft surge obliterating coastal models."
+      },
+      {
+        "name": "The Open-Ended Category 6 Gauge",
+        "concept": "Climate intensification & thermodynamic potential limit",
+        "mechanic": "Saffir-Simpson gauge hits 157 mph peg at Cat 5. Needle breaks the glass dial as sea temperatures exceed 86°F, reaching 192+ mph (Patricia 215 mph, Haiyan 195 mph)."
+      }
+    ]
+  },
+  "saffir_simpson_reference": {
+    "cat_1": {
+      "sustained_wind_mph": "74 - 95",
+      "dynamic_pressure_psf": "14.1 - 23.2",
+      "historical_surge_ft": "4 - 5",
+      "structural_damage": "Minimal framing damage, loose roof shingles torn, large tree branches snap, power lines downed causing short localized blackouts."
+    },
+    "cat_2": {
+      "sustained_wind_mph": "96 - 110",
+      "dynamic_pressure_psf": "23.7 - 31.1",
+      "historical_surge_ft": "6 - 8",
+      "structural_damage": "Extensive roof and siding damage, shallow-rooted trees uprooted blocking roads, near-total power loss lasting days to weeks."
+    },
+    "cat_3": {
+      "sustained_wind_mph": "111 - 129",
+      "dynamic_pressure_psf": "31.7 - 42.8",
+      "historical_surge_ft": "9 - 12",
+      "structural_damage": "Major hurricane classification. Severe structural framing failure, gable roofs sheared off, municipal water and electricity out for weeks."
+    },
+    "cat_4": {
+      "sustained_wind_mph": "130 - 156",
+      "dynamic_pressure_psf": "43.5 - 62.6",
+      "historical_surge_ft": "13 - 18",
+      "structural_damage": "Catastrophic damage. Complete roof structure detachment, exterior wall collapse on framed homes, most trees snapped, area uninhabitable for months."
+    },
+    "cat_5": {
+      "sustained_wind_mph": "157+",
+      "dynamic_pressure_psf": "63.4+",
+      "historical_surge_ft": "19+",
+      "structural_damage": "Total structural obliteration. Wood-framed houses wiped clean to concrete foundation slabs, steel transmission towers bent, industrial envelope failure."
+    },
+    "cat_6_proposal": {
+      "proposed_by": "Michael Wehner (LBNL) & James Kossin (First Street Foundation), PNAS 2024",
+      "sustained_wind_mph": "192+",
+      "dynamic_pressure_psf": "94.8+",
+      "notable_storms": [
+        {"name": "Hurricane Patricia (2015)", "speed_mph": 215, "min_pressure_mb": 872},
+        {"name": "Typhoon Haiyan (2013)", "speed_mph": 195, "min_pressure_mb": 895},
+        {"name": "Typhoon Meranti (2016)", "speed_mph": 195, "min_pressure_mb": 890},
+        {"name": "Typhoon Goni (2020)", "speed_mph": 195, "min_pressure_mb": 905},
+        {"name": "Hurricane Dorian (2019)", "speed_mph": 185, "gusts_mph": 220}
+      ]
+    }
+  },
+  "acts": [
+    {
+      "act_number": 1,
+      "title": "The Velocity Trap",
+      "timecode": "0:00 – 1:15",
+      "duration_seconds": 75.0,
+      "shots": [
+        {
+          "shot_id": "1.1",
+          "name": "The Deceptive Number Line",
+          "start_sec": 0.0,
+          "end_sec": 25.0,
+          "duration_sec": 25.0,
+          "props": ["Giant wooden ruler (1-5)", "Animated speedometer", "Spicy food icons"],
+          "character_ik_pose": "Puzzled thinking stance, pointing stick toward 1 vs 5",
+          "foley_cues": ["wood_tap", "speedometer_click", "chime_curiosity"]
+        },
+        {
+          "shot_id": "1.2",
+          "name": "The Inverted Umbrella Wind Tunnel",
+          "start_sec": 25.0,
+          "end_sec": 50.0,
+          "duration_sec": 25.0,
+          "props": ["Aeronautical glass tunnel", "Yellow umbrella", "Turbine fan blades", "Digital airspeed HUD"],
+          "character_ik_pose": "Holding umbrella with both arms, 2-bone IK recoil, feet sliding back with friction dust",
+          "foley_cues": ["wind_tunnel_spin_up", "umbrella_rib_flex", "loud_snap_inversion", "shoe_skid"]
+        },
+        {
+          "shot_id": "1.3",
+          "name": "The Quadratic Spike",
+          "start_sec": 50.0,
+          "end_sec": 75.0,
+          "duration_sec": 25.0,
+          "props": ["Holographic coordinate grid", "Linear dotted line", "Parabolic dynamic pressure curve"],
+          "character_ik_pose": "Wand flourish, tracing exponential graph curve with glowing tip",
+          "foley_cues": ["hologram_hum", "wand_whoosh", "energy_spike_buzz"]
+        }
+      ]
+    },
+    {
+      "act_number": 2,
+      "title": "Category 1 & 2 — The False Sense of Security",
+      "timecode": "1:15 – 2:30",
+      "duration_seconds": 75.0,
+      "shots": [
+        {
+          "shot_id": "2.1",
+          "name": "Category 1: The Branch Breaker",
+          "start_sec": 75.0,
+          "end_sec": 110.0,
+          "duration_sec": 35.0,
+          "props": ["Front yard set", "Oak branch", "Utility wire", "Electrical spark emitter", "Flapping shingles"],
+          "character_ik_pose": "Shielding eyes with forearm, walking forward into wind resistance",
+          "foley_cues": ["distant_thunder", "gale_wind_loop", "branch_crack", "electrical_short_zap", "shingle_flap"]
+        },
+        {
+          "shot_id": "2.2",
+          "name": "Category 2: The Uprooter",
+          "start_sec": 110.0,
+          "end_sec": 150.0,
+          "duration_sec": 40.0,
+          "props": ["80ft mature pine tree", "Sidewalk concrete blocks", "Ripped porch awning", "Horizontal rain streaks"],
+          "character_ik_pose": "Gripping hat with one hand, leaning forward at 35 degrees",
+          "foley_cues": ["high_pitched_whine", "concrete_root_rupture", "metal_groan_rip", "driving_rain_sheet"]
+        }
+      ]
+    },
+    {
+      "act_number": 3,
+      "title": "Category 3 — The Major Threshold & Roof Lift",
+      "timecode": "2:30 – 3:45",
+      "duration_seconds": 75.0,
+      "shots": [
+        {
+          "shot_id": "3.1",
+          "name": "The Major Hurricane Redline",
+          "start_sec": 150.0,
+          "end_sec": 180.0,
+          "duration_sec": 30.0,
+          "props": ["Flashing crimson warning HUD", "High-velocity debris missile (fence post)", "Snapped utility pole"],
+          "character_ik_pose": "Snapping goggles over eyes, ducking as projectile streaks past",
+          "foley_cues": ["redline_alarm", "wood_projectile_whoosh", "pole_snap_impact", "transformer_pop"]
+        },
+        {
+          "shot_id": "3.2",
+          "name": "The Aerodynamic House Exploder",
+          "start_sec": 180.0,
+          "end_sec": 225.0,
+          "duration_sec": 45.0,
+          "props": ["3D house cross-section", "Bernoulli streamlines", "High pressure red arrows", "Suction blue arrows", "Garage door failure"],
+          "character_ik_pose": "Holding laser pointer, demonstrating roof truss shear vectors",
+          "foley_cues": ["garage_door_blowin", "air_pressurization_thud", "truss_shear_screech", "roof_launch_whoosh"]
+        }
+      ]
+    },
+    {
+      "act_number": 4,
+      "title": "Category 4 & 5 — Total Obliteration & The Surge Tank",
+      "timecode": "3:45 – 5:00",
+      "duration_seconds": 75.0,
+      "shots": [
+        {
+          "shot_id": "4.1",
+          "name": "Category 4: The Wall Eraser",
+          "start_sec": 225.0,
+          "end_sec": 255.0,
+          "duration_sec": 30.0,
+          "props": ["Roofless house model", "Stud walls flexing", "Splintering wall collapse", "Defoliated trees"],
+          "character_ik_pose": "Bracing behind safety shield, tracking flying lumber",
+          "foley_cues": ["continuous_howling_gale", "stud_wall_buckle", "lumber_splinter_cascade"]
+        },
+        {
+          "shot_id": "4.2",
+          "name": "Category 5: Absolute Erasure",
+          "start_sec": 255.0,
+          "end_sec": 275.0,
+          "duration_sec": 20.0,
+          "props": ["Peeled asphalt shingle road", "Clean bare concrete slab", "Bent steel transmission tower"],
+          "character_ik_pose": "Clinging to anchored steel post with both arms, robe flapping at 60 Hz",
+          "foley_cues": ["sub_bass_rumble", "steel_twist_screech", "total_silence_aftermath_sweep"]
+        },
+        {
+          "shot_id": "4.3",
+          "name": "The Storm Surge Glass Water Tank",
+          "start_sec": 275.0,
+          "end_sec": 300.0,
+          "duration_sec": 25.0,
+          "props": ["Glass flume tank", "Fluorescent dye water", "Continental shelf topography", "Miniature coastal town"],
+          "character_ik_pose": "Standing beside aquarium tank, tracing rising water surface with finger",
+          "foley_cues": ["water_slosh_heavy", "glass_tank_fill", "wave_impact_crush", "hydraulic_breaker"]
+        }
+      ]
+    },
+    {
+      "act_number": 5,
+      "title": "The Category 6 Debate — When Physics Outgrows the Scale",
+      "timecode": "5:00 – 6:00",
+      "duration_seconds": 60.0,
+      "shots": [
+        {
+          "shot_id": "5.1",
+          "name": "The Top of the Scale Problem",
+          "start_sec": 300.0,
+          "end_sec": 325.0,
+          "duration_sec": 25.0,
+          "props": ["Saffir-Simpson bracket bar chart", "157 mph peg", "PNAS 2024 journal paper parchment"],
+          "character_ik_pose": "Tapping Saffir-Simpson chart, shaking head at the 'open-ended' top bracket",
+          "foley_cues": ["paper_unfurl", "pencil_circle_ding", "dial_peg_clack"]
+        },
+        {
+          "shot_id": "5.2",
+          "name": "The 192 MPH Monsters",
+          "start_sec": 325.0,
+          "end_sec": 360.0,
+          "duration_sec": 35.0,
+          "props": ["Holographic rotating Earth", "Ocean heat SST thermal map", "Satellite pinwheel overlays (Patricia, Haiyan, Dorian)", "Broken dial gauge"],
+          "character_ik_pose": "Rotating globe with hand gesture, highlighting warm ocean conveyor",
+          "foley_cues": ["thermal_scan_beep", "radar_ping", "hyper_gale_screamer", "dial_glass_crack"]
+        }
+      ]
+    },
+    {
+      "act_number": 6,
+      "title": "Conclusion & Survival Takeaway",
+      "timecode": "6:00 – 6:30",
+      "duration_seconds": 30.0,
+      "shots": [
+        {
+          "shot_id": "6.1",
+          "name": "The Ultimate Rule",
+          "start_sec": 360.0,
+          "end_sec": 390.0,
+          "duration_sec": 30.0,
+          "props": ["Calm stage lighting", "Split typography: HIDE FROM WIND / RUN FROM WATER", "Evacuation cone graphic"],
+          "character_ik_pose": "Removing goggles, walking to downstage center, tipping wizard hat",
+          "foley_cues": ["wind_decay_reverb", "gentle_sunrise_synth_pad", "hat_tip_swish", "end_bell_warm"]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "kind": "speech",
+  "model": "gemini-3.8-flash-tts",
+  "requested_at": "2026-11-09T13:55:14.694Z",
+  "request_id": "28be9330-11ce-4861-a143-2c32dc3fb608",
+  "status": "failed_or_unknown",
+  "warning": "One request only; inspect provider history before retrying",
+  "error": "fetch failed"
+}

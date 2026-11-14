@@ -68,9 +68,30 @@ const rad = d => (d * Math.PI) / 180;
 const dir = (deg, len) => [Math.sin(rad(deg)) * len, Math.cos(rad(deg)) * len];
 const add = (a, b) => [a[0] + b[0], a[1] + b[1]];
 
+// Analytical 2-Bone Inverse Kinematics (IK) Solver
+// Bend direction: 1 for outward/right bend, -1 for inward/left bend
+export function solve2BoneIK(origin, target, len1, len2, bendDirection = 1) {
+  const dx = target[0] - origin[0], dy = target[1] - origin[1];
+  const dist = Math.min(len1 + len2 - 0.001, Math.max(Math.abs(len1 - len2) + 0.001, Math.hypot(dx, dy)));
+  const angleToTarget = Math.atan2(dx, dy); // 0 points down
+  const cosAngle1 = (len1 * len1 + dist * dist - len2 * len2) / (2 * len1 * dist);
+  const angle1 = angleToTarget + bendDirection * Math.acos(Math.max(-1, Math.min(1, cosAngle1)));
+  const joint = [origin[0] + Math.sin(angle1) * len1, origin[1] + Math.cos(angle1) * len1];
+  return [origin, joint, target];
+}
+
+// Second-order spring dynamics with damping (zeta) and natural frequency (omega)
+export function spring(t, zeta = 0.65, omega = 12) {
+  if (t <= 0) return 0;
+  const decay = Math.exp(-zeta * omega * t);
+  const freq = omega * Math.sqrt(Math.max(0, 1 - zeta * zeta));
+  return 1 - decay * Math.cos(freq * t);
+}
+
 const DEFAULT_POSE = {
   torso: 0, head: 0, facing: 'front',
   armL: [-20, -10], armR: [20, 10], legL: [-12, -6], legR: [12, 6],
+  targetArmL: null, targetArmR: null, targetLegL: null, targetLegR: null,
   eyes: 'normal', brows: 'neutral', mouth: 'smile', marks: [], scarf: true, accessory: null,
 };
 
@@ -82,10 +103,16 @@ export function drawFigure(ctx, pose, {x = FIG.hipX, y = FIG.hipY, r = FIG.r, se
   const hip = [0, 0], neck = add(hip, dir(180 + p.torso, r * 3.1)), shoulder = add(hip, dir(180 + p.torso, r * 2.75));
   const head = add(neck, dir(180 + p.torso + p.head, r * 1.12));
 
-  // Legs and arms: upper + lower segment, absolute angles.
-  const limb = (from, [a1, a2], l1, l2) => { const j = add(from, dir(a1, l1)); return [from, j, add(j, dir(a2, l2))]; };
-  const legs = [limb(hip, p.legL, r * 1.9, r * 1.95), limb(hip, p.legR, r * 1.9, r * 1.95)];
-  const arms = [limb(shoulder, p.armL, r * 1.45, r * 1.4), limb(shoulder, p.armR, r * 1.45, r * 1.4)];
+  // Legs and arms: Forward Kinematics or 2-Bone Inverse Kinematics (IK)
+  const limbFK = (from, [a1, a2], l1, l2) => { const j = add(from, dir(a1, l1)); return [from, j, add(j, dir(a2, l2))]; };
+  const legs = [
+    p.targetLegL ? solve2BoneIK(hip, p.targetLegL, r * 1.9, r * 1.95, -1) : limbFK(hip, p.legL, r * 1.9, r * 1.95),
+    p.targetLegR ? solve2BoneIK(hip, p.targetLegR, r * 1.9, r * 1.95, 1) : limbFK(hip, p.legR, r * 1.9, r * 1.95)
+  ];
+  const arms = [
+    p.targetArmL ? solve2BoneIK(shoulder, p.targetArmL, r * 1.45, r * 1.4, -1) : limbFK(shoulder, p.armL, r * 1.45, r * 1.4),
+    p.targetArmR ? solve2BoneIK(shoulder, p.targetArmR, r * 1.45, r * 1.4, 1) : limbFK(shoulder, p.armR, r * 1.45, r * 1.4)
+  ];
   const face = p.facing === 'right' ? 1 : p.facing === 'left' ? -1 : 0;
 
   const acc0 = new Set([p.accessory, ...(p.accessories || [])].filter(Boolean));
@@ -115,6 +142,56 @@ export function drawFigure(ctx, pose, {x = FIG.hipX, y = FIG.hipY, r = FIG.r, se
     line([add([hx2, hy2], [0, -r * 1.6]), add([hx2, hy2], [0, r * 2.2])], {width: r * 0.07, color: COLORS.brown});
     wobbly(ctx, [add([hx2, hy2], [-r * 0.35, r * 2.2]), add([hx2, hy2], [r * 0.35, r * 2.2]), add([hx2, hy2], [r * 0.5, r * 2.8]), add([hx2, hy2], [-r * 0.5, r * 2.8])], {width: r * 0.05, seed: s++, amp: 0.5, close: true, fill: COLORS.scarf});
   }
+  if (acc.has('mic')) {
+    line([add([hx2, hy2], [0, 0]), add([hx2, hy2], [0, r * 0.7])], {width: r * 0.08, color: INK});
+    wobbly(ctx, ellipsePts(hx2, hy2 - r * 0.25, r * 0.22, r * 0.28), {width: r * 0.06, seed: s++, close: true, fill: '#4A5568'});
+  }
+  if (acc.has('magnifier')) {
+    line([add([hx2, hy2], [0, 0]), add([hx2, hy2], [r * 0.6, r * 0.7])], {width: r * 0.08, color: COLORS.brown});
+    wobbly(ctx, ellipsePts(hx2 - r * 0.3, hy2 - r * 0.3, r * 0.45, r * 0.45), {width: r * 0.08, seed: s++, close: true, fill: COLORS.glass, color: '#4A5568'});
+  }
+  if (acc.has('spatula')) {
+    // Metal kitchen spatula
+    ctx.save();
+    ctx.translate(hx2, hy2);
+    const spAngle = p.propAngle != null ? p.propAngle : 0;
+    ctx.rotate(spAngle);
+    // Wooden handle
+    line([[0, 0], [0, -r * 0.9]], {width: r * 0.08, color: '#854D0E'});
+    // Metallic flat flipper head
+    wobbly(ctx, [[-r * 0.28, -r * 1.5], [r * 0.28, -r * 1.5], [r * 0.22, -r * 0.9], [-r * 0.22, -r * 0.9]], {width: r * 0.06, seed: s++, close: true, fill: '#CBD5E1', color: '#475569'});
+    // Flipper slots
+    for (let sl = -1; sl <= 1; sl++) {
+      line([[sl * r * 0.1, -r * 1.05], [sl * r * 0.1, -r * 1.35]], {width: r * 0.03, color: '#475569'});
+    }
+    ctx.restore();
+  }
+  if (acc.has('cloche')) {
+    // Silver domed serving platter
+    ctx.save();
+    ctx.translate(hx2, hy2);
+    // Domed lid
+    wobbly(ctx, [...arcPts(0, -r * 0.2, r * 0.8, r * 0.65, Math.PI, 2 * Math.PI)], {width: r * 0.07, seed: s++, close: true, fill: '#E2E8F0', color: '#64748B'});
+    // Bottom platter rim
+    wobbly(ctx, ellipsePts(0, -r * 0.2, r * 0.9, r * 0.15), {width: r * 0.06, seed: s++, close: true, fill: '#CBD5E1', color: '#475569'});
+    // Top knob
+    wobbly(ctx, ellipsePts(0, -r * 0.85, r * 0.15, r * 0.15), {width: r * 0.05, seed: s++, close: true, fill: '#F59E0B'});
+    ctx.restore();
+  }
+  if (acc.has('flashlight')) {
+    // Heavy brass flashlight rotatable to aim along arm or custom propAngle
+    ctx.save();
+    ctx.translate(hx2, hy2);
+    const flAngle = p.propAngle != null ? p.propAngle : (p.targetArmR ? Math.atan2(arms[1][2][0] - arms[1][1][0], -(arms[1][2][1] - arms[1][1][1])) : 0);
+    ctx.rotate(flAngle);
+    // Cylinder body
+    wobbly(ctx, [[-r * 0.15, -r * 0.45], [r * 0.15, -r * 0.45], [r * 0.12, r * 0.2], [-r * 0.12, r * 0.2]], {width: r * 0.06, seed: s++, close: true, fill: '#D97706'});
+    // Beveled head
+    wobbly(ctx, [[-r * 0.35, -r * 0.75], [r * 0.35, -r * 0.75], [r * 0.2, -r * 0.45], [-r * 0.2, -r * 0.45]], {width: r * 0.07, seed: s++, close: true, fill: '#B45309'});
+    // Glowing lens
+    wobbly(ctx, ellipsePts(0, -r * 0.75, r * 0.3, r * 0.1), {width: r * 0.05, seed: s++, close: true, fill: '#FEF08A'});
+    ctx.restore();
+  }
   if (p.scarf) {
     const ang = rad(p.torso), band = ellipsePts(neck[0], neck[1] + r * 0.12, r * 0.62, r * 0.2, ang);
     wobbly(ctx, band, {width: r * 0.06, seed: s++, amp: 0.6, close: true, fill: COLORS.scarf});
@@ -141,6 +218,41 @@ export function drawFigure(ctx, pose, {x = FIG.hipX, y = FIG.hipY, r = FIG.r, se
     wobbly(ctx, [...arcPts(hx, hy - r * 0.1, r * 1.02, r * 0.95, Math.PI, 2 * Math.PI)], {width: r * 0.07, seed: s++, amp: 0.5, close: true, fill: acc.has('cap-blue') ? COLORS.blue : COLORS.red});
     line([[hx + (face >= 0 ? 0 : -1.5) * r, hy - r * 0.12], [hx + (face >= 0 ? 1.5 : 0) * r, hy - r * 0.12]], {width: r * 0.1});
   }
+  if (acc.has('deerstalker')) {
+    // Sherlock Holmes / Detective deerstalker cap: rounded dome, front & rear visors, tied ear-flaps
+    const domeY = hy - r * 0.75;
+    wobbly(ctx, ellipsePts(hx, domeY, r * 1.05, r * 0.65), {width: r * 0.07, seed: s++, amp: 0.5, close: true, fill: '#8C7355'});
+    // Front and back visor
+    wobbly(ctx, arcPts(hx + r * 0.2, domeY + r * 0.25, r * 1.25, r * 0.25, 0, Math.PI), {width: r * 0.08, seed: s++, color: '#5B4329'});
+    wobbly(ctx, arcPts(hx - r * 0.2, domeY + r * 0.25, r * 1.25, r * 0.25, 0, Math.PI), {width: r * 0.08, seed: s++, color: '#5B4329'});
+    // Ear-flap bow tied at the top
+    wobbly(ctx, ellipsePts(hx, domeY - r * 0.55, r * 0.25, r * 0.18), {width: r * 0.05, seed: s++, close: true, fill: '#5B4329'});
+  }
+  if (acc.has('trenchcoat')) {
+    wobbly(ctx, [add(shoulder, [-r * 0.55, r * 0.2]), add(shoulder, [r * 0.55, r * 0.2]), add(hip, [r * 1.1, r * 1.8]), add(hip, [-r * 1.1, r * 1.8])], {width: r * 0.06, seed: s++, amp: 0.6, close: true, fill: '#B89B72'});
+    // Lapel collar
+    line([add(neck, [-r * 0.4, 0]), add(neck, [0, r * 0.8]), add(neck, [r * 0.4, 0])], {width: r * 0.06, color: '#5B4329'});
+  }
+  if (acc.has('chef-hat')) {
+    // Tall pleated white toque / chef hat
+    const hatBaseY = hy - r * 0.75;
+    // Lower band
+    wobbly(ctx, [[hx - r * 0.8, hatBaseY], [hx + r * 0.8, hatBaseY], [hx + r * 0.75, hatBaseY - r * 0.3], [hx - r * 0.75, hatBaseY - r * 0.3]], {width: r * 0.06, seed: s++, close: true, fill: '#FFFFFF', color: '#64748B'});
+    // Puffed top crown
+    wobbly(ctx, [
+      [hx - r * 0.75, hatBaseY - r * 0.3],
+      [hx - r * 1.15, hatBaseY - r * 1.2],
+      [hx - r * 0.6, hatBaseY - r * 1.6],
+      [hx, hatBaseY - r * 1.75],
+      [hx + r * 0.6, hatBaseY - r * 1.6],
+      [hx + r * 1.15, hatBaseY - r * 1.2],
+      [hx + r * 0.75, hatBaseY - r * 0.3]
+    ], {width: r * 0.07, seed: s++, close: true, fill: '#FFFFFF', color: '#64748B'});
+    // Vertical pleats
+    for (let pl = -2; pl <= 2; pl++) {
+      line([[hx + pl * r * 0.25, hatBaseY - r * 0.35], [hx + pl * r * 0.35, hatBaseY - r * 1.35]], {width: r * 0.035, color: '#94A3B8'});
+    }
+  }
   const ex = [-r * 0.33 + fx, r * 0.33 + fx], ey = hy - r * 0.08;
   const eye = (cx, cy) => {
     if (p.eyes === 'closed') line(arcPts(cx, cy, r * 0.13, r * 0.07, 0, Math.PI), {width: r * 0.06});
@@ -153,6 +265,14 @@ export function drawFigure(ctx, pose, {x = FIG.hipX, y = FIG.hipY, r = FIG.r, se
   ex.forEach(e => eye(hx + e, ey));
   if (acc.has('glasses')) { ex.forEach((e, i) => wobbly(ctx, ellipsePts(hx + e, ey, r * 0.24, r * 0.22), {width: r * 0.05, seed: s + i, amp: 0.3, close: true})); line([[hx + ex[0] + r * 0.24, ey], [hx + ex[1] - r * 0.24, ey]], {width: r * 0.04}); }
   if (acc.has('sunglasses')) { ex.forEach((e, i) => wobbly(ctx, ellipsePts(hx + e, ey + r * 0.03, r * 0.27, r * 0.19), {width: r * 0.05, seed: s + i, amp: 0.3, close: true, fill: INK})); line([[hx + ex[0], ey], [hx + ex[1], ey]], {width: r * 0.06}); }
+  if (acc.has('goggles')) {
+    // Camera / VR Vision goggles with dual cyan lenses and strap
+    line([[hx - r * 0.95, ey], [hx + r * 0.95, ey]], {width: r * 0.12, color: '#334155'});
+    ex.forEach((e, i) => {
+      wobbly(ctx, ellipsePts(hx + e, ey, r * 0.28, r * 0.24), {width: r * 0.07, seed: s + i, close: true, fill: '#0EA5E9', color: '#0369A1'});
+      wobbly(ctx, ellipsePts(hx + e, ey, r * 0.12, r * 0.12), {width: r * 0.04, seed: s + i + 1, close: true, fill: '#BAE6FD'});
+    });
+  }
   const by = ey - r * 0.32, bw = r * 0.16;
   const brow = (cx, side) => {
     const shapes = {
@@ -422,6 +542,44 @@ Object.assign(PROPS, {
     for (const x of [0.38, 0.5, 0.62]) wobbly(ctx, [[w * x, h * 0.35], [w * x + 8, h * 0.2], [w * x - 4, h * 0.05]], {width: 3, seed: 672 + x * 10, color: COLORS.gray});
   },
   hat(ctx, w, h) { wobbly(ctx, [[w * 0.25, h * 0.7], [w * 0.3, 10], [w * 0.7, 10], [w * 0.75, h * 0.7]], {width: 6, seed: 531, close: true, fill: INK}); wobbly(ctx, [[5, h * 0.75], [w - 5, h * 0.75]], {width: 9, seed: 532}); },
+  podium(ctx, w, h) {
+    box(ctx, 10, h * 0.2, w - 10, h * 0.3, {seed: 701, fill: '#7C4A21'});
+    box(ctx, w * 0.2, h * 0.3, w * 0.8, h - 10, {seed: 702, fill: '#A06D3B'});
+    wobbly(ctx, ellipsePts(w / 2, h * 0.55, 32, 32), {width: 5, seed: 703, close: true, fill: COLORS.scarf});
+    hand(ctx, '?', w / 2, h * 0.62, 44, INK, 'center');
+  },
+  buzzer(ctx, w, h, o) {
+    // Metal sloped console box with giant red dome buzzer
+    box(ctx, 10, h * 0.5, w - 10, h - 10, {seed: 711, fill: '#4A5568'});
+    const pressed = o.pressed ?? false;
+    const domeH = pressed ? h * 0.2 : h * 0.38;
+    wobbly(ctx, arcPts(w / 2, h * 0.52, w * 0.35, domeH, Math.PI, 2 * Math.PI), {width: 7, seed: 712, close: true, fill: COLORS.red});
+  },
+  crossX(ctx, w, h) {
+    wobbly(ctx, [[20, 20], [w - 20, h - 20]], {width: 18, seed: 721, color: COLORS.red});
+    wobbly(ctx, [[w - 20, 20], [20, h - 20]], {width: 18, seed: 722, color: COLORS.red});
+  },
+  checkMark(ctx, w, h) {
+    wobbly(ctx, [[20, h * 0.55], [w * 0.42, h - 20], [w - 20, 20]], {width: 18, seed: 731, color: COLORS.green});
+  },
+  notepadStrawberry(ctx, w, h) {
+    // Yellow legal pad with handwritten strawberry breakdown
+    box(ctx, 10, 10, w - 10, h - 10, {seed: 741, fill: '#FEF9C3'});
+    box(ctx, 10, 10, w - 10, 45, {seed: 742, fill: '#B45309'});
+    hand(ctx, 's - t - r - a - w - b - e - r - r - y', w / 2, 95, 32, INK, 'center');
+    // Circles around the 3 'r's
+    wobbly(ctx, ellipsePts(w * 0.33, 85, 18, 22), {width: 4, seed: 743, close: true, color: COLORS.green});
+    hand(ctx, '#1', w * 0.33, 140, 26, COLORS.green, 'center');
+    wobbly(ctx, ellipsePts(w * 0.77, 85, 18, 22), {width: 4, seed: 744, close: true, color: COLORS.green});
+    hand(ctx, '#2', w * 0.77, 140, 26, COLORS.green, 'center');
+    wobbly(ctx, ellipsePts(w * 0.89, 85, 18, 22), {width: 4, seed: 745, close: true, color: COLORS.green});
+    hand(ctx, '#3', w * 0.89, 140, 26, COLORS.green, 'center');
+    hand(ctx, 'TOTAL = 3 R\'s!', w / 2, h - 30, 40, COLORS.green, 'center');
+  },
+  thinkCloud(ctx, w, h) {
+    wobbly(ctx, [[w * 0.15, h * 0.5], [w * 0.1, h * 0.3], [w * 0.28, h * 0.15], [w * 0.5, h * 0.1], [w * 0.75, h * 0.15], [w * 0.9, h * 0.35], [w * 0.85, h * 0.65], [w * 0.68, h * 0.85], [w * 0.35, h * 0.85]], {width: 7, seed: 751, close: true, fill: '#FFFFFF'});
+    hand(ctx, '<think>', w / 2, h * 0.5 + 12, 38, COLORS.purple, 'center');
+  },
 });
 
 export function renderAsset(spec, seed = 7) {

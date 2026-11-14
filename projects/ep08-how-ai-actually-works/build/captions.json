@@ -1,0 +1,42 @@
+[
+  {
+    "start": 0.15,
+    "end": 3.142,
+    "text": "Ask an AI: how many R's are in strawberry?"
+  },
+  {
+    "start": 3.392,
+    "end": 5.955,
+    "text": "It slams the buzzer and screams: TWO!"
+  },
+  {
+    "start": 6.105,
+    "end": 7.265,
+    "text": "Completely wrong."
+  },
+  {
+    "start": 7.515,
+    "end": 9.25,
+    "text": "Because 'berry' has two R's,"
+  },
+  {
+    "start": 9.4,
+    "end": 11.405,
+    "text": "and it never bothered to spell it out."
+  },
+  {
+    "start": 11.655,
+    "end": 13.149,
+    "text": "Enter the reasoning model:"
+  },
+  {
+    "start": 13.299,
+    "end": 15.58,
+    "text": "Generating secret thinking tokens."
+  },
+  {
+    "start": 15.83,
+    "end": 18.41,
+    "text": "One, two, three. Solved."
+  }
+]
