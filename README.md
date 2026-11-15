@@ -20,6 +20,8 @@
 | **Episode 03** | **Can AI Ever Become Conscious? (The Chinese Room, Qualia & IIT)** | 5m 32s | Chinese Room cutaway, P-Zombie, Integrated Information Theory $\Phi$, Cosmic Candle | **Master Completed** |
 | **Episode 04** | **The Geometry of Thinking (Loss Landscapes & Backpropagation)** | ~6m 00s | High-dimensional loss landscapes, gradient descent hiker, backprop pulleys | **In Pre-Production** |
 
+> 📖 **Comprehensive Studio Production & Animation Guide**: For an exhaustive, end-to-end breakdown of how our videos are made, the 2-bone analytical IK kinematics, procedural Foley audio synthesis, installed skills, and engineering pipeline, see [**STUDIO_PRODUCTION_GUIDE.md**](STUDIO_PRODUCTION_GUIDE.md). Detailed reference blueprint: [**AI_VIDEO_PRODUCTION_MASTER_GUIDE.md**](AI_VIDEO_PRODUCTION_MASTER_GUIDE.md).
+
 ---
 
 Start with a topic, an article, or a script. Automatically orchestrate visuals, voiceovers, captions, and sound effects into a production-ready stickman video.
