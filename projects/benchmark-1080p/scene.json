@@ -1,0 +1,87 @@
+{
+  "schemaVersion": "1.0",
+  "episodeId": "benchmark-proof-of-quality",
+  "sceneId": "scene-001-gradient-hiker",
+  "title": "The Geometry of Thinking: Gradient Descent Benchmark",
+  "renderer": "canvas",
+  "duration": 12.0,
+  "fps": 30,
+  "resolution": {
+    "width": 1920,
+    "height": 1080
+  },
+  "narration": {
+    "start": 0.0,
+    "end": 11.5
+  },
+  "camera": {
+    "shot": "medium-wide",
+    "movement": "slow-push-in"
+  },
+  "visual": {
+    "metaphor": "Magi as a foggy mountaineer illuminating the loss landscape valley",
+    "background": "#0B1120",
+    "characters": [
+      {
+        "id": "magi",
+        "pose": "inspect",
+        "x": 480,
+        "y": 720,
+        "expression": "curious",
+        "blinking": true,
+        "breathing": true,
+        "contactShadow": true
+      }
+    ],
+    "props": [
+      "lantern",
+      "measuring-staff",
+      "topographic-contour-grid",
+      "gradient-vector-flow"
+    ]
+  },
+  "beats": [
+    {
+      "at": 0.0,
+      "action": "establish",
+      "description": "Magi at foggy mountain ridge with breathing and natural eye blinks"
+    },
+    {
+      "at": 3.2,
+      "action": "anticipation",
+      "description": "Magi leans forward and raises lantern; fog dissipates revealing loss valley"
+    },
+    {
+      "at": 6.0,
+      "action": "ground_tap",
+      "description": "Magi taps staff to the stone ridge; resonant chime triggers gradient path"
+    },
+    {
+      "at": 8.5,
+      "action": "path_reaches_minimum",
+      "description": "Golden descent trajectory arrives at global loss minimum"
+    },
+    {
+      "at": 10.0,
+      "action": "celebrate_followthrough",
+      "description": "Magi turns to camera with wide eyes and smile, scarf trailing with spring physics"
+    }
+  ],
+  "labels": [
+    {
+      "text": "GRADIENT DESCENT: SEEKING THE GLOBAL MINIMUM",
+      "at": 1.0,
+      "style": "NotoSans-24"
+    }
+  ],
+  "audio": [
+    { "type": "sfx", "asset": "mountain_ambience", "at": 0.0, "gain": 0.2 },
+    { "type": "sfx", "asset": "staff_tap_chime", "at": 6.0, "gain": 0.65 },
+    { "type": "sfx", "asset": "gradient_descent_arpeggio", "at": 6.2, "gain": 0.45 },
+    { "type": "sfx", "asset": "minimum_lock_sparkle", "at": 8.5, "gain": 0.5 }
+  ],
+  "transitionOut": {
+    "type": "fade",
+    "duration": 0.5
+  }
+}

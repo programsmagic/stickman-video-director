@@ -15,6 +15,7 @@
     "qa:ep02": "node projects/ep08-how-ai-actually-works/renders_v2/qa_controller.mjs",
     "qa:inspect": "node projects/tools/qa_inspector.mjs",
     "validate:scene": "node projects/tools/scene_validator.mjs",
+    "benchmark:1080p": "node projects/benchmark-1080p/render_proof_of_quality.mjs",
     "upload:ep02": "node projects/tools/upload_ep02.mjs",
     "auth:youtube": "node projects/tools/auth_youtube.mjs",
     "test:doctor": "node skills/directing-stickman-videos/scripts/autopilot.mjs doctor"
