@@ -1,0 +1,36 @@
+{
+  "timestamp": "2026-11-15T02:34:00.577Z",
+  "video_file": "/Users/prashantmishra/Developer/video-generator-stickman/exports/EP02-How-AI-Actually-Works-Final.mp4",
+  "format": {
+    "duration_seconds": 699.021333,
+    "duration_formatted": "11m 39.0s",
+    "size_mb": "33.47",
+    "bitrate_kbps": 402
+  },
+  "video_stream": {
+    "codec": "h264",
+    "resolution": "1280x720",
+    "fps": "30/1",
+    "pix_fmt": "yuv420p",
+    "total_frames": "20967"
+  },
+  "audio_stream": {
+    "codec": "aac",
+    "sample_rate": 48000,
+    "channels": 1,
+    "bitrate_kbps": 188
+  },
+  "audio_levels": {
+    "max_volume_db": 0,
+    "mean_volume_db": 0,
+    "clipping_detected": true
+  },
+  "checks": {
+    "resolution_pass": true,
+    "fps_pass": true,
+    "audio_sample_rate_pass": true,
+    "no_clipping_pass": false,
+    "no_accidental_blackouts_pass": true,
+    "status": "PASSED_QUALITY_INSPECTION"
+  }
+}

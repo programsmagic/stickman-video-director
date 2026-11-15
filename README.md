@@ -2,12 +2,25 @@
 
 [**🇺🇸 EN**](README.en.md) · [🇨🇳 简中](README.zh-CN.md) · [🇯🇵 日本語](README.ja.md) · [🇰🇷 한국어](README.ko.md) · [🇫🇷 FR](README.fr.md) · [🇧🇷 PT-BR](README.pt-BR.md) · [🇹🇷 TR](README.tr.md) · [🇮🇩 ID](README.id.md)
 
-# 🎬 Stickman Video Director
+# 🎬 Stickman Video Director & Studio
 
 **Turn any script into viral, multi-style animated stickman videos for Faceless YouTube Channels. Fully open-source.**
 
 [![GitHub Stars](https://img.shields.io/github/stars/kaomei/stickman-video-director?style=flat-square)](https://github.com/kaomei/stickman-video-director/stargazers)
 ![MIT License](https://img.shields.io/badge/License-MIT-16a34a?style=flat-square)
+
+---
+
+### 🌟 Active Production: The Artificial Intelligence Explainer Series
+
+| Episode | Title & Topic | Runtime | Visual Metaphor | Status |
+|---|---|---|---|---|
+| **Episode 01** | **How We Taught Sand to Think: Complete History of AI (1950–2026)** | 7m 07s | Turing tape, Dartmouth, Winter glacier, ImageNet, GPU breakthrough | **[Published](https://youtu.be/83wD-gYcQbc)** |
+| **Episode 02** | **How AI Actually Works (Inside the Minds of GPT, Gemini & DeepSeek)** | 11m 39s | 12,288-D Supermarket, $Q,K,V$ Flashlights, <think> Scratchpad, 64-Chef MoE, ReAct Agent | **[Premiere Scheduled: Nov 17](https://youtu.be/FP7hbC2qdms)** |
+| **Episode 03** | **Can AI Ever Become Conscious? (The Chinese Room, Qualia & IIT)** | 5m 32s | Chinese Room cutaway, P-Zombie, Integrated Information Theory $\Phi$, Cosmic Candle | **Master Completed** |
+| **Episode 04** | **The Geometry of Thinking (Loss Landscapes & Backpropagation)** | ~6m 00s | High-dimensional loss landscapes, gradient descent hiker, backprop pulleys | **In Pre-Production** |
+
+---
 
 Start with a topic, an article, or a script. Automatically orchestrate visuals, voiceovers, captions, and sound effects into a production-ready stickman video.
 

@@ -1,0 +1,24 @@
+{
+  "name": "video-generator-stickman",
+  "version": "2.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Autonomous Stickman Explainer & Mathematical Animation Studio",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "render:ep02": "node projects/ep08-how-ai-actually-works/renders_v2/assemble_ep02_feature.mjs",
+    "render:ep02:acts": "node projects/ep08-how-ai-actually-works/renders_v2/render_act1_zoo.mjs && node projects/ep08-how-ai-actually-works/renders_v2/render_act2_coordinates.mjs && node projects/ep08-how-ai-actually-works/renders_v2/render_act3_attention.mjs && node projects/ep08-how-ai-actually-works/renders_v2/render_act4_reasoning.mjs && node projects/ep08-how-ai-actually-works/renders_v2/render_act5_moe.mjs && node projects/ep08-how-ai-actually-works/renders_v2/render_act6_agents.mjs",
+    "render:ep02:subtitles": "node projects/ep08-how-ai-actually-works/renders_v2/generate_ep02_subtitles.mjs",
+    "render:ep02:thumb": "node projects/ep08-how-ai-actually-works/renders_v2/render_ep02_thumbnail.mjs",
+    "qa:ep02": "node projects/ep08-how-ai-actually-works/renders_v2/qa_controller.mjs",
+    "upload:ep02": "node projects/tools/upload_ep02.mjs",
+    "auth:youtube": "node projects/tools/auth_youtube.mjs",
+    "test:doctor": "node skills/directing-stickman-videos/scripts/autopilot.mjs doctor"
+  },
+  "dependencies": {
+    "@napi-rs/canvas": "^0.1.100"
+  }
+}
+

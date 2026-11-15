@@ -8,3 +8,8 @@ token.json
 __pycache__/
 *.pyc
 autopilot-work/
+.venv/
+venv/
+.DS_Store
+*.tmp
+

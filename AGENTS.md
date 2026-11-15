@@ -1,13 +1,27 @@
 # Studio Operational Manual & Agent Guidelines
 **Repository**: `video-generator-stickman`  
-**Last Updated**: November 13, 2026  
-**Status**: Episode 09 Complete (Master Feature 5m 32s), Episode 08 Complete (5m 16s), Shorts Suite Active (3x 9:16), Hurricane Explainer Scripted
+**Last Updated**: November 14, 2026  
+**Status**: Episode 02 (How AI Actually Works - Definitive Edition 11m 39s) Complete, Episode 09 (Can AI Ever Become Conscious? 5m 32s) Complete, Episode 01 (History of AI / EP07 7m 07s) Published
 
 ---
 
 ## 1. Studio Progress & Live Assets
 
 ### Completed Masterpieces (`exports/`)
+- **Episode 02: How AI Actually Works (Inside the Minds of GPT, Gemini & DeepSeek — Definitive Master Edition)**:
+  - **YouTube Premiere**: Scheduled for **Tuesday, Nov 17, 2026 @ 19:00 UTC (2:00 PM EST)** (Video ID: `FP7hbC2qdms`)
+  - **Studio Edit**: https://studio.youtube.com/video/FP7hbC2qdms/edit
+  - **Watch URL**: https://youtu.be/FP7hbC2qdms
+  - **Full Feature Film**: [`exports/EP02-How-AI-Actually-Works-Final.mp4`](file:///Users/prashantmishra/Developer/video-generator-stickman/exports/EP02-How-AI-Actually-Works-Final.mp4) (11m 39s, 1280x720, 30fps, 48kHz procedural Foley + Gemini Bodi narration)
+  - **Subtitles**: [`exports/EP02-How-AI-Actually-Works-Final.en.srt`](file:///Users/prashantmishra/Developer/video-generator-stickman/exports/EP02-How-AI-Actually-Works-Final.en.srt) (219 precision word-aligned cues)
+  - **Thumbnail**: [`exports/EP02-thumbnail.png`](file:///Users/prashantmishra/Developer/video-generator-stickman/exports/EP02-thumbnail.png) (1280x720, custom mobile CTR design)
+  - **Act 1**: [`exports/EP02-Act1-AI-Zoo-Masterpiece.mp4`](file:///Users/prashantmishra/Developer/video-generator-stickman/exports/EP02-Act1-AI-Zoo-Masterpiece.mp4) (114.4s - AI Zoo, 3-step loop: Words → Dials → Probabilities, 4 species terrariums)
+  - **Act 2**: [`exports/EP02-Act2-Coordinates-Masterpiece.mp4`](file:///Users/prashantmishra/Developer/video-generator-stickman/exports/EP02-Act2-Coordinates-Masterpiece.mp4) (123.0s - Typewriter letter trap, BPE strawberry bug, 12,288-dim Supermarket, King-Man+Woman=Queen)
+  - **Act 3**: [`exports/EP02-Act3-Attention-Masterpiece.mp4`](file:///Users/prashantmishra/Developer/video-generator-stickman/exports/EP02-Act3-Attention-Masterpiece.mp4) (121.3s - RNN straw amnesia, Q-K-V cocktail party, 96 attention flashlights, Softmax chute)
+  - **Act 4**: [`exports/EP02-Act4-Reasoning-Masterpiece.mp4`](file:///Users/prashantmishra/Developer/video-generator-stickman/exports/EP02-Act4-Reasoning-Masterpiece.mp4) (111.8s - Fast auctioneer bat/ball riddle fail, Detective <think> scratchpad, backtracking, GRPO)
+  - **Act 5**: [`exports/EP02-Act5-MoE-Masterpiece.mp4`](file:///Users/prashantmishra/Developer/video-generator-stickman/exports/EP02-Act5-MoE-Masterpiece.mp4) (107.6s - 1,000-ton smoking steel brain, 64 chefs with 62 sleeping, DeepSeek-V3 671B/37B 95% savings)
+  - **Act 6**: [`exports/EP02-Act6-Autonomous-Masterpiece.mp4`](file:///Users/prashantmishra/Developer/video-generator-stickman/exports/EP02-Act6-Autonomous-Masterpiece.mp4) (121.0s - Uncaging the brain in a jar, 4-step ReAct loop, sand-to-galaxy Turing finale)
+
 - **Episode 09: Can AI Ever Become Conscious? (The Chinese Room, Qualia & Inside the Minds of Silicon)**:
   - **Full Feature Film**: [`exports/EP09-Can-AI-Become-Conscious-Final.mp4`](file:///Users/prashantmishra/Developer/video-generator-stickman/exports/EP09-Can-AI-Become-Conscious-Final.mp4) (5m 32s, 1280x720, 30fps, 48kHz Foley + Gemini Bodi narration)
   - **Act 1**: [`exports/EP09-Act1-Illusion-Masterpiece.mp4`](file:///Users/prashantmishra/Developer/video-generator-stickman/exports/EP09-Act1-Illusion-Masterpiece.mp4) (56.4s - Animatronic Marionette Theater, Chalmers Easy vs Hard Problem split)
@@ -58,10 +72,10 @@
 ### Track A: Deep-Tech / AI Explainer Series
 | Episode | Topic | Core Visual Metaphor | Status | Runtime Target |
 |---|---|---|---|---|
-| **EP08** | **How AI Actually Works** | Zoo, 3D Supermarket, Attention Flashlight, 64-Chef Kitchen | **Completed** | 5m 16s |
-| **EP09** | **Can AI Become Conscious?** | The Chinese Room, Philosophical Zombie, The Mirror Test, Superintelligence horizon | **Completed** | 5m 32s |
-| **EP07** | **History of AI Remaster** | Alan Turing Paper tape, Dartmouth conference, Winter glacier, Deep Blue, Sand to Silicon | **In Production (Next)** | 4m 30s |
-| **EP10** | **The Geometry of Thinking** | Neural net loss landscapes, Gradient descent hiker on foggy mountain, Backpropagation pulleys | **Script & Research** | 4m 30s |
+| **Episode 01** (EP07) | **The Complete History of AI: Sand to Silicon** | Turing tape, Dartmouth, Winter glacier, ImageNet, GPU breakthrough | **Published** | 7m 07s |
+| **Episode 02** (EP08 v2) | **How AI Actually Works (Inside GPT, Gemini & DeepSeek)** | AI Zoo, 12,288-D Supermarket, Attention Flashlights, <think> Scratchpad, 64-Chef MoE, ReAct Agent | **Scheduled (Nov 17)** | **11m 39s** |
+| **Episode 03** (EP09) | **Can AI Ever Become Conscious?** | The Chinese Room, P-Zombie, Integrated Information Theory $\Phi$, The Cosmic Candle | **Completed** | 5m 32s |
+| **Episode 04** (EP10) | **The Geometry of Thinking** | Neural net loss landscapes, Gradient descent hiker on foggy mountain, Backpropagation pulleys | **Script & Research** | 6m 00s |
 
 ### Track B: High-RPM "What If" & Conceptual Series (from `projects/research/topics.csv`)
 | Topic | Format Family | Demand Score | Gap | RPM Tier |

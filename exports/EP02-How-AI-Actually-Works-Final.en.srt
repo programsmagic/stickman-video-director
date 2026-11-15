@@ -1,0 +1,875 @@
+1
+00:00:02,288 --> 00:00:04,209
+If you open the news today
+
+2
+00:00:04,269 --> 00:00:08,953
+it feels like a brand-new artificial intelligence is born every twelve hours.
+
+3
+00:00:09,013 --> 00:00:11,653
+ChatGPT, Gemini, Claude, DeepSeek, Llama, Grok...
+
+4
+00:00:11,713 --> 00:00:16,069
+Trillion-dollar tech giants build datacenter cities powered by nuclear reactors
+
+5
+00:00:16,129 --> 00:00:19,728
+open-source labs drop sudden shockwaves from across the globe
+
+6
+00:00:19,788 --> 00:00:25,018
+and every single company claims their silicon mind is the smartest thing on Earth.
+
+7
+00:00:25,078 --> 00:00:30,050
+But if you peel away the billion-dollar marketing and the endless brand names...
+
+8
+00:00:30,110 --> 00:00:32,126
+what actually is an AI model?
+
+9
+00:00:32,186 --> 00:00:34,287
+Are they completely different machines
+
+10
+00:00:34,347 --> 00:00:37,923
+or are they all secretly running the exact same trick?
+
+11
+00:00:37,983 --> 00:00:46,084
+Here is the biggest secret in computer science: whether an AI was trained in California by OpenAI or in Hangzhou by DeepSeek
+
+12
+00:00:46,144 --> 00:00:51,498
+every frontier language model on this planet runs on the exact same three-step recipe.
+
+13
+00:00:51,558 --> 00:00:54,112
+Step one: chop human words into numbers.
+
+14
+00:00:54,172 --> 00:00:59,738
+Step two: multiply those numbers through billions of microscopic mathematical dials called weights.
+
+15
+00:00:59,798 --> 00:01:03,943
+And step three: calculate the probability of what word comes next.
+
+16
+00:01:04,003 --> 00:01:04,645
+That's it!
+
+17
+00:01:04,705 --> 00:01:06,658
+But over the last two years
+
+18
+00:01:06,718 --> 00:01:10,380
+this simple recipe split into four completely distinct species.
+
+19
+00:01:10,440 --> 00:01:10,940
+Welcome...
+
+20
+00:01:10,947 --> 00:01:12,518
+to the Modern AI Zoo.
+
+21
+00:01:12,578 --> 00:01:18,151
+Species Number One: The Fast Auctioneer — next-token predictors that talk at lightning speed.
+
+22
+00:01:18,211 --> 00:01:26,757
+Species Number Two: The Chess Detective — reasoning models that pause to think in a secret scratchpad before they ever utter a word.
+
+23
+00:01:26,817 --> 00:01:36,112
+Species Number Three: The Specialist Kitchen — Mixture-of-Experts models that save ninety-five percent of electricity by only waking up the chefs they need.
+
+24
+00:01:36,172 --> 00:01:40,988
+And Species Number Four: The Autonomous Agent — models that don't just chat
+
+25
+00:01:41,048 --> 00:01:43,157
+but have eyes, hands, and tools.
+
+26
+00:01:43,217 --> 00:01:44,975
+To understand how they work
+
+27
+00:01:45,035 --> 00:01:52,051
+we have to start at the absolute foundation: how does a cold piece of melted sand understand human language?
+
+28
+00:01:56,859 --> 00:01:58,437
+Computers cannot read letters.
+
+29
+00:01:58,497 --> 00:02:05,438
+A computer chip is literally just billions of microscopic switches that are either ON or OFF — ones and zeros.
+
+30
+00:02:05,498 --> 00:02:09,706
+It has no idea what the letter A or the word strawberry means.
+
+31
+00:02:09,766 --> 00:02:10,287
+In fact
+
+32
+00:02:10,347 --> 00:02:13,393
+this explains the most famous AI bug in history!
+
+33
+00:02:13,453 --> 00:02:17,414
+When you ask an older chatbot how many r's are in strawberry
+
+34
+00:02:17,474 --> 00:02:18,755
+it proudly says Two!
+
+35
+00:02:18,815 --> 00:02:19,315
+Why?
+
+36
+00:02:19,120 --> 00:02:21,980
+Because the AI never saw the individual letters!
+
+37
+00:02:22,040 --> 00:02:28,758
+A mechanical tool called a Tokenizer chopped the word into puzzle blocks using a process called Byte-Pair Encoding.
+
+38
+00:02:28,818 --> 00:02:32,035
+The word strawberry becomes three separate tokens: S-T-R-A-W
+
+39
+00:02:32,095 --> 00:02:33,524
+then A-W, then B-E-R-R-Y.
+
+40
+00:02:33,584 --> 00:02:35,811
+The model knows berry has two r's
+
+41
+00:02:35,871 --> 00:02:38,187
+but straw was just an opaque number!
+
+42
+00:02:38,247 --> 00:02:40,108
+If it can't see the letters
+
+43
+00:02:40,168 --> 00:02:42,573
+how does it understand what words mean?
+
+44
+00:02:42,633 --> 00:02:44,458
+Enter the miracle of Embeddings!
+
+45
+00:02:44,518 --> 00:02:47,616
+Imagine a colossal supermarket with thousands of aisles.
+
+46
+00:02:47,676 --> 00:02:50,528
+The store manager doesn't shelve items alphabetically.
+
+47
+00:02:50,588 --> 00:02:55,793
+Bananas don't sit next to Band-Aids just because they both start with the letter B!
+
+48
+00:02:55,853 --> 00:02:57,953
+Bananas sit next to apples, oranges
+
+49
+00:02:58,013 --> 00:02:59,994
+and mangoes in the fruit aisle.
+
+50
+00:03:00,054 --> 00:03:03,562
+And dog food sits next to leashes in the pet aisle.
+
+51
+00:03:03,622 --> 00:03:06,876
+In machine learning, this is called an Embedding Space.
+
+52
+00:03:06,936 --> 00:03:08,217
+In models like GPT-4
+
+53
+00:03:08,277 --> 00:03:13,266
+every single token is given a GPS coordinate made of over twelve thousand numbers!
+
+54
+00:03:13,326 --> 00:03:16,908
+Each number represents a different dimension of meaning: sweetness
+
+55
+00:03:16,968 --> 00:03:19,426
+furriness, historical era, or emotional warmth.
+
+56
+00:03:19,486 --> 00:03:21,824
+Because words are now geometric coordinates
+
+57
+00:03:21,884 --> 00:03:24,773
+you can literally do algebra with human thoughts!
+
+58
+00:03:24,833 --> 00:03:28,065
+If you take the GPS coordinates of the word KING
+
+59
+00:03:28,125 --> 00:03:29,800
+subtract the vector for MAN
+
+60
+00:03:29,860 --> 00:03:31,841
+and add the vector for WOMAN...
+
+61
+00:03:31,901 --> 00:03:37,829
+the coordinates glide straight across the supermarket space and land directly on the shelf for QUEEN!
+
+62
+00:03:37,889 --> 00:03:41,881
+The computer doesn't know what it feels like to wear a crown.
+
+63
+00:03:41,941 --> 00:03:44,004
+It just knows multidimensional geometry!
+
+64
+00:03:44,064 --> 00:03:45,523
+And in modern Transformers
+
+65
+00:03:45,583 --> 00:03:49,664
+these coordinates are alive: if the word bank sits next to river
+
+66
+00:03:49,724 --> 00:03:51,489
+its vector steers toward water
+
+67
+00:03:51,549 --> 00:03:54,840
+if it sits next to robbery, it steers toward cash.
+
+68
+00:03:59,785 --> 00:04:02,674
+Before 2017, AI had a terrible memory problem.
+
+69
+00:04:02,734 --> 00:04:05,439
+Models read sentences one word at a time
+
+70
+00:04:05,499 --> 00:04:08,795
+like a tired reader looking through a drinking straw.
+
+71
+00:04:08,855 --> 00:04:12,505
+By the time they reached the end of a long paragraph
+
+72
+00:04:12,565 --> 00:04:15,700
+they completely forgot what happened at the beginning!
+
+73
+00:04:15,760 --> 00:04:16,259
+Then
+
+74
+00:04:16,074 --> 00:04:22,066
+eight researchers at Google published a paper with an audacious title: Attention Is All You Need.
+
+75
+00:04:22,126 --> 00:04:23,787
+Instead of reading sequentially
+
+76
+00:04:23,847 --> 00:04:29,308
+what if the model could look at every single word in an entire document simultaneously
+
+77
+00:04:29,368 --> 00:04:30,061
+in parallel?
+
+78
+00:04:30,121 --> 00:04:32,665
+This was the invention of the Transformer
+
+79
+00:04:32,725 --> 00:04:34,231
+and it changed everything.
+
+80
+00:04:34,291 --> 00:04:37,680
+How does a Transformer know which words belong together?
+
+81
+00:04:37,740 --> 00:04:40,905
+Through an elegant mathematical dance called Query, Key
+
+82
+00:04:40,965 --> 00:04:41,596
+and Value.
+
+83
+00:04:41,656 --> 00:04:45,867
+Imagine every word in a sentence is at a crowded cocktail party.
+
+84
+00:04:45,927 --> 00:04:51,557
+The word it holds up a megaphone called a Query: Who does the word it refer to?
+
+85
+00:04:51,617 --> 00:04:54,983
+Every other word wears a name badge called a Key.
+
+86
+00:04:55,043 --> 00:04:57,970
+The word socket says: I am a wall outlet.
+
+87
+00:04:58,030 --> 00:05:02,179
+The word robot says: I am a mechanical machine that was tired.
+
+88
+00:05:02,239 --> 00:05:05,689
+The math multiplies the Query by every Key simultaneously.
+
+89
+00:05:05,749 --> 00:05:08,415
+Socket gets a twelve percent relevance score.
+
+90
+00:05:08,475 --> 00:05:11,203
+But robot scores an eighty-eight percent match!
+
+91
+00:05:11,263 --> 00:05:12,962
+Because of that high score
+
+92
+00:05:13,022 --> 00:05:18,583
+robot opens its briefcase of information — the Value — and hands it straight to it.
+
+93
+00:05:18,643 --> 00:05:21,440
+Now, the model knows exactly what it means!
+
+94
+00:05:21,500 --> 00:05:24,105
+Modern models don't just use one spotlight.
+
+95
+00:05:24,165 --> 00:05:26,885
+GPT-4 runs ninety-six attention heads simultaneously!
+
+96
+00:05:26,945 --> 00:05:28,544
+One flashlight tracks grammar
+
+97
+00:05:28,604 --> 00:05:30,203
+another tracks emotional tone
+
+98
+00:05:30,263 --> 00:05:31,547
+another connects pronouns
+
+99
+00:05:31,607 --> 00:05:33,582
+and another tracks technical facts.
+
+100
+00:05:33,642 --> 00:05:37,684
+Once all ninety-six flashlights finish analyzing every word in parallel
+
+101
+00:05:37,744 --> 00:05:44,542
+the Transformer does something deceptively simple: it calculates a probability for what single word should come next.
+
+102
+00:05:44,602 --> 00:05:46,761
+Eighty-nine percent chance it's recharged
+
+103
+00:05:46,821 --> 00:05:48,013
+seven percent exploded
+
+104
+00:05:48,073 --> 00:05:49,818
+zero-point-zero-zero-one percent danced.
+
+105
+00:05:49,878 --> 00:05:52,959
+It picks the best option and repeats the loop.
+
+106
+00:05:53,019 --> 00:05:56,154
+This is Species One: the fast, conversational chatbot.
+
+107
+00:06:00,875 --> 00:06:01,456
+For years
+
+108
+00:06:01,516 --> 00:06:05,353
+language models had a fatal flaw: they were addicted to speed!
+
+109
+00:06:05,413 --> 00:06:09,028
+A standard chatbot operates like an impulsive game-show contestant.
+
+110
+00:06:09,088 --> 00:06:12,344
+Because it generates words in a continuous forward rush
+
+111
+00:06:12,404 --> 00:06:14,505
+it answers hard math, chess tactics
+
+112
+00:06:14,565 --> 00:06:18,888
+and legal logic in twenty milliseconds — and gets them completely wrong!
+
+113
+00:06:18,948 --> 00:06:23,225
+Ask it: A bat and a ball cost a dollar and ten cents total
+
+114
+00:06:23,285 --> 00:06:26,154
+the bat costs a dollar more than the ball.
+
+115
+00:06:26,214 --> 00:06:27,712
+How much is the ball?
+
+116
+00:06:27,772 --> 00:06:29,567
+It instantly blurts: Ten cents!
+
+117
+00:06:29,627 --> 00:06:30,127
+Wrong!
+
+118
+00:06:29,993 --> 00:06:30,968
+It's five cents.
+
+119
+00:06:31,028 --> 00:06:35,783
+The model failed because it had no scratchpad to pause and do the algebra.
+
+120
+00:06:35,843 --> 00:06:38,183
+Enter Species Number Two: Reasoning Models!
+
+121
+00:06:38,243 --> 00:06:41,097
+Revolutionized by OpenAI's o1 and China's DeepSeek-R1.
+
+122
+00:06:41,157 --> 00:06:44,145
+When you give a reasoning model a hard problem
+
+123
+00:06:44,205 --> 00:06:48,199
+it doesn't blurt out the first token that pops into its head.
+
+124
+00:06:48,259 --> 00:06:49,816
+It takes a deep breath.
+
+125
+00:06:49,876 --> 00:06:50,882
+Behind the scenes
+
+126
+00:06:50,942 --> 00:06:54,378
+it opens a secret internal scratchpad called thinking tokens.
+
+127
+00:06:54,438 --> 00:06:56,904
+It writes out equations, tests edge cases
+
+128
+00:06:56,964 --> 00:06:58,819
+breaks the problem into sub-goals
+
+129
+00:06:58,879 --> 00:07:04,521
+and verifies its own math before it ever shows you a single word of its final answer!
+
+130
+00:07:04,581 --> 00:07:06,771
+It traded instant speed for deliberate
+
+131
+00:07:06,831 --> 00:07:08,255
+human-like systematic thinking.
+
+132
+00:07:08,315 --> 00:07:11,079
+And here is the true breakthrough: self-correction!
+
+133
+00:07:11,139 --> 00:07:16,408
+Watch what happens when the reasoning model hits a dead end in its secret scratchpad.
+
+134
+00:07:16,468 --> 00:07:18,293
+It doesn't crash or hallucinate!
+
+135
+00:07:18,353 --> 00:07:21,155
+It literally reads its own thought, says: Wait
+
+136
+00:07:21,215 --> 00:07:23,592
+that logic will fail, let me backtrack
+
+137
+00:07:23,652 --> 00:07:26,454
+erases the branch, and tries a new hypothesis!
+
+138
+00:07:26,514 --> 00:07:29,771
+Even crazier: nobody taught DeepSeek-R1 how to do this!
+
+139
+00:07:29,831 --> 00:07:33,020
+Using a technique called Group Relative Policy Optimization
+
+140
+00:07:33,080 --> 00:07:37,551
+researchers simply rewarded the model when its final math answer was correct.
+
+141
+00:07:37,611 --> 00:07:40,801
+By running millions of trial-and-error games against itself
+
+142
+00:07:40,861 --> 00:07:44,184
+the AI discovered on its own that talking to itself
+
+143
+00:07:44,244 --> 00:07:44,744
+pausing
+
+144
+00:07:44,639 --> 00:07:48,104
+and erasing its mistakes was the secret to super-intelligence!
+
+145
+00:07:52,552 --> 00:07:54,598
+As artificial intelligence grew smarter
+
+146
+00:07:54,658 --> 00:07:57,602
+it ran straight into a wall of pure physics!
+
+147
+00:07:57,662 --> 00:07:59,378
+In a traditional dense model
+
+148
+00:07:59,438 --> 00:08:04,697
+every single parameter inside the brain must activate for every single syllable it speaks.
+
+149
+00:08:04,757 --> 00:08:07,544
+If a model has six hundred billion parameters
+
+150
+00:08:07,604 --> 00:08:10,736
+and you ask it what is the capital of France
+
+151
+00:08:10,796 --> 00:08:17,284
+you have to blast electricity through all six hundred billion connections just to spit out the word Paris!
+
+152
+00:08:17,344 --> 00:08:20,611
+Datacenters began consuming the electricity of entire cities.
+
+153
+00:08:20,671 --> 00:08:22,686
+It was unsustainable, wildly expensive
+
+154
+00:08:22,746 --> 00:08:25,901
+and threatened to freeze AI progress in its tracks.
+
+155
+00:08:25,961 --> 00:08:29,902
+So engineers turned to an architectural masterpiece: Mixture of Experts
+
+156
+00:08:29,962 --> 00:08:30,486
+or MoE.
+
+157
+00:08:30,546 --> 00:08:33,880
+Think of a bustling kitchen with sixty-four master chefs.
+
+158
+00:08:33,940 --> 00:08:36,517
+When a customer orders a bowl of pasta
+
+159
+00:08:36,577 --> 00:08:39,859
+you don't wake up the sushi chef, the pastry chef
+
+160
+00:08:39,919 --> 00:08:42,579
+the barbecue pitmaster, and the French saucier!
+
+161
+00:08:42,639 --> 00:08:43,987
+That would be madness!
+
+162
+00:08:44,047 --> 00:08:46,992
+You only tap the pasta chef on the shoulder!
+
+163
+00:08:47,052 --> 00:08:48,190
+In an MoE model
+
+164
+00:08:48,250 --> 00:08:55,465
+a lightning-fast router evaluates each incoming token and activates only the top expert subnetworks best suited for the job.
+
+165
+00:08:55,525 --> 00:08:57,945
+The rest of the brain sleeps peacefully
+
+166
+00:08:58,005 --> 00:08:59,901
+saving enormous amounts of energy.
+
+167
+00:08:59,961 --> 00:09:03,407
+This architectural trick sparked a global technological earthquake.
+
+168
+00:09:03,467 --> 00:09:04,202
+In DeepSeek-V3
+
+169
+00:09:04,262 --> 00:09:10,278
+there are six hundred and seventy-one billion total parameters — giving it vast encyclopedia-level knowledge.
+
+170
+00:09:10,338 --> 00:09:12,668
+But for any single word it generates
+
+171
+00:09:12,728 --> 00:09:15,170
+it only fires thirty-seven billion parameters!
+
+172
+00:09:15,230 --> 00:09:18,594
+That is a ninety-five percent discount on computing power!
+
+173
+00:09:18,654 --> 00:09:23,539
+While Silicon Valley spent hundreds of millions of dollars brute-forcing monolithic models
+
+174
+00:09:23,599 --> 00:09:31,698
+open-weights researchers in China proved that elegant mathematical routing could match the world's best benchmarks at a fraction of the cost.
+
+175
+00:09:31,758 --> 00:09:34,546
+The future of AI isn't just bigger computers.
+
+176
+00:09:34,606 --> 00:09:35,827
+It's smarter algorithms!
+
+177
+00:09:40,459 --> 00:09:45,645
+And that brings us to the fourth and most powerful species of all: Autonomous Agents.
+
+178
+00:09:45,705 --> 00:09:46,548
+Up until now
+
+179
+00:09:46,608 --> 00:09:49,666
+artificial intelligence was just a brain in a jar.
+
+180
+00:09:49,726 --> 00:09:51,259
+You asked it a question
+
+181
+00:09:51,319 --> 00:09:53,299
+and it politely handed you text.
+
+182
+00:09:53,359 --> 00:09:57,775
+But what good is a recipe if the chef doesn't have hands to cook?
+
+183
+00:09:57,835 --> 00:10:02,515
+What happens when you give that brain eyes to look at your computer screen
+
+184
+00:10:02,575 --> 00:10:04,342
+hands to type terminal commands
+
+185
+00:10:04,402 --> 00:10:06,382
+and permission to click a mouse?
+
+186
+00:10:06,442 --> 00:10:09,229
+That is the revolution of modern coding agents.
+
+187
+00:10:09,289 --> 00:10:11,863
+The AI doesn't just write suggestions anymore.
+
+188
+00:10:11,923 --> 00:10:15,466
+It sits in your chair, runs the code, reads the errors
+
+189
+00:10:15,526 --> 00:10:17,029
+and gets the job done!
+
+190
+00:10:17,089 --> 00:10:18,622
+How does an agent work?
+
+191
+00:10:18,682 --> 00:10:22,423
+Through an infinite feedback loop called ReAct: Reason plus Action.
+
+192
+00:10:22,483 --> 00:10:23,501
+Step one: OBSERVE.
+
+193
+00:10:23,561 --> 00:10:26,796
+The agent inspects your computer screen or terminal log.
+
+194
+00:10:26,856 --> 00:10:27,845
+Step two: REASON.
+
+195
+00:10:27,905 --> 00:10:30,663
+Using thinking tokens, it plans its next move.
+
+196
+00:10:30,723 --> 00:10:31,683
+Step three: ACT.
+
+197
+00:10:31,743 --> 00:10:34,684
+It calls a tool — executing a terminal command
+
+198
+00:10:34,744 --> 00:10:37,054
+searching the web, or editing a file.
+
+199
+00:10:37,114 --> 00:10:38,434
+And step four: VERIFY.
+
+200
+00:10:38,494 --> 00:10:40,474
+It checks if the command worked.
+
+201
+00:10:40,534 --> 00:10:42,484
+If the compiler throws an error
+
+202
+00:10:42,544 --> 00:10:46,058
+the agent doesn't panic and give up, it reads the bug
+
+203
+00:10:46,118 --> 00:10:47,166
+diagnoses the fault
+
+204
+00:10:47,226 --> 00:10:49,954
+and loops right back to try another solution.
+
+205
+00:10:50,014 --> 00:10:56,419
+AI has transformed from an oracle that answers questions into an autonomous partner that actually solves problems.
+
+206
+00:10:56,479 --> 00:10:57,439
+Eighty years ago
+
+207
+00:10:57,499 --> 00:11:03,383
+Alan Turing looked at a room full of vacuum tubes and asked if a machine could ever think.
+
+208
+00:11:03,443 --> 00:11:03,943
+Today
+
+209
+00:11:03,773 --> 00:11:08,761
+whether through massive American superclusters or elegant open-weight algorithms across the globe
+
+210
+00:11:08,821 --> 00:11:10,500
+we have unlocked the secret.
+
+211
+00:11:10,560 --> 00:11:19,709
+Think about the poetry of what humanity has achieved: we took the most common mineral on our planet — ordinary beach sand — melted it into quartz
+
+212
+00:11:19,769 --> 00:11:22,997
+etched billions of microscopic switches with ultraviolet light
+
+213
+00:11:23,057 --> 00:11:25,543
+and taught electricity how to pay attention
+
+214
+00:11:25,603 --> 00:11:27,311
+how to reason through puzzles
+
+215
+00:11:27,371 --> 00:11:29,293
+and how to speak our language.
+
+216
+00:11:29,353 --> 00:11:30,855
+AI is not black magic.
+
+217
+00:11:30,915 --> 00:11:32,741
+It is humanity's greatest mirror.
+
+218
+00:11:32,801 --> 00:11:35,199
+And our journey into the silicon mind...
+
+219
+00:11:35,259 --> 00:11:36,520
+has only just begun.

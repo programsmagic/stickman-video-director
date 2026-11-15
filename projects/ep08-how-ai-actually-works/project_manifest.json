@@ -1,0 +1,76 @@
+{
+  "schema_version": "1.0",
+  "project_id": "ep02-how-ai-actually-works",
+  "series": "Artificial Intelligence: From Sand to Silicon",
+  "episode_number": 2,
+  "title": "Episode 02: How AI Actually Works (Inside the Minds of GPT, Gemini & DeepSeek)",
+  "language": "en",
+  "target": {
+    "platform": "youtube",
+    "aspect_ratio": "16:9",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "target_duration_seconds": 699.0
+  },
+  "style": {
+    "mode": "hybrid-physics",
+    "visual_theme": "dark-studio-slate",
+    "host_character": "Magi (The Programs Magic Stickman Wizard)",
+    "kinematics": "2-bone analytical inverse kinematics (IK) + Remotion spring damping",
+    "mathematics": "3Blue1Brown/Manim-inspired 3D coordinate grids and dynamic vectors"
+  },
+  "audio": {
+    "narrator": "Gemini Bodi Studio Voice (gemini-3.8-flash-tts)",
+    "sample_rate": 48000,
+    "format": "pcm_s16le / aac",
+    "procedural_foley": true,
+    "channels": 2
+  },
+  "acts": [
+    {
+      "act": 1,
+      "title": "The Modern AI Zoo & The Universal 3-Step Recipe",
+      "duration_seconds": 114.40,
+      "narration_file": "projects/ep08-how-ai-actually-works/renders_v2/narration/act1.wav",
+      "video_file": "exports/EP02-Act1-AI-Zoo-Masterpiece.mp4"
+    },
+    {
+      "act": 2,
+      "title": "How Words Become GPS Coordinates (Tokenization & Embeddings)",
+      "duration_seconds": 122.96,
+      "narration_file": "projects/ep08-how-ai-actually-works/renders_v2/narration/act2.wav",
+      "video_file": "exports/EP02-Act2-Coordinates-Masterpiece.mp4"
+    },
+    {
+      "act": 3,
+      "title": "The Magic of Attention (Q, K, V & 96 Simultaneous Flashlights)",
+      "duration_seconds": 121.28,
+      "narration_file": "projects/ep08-how-ai-actually-works/renders_v2/narration/act3.wav",
+      "video_file": "exports/EP02-Act3-Attention-Masterpiece.mp4"
+    },
+    {
+      "act": 4,
+      "title": "Teaching AI to Reason (Chain-of-Thought, Backtracking & GRPO)",
+      "duration_seconds": 111.76,
+      "narration_file": "projects/ep08-how-ai-actually-works/renders_v2/narration/act4.wav",
+      "video_file": "exports/EP02-Act4-Reasoning-Masterpiece.mp4"
+    },
+    {
+      "act": 5,
+      "title": "The Efficiency Miracle (Mixture of Experts & DeepSeek-V3)",
+      "duration_seconds": 107.64,
+      "narration_file": "projects/ep08-how-ai-actually-works/renders_v2/narration/act5.wav",
+      "video_file": "exports/EP02-Act5-MoE-Masterpiece.mp4"
+    },
+    {
+      "act": 6,
+      "title": "The Robot That Has Hands (Autonomous Agents & The Miracle of Sand)",
+      "duration_seconds": 120.96,
+      "narration_file": "projects/ep08-how-ai-actually-works/renders_v2/narration/act6.wav",
+      "video_file": "exports/EP02-Act6-Autonomous-Masterpiece.mp4"
+    }
+  ],
+  "master_export": "exports/EP02-How-AI-Actually-Works-Final.mp4"
+}
+
