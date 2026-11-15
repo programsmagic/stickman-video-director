@@ -25,7 +25,12 @@
   - **Act 6**: [`exports/EP02-Act6-Autonomous-Masterpiece.mp4`](file:///Users/prashantmishra/Developer/video-generator-stickman/exports/EP02-Act6-Autonomous-Masterpiece.mp4) (121.0s - Uncaging the brain in a jar, 4-step ReAct loop, sand-to-galaxy Turing finale)
 
 - **Episode 09: Can AI Ever Become Conscious? (The Chinese Room, Qualia & Inside the Minds of Silicon)**:
+  - **YouTube Premiere**: Scheduled for **Tuesday, Nov 24, 2026 @ 19:00 UTC (2:00 PM EST)**
   - **Full Feature Film**: [`exports/EP09-Can-AI-Become-Conscious-Final.mp4`](file:///Users/prashantmishra/Developer/video-generator-stickman/exports/EP09-Can-AI-Become-Conscious-Final.mp4) (5m 32s, 1280x720, 30fps, 48kHz Foley + Gemini Bodi narration)
+  - **Subtitles**: [`exports/EP09-Can-AI-Become-Conscious-Final.en.srt`](file:///Users/prashantmishra/Developer/video-generator-stickman/exports/EP09-Can-AI-Become-Conscious-Final.en.srt) (101 precision word-aligned cues)
+  - **Thumbnail**: [`exports/EP09-thumbnail.png`](file:///Users/prashantmishra/Developer/video-generator-stickman/exports/EP09-thumbnail.png) (1280x720, custom mobile CTR design)
+  - **Publishing Metadata**: [`projects/ep09-can-ai-become-conscious/publishing/metadata.md`](file:///Users/prashantmishra/Developer/video-generator-stickman/projects/ep09-can-ai-become-conscious/publishing/metadata.md)
+  - **QA Report**: [`projects/ep09-can-ai-become-conscious/qa/qa_report.md`](file:///Users/prashantmishra/Developer/video-generator-stickman/projects/ep09-can-ai-become-conscious/qa/qa_report.md) (100% PASS)
   - **Act 1**: [`exports/EP09-Act1-Illusion-Masterpiece.mp4`](file:///Users/prashantmishra/Developer/video-generator-stickman/exports/EP09-Act1-Illusion-Masterpiece.mp4) (56.4s - Animatronic Marionette Theater, Chalmers Easy vs Hard Problem split)
   - **Act 2**: [`exports/EP09-Act2-ChineseRoom-Masterpiece.mp4`](file:///Users/prashantmishra/Developer/video-generator-stickman/exports/EP09-Act2-ChineseRoom-Masterpiece.mp4) (64.6s - Architectural Chinese Room cutaway, mail slot, huge manual, Syntax != Semantics)
   - **Act 3**: [`exports/EP09-Act3-PZombie-Masterpiece.mp4`](file:///Users/prashantmishra/Developer/video-generator-stickman/exports/EP09-Act3-PZombie-Masterpiece.mp4) (68.0s - 650nm light vs qualia, cafe twins, X-ray empty skull, mirror trap)

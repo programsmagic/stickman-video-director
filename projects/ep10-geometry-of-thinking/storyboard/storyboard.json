@@ -1,0 +1,104 @@
+{
+  "schemaVersion": "1.0",
+  "episodeId": "ep10-geometry-of-thinking",
+  "sceneId": "ep10-master-storyboard",
+  "title": "The Geometry of Thinking: Loss Landscapes & Backpropagation",
+  "renderer": "canvas",
+  "duration": 360.0,
+  "fps": 30,
+  "resolution": {
+    "width": 1920,
+    "height": 1080
+  },
+  "narration": {
+    "asset": "build/narration/full_feature.wav",
+    "start": 0.0,
+    "end": 358.5
+  },
+  "camera": {
+    "shot": "dynamic",
+    "movement": "staged-cutaways"
+  },
+  "visual": {
+    "metaphor": "Mountaineer descending high-dimensional loss landscapes using compass altimeter and pulley systems",
+    "background": "#0B1120",
+    "characters": [
+      {
+        "id": "magi",
+        "pose": "inspect",
+        "x": 480,
+        "y": 720,
+        "expression": "curious",
+        "blinking": true,
+        "breathing": true,
+        "contactShadow": true
+      }
+    ],
+    "props": [
+      "lantern",
+      "measuring-staff",
+      "contour-grid",
+      "horse-saddle-surface",
+      "counterweight-pulley-rig",
+      "momentum-boulder",
+      "hydraulic-adam-boots"
+    ]
+  },
+  "beats": [
+    {
+      "at": 0.0,
+      "action": "act1_establish_fog",
+      "description": "Magi blindfolded on jagged mountain peak in thick thunderous fog"
+    },
+    {
+      "at": 60.0,
+      "action": "act2_reveal_saddle",
+      "description": "Blindfold removed; 3D contour lines and horse saddle plateau revealed"
+    },
+    {
+      "at": 120.0,
+      "action": "act3_plant_compass_staff",
+      "description": "Magi plants altimeter staff; learning rate dial adjusted to descend slope"
+    },
+    {
+      "at": 180.0,
+      "action": "act4_pulley_chain_reaction",
+      "description": "Counterweight pulley system snaps taut; backpropagation updates reverse dials"
+    },
+    {
+      "at": 240.0,
+      "action": "act5_boulder_momentum_roll",
+      "description": "Heavy momentum boulder punches through flat ravine; hydraulic boots adapt"
+    },
+    {
+      "at": 300.0,
+      "action": "act6_global_basin_arrival",
+      "description": "Magi reaches golden cosmic minimum basin; lantern raised in celebration"
+    }
+  ],
+  "labels": [
+    {
+      "text": "EPISODE 04: THE GEOMETRY OF THINKING",
+      "at": 1.0,
+      "style": "CaveatHand-24"
+    },
+    {
+      "text": "GRADIENT DESCENT: SEEKING THE GLOBAL MINIMUM",
+      "at": 2.5,
+      "style": "NotoSans-28"
+    }
+  ],
+  "audio": [
+    { "type": "sfx", "asset": "mountain_wind_ambience", "at": 0.0, "gain": 0.25 },
+    { "type": "sfx", "asset": "gravel_cascade_thud", "at": 3.5, "gain": 0.45 },
+    { "type": "sfx", "asset": "contour_grid_hum", "at": 60.0, "gain": 0.30 },
+    { "type": "sfx", "asset": "staff_plant_chime", "at": 120.0, "gain": 0.65 },
+    { "type": "sfx", "asset": "pulley_chain_ratchet", "at": 180.0, "gain": 0.55 },
+    { "type": "sfx", "asset": "momentum_boulder_impact", "at": 240.0, "gain": 0.60 },
+    { "type": "sfx", "asset": "cosmic_basin_arrival_chord", "at": 300.0, "gain": 0.50 }
+  ],
+  "transitionOut": {
+    "type": "fade_to_black",
+    "duration": 1.5
+  }
+}
