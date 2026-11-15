@@ -12,4 +12,5 @@ autopilot-work/
 venv/
 .DS_Store
 *.tmp
+exports/_archive/
 
