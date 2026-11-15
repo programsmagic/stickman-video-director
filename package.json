@@ -31,6 +31,11 @@
     "render:ep05:subtitles": "node projects/ep11-token-illusion/build/generate_ep11_subtitles.mjs",
     "render:ep05:thumb": "node projects/ep11-token-illusion/renders/render_ep11_thumbnail.mjs",
     "qa:ep05": "node projects/tools/qa_inspector.mjs exports/EP11-The-Token-Illusion-Final-1080p.mp4 --profile 1080p --out-dir projects/ep11-token-illusion/qa",
+    "render:ep06": "node projects/ep12-physics-of-diffusion/renders/render_all_acts.mjs",
+    "render:ep06:subtitles": "node projects/ep12-physics-of-diffusion/build/generate_ep12_subtitles.mjs",
+    "render:ep06:thumb": "node projects/ep12-physics-of-diffusion/renders/render_ep12_thumbnail.mjs",
+    "qa:ep06": "node projects/tools/qa_inspector.mjs exports/EP12-The-Physics-of-Diffusion-Final-1080p.mp4 --profile 1080p --out-dir projects/ep12-physics-of-diffusion/qa",
+    "upload:ep06": "node projects/tools/upload_ep12.mjs",
     "auth:youtube": "node projects/tools/auth_youtube.mjs",
     "test:doctor": "node skills/directing-stickman-videos/scripts/autopilot.mjs doctor"
   },
