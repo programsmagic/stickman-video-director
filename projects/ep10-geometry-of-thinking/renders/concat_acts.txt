@@ -1,0 +1,6 @@
+file '/Users/prashantmishra/Developer/video-generator-stickman/exports/EP10-Act1-MountainInFog-1080p.mp4'
+file '/Users/prashantmishra/Developer/video-generator-stickman/exports/EP10-Act2-SaddlePoints-1080p.mp4'
+file '/Users/prashantmishra/Developer/video-generator-stickman/exports/EP10-Act3-GradientDescent-1080p.mp4'
+file '/Users/prashantmishra/Developer/video-generator-stickman/exports/EP10-Act4-BackpropPulleys-1080p.mp4'
+file '/Users/prashantmishra/Developer/video-generator-stickman/exports/EP10-Act5-MomentumAdam-1080p.mp4'
+file '/Users/prashantmishra/Developer/video-generator-stickman/exports/EP10-Act6-GlobalBasin-1080p.mp4'

@@ -1,0 +1,12 @@
+{
+  "kind": "speech",
+  "model": "gemini-3.8-flash-tts",
+  "requested_at": "2026-11-15T05:29:10.750Z",
+  "request_id": "e0edba8a-e23b-4f13-a6ce-351624a4c6b2",
+  "status": "complete",
+  "warning": "One request only; inspect provider history before retrying",
+  "key_index": 1,
+  "mime_type": "audio/wav",
+  "output": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep10-geometry-of-thinking/build/narration/act6.wav",
+  "sha256": "f89144acc5113836d26983a6ff1387f82a9d7adfcbeb9237a7ca4f22a7bea4fa"
+}

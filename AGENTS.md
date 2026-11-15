@@ -1,7 +1,7 @@
 # Studio Operational Manual & Agent Guidelines
 **Repository**: `video-generator-stickman`  
 **Last Updated**: November 15, 2026  
-**Status**: Episode 02 (How AI Actually Works - Definitive Edition 11m 39s) Complete & Scheduled, Episode 09 (Can AI Ever Become Conscious? 5m 32s) Complete, Episode 01 (History of AI / EP07 7m 07s) Published  
+**Status**: Episode 02 (How AI Actually Works - Definitive Edition 11m 39s) Complete & Scheduled, Episode 09 (Can AI Ever Become Conscious? 5m 32s) Complete & Scheduled, Episode 10 (The Geometry of Thinking 4m 50s 1080p Master) Complete & Ready, Episode 01 (History of AI / EP07 7m 07s) Published  
 **Comprehensive Studio & Animation Guide**: [`STUDIO_PRODUCTION_GUIDE.md`](file:///Users/prashantmishra/Developer/video-generator-stickman/STUDIO_PRODUCTION_GUIDE.md) (Single source of truth for technical architecture, IK kinematics, procedural Foley audio, 21 skills, and rendering pipeline)  
 **Master Architectural Blueprint**: [`PROGRAMS_MAGIC_AI_VIDEO_STUDIO_MASTER_BLUEPRINT.md`](file:///Users/prashantmishra/Developer/video-generator-stickman/PROGRAMS_MAGIC_AI_VIDEO_STUDIO_MASTER_BLUEPRINT.md) (Expert blueprint for quality evolution, scene schema 1.0, and 1080p foundation)
 
@@ -23,6 +23,20 @@
   - **Act 4**: [`exports/EP02-Act4-Reasoning-Masterpiece.mp4`](file:///Users/prashantmishra/Developer/video-generator-stickman/exports/EP02-Act4-Reasoning-Masterpiece.mp4) (111.8s - Fast auctioneer bat/ball riddle fail, Detective <think> scratchpad, backtracking, GRPO)
   - **Act 5**: [`exports/EP02-Act5-MoE-Masterpiece.mp4`](file:///Users/prashantmishra/Developer/video-generator-stickman/exports/EP02-Act5-MoE-Masterpiece.mp4) (107.6s - 1,000-ton smoking steel brain, 64 chefs with 62 sleeping, DeepSeek-V3 671B/37B 95% savings)
   - **Act 6**: [`exports/EP02-Act6-Autonomous-Masterpiece.mp4`](file:///Users/prashantmishra/Developer/video-generator-stickman/exports/EP02-Act6-Autonomous-Masterpiece.mp4) (121.0s - Uncaging the brain in a jar, 4-step ReAct loop, sand-to-galaxy Turing finale)
+
+- **Episode 10 (Episode 04 of Series): The Geometry of Thinking (Loss Landscapes, Saddle Points, Gradient Descent & Backpropagation)**:
+  - **YouTube Premiere**: Scheduled for **Tuesday, Dec 1, 2026 @ 19:00 UTC (2:00 PM EST)**
+  - **Full Feature Film**: [`exports/EP10-The-Geometry-of-Thinking-Final-1080p.mp4`](file:///Users/prashantmishra/Developer/video-generator-stickman/exports/EP10-The-Geometry-of-Thinking-Final-1080p.mp4) (4m 50s, 1920x1080, 30fps, 48kHz Foley + Gemini Bodi narration)
+  - **Subtitles**: [`exports/EP10-The-Geometry-of-Thinking-Final.en.srt`](file:///Users/prashantmishra/Developer/video-generator-stickman/exports/EP10-The-Geometry-of-Thinking-Final.en.srt) (89 precision word-aligned cues)
+  - **Thumbnail**: [`exports/EP10-thumbnail.png`](file:///Users/prashantmishra/Developer/video-generator-stickman/exports/EP10-thumbnail.png) (1280x720, custom mobile CTR design)
+  - **Publishing Metadata**: [`projects/ep10-geometry-of-thinking/publishing/metadata.md`](file:///Users/prashantmishra/Developer/video-generator-stickman/projects/ep10-geometry-of-thinking/publishing/metadata.md)
+  - **QA Report**: [`projects/ep10-geometry-of-thinking/qa/qa_report.md`](file:///Users/prashantmishra/Developer/video-generator-stickman/projects/ep10-geometry-of-thinking/qa/qa_report.md) (100% PASS)
+  - **Act 1**: [`exports/EP10-Act1-MountainInFog-1080p.mp4`](file:///Users/prashantmishra/Developer/video-generator-stickman/exports/EP10-Act1-MountainInFog-1080p.mp4) (47.6s - Blindfolded mountaineer on 700B-dimensional Everest)
+  - **Act 2**: [`exports/EP10-Act2-SaddlePoints-1080p.mp4`](file:///Users/prashantmishra/Developer/video-generator-stickman/exports/EP10-Act2-SaddlePoints-1080p.mp4) (53.8s - 3D hyperbolic paraboloid horse saddle, indefinite Hessian)
+  - **Act 3**: [`exports/EP10-Act3-GradientDescent-1080p.mp4`](file:///Users/prashantmishra/Developer/video-generator-stickman/exports/EP10-Act3-GradientDescent-1080p.mp4) (44.0s - Surveyor compass HUD, negative gradient -∇L, learning rate dial)
+  - **Act 4**: [`exports/EP10-Act4-BackpropPulleys-1080p.mp4`](file:///Users/prashantmishra/Developer/video-generator-stickman/exports/EP10-Act4-BackpropPulleys-1080p.mp4) (45.0s - Mechanical counterweight pulley system, Rumelhart calculus chain rule)
+  - **Act 5**: [`exports/EP10-Act5-MomentumAdam-1080p.mp4`](file:///Users/prashantmishra/Developer/video-generator-stickman/exports/EP10-Act5-MomentumAdam-1080p.mp4) (45.3s - Flat zero-gradient ravine, heavy iron boulder momentum, hydraulic Adam boots)
+  - **Act 6**: [`exports/EP10-Act6-GlobalBasin-1080p.mp4`](file:///Users/prashantmishra/Developer/video-generator-stickman/exports/EP10-Act6-GlobalBasin-1080p.mp4) (53.9s - Cosmic midnight sky, golden parabolic global minimum basin, cosmic chisel finale)
 
 - **Episode 09: Can AI Ever Become Conscious? (The Chinese Room, Qualia & Inside the Minds of Silicon)**:
   - **YouTube Premiere**: Scheduled for **Tuesday, Nov 24, 2026 @ 19:00 UTC (2:00 PM EST)**
@@ -81,8 +95,9 @@
 |---|---|---|---|---|
 | **Episode 01** (EP07) | **The Complete History of AI: Sand to Silicon** | Turing tape, Dartmouth, Winter glacier, ImageNet, GPU breakthrough | **Published** | 7m 07s |
 | **Episode 02** (EP08 v2) | **How AI Actually Works (Inside GPT, Gemini & DeepSeek)** | AI Zoo, 12,288-D Supermarket, Attention Flashlights, <think> Scratchpad, 64-Chef MoE, ReAct Agent | **Scheduled (Nov 17)** | **11m 39s** |
-| **Episode 03** (EP09) | **Can AI Ever Become Conscious?** | The Chinese Room, P-Zombie, Integrated Information Theory $\Phi$, The Cosmic Candle | **Completed** | 5m 32s |
-| **Episode 04** (EP10) | **The Geometry of Thinking** | Neural net loss landscapes, Gradient descent hiker on foggy mountain, Backpropagation pulleys | **Script & Research** | 6m 00s |
+| **Episode 03** (EP09) | **Can AI Ever Become Conscious?** | The Chinese Room, P-Zombie, Integrated Information Theory $\Phi$, The Cosmic Candle | **Scheduled (Nov 24)** | 5m 32s |
+| **Episode 04** (EP10) | **The Geometry of Thinking** | Neural net loss landscapes, 700B-D mountain, Saddle points, Backpropagation pulleys, Adam boots, Global basin | **Completed (1080p Master)** | **4m 50s** |
+| **Episode 05** (EP11) | **The Token Illusion: How Machines Read Without Eyes** | High-speed BPE slicing guillotine, Unicode byte puzzles, Subword embedding geometry | **Research & Storyboard** | 5m 30s |
 
 ### Track B: High-RPM "What If" & Conceptual Series (from `projects/research/topics.csv`)
 | Topic | Format Family | Demand Score | Gap | RPM Tier |
