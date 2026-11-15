@@ -1,0 +1,6 @@
+file '/Users/prashantmishra/Developer/video-generator-stickman/exports/EP13-Act1-Babel-1080p.mp4'
+file '/Users/prashantmishra/Developer/video-generator-stickman/exports/EP13-Act2-ViTPatches-1080p.mp4'
+file '/Users/prashantmishra/Developer/video-generator-stickman/exports/EP13-Act3-MelSpectrogram-1080p.mp4'
+file '/Users/prashantmishra/Developer/video-generator-stickman/exports/EP13-Act4-CLIPSphere-1080p.mp4'
+file '/Users/prashantmishra/Developer/video-generator-stickman/exports/EP13-Act5-Omnimodality-1080p.mp4'
+file '/Users/prashantmishra/Developer/video-generator-stickman/exports/EP13-Act6-UnifiedMind-1080p.mp4'

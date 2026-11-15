@@ -17,6 +17,7 @@
 | **04** | **The Geometry of Thinking (Loss Landscapes & Backprop)** | [`EP10.mp4`](file:///Users/prashantmishra/Developer/video-generator-stickman/exports/EP10-The-Geometry-of-Thinking-Final-1080p.mp4) | [`EP10.en.srt`](file:///Users/prashantmishra/Developer/video-generator-stickman/exports/EP10-The-Geometry-of-Thinking-Final.en.srt) | **Ready for Premiere** (Scheduled Dec 01) | **Dec 01, 2026** (Tue 19:00 UTC) | 4m 50s | **Analogy:** Blindfolded mountaineer on a 700B-dimensional Everest, saddle point escape, altimeter compass ($-\nabla L$), counterweight backprop pulleys, hydraulic Adam boots, and cosmic global basins. |
 | **05** | **The Token Illusion (How Machines Read Without Eyes: BPE, Strawberry & Glitch Tokens)** | [`EP11.mp4`](file:///Users/prashantmishra/Developer/video-generator-stickman/exports/EP11-The-Token-Illusion-Final-1080p.mp4) | [`EP11.en.srt`](file:///Users/prashantmishra/Developer/video-generator-stickman/exports/EP11-The-Token-Illusion-Final.en.srt) | **Ready for Premiere** (Scheduled Dec 08) | **Dec 08, 2026** (Tue 19:00 UTC) | 4m 56s | **Analogy:** Wooden word guillotine, strawberry conveyor riddle trap, BPE compression vault, SolidGoldMagikarp glitch siren, multilingual token tax balance scale, and BLT token-free byte galaxy. |
 | **06** | **The Physics of Diffusion (Unmaking Noise into Art: Reverse Thermodynamics & Flow Matching)** | [`EP12.mp4`](file:///Users/prashantmishra/Developer/video-generator-stickman/exports/EP12-The-Physics-of-Diffusion-Final-1080p.mp4) | [`EP12.en.srt`](file:///Users/prashantmishra/Developer/video-generator-stickman/exports/EP12-The-Physics-of-Diffusion-Final.en.srt) | **Ready for Premiere** (Scheduled Dec 15) | **Dec 15, 2026** (Tue 19:00 UTC) | 5m 31s | **Analogy:** Spilled ink droplet in water, Gaussian noise crank, Langevin Stein score compass ($\nabla_x \log p(x)$), 8x latent U-Net hourglass, CFG guidance dial ($w=7.5$), and Flow Matching straight laser highways. |
+| **07** | **The Multimodal Mind (How AI Hears, Sees & Speaks at Once: ViT, CLIP & Omnimodality)** | [`EP13.mp4`](file:///Users/prashantmishra/Developer/video-generator-stickman/exports/EP13-The-Multimodal-Mind-Final-1080p.mp4) | [`EP13.en.srt`](file:///Users/prashantmishra/Developer/video-generator-stickman/exports/EP13-The-Multimodal-Mind-Final.en.srt) | **Ready for Premiere** (Scheduled Dec 22) | **Dec 22, 2026** (Tue 19:00 UTC) | 5m 26s | **Analogy:** Sensory Tower of Babel, 16x16 patch laser cutter, 80-channel Mel-spectrogram Fourier prism, CLIP celestial hypersphere, and omnimodal unified diamond perception core. |
 
 ---
 
@@ -40,6 +41,12 @@ npm run qa:ep02
 
 # Schedule / upload Episode 02 to YouTube
 npm run upload:ep02
+
+# Render Episode 07 (EP13) full feature film
+npm run render:ep07
+
+# QA audit Episode 07 (EP13)
+npm run qa:ep07
 
 # Refresh YouTube OAuth tokens in browser
 npm run auth:youtube

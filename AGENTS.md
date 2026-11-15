@@ -1,7 +1,7 @@
 # Studio Operational Manual & Agent Guidelines
 **Repository**: `video-generator-stickman`  
 **Last Updated**: November 15, 2026  
-**Status**: Episode 02 (How AI Actually Works - Definitive Edition 11m 39s) Complete & Scheduled, Episode 09 (Can AI Ever Become Conscious? 5m 32s) Complete & Scheduled, Episode 10 (The Geometry of Thinking 4m 50s 1080p Master) Complete & Ready, Episode 11 (The Token Illusion 4m 56s 1080p Master) Complete & Ready, Episode 12 (The Physics of Diffusion 5m 31s 1080p Master) Complete & Ready, Episode 01 (History of AI / EP07 7m 07s) Published  
+**Status**: Episode 02 (How AI Actually Works - Definitive Edition 11m 39s) Complete & Scheduled, Episode 09 (Can AI Ever Become Conscious? 5m 32s) Complete & Scheduled, Episode 10 (The Geometry of Thinking 4m 50s 1080p Master) Complete & Ready, Episode 11 (The Token Illusion 4m 56s 1080p Master) Complete & Ready, Episode 12 (The Physics of Diffusion 5m 31s 1080p Master) Complete & Ready, Episode 13 (The Multimodal Mind 5m 26s 1080p Master) Complete & Ready, Episode 01 (History of AI / EP07 7m 07s) Published  
 **Comprehensive Studio & Animation Guide**: [`STUDIO_PRODUCTION_GUIDE.md`](file:///Users/prashantmishra/Developer/video-generator-stickman/STUDIO_PRODUCTION_GUIDE.md) (Single source of truth for technical architecture, IK kinematics, procedural Foley audio, 21 skills, and rendering pipeline)  
 **Master Architectural Blueprint**: [`PROGRAMS_MAGIC_AI_VIDEO_STUDIO_MASTER_BLUEPRINT.md`](file:///Users/prashantmishra/Developer/video-generator-stickman/PROGRAMS_MAGIC_AI_VIDEO_STUDIO_MASTER_BLUEPRINT.md) (Expert blueprint for quality evolution, scene schema 1.0, and 1080p foundation)
 
@@ -66,6 +66,20 @@
   - **Act 5**: [`exports/EP12-Act5-Guidance-1080p.mp4`](file:///Users/prashantmishra/Developer/video-generator-stickman/exports/EP12-Act5-Guidance-1080p.mp4) (52.5s - Dual ship steering helms, CFG guidance dial w=7.5, prompt laser beam ignition)
   - **Act 6**: [`exports/EP12-Act6-FlowMatching-1080p.mp4`](file:///Users/prashantmishra/Developer/video-generator-stickman/exports/EP12-Act6-FlowMatching-1080p.mp4) (52.7s - Deep space stardust, surveyor staff thunderclap, Flow Matching laser highways, cosmic masterpiece)
 
+- **Episode 13 (Episode 07 of Series): The Multimodal Mind (How AI Hears, Sees & Speaks at Once: Vision Transformers, CLIP & Omnimodal Latents)**:
+  - **YouTube Premiere**: Scheduled for **Tuesday, Dec 22, 2026 @ 19:00 UTC (2:00 PM EST)**
+  - **Full Feature Film**: [`exports/EP13-The-Multimodal-Mind-Final-1080p.mp4`](file:///Users/prashantmishra/Developer/video-generator-stickman/exports/EP13-The-Multimodal-Mind-Final-1080p.mp4) (5m 26s, 1920x1080, 30fps, 48kHz Foley + Gemini Bodi narration)
+  - **Subtitles**: [`exports/EP13-The-Multimodal-Mind-Final.en.srt`](file:///Users/prashantmishra/Developer/video-generator-stickman/exports/EP13-The-Multimodal-Mind-Final.en.srt) (97 precision word-aligned cues)
+  - **Thumbnail**: [`exports/EP13-thumbnail.png`](file:///Users/prashantmishra/Developer/video-generator-stickman/exports/EP13-thumbnail.png) (1280x720, custom mobile CTR design)
+  - **Publishing Metadata**: [`projects/ep13-multimodal-mind/publishing/metadata.md`](file:///Users/prashantmishra/Developer/video-generator-stickman/projects/ep13-multimodal-mind/publishing/metadata.md)
+  - **QA Report**: [`projects/ep13-multimodal-mind/qa/qa_report.md`](file:///Users/prashantmishra/Developer/video-generator-stickman/projects/ep13-multimodal-mind/qa/qa_report.md) (100% PASS)
+  - **Act 1**: [`exports/EP13-Act1-Babel-1080p.mp4`](file:///Users/prashantmishra/Developer/video-generator-stickman/exports/EP13-Act1-Babel-1080p.mp4) (55.9s - Sensory Babel Tower, isolated chambers, 3 sensory orbs)
+  - **Act 2**: [`exports/EP13-Act2-ViTPatches-1080p.mp4`](file:///Users/prashantmishra/Developer/video-generator-stickman/exports/EP13-Act2-ViTPatches-1080p.mp4) (58.0s - 16x16 patch laser table, eagle mosaic tiles, positional IDs)
+  - **Act 3**: [`exports/EP13-Act3-MelSpectrogram-1080p.mp4`](file:///Users/prashantmishra/Developer/video-generator-stickman/exports/EP13-Act3-MelSpectrogram-1080p.mp4) (58.2s - Brass tuning fork, Fourier prism, 80-channel Mel spectrogram heatmap)
+  - **Act 4**: [`exports/EP13-Act4-CLIPSphere-1080p.mp4`](file:///Users/prashantmishra/Developer/video-generator-stickman/exports/EP13-Act4-CLIPSphere-1080p.mp4) (51.7s - 3D celestial hypersphere, contrastive gravity wells, shared coordinate alignment)
+  - **Act 5**: [`exports/EP13-Act5-Omnimodality-1080p.mp4`](file:///Users/prashantmishra/Developer/video-generator-stickman/exports/EP13-Act5-Omnimodality-1080p.mp4) (54.9s - Clunky 3-stage Frankenstein pipeline vs 280ms native omnimodal core)
+  - **Act 6**: [`exports/EP13-Act6-UnifiedMind-1080p.mp4`](file:///Users/prashantmishra/Developer/video-generator-stickman/exports/EP13-Act6-UnifiedMind-1080p.mp4) (46.9s - Three sensory rivers converging into diamond prism, cosmic intellect beam)
+
 - **Episode 09: Can AI Ever Become Conscious? (The Chinese Room, Qualia & Inside the Minds of Silicon)**:
   - **YouTube Premiere**: Scheduled for **Tuesday, Nov 24, 2026 @ 19:00 UTC (2:00 PM EST)**
   - **Full Feature Film**: [`exports/EP09-Can-AI-Become-Conscious-Final.mp4`](file:///Users/prashantmishra/Developer/video-generator-stickman/exports/EP09-Can-AI-Become-Conscious-Final.mp4) (5m 32s, 1280x720, 30fps, 48kHz Foley + Gemini Bodi narration)
@@ -127,7 +141,7 @@
 | **Episode 04** (EP10) | **The Geometry of Thinking** | Neural net loss landscapes, 700B-D mountain, Saddle points, Backpropagation pulleys, Adam boots, Global basin | **Completed (1080p Master)** | **4m 50s** |
 | **Episode 05** (EP11) | **The Token Illusion: How Machines Read Without Eyes** | High-speed BPE slicing guillotine, Strawberry paradox, BPE vault, SolidGoldMagikarp glitch, Byte Latent Transformer | **Completed (1080p Master)** | **4m 56s** |
 | **Episode 06** (EP12) | **The Physics of Diffusion: Unmaking Noise into Art** | Reverse thermodynamics, Langevin dynamics, Score-based denoising, Latent unet | **Completed (1080p Master)** | **5m 31s** |
-| **Episode 07** (EP13) | **The Multimodal Mind: How AI Hears, Sees & Speaks at Once** | Audio latent spectrograms, Vision transformers, Cross-modal alignment, Omnimodal unified latents | **Research & Storyboard** | 5m 30s |
+| **Episode 07** (EP13) | **The Multimodal Mind: How AI Hears, Sees & Speaks at Once** | Audio latent spectrograms, Vision transformers, Cross-modal alignment, Omnimodal unified latents | **Completed (1080p Master)** | **5m 26s** |
 
 ### Track B: High-RPM "What If" & Conceptual Series (from `projects/research/topics.csv`)
 | Topic | Format Family | Demand Score | Gap | RPM Tier |

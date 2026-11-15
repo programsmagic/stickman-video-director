@@ -1,0 +1,112 @@
+{
+  "schemaVersion": "1.0",
+  "episodeId": "ep13-multimodal-mind",
+  "sceneId": "ep13-master-storyboard",
+  "title": "The Multimodal Mind: How AI Hears, Sees & Speaks at Once",
+  "renderer": "canvas",
+  "duration": 325.64,
+  "fps": 30,
+  "resolution": {
+    "width": 1920,
+    "height": 1080
+  },
+  "narration": {
+    "asset": "../build/narration/full_feature.wav",
+    "start": 0.0,
+    "end": 325.64
+  },
+  "camera": {
+    "shot": "dynamic",
+    "movement": "staged-cutaways"
+  },
+  "visual": {
+    "metaphor": "Sensory Babel Tower with 3 isolated chambers, 16x16 patch laser cutter, 80-channel audio mel-spectrogram waterfall, CLIP shared celestial sphere, and omnimodal unified prism",
+    "background": "#080D1A",
+    "characters": [
+      {
+        "id": "magi",
+        "pose": "inspect",
+        "x": 480,
+        "y": 720,
+        "expression": "curious",
+        "blinking": true,
+        "breathing": true,
+        "contactShadow": true
+      }
+    ],
+    "props": [
+      "sensory-babel-tower",
+      "three-sensory-orbs",
+      "16x16-grid-laser-slicer",
+      "eagle-photo-mosaic-tiles",
+      "acoustic-tuning-fork",
+      "80-channel-mel-spectrogram-prism",
+      "clip-celestial-hypersphere",
+      "gravitational-contrastive-tethers",
+      "frankenstein-three-gear-pipeline",
+      "unified-omnimodal-crystal-core",
+      "crystal-perception-prism"
+    ]
+  },
+  "beats": [
+    {
+      "at": 0.0,
+      "action": "act1_tower_sensory_babel",
+      "description": "Magi in stone observatory holding 3 isolated sensory orbs (blue text, red vision, gold audio); thick glass partitions block cross-modal communication"
+    },
+    {
+      "at": 55.92,
+      "action": "act2_vit_16x16_patch_slicer",
+      "description": "Magi pulls brass lever on laser table; high-res eagle photo slices into 16x16 mosaic patches with positional IDs, marching like sentences into attention"
+    },
+    {
+      "at": 113.88,
+      "action": "act3_audio_mel_spectrogram",
+      "description": "Magi strikes brass tuning fork; continuous pressure wave passes through Fourier prism, unfolding into glowing 80-channel Mel-spectrogram heatmap"
+    },
+    {
+      "at": 172.08,
+      "action": "act4_clip_celestial_sphere",
+      "description": "Magi explores 3D cosmic hypersphere; contrastive gravity wells pull dog photo and 'a friendly puppy' text into identical geometric coordinates"
+    },
+    {
+      "at": 223.80,
+      "action": "act5_omnimodality_native_fusion",
+      "description": "Side-by-side comparison: clunky 3-stage Frankenstein pipeline vs GPT-4o unified crystal attention stream responding in 280ms with expressive prosody"
+    },
+    {
+      "at": 278.72,
+      "action": "act6_unified_mind_geometry",
+      "description": "Three sensory streams merge into dazzling diamond perception prism; Magi elevates the crystal as radiant light illuminates the cosmos"
+    }
+  ],
+  "labels": [
+    {
+      "text": "EPISODE 07: THE MULTIMODAL MIND",
+      "at": 1.0,
+      "style": "CaveatHand-24"
+    },
+    {
+      "text": "VISION TRANSFORMERS, CLIP & OMNIMODAL LATENTS",
+      "at": 2.5,
+      "style": "NotoSans-28"
+    }
+  ],
+  "audio": [
+    { "type": "sfx", "asset": "distant_thunder_rumble", "at": 3.0, "gain": 0.50 },
+    { "type": "sfx", "asset": "glass_partition_barrier_tap", "at": 22.0, "gain": 0.40 },
+    { "type": "sfx", "asset": "laser_grid_slice_hum", "at": 68.0, "gain": 0.55 },
+    { "type": "sfx", "asset": "mosaic_tile_stamp_click", "at": 85.0, "gain": 0.45 },
+    { "type": "sfx", "asset": "acoustic_tuning_fork_strike", "at": 118.0, "gain": 0.60 },
+    { "type": "sfx", "asset": "mel_spectrogram_thermal_shimmer", "at": 145.0, "gain": 0.45 },
+    { "type": "sfx", "asset": "celestial_gravity_snap", "at": 185.0, "gain": 0.55 },
+    { "type": "sfx", "asset": "contrastive_hypersphere_chime", "at": 205.0, "gain": 0.50 },
+    { "type": "sfx", "asset": "clunky_pipeline_gear_groan", "at": 230.0, "gain": 0.45 },
+    { "type": "sfx", "asset": "omnimodal_crystal_hum_flash", "at": 255.0, "gain": 0.60 },
+    { "type": "sfx", "asset": "prism_harmonic_orchestral_crescendo", "at": 290.0, "gain": 0.65 }
+  ],
+  "transitionOut": {
+    "type": "fade_to_black",
+    "duration": 1.5
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "kind": "speech",
+  "model": "gemini-3.8-flash-tts",
+  "requested_at": "2026-11-15T15:20:41.644Z",
+  "request_id": "3af66952-12b0-4bdb-b83d-9290db47072b",
+  "status": "complete",
+  "warning": "One request only; inspect provider history before retrying",
+  "key_index": 2,
+  "mime_type": "audio/wav",
+  "output": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep13-multimodal-mind/build/narration/act5.wav",
+  "sha256": "72dedb270587b346e4ad21d9ded9e4429847dc360c7909faadb953bbe49ddbbe"
+}
