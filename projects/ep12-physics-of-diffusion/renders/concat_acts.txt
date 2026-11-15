@@ -1,0 +1,6 @@
+file '/Users/prashantmishra/Developer/video-generator-stickman/exports/EP12-Act1-Entropy-1080p.mp4'
+file '/Users/prashantmishra/Developer/video-generator-stickman/exports/EP12-Act2-Destroyer-1080p.mp4'
+file '/Users/prashantmishra/Developer/video-generator-stickman/exports/EP12-Act3-ScoreNeedle-1080p.mp4'
+file '/Users/prashantmishra/Developer/video-generator-stickman/exports/EP12-Act4-LatentUNet-1080p.mp4'
+file '/Users/prashantmishra/Developer/video-generator-stickman/exports/EP12-Act5-Guidance-1080p.mp4'
+file '/Users/prashantmishra/Developer/video-generator-stickman/exports/EP12-Act6-FlowMatching-1080p.mp4'
