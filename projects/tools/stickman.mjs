@@ -582,6 +582,94 @@ Object.assign(PROPS, {
   },
 });
 
+// ============================================================================
+// MOTION ENHANCEMENT HELPERS (Master Blueprint Section 4.2)
+// ============================================================================
+
+/**
+ * Natural deterministic blink cycle.
+ * Blinks typically last ~0.15s and occur every 3 to 4.5 seconds.
+ * @param {number} t Time in seconds
+ * @param {number} seed Integer seed for variation
+ * @returns {'normal' | 'closed'} Eye state for pose
+ */
+export function blinkState(t, seed = 1) {
+  const period = 3.2 + ((seed * 1103515245 + 12345) % 15) * 0.1; // 3.2s - 4.6s cycle
+  const cycleTime = t % period;
+  return cycleTime < 0.14 ? 'closed' : 'normal';
+}
+
+/**
+ * Breathing and subtle weight shift for stationary characters.
+ * @param {number} t Time in seconds
+ * @param {number} bpm Breaths per minute (default 16)
+ * @returns {{ torsoDelta: number, hipYDelta: number, armDelta: number }}
+ */
+export function idleBreath(t, bpm = 16) {
+  const breathFreq = (bpm / 60) * Math.PI * 2;
+  const inhale = Math.sin(t * breathFreq);
+  return {
+    torsoDelta: inhale * 0.8,     // ±0.8 deg tilt
+    hipYDelta: -inhale * 1.5,     // 1.5px vertical lift
+    armDelta: inhale * 1.2        // ±1.2 deg arm sway
+  };
+}
+
+/**
+ * Draws a soft elliptical contact shadow to ground feet, props, or pedestals.
+ * @param {CanvasRenderingContext2D} ctx 
+ * @param {number} x Center X
+ * @param {number} y Center Y
+ * @param {number} rx Horizontal radius
+ * @param {number} ry Vertical radius
+ * @param {number} alpha Opacity (0.0 - 1.0)
+ */
+export function drawGroundShadow(ctx, x, y, rx = 65, ry = 14, alpha = 0.18) {
+  ctx.save();
+  ctx.beginPath();
+  ctx.ellipse(x, y, Math.max(1, rx), Math.max(1, ry), 0, 0, Math.PI * 2);
+  ctx.fillStyle = `rgba(29, 29, 27, ${alpha})`;
+  ctx.fill();
+  ctx.restore();
+}
+
+/**
+ * Reusable Magi Pose Presets (Master Blueprint Section 4.3)
+ * Clean baseline configurations for common explainer states.
+ */
+export const MAGI_POSES = {
+  idle: {
+    torso: 0, head: 0, facing: 'front',
+    armL: [-18, -8], armR: [18, 8], legL: [-12, -6], legR: [12, 6],
+    eyes: 'normal', brows: 'neutral', mouth: 'smile', scarf: true, accessory: 'wizard-hat'
+  },
+  explain: {
+    torso: -2, head: 3, facing: 'right',
+    armL: [-25, -10], armR: [45, 20], legL: [-14, -8], legR: [10, 8],
+    eyes: 'wide', brows: 'neutral', mouth: 'open', scarf: true, accessory: 'wizard-hat'
+  },
+  inspect: {
+    torso: 12, head: 18, facing: 'right',
+    armL: [-10, -5], armR: [35, 55], legL: [-8, -4], legR: [14, 10],
+    eyes: 'normal', brows: 'one-up', mouth: 'smile', scarf: true, accessory: 'wizard-hat'
+  },
+  thinking: {
+    torso: 4, head: -8, facing: 'front',
+    armL: [-20, -10], armR: [75, 110], legL: [-12, -6], legR: [12, 6],
+    eyes: 'normal', brows: 'one-up', mouth: 'wavy', scarf: true, accessory: 'wizard-hat'
+  },
+  surprised: {
+    torso: -6, head: -4, facing: 'front',
+    armL: [-60, -40], armR: [60, 40], legL: [-16, -10], legR: [16, 10],
+    eyes: 'wide', brows: 'raised', mouth: 'o', marks: ['shock'], scarf: true, accessory: 'wizard-hat'
+  },
+  celebrate: {
+    torso: 0, head: 0, facing: 'front',
+    armL: [-130, -30], armR: [130, 30], legL: [-15, -8], legR: [15, 8],
+    eyes: 'wide', brows: 'raised', mouth: 'grin', scarf: true, accessory: 'wizard-hat'
+  }
+};
+
 export function renderAsset(spec, seed = 7) {
   if (spec.figure) {
     const c = createCanvas(FIG.width, FIG.height), ctx = c.getContext('2d');

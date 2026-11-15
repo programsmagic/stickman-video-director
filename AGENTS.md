@@ -2,7 +2,8 @@
 **Repository**: `video-generator-stickman`  
 **Last Updated**: November 15, 2026  
 **Status**: Episode 02 (How AI Actually Works - Definitive Edition 11m 39s) Complete & Scheduled, Episode 09 (Can AI Ever Become Conscious? 5m 32s) Complete, Episode 01 (History of AI / EP07 7m 07s) Published  
-**Comprehensive Studio & Animation Guide**: [`STUDIO_PRODUCTION_GUIDE.md`](file:///Users/prashantmishra/Developer/video-generator-stickman/STUDIO_PRODUCTION_GUIDE.md) (Single source of truth for technical architecture, IK kinematics, procedural Foley audio, 21 skills, and rendering pipeline)
+**Comprehensive Studio & Animation Guide**: [`STUDIO_PRODUCTION_GUIDE.md`](file:///Users/prashantmishra/Developer/video-generator-stickman/STUDIO_PRODUCTION_GUIDE.md) (Single source of truth for technical architecture, IK kinematics, procedural Foley audio, 21 skills, and rendering pipeline)  
+**Master Architectural Blueprint**: [`PROGRAMS_MAGIC_AI_VIDEO_STUDIO_MASTER_BLUEPRINT.md`](file:///Users/prashantmishra/Developer/video-generator-stickman/PROGRAMS_MAGIC_AI_VIDEO_STUDIO_MASTER_BLUEPRINT.md) (Expert blueprint for quality evolution, scene schema 1.0, and 1080p foundation)
 
 ---
 

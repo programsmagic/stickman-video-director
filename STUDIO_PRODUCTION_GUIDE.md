@@ -5,6 +5,7 @@
 > **Last Updated:** November 15, 2026
 > **Channel:** `programs magic` (`UCLCtQnqfU9AAOc8AwgFXXIA`) — 1,920 subscribers
 > **Mascot:** **Magi** (wizard hat, curious wide gaze, iconic yellow scarf)
+> **Quality Evolution Blueprint:** [`PROGRAMS_MAGIC_AI_VIDEO_STUDIO_MASTER_BLUEPRINT.md`](file:///Users/prashantmishra/Developer/video-generator-stickman/PROGRAMS_MAGIC_AI_VIDEO_STUDIO_MASTER_BLUEPRINT.md)
 
 ---
 
