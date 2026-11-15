@@ -1,0 +1,111 @@
+{
+  "schemaVersion": "1.0",
+  "episodeId": "ep12-physics-of-diffusion",
+  "sceneId": "ep12-master-storyboard",
+  "title": "The Physics of Diffusion: Unmaking Noise into Art",
+  "renderer": "canvas",
+  "duration": 331.64,
+  "fps": 30,
+  "resolution": {
+    "width": 1920,
+    "height": 1080
+  },
+  "narration": {
+    "asset": "../build/narration/full_feature.wav",
+    "start": 0.0,
+    "end": 331.64
+  },
+  "camera": {
+    "shot": "dynamic",
+    "movement": "staged-cutaways"
+  },
+  "visual": {
+    "metaphor": "Thermodynamic ink droplet dissolving in water, mechanical noise crank, Langevin score compass, latent U-Net hourglass, and celestial flow matching",
+    "background": "#070B19",
+    "characters": [
+      {
+        "id": "magi",
+        "pose": "inspect",
+        "x": 480,
+        "y": 720,
+        "expression": "curious",
+        "blinking": true,
+        "breathing": true,
+        "contactShadow": true
+      }
+    ],
+    "props": [
+      "borosilicate-beaker",
+      "midnight-blue-ink-dropper",
+      "entropy-odometer",
+      "gaussian-noise-crank",
+      "glowing-vector-score-compass",
+      "latent-vae-crystal",
+      "u-net-hourglass-wireframe",
+      "dual-guidance-ship-helm",
+      "cosmic-surveyor-staff"
+    ]
+  },
+  "beats": [
+    {
+      "at": 0.0,
+      "action": "act1_entropy_droplet",
+      "description": "Magi at physics bench drops midnight-blue ink into water; Brownian motion scatters particles into thermodynamic entropy"
+    },
+    {
+      "at": 53.8,
+      "action": "act2_forward_noise_destroyer",
+      "description": "Magi turns brass crank at easel; Gaussian noise sprays over oil painting across 1,000 steps until only pure white static remains"
+    },
+    {
+      "at": 114.4,
+      "action": "act3_langevin_score_needle",
+      "description": "Magi on foggy 3D mountain plateau navigates with glowing brass score compass pointing uphill along probability gradient"
+    },
+    {
+      "at": 173.6,
+      "action": "act4_latent_unet_architect",
+      "description": "Magi slides image into cyan VAE crystal, shrinking 8x into latent space; U-Net hourglass extracts concepts and skip bridges route details"
+    },
+    {
+      "at": 226.4,
+      "action": "act5_classifier_free_guidance",
+      "description": "Magi at steampunk ship helm subtracts unconditional drift and cranks guidance dial to 7.5, locking course to prompt beam"
+    },
+    {
+      "at": 278.9,
+      "action": "act6_flow_matching_galaxy",
+      "description": "Magi plants surveyor staff in deep space; chaotic Brownian particle trails snap into straight Flow Matching laser highways, sculpting cosmic art"
+    }
+  ],
+  "labels": [
+    {
+      "text": "EPISODE 06: THE PHYSICS OF DIFFUSION",
+      "at": 1.0,
+      "style": "CaveatHand-24"
+    },
+    {
+      "text": "REVERSE THERMODYNAMICS & LANGEVIN DYNAMICS",
+      "at": 2.5,
+      "style": "NotoSans-28"
+    }
+  ],
+  "audio": [
+    { "type": "sfx", "asset": "water_droplet_surface_ripple", "at": 3.5, "gain": 0.55 },
+    { "type": "sfx", "asset": "entropy_clock_reverse_grind", "at": 18.0, "gain": 0.45 },
+    { "type": "sfx", "asset": "brass_gear_ratchet_noise_crank", "at": 58.0, "gain": 0.50 },
+    { "type": "sfx", "asset": "gaussian_white_noise_hiss", "at": 80.0, "gain": 0.40 },
+    { "type": "sfx", "asset": "mountain_wind_high_dimensional_howl", "at": 120.0, "gain": 0.45 },
+    { "type": "sfx", "asset": "magnetic_score_needle_snap", "at": 140.0, "gain": 0.55 },
+    { "type": "sfx", "asset": "vae_crystal_pneumatic_compression", "at": 185.0, "gain": 0.50 },
+    { "type": "sfx", "asset": "skip_connection_laser_bridge_hum", "at": 210.0, "gain": 0.45 },
+    { "type": "sfx", "asset": "ship_helm_timber_groan", "at": 230.0, "gain": 0.50 },
+    { "type": "sfx", "asset": "guidance_dial_sonic_boom_lock", "at": 265.0, "gain": 0.60 },
+    { "type": "sfx", "asset": "cosmic_stardust_wind_chimes", "at": 282.0, "gain": 0.45 },
+    { "type": "sfx", "asset": "celestial_harp_orchestral_swell", "at": 320.0, "gain": 0.65 }
+  ],
+  "transitionOut": {
+    "type": "fade_to_black",
+    "duration": 1.5
+  }
+}

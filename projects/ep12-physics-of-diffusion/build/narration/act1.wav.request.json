@@ -1,0 +1,12 @@
+{
+  "kind": "speech",
+  "model": "gemini-3.8-flash-tts",
+  "requested_at": "2026-11-15T13:39:12.784Z",
+  "request_id": "e5acb01e-95ce-4084-8b30-0bfe92c8994e",
+  "status": "complete",
+  "warning": "One request only; inspect provider history before retrying",
+  "key_index": 1,
+  "mime_type": "audio/wav",
+  "output": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep12-physics-of-diffusion/build/narration/act1.wav",
+  "sha256": "4b89383c5380615f027fca97b0484c3e97b0e9b00c8374a31db54775f3864c4d"
+}
