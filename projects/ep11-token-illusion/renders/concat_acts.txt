@@ -1,0 +1,6 @@
+file '/Users/prashantmishra/Developer/video-generator-stickman/exports/EP11-Act1-WordGuillotine-1080p.mp4'
+file '/Users/prashantmishra/Developer/video-generator-stickman/exports/EP11-Act2-StrawberryParadox-1080p.mp4'
+file '/Users/prashantmishra/Developer/video-generator-stickman/exports/EP11-Act3-BPEVault-1080p.mp4'
+file '/Users/prashantmishra/Developer/video-generator-stickman/exports/EP11-Act4-GlitchMagikarp-1080p.mp4'
+file '/Users/prashantmishra/Developer/video-generator-stickman/exports/EP11-Act5-TokenTax-1080p.mp4'
+file '/Users/prashantmishra/Developer/video-generator-stickman/exports/EP11-Act6-ByteFuture-1080p.mp4'

@@ -1,0 +1,12 @@
+{
+  "kind": "speech",
+  "model": "gemini-3.8-flash-tts",
+  "requested_at": "2026-11-15T08:51:28.012Z",
+  "request_id": "e1fea78d-6c81-4cd8-a2d1-d72461ab03a7",
+  "status": "complete",
+  "warning": "One request only; inspect provider history before retrying",
+  "key_index": 1,
+  "mime_type": "audio/wav",
+  "output": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep11-token-illusion/build/narration/act4.wav",
+  "sha256": "d3b353ba611fdc2d80ca59927a37f61c4da59f9bf70b7102e25ba86aa50f0928"
+}

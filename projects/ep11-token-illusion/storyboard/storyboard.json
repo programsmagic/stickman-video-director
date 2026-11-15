@@ -4,7 +4,7 @@
   "sceneId": "ep11-master-storyboard",
   "title": "The Token Illusion: How Machines Read Without Eyes",
   "renderer": "canvas",
-  "duration": 330.0,
+  "duration": 296.0,
   "fps": 30,
   "resolution": {
     "width": 1920,
@@ -13,7 +13,7 @@
   "narration": {
     "asset": "../build/narration/full_feature.wav",
     "start": 0.0,
-    "end": 330.0
+    "end": 296.0
   },
   "camera": {
     "shot": "dynamic",
@@ -51,27 +51,27 @@
       "description": "Magi at high-speed printing press; brass guillotine slices text into chunky wooden puzzle tokens"
     },
     {
-      "at": 55.0,
+      "at": 51.3,
       "action": "act2_strawberry_paradox",
       "description": "Gameshow buzzer trap; robot fails spelling test as strawberry splits into 'straw' and 'berry'"
     },
     {
-      "at": 110.0,
+      "at": 97.6,
       "action": "act3_bpe_vault_lockers",
       "description": "Massive library vault with 100,000 brass lockers; BPE merges character pairs into token slots"
     },
     {
-      "at": 165.0,
+      "at": 147.1,
       "action": "act4_glitch_solidgoldmagikarp",
       "description": "Neglected dark vault corner with SolidGoldMagikarp token causing digital matrix distortion"
     },
     {
-      "at": 220.0,
+      "at": 199.1,
       "action": "act5_global_token_tax",
       "description": "Split screen comparing English 4 tokens vs Hindi 28 Unicode bytes; cash register cost disparity"
     },
     {
-      "at": 275.0,
+      "at": 247.6,
       "action": "act6_byte_latent_future",
       "description": "Guillotine dissolves into pure continuous light waveforms; token-free byte models emerge"
     }
@@ -91,11 +91,11 @@
   "audio": [
     { "type": "sfx", "asset": "printing_press_mechanical_rhythm", "at": 0.0, "gain": 0.35 },
     { "type": "sfx", "asset": "guillotine_blade_chop", "at": 5.0, "gain": 0.60 },
-    { "type": "sfx", "asset": "gameshow_wrong_buzzer", "at": 65.0, "gain": 0.55 },
-    { "type": "sfx", "asset": "brass_vault_locker_click", "at": 120.0, "gain": 0.45 },
-    { "type": "sfx", "asset": "digital_matrix_glitch_alarm", "at": 175.0, "gain": 0.60 },
-    { "type": "sfx", "asset": "cash_register_token_tax", "at": 230.0, "gain": 0.50 },
-    { "type": "sfx", "asset": "celestial_byte_stream_chime", "at": 285.0, "gain": 0.50 }
+    { "type": "sfx", "asset": "gameshow_wrong_buzzer", "at": 55.0, "gain": 0.55 },
+    { "type": "sfx", "asset": "brass_vault_locker_click", "at": 105.0, "gain": 0.45 },
+    { "type": "sfx", "asset": "digital_matrix_glitch_alarm", "at": 155.0, "gain": 0.60 },
+    { "type": "sfx", "asset": "cash_register_token_tax", "at": 205.0, "gain": 0.50 },
+    { "type": "sfx", "asset": "celestial_byte_stream_chime", "at": 255.0, "gain": 0.50 }
   ],
   "transitionOut": {
     "type": "fade_to_black",
