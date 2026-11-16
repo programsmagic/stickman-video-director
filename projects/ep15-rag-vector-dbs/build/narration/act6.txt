@@ -1,0 +1,7 @@
+Naive RAG was a one-shot pipeline: ask a question, grab five paragraphs, hope for the best. Modern RAG is an active, autonomous reasoning system.
+
+With Agentic and Self-RAG, the language model generates special reflection tokens. It evaluates its own certainty: does this prompt actually require retrieval? Once documents arrive, it critiques them: are these sources truly relevant, or contradictory? And before printing the final answer, it verifies attribution: is every single sentence grounded by factual evidence?
+
+If the retrieved context is insufficient, the agent doesn't give up—it reformulates the search query, browses external APIs, and cross-checks sources.
+
+By bridging frozen neural weights with high-speed vector geometry, we gave AI the ultimate superpower: an infinite, verified, and living memory.

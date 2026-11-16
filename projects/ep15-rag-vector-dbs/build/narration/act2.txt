@@ -1,0 +1,7 @@
+Computers cannot read concepts; they only understand numbers. The secret foundation of RAG is the dense embedding model.
+
+Take a chunk of text—a paragraph, an email, or a code snippet. An embedding neural network compresses that entire block of text into a single high-dimensional coordinate vector—often fifteen hundred and thirty-six dimensions long.
+
+In this mathematical universe, semantic similarity becomes physical proximity. The phrase "furious storm" and the phrase "raging tempest" share almost identical coordinates, even though they use completely different letters.
+
+To measure how relevant a document is to your question, we convert your prompt into a query vector, point both vectors into hyperspace, and calculate the cosine of the angle between them. When the angle is zero, the cosine is one—an exact semantic match.

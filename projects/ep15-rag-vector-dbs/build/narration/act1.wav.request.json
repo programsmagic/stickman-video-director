@@ -1,0 +1,12 @@
+{
+  "kind": "speech",
+  "model": "gemini-3.8-flash-tts",
+  "requested_at": "2026-11-16T02:29:31.891Z",
+  "request_id": "a74e8f22-3f36-4d9a-a3bd-7867bba44ba5",
+  "status": "complete",
+  "warning": "One request only; inspect provider history before retrying",
+  "key_index": 1,
+  "mime_type": "audio/wav",
+  "output": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep15-rag-vector-dbs/build/narration/act1.wav",
+  "sha256": "3168dad45fe46631e5b751d21d087cc203c80e0ffc3b97396fbd7e422bd7647c"
+}

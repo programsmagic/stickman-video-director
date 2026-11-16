@@ -1,0 +1,7 @@
+Before text enters your vector database, it must be chunked. And chunking is an engineering art form.
+
+Slice your documents too small—say, twenty words—and you destroy the surrounding context. Slice them too large—say, two thousand words—and the embedding vector averages out into a blurry, generic fog. Production systems use recursive character chunking with sliding overlaps, preserving paragraph cohesion.
+
+Yet even the most advanced embeddings have a critical blind spot: exact keyword lookups. If a user queries a specific part serial number, a patient ID, or an API function name, dense semantic vectors often fail because random alphanumeric strings don't carry rich semantic meaning.
+
+The production standard is Hybrid Search. We run traditional BM25 keyword matching alongside dense vector similarity, and combine their scores using Reciprocal Rank Fusion. You get the conceptual intuition of neural nets, paired with the exact precision of an inverted index.

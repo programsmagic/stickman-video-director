@@ -1,0 +1,7 @@
+Calculating cosine similarity against ten documents takes milliseconds. But what happens when your enterprise vector database holds one hundred million documents? A brute-force linear search across all vectors would choke your GPU clusters and bankrupt your server budget.
+
+This is where modern vector databases like Pinecone, Milvus, and Qdrant use HNSW: Hierarchical Navigable Small World graphs.
+
+Imagine a multi-story transportation network. The top layer is an interstate highway: it has very few exits and takes massive leaps across conceptual space. The middle layers are regional roads. And the ground layer is a dense city grid connecting close neighbors.
+
+When a query arrives, the search engine starts at the top layer, takes large greedy jumps toward the closest vector cluster, drops down a floor, and zooms in until it finds the exact nearest neighbors in logarithmic time. One hundred million vectors searched in five milliseconds.

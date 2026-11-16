@@ -1,7 +1,7 @@
 # Studio Operational Manual & Agent Guidelines
 **Repository**: `video-generator-stickman`  
 **Last Updated**: November 15, 2026  
-**Status**: Episode 02 (How AI Actually Works - Definitive Edition 11m 39s) Complete & Scheduled, Episode 09 (Can AI Ever Become Conscious? 5m 32s) Complete & Scheduled, Episode 10 (The Geometry of Thinking 4m 50s 1080p Master) Complete & Ready, Episode 11 (The Token Illusion 4m 56s 1080p Master) Complete & Ready, Episode 12 (The Physics of Diffusion 5m 31s 1080p Master) Complete & Ready, Episode 13 (The Multimodal Mind 5m 26s 1080p Master) Complete & Ready, Episode 14 (The Architecture of Autonomous Agents 4m 58s 1080p Master) Complete & Ready, Episode 01 (History of AI / EP07 7m 07s) Published  
+**Status**: Episode 02 (How AI Actually Works - Definitive Edition 11m 39s) Complete & Scheduled, Episode 09 (Can AI Ever Become Conscious? 5m 32s) Complete & Scheduled, Episode 10 (The Geometry of Thinking 4m 50s 1080p Master) Complete & Ready, Episode 11 (The Token Illusion 4m 56s 1080p Master) Complete & Ready, Episode 12 (The Physics of Diffusion 5m 31s 1080p Master) Complete & Ready, Episode 13 (The Multimodal Mind 5m 26s 1080p Master) Complete & Ready, Episode 14 (The Architecture of Autonomous Agents 4m 58s 1080p Master) Complete & Ready, Episode 15 (RAG & Vector Databases 5m 37s 1080p Master) Complete & Ready, Episode 01 (History of AI / EP07 7m 07s) Published  
 **Comprehensive Studio & Animation Guide**: [`STUDIO_PRODUCTION_GUIDE.md`](file:///Users/prashantmishra/Developer/video-generator-stickman/STUDIO_PRODUCTION_GUIDE.md) (Single source of truth for technical architecture, IK kinematics, procedural Foley audio, 21 skills, and rendering pipeline)  
 **Master Architectural Blueprint**: [`PROGRAMS_MAGIC_AI_VIDEO_STUDIO_MASTER_BLUEPRINT.md`](file:///Users/prashantmishra/Developer/video-generator-stickman/PROGRAMS_MAGIC_AI_VIDEO_STUDIO_MASTER_BLUEPRINT.md) (Expert blueprint for quality evolution, scene schema 1.0, and 1080p foundation)
 
@@ -94,6 +94,20 @@
   - **Act 5**: [`exports/EP14-Act5-SelfCorrection-1080p.mp4`](file:///Users/prashantmishra/Developer/video-generator-stickman/exports/EP14-Act5-SelfCorrection-1080p.mp4) (52.2s - Shinn 2023 Reflexion memory bank, backtracking, self-debugging diagnostic scan)
   - **Act 6**: [`exports/EP14-Act6-MultiAgentSwarms-1080p.mp4`](file:///Users/prashantmishra/Developer/video-generator-stickman/exports/EP14-Act6-MultiAgentSwarms-1080p.mp4) (49.5s - Multi-agent swarm, coordinator orchestrator, specialized agent assembly line finale)
 
+- **Episode 15 (Episode 09 of Series): Retrieval-Augmented Generation & Vector Databases (External Memory, HNSW & Chunking)**:
+  - **YouTube Premiere**: Scheduled for **Tuesday, Jan 05, 2027 @ 19:00 UTC (2:00 PM EST)**
+  - **Full Feature Film**: [`exports/EP15-RAG-Vector-DBs-Final-1080p.mp4`](file:///Users/prashantmishra/Developer/video-generator-stickman/exports/EP15-RAG-Vector-DBs-Final-1080p.mp4) (5m 37s, 1920x1080, 30fps, 48kHz Foley + Gemini Bodi narration)
+  - **Subtitles**: [`exports/EP15-RAG-Vector-DBs-Final.en.srt`](file:///Users/prashantmishra/Developer/video-generator-stickman/exports/EP15-RAG-Vector-DBs-Final.en.srt) (94 precision word-aligned cues)
+  - **Thumbnail**: [`exports/EP15-thumbnail.png`](file:///Users/prashantmishra/Developer/video-generator-stickman/exports/EP15-thumbnail.png) (1280x720, custom mobile CTR design)
+  - **Publishing Metadata**: [`projects/ep15-rag-vector-dbs/publishing/metadata.md`](file:///Users/prashantmishra/Developer/video-generator-stickman/projects/ep15-rag-vector-dbs/publishing/metadata.md)
+  - **QA Report**: [`projects/ep15-rag-vector-dbs/qa/qa_report.md`](file:///Users/prashantmishra/Developer/video-generator-stickman/projects/ep15-rag-vector-dbs/qa/qa_report.md) (100% PASS)
+  - **Act 1**: [`exports/EP15-Act1-ObsidianLibrary-1080p.mp4`](file:///Users/prashantmishra/Developer/video-generator-stickman/exports/EP15-Act1-ObsidianLibrary-1080p.mp4) (54.6s - Infinite obsidian library tower, context funnel overload O(N^2), external memory card)
+  - **Act 2**: [`exports/EP15-Act2-GeometryOfMeaning-1080p.mp4`](file:///Users/prashantmishra/Developer/video-generator-stickman/exports/EP15-Act2-GeometryOfMeaning-1080p.mp4) (53.9s - 1,536-D embedding laser chamber, Manim 3D celestial hypersphere, cosine angle theta)
+  - **Act 3**: [`exports/EP15-Act3-HNSWSpiderweb-1080p.mp4`](file:///Users/prashantmishra/Developer/video-generator-stickman/exports/EP15-Act3-HNSWSpiderweb-1080p.mp4) (58.9s - 3-story HNSW graph skyscraper, express hops vs linear scan, 100M vectors in 4.2ms)
+  - **Act 4**: [`exports/EP15-Act4-ChunkingHybrid-1080p.mp4`](file:///Users/prashantmishra/Developer/video-generator-stickman/exports/EP15-Act4-ChunkingHybrid-1080p.mp4) (61.4s - Golden guillotine chunking with 15% overlap, exact SKU failure, Hybrid BM25 balance scale)
+  - **Act 5**: [`exports/EP15-Act5-CrossEncoderReranker-1080p.mp4`](file:///Users/prashantmishra/Developer/video-generator-stickman/exports/EP15-Act5-CrossEncoderReranker-1080p.mp4) (52.4s - Courtroom judge inspection, deep cross-attention transformer, rejection stamps, top-3 needles)
+  - **Act 6**: [`exports/EP15-Act6-AgenticRAG-1080p.mp4`](file:///Users/prashantmishra/Developer/video-generator-stickman/exports/EP15-Act6-AgenticRAG-1080p.mp4) (55.4s - Holographic cockpit, Self-RAG reflection tokens [Retrieve, IsRel, IsSup], living external mind)
+
 - **Episode 09: Can AI Ever Become Conscious? (The Chinese Room, Qualia & Inside the Minds of Silicon)**:
   - **YouTube Premiere**: Scheduled for **Tuesday, Nov 24, 2026 @ 19:00 UTC (2:00 PM EST)**
   - **Full Feature Film**: [`exports/EP09-Can-AI-Become-Conscious-Final.mp4`](file:///Users/prashantmishra/Developer/video-generator-stickman/exports/EP09-Can-AI-Become-Conscious-Final.mp4) (5m 32s, 1280x720, 30fps, 48kHz Foley + Gemini Bodi narration)
@@ -157,7 +171,7 @@
 | **Episode 06** (EP12) | **The Physics of Diffusion: Unmaking Noise into Art** | Reverse thermodynamics, Langevin dynamics, Score-based denoising, Latent unet | **Completed (1080p Master)** | **5m 31s** |
 | **Episode 07** (EP13) | **The Multimodal Mind: How AI Hears, Sees & Speaks at Once** | Audio latent spectrograms, Vision transformers, Cross-modal alignment, Omnimodal unified latents | **Completed (1080p Master)** | **5m 26s** |
 | **Episode 08** (EP14) | **The Architecture of Autonomous Agents** | ReAct loops, tool calling, JSON schema, environment feedback, self-correction | **Completed (1080p Master)** | **4m 58s** |
-| **Episode 09** (EP15) | **Retrieval-Augmented Generation & Vector DBs** | External memory, 1536-D embeddings, HNSW graph search, semantic routing, reranking | **Scheduled** | ~5m 30s |
+| **Episode 09** (EP15) | **Retrieval-Augmented Generation & Vector DBs** | External memory, 1536-D embeddings, HNSW graph search, semantic routing, reranking | **Completed (1080p Master)** | **5m 37s** |
 | **Episode 10** (EP16) | **Post-Training & Alignment: Taming the Silicon Beast** | SFT, RLHF, DPO, reward models, KL divergence tether, refusal steering | **Scheduled** | ~5m 30s |
 | **Episode 11** (EP17) | **Test-Time Compute & The Reasoning Revolution** | OpenAI o1/o3, DeepSeek-R1, MCTS tree search, Process Reward Models (PRMs), verification | **Scheduled** | ~5m 30s |
 | **Episode 12** (EP18) | **KV Cache & The Mechanics of GPU Inference** | Memory bandwidth wall, Key-Value cache, PagedAttention, vLLM, FlashAttention, quantization | **Scheduled** | ~5m 30s |

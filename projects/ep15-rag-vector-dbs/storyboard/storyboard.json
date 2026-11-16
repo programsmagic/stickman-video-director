@@ -1,0 +1,89 @@
+{
+  "schemaVersion": "1.0",
+  "episodeId": "ep15-rag-vector-dbs",
+  "sceneId": "ep15-master-storyboard",
+  "title": "Retrieval-Augmented Generation & Vector Databases: External Memory, HNSW & Chunking",
+  "renderer": "canvas",
+  "duration": 336.60,
+  "fps": 30,
+  "resolution": {
+    "width": 1920,
+    "height": 1080
+  },
+  "narration": {
+    "asset": "../build/narration/full_feature.wav",
+    "start": 0.0,
+    "end": 336.60
+  },
+  "camera": {
+    "shot": "dynamic",
+    "movement": "staged-cutaways"
+  },
+  "visual": {
+    "metaphor": "Infinite obsidian library tower, 1536-D hypersphere vector coordinates with cosine angles, multi-floor HNSW skip-list elevator, recursive chunking guillotine with BM25 hybrid balance scale, cross-encoder cross-attention courtroom judge, and Self-RAG reflection token command cockpit",
+    "background": "#080D1A",
+    "characters": [
+      {
+        "id": "magi",
+        "pose": "inspect",
+        "x": 480,
+        "y": 720,
+        "expression": "curious",
+        "blinking": true,
+        "breathing": true,
+        "contactShadow": true
+      }
+    ],
+    "props": [
+      "obsidian-library-tower",
+      "vector-hypersphere-compass",
+      "hnsw-multi-layer-skyscraper",
+      "recursive-chunking-guillotine-scale",
+      "cross-encoder-microscope-judge",
+      "self-rag-reflection-hud"
+    ]
+  },
+  "beats": [
+    {
+      "at": 0.0,
+      "action": "act1_the_infinite_obsidian_library",
+      "description": "Magi stands before a towering obsidian library; attempts to cram 50 thick encyclopedias into an LLM context funnel, triggering thermal alarms and quadratic attention choke; introduces external RAG memory"
+    },
+    {
+      "at": 54.56,
+      "action": "act2_geometry_of_meaning",
+      "description": "Magi operates a laser compression chamber, turning text into 1,536-dimensional coordinates; navigates a 3D Manim vector hypersphere with cosine angle theta between semantic neighbors"
+    },
+    {
+      "at": 108.48,
+      "action": "act3_hnsw_spiderweb",
+      "description": "Magi on the observation deck of an HNSW multi-story graph; skips linear O(N) scans by taking long-range express hops on Layer 2 and diving to Layer 0 nearest neighbors in logarithmic time"
+    },
+    {
+      "at": 167.40,
+      "action": "act4_chunking_and_hybrid_bridge",
+      "description": "Magi adjusts a golden guillotine for recursive sliding-window chunking; reveals dense vector blind spots with exact serial numbers, activating the Hybrid BM25 balance scale with Reciprocal Rank Fusion"
+    },
+    {
+      "at": 228.76,
+      "action": "act5_cross_encoder_reranker",
+      "description": "Magi as a discerning courtroom judge examines 50 candidate passages; runs query and document through deep cross-attention layers, stamping out semantic impostors and elevating top 3 gems"
+    },
+    {
+      "at": 281.16,
+      "action": "act6_agentic_rag_living_memory",
+      "description": "Magi at a futuristic holographic cockpit operating dynamic Self-RAG reflection tokens: [Retrieve], [IsRel], [IsSup]; illuminates the entire library into a living, hallucination-free external neural mind"
+    }
+  ],
+  "audio": {
+    "foley": [
+      { "at": 5.0, "sound": "books_creaking_and_paper_flutter" },
+      { "at": 24.0, "sound": "glass_funnel_stress_and_alarm_chime" },
+      { "at": 60.0, "sound": "laser_scanner_hum_and_vector_ping" },
+      { "at": 115.0, "sound": "express_elevator_whoosh_and_graph_nodes_lighting" },
+      { "at": 175.0, "sound": "guillotine_blade_slice_and_scale_balance_click" },
+      { "at": 235.0, "sound": "gavel_strike_and_cross_attention_laser_chime" },
+      { "at": 290.0, "sound": "holographic_hud_power_up_and_celestial_resonance" }
+    ]
+  }
+}

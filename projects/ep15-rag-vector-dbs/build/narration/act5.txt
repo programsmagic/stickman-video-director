@@ -1,0 +1,7 @@
+Your hybrid retriever just pulled the top fifty candidate passages from your database. But bi-encoder retrieval has an inherent limitation: it encoded your query and your documents separately. It never let the specific words of your question directly interact with the words of the answer.
+
+Enter the Cross-Encoder Reranker.
+
+Unlike the initial retriever, the reranker takes your question and a candidate document, glues them together, and feeds them jointly through deep transformer cross-attention layers. Every word in the query attends to every word in the passage.
+
+Because this full attention is computationally heavy, you don't run it across millions of documents. You run it only across the top fifty candidates. The reranker instantly exposes semantic impostors, reshuffles the deck, and delivers the top three flawless paragraphs directly to your LLM.

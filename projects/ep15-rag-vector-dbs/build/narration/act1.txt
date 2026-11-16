@@ -1,0 +1,5 @@
+Large language models have a dirty secret: their internal memories are frozen in stone. Everything they know was baked into billions of numerical weights during pretraining. When you ask about events from yesterday, private company databases, or rare medical papers, the model faces a brutal choice: admit ignorance, or hallucinate with total confidence.
+
+To fix this, engineers tried stuffing entire libraries directly into the prompt context window. But context windows are not free. Full self-attention scales quadratically with length—meaning doubling your document count quadruples your compute cost. Worse, models suffer from "Lost in the Middle"—routinely forgetting critical facts buried in long documents.
+
+To build true enterprise intelligence, we don't need a bigger stomach. We need an external brain. Welcome to Retrieval-Augmented Generation—or RAG.

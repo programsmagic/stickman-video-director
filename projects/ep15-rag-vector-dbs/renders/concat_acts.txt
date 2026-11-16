@@ -1,0 +1,6 @@
+file '/Users/prashantmishra/Developer/video-generator-stickman/exports/EP15-Act1-ObsidianLibrary-1080p.mp4'
+file '/Users/prashantmishra/Developer/video-generator-stickman/exports/EP15-Act2-GeometryOfMeaning-1080p.mp4'
+file '/Users/prashantmishra/Developer/video-generator-stickman/exports/EP15-Act3-HNSWSpiderweb-1080p.mp4'
+file '/Users/prashantmishra/Developer/video-generator-stickman/exports/EP15-Act4-ChunkingHybrid-1080p.mp4'
+file '/Users/prashantmishra/Developer/video-generator-stickman/exports/EP15-Act5-CrossEncoderReranker-1080p.mp4'
+file '/Users/prashantmishra/Developer/video-generator-stickman/exports/EP15-Act6-AgenticRAG-1080p.mp4'

@@ -46,6 +46,11 @@
     "render:ep08:thumb": "node projects/ep14-autonomous-agents/renders/render_ep14_thumbnail.mjs",
     "qa:ep08": "node projects/tools/qa_inspector.mjs exports/EP14-Autonomous-Agents-Final-1080p.mp4 --profile 1080p --out-dir projects/ep14-autonomous-agents/qa",
     "upload:ep08": "node projects/tools/upload_ep14.mjs",
+    "render:ep09": "node projects/ep15-rag-vector-dbs/renders/render_all_acts.mjs",
+    "render:ep09:subtitles": "node projects/ep15-rag-vector-dbs/build/generate_ep15_subtitles.mjs",
+    "render:ep09:thumb": "node projects/ep15-rag-vector-dbs/renders/render_ep15_thumbnail.mjs",
+    "qa:ep09": "node projects/tools/qa_inspector.mjs exports/EP15-RAG-Vector-DBs-Final-1080p.mp4 --profile 1080p --out-dir projects/ep15-rag-vector-dbs/qa",
+    "upload:ep09": "node projects/tools/upload_ep15.mjs",
     "auth:youtube": "node projects/tools/auth_youtube.mjs",
     "test:doctor": "node skills/directing-stickman-videos/scripts/autopilot.mjs doctor"
   },
