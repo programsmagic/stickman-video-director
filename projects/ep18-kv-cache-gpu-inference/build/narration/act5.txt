@@ -1,0 +1,13 @@
+Even with PagedAttention, transferring data between memory chips and compute cores remains a brutal bottleneck.
+
+On a modern graphics card, there are two distinct worlds: massive High Bandwidth Memory, which holds tens of gigabytes but is comparatively slow, and tiny on-chip SRAM cache, which is lightning fast but holds only a few megabytes.
+
+Standard attention calculations constantly write intermediate attention matrices back and forth across the slow memory bus.
+
+Enter FlashAttention, pioneered by researchers at Stanford.
+
+Instead of computing the entire attention matrix at once, FlashAttention tiles the input tokens into small bite-sized blocks that fit entirely inside the fast on-chip SRAM cache.
+
+Using a mathematical insight called Online Softmax, it updates running maximums and normalizes probabilities on the fly, without ever writing the massive quadratic attention matrix into slow memory.
+
+By respecting the physical layout of the silicon, FlashAttention accelerates Transformer inference and training by up to four times, with zero loss in mathematical precision.

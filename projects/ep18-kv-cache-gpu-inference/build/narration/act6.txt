@@ -1,0 +1,11 @@
+Today, the frontier of AI inference combines algorithmic intelligence with hardware physics.
+
+Architectures now use Grouped-Query Attention, where dozens of attention heads share the same Key and Value cache, slashing memory bandwidth requirements by eight-fold.
+
+And in Speculative Decoding, we deploy a small, nimble draft model to sprint ahead and quickly propose multiple candidate words. The giant, powerful model then verifies all candidates simultaneously in a single parallel computation.
+
+Because verifying multiple tokens in parallel takes nearly the same time as generating one, inference speeds double or triple without sacrificing a single drop of reasoning quality.
+
+Understanding artificial intelligence is not just about understanding neural weights and training algorithms. It is about understanding the physics of silicon, the flow of electrons, and the elegant architecture of memory.
+
+When algorithms honor the machine, intelligence moves at the speed of thought.

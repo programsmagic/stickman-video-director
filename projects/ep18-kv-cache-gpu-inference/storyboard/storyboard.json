@@ -1,0 +1,67 @@
+{
+  "schemaVersion": "1.0",
+  "episodeId": "ep18-kv-cache-gpu-inference",
+  "sceneId": "scene_full_feature",
+  "title": "The Mechanics of GPU Inference: KV Cache, PagedAttention & The Memory Wall",
+  "duration": 402.0,
+  "fps": 30,
+  "resolution": {
+    "width": 1920,
+    "height": 1080
+  },
+  "renderer": "canvas",
+  "narration": {
+    "asset": "../build/narration/full_feature.wav",
+    "start": 0.0,
+    "end": 402.0
+  },
+  "environment": {
+    "theme": "cyber_silicon_datacenter",
+    "background": "#030712",
+    "props": [
+      "h100-gpu-die-tensor-core",
+      "sprint-chef-warehouse-weights",
+      "writer-chalkboard-quadratic-curve",
+      "bulletin-board-index-cards",
+      "vram-memory-cube-balance",
+      "grand-hotel-fragmentation-corridor",
+      "paged-attention-block-table",
+      "sram-cache-bridge-tiling",
+      "online-softmax-accumulator",
+      "grouped-query-attention-manifold",
+      "speculative-decoding-scout-mothership"
+    ]
+  },
+  "beats": [
+    {
+      "at": 0.0,
+      "action": "act1_the_memory_wall",
+      "description": "High-tech datacenter laboratory; NVIDIA H100 GPU die with 2,000 TFLOPs tensor cores sits 99% idle while an exhausted chef sprints across a warehouse carrying a 140-lb crate just to slice a single cucumber; prefill vs decode contrast"
+    },
+    {
+      "at": 66.40,
+      "action": "act2_the_kv_cache_time_bomb",
+      "description": "Antique library desk; stickman writer must re-read all past 499 words to write word 500; animated quadratic O(N^2) computation explosion curve; introduction of KV cache bulletin board pinning Key and Value index cards"
+    },
+    {
+      "at": 134.36,
+      "action": "act3_the_arithmetic_of_explosion",
+      "description": "University amphitheater with glowing blackboard formula 2 * layers * heads * d * seq * batch; cold arithmetic of Llama-70B consuming 2.62 MB per token; 128k context explodes to 342 GB VRAM; multi-user OOM red alarm crash"
+    },
+    {
+      "at": 194.68,
+      "action": "act4_the_fragmentation_crisis_paged_attention",
+      "description": "Grand futuristic hotel with 80 locked empty rooms turning guests away; static reservation fragmentation waste; UC Berkeley PagedAttention virtual block table slicing KV cache into neat 16-token physical blocks; waste drops from 80% to 3%"
+    },
+    {
+      "at": 273.04,
+      "action": "act5_flash_attention_sram_highway",
+      "description": "Micro-architecture silicon cutaway; massive slow HBM ocean connected via narrow bridge to lightning fast on-chip SRAM cache; matrix tiling and the Online Softmax trick eliminating the quadratic N x N attention matrix materialization"
+    },
+    {
+      "at": 338.08,
+      "action": "act6_speculative_decoding_future",
+      "description": "Futuristic command deck; Grouped-Query Attention (GQA) merging 64 heads into 8 groups; Speculative Decoding with a swift 1B scout robot proposing 5 candidate tokens in parallel verified by the 70B flagship titan in 1 single forward pass"
+    }
+  ]
+}

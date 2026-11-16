@@ -1,0 +1,12 @@
+{
+  "kind": "speech",
+  "model": "gemini-3.8-flash-tts",
+  "requested_at": "2026-11-16T13:07:03.421Z",
+  "request_id": "84dea911-238f-4323-9b8a-8661e30b8304",
+  "status": "complete",
+  "warning": "One request only; inspect provider history before retrying",
+  "key_index": 1,
+  "mime_type": "audio/wav",
+  "output": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep18-kv-cache-gpu-inference/build/narration/act1.wav",
+  "sha256": "052ed82ba57e47d3e61aab62036c95a8eafc94e186d415248058461ea009d00b"
+}

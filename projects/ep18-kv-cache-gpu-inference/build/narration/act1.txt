@@ -1,0 +1,11 @@
+Most people assume that running an artificial intelligence is pure, raw computation—billions of mathematical equations crunching numbers at the speed of light.
+
+If you inspect a forty-thousand-dollar state-of-the-art GPU during text generation, however, you will discover a shocking secret: the most advanced silicon processors on earth spend more than ninety-nine percent of their time sitting completely idle.
+
+This is the infamous Memory Wall.
+
+When an AI reads your initial prompt, it processes all words at once in a parallel burst of dense matrix multiplication. Its computing engines are fully saturated.
+
+But when it begins generating answers, it produces exactly one token at a time. To generate a single word, the processor must transfer the model's entire memory footprint—hundreds of gigabytes of parameters—out of memory chips and into the compute cores, just to perform a single arithmetic step.
+
+The processor is not compute-bound; it is suffocating on memory bandwidth. And without a crucial engineering breakthrough, real-time AI would be physically impossible.

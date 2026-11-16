@@ -1,0 +1,13 @@
+To understand why text generation is so expensive, look inside the Transformer's self-attention mechanism.
+
+Every single word must calculate its mathematical relationship with every previous word by projecting them into Keys and Values.
+
+Imagine writing a book. To write word number five hundred, you first stop and re-read all four hundred and ninety-nine previous words, calculating the grammar and context between every single pair. To write word five hundred and one, you repeat the entire process from scratch.
+
+Without optimization, generating a thousand tokens requires a quadratic explosion of calculations—O of N squared.
+
+The solution is the Key-Value Cache.
+
+Once the model calculates the Key and Value vectors for past tokens, it saves them in high-speed GPU memory. When generating the next word, it only calculates a single Query vector and compares it against the stored cache.
+
+Generation becomes O of one per step. But saving all those past thoughts introduces a terrifying new monster: the exponential memory tax.

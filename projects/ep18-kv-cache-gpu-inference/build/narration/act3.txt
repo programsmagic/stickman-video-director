@@ -1,0 +1,13 @@
+How much memory does a thought actually take?
+
+Let’s look at the cold arithmetic of a standard seventy-billion-parameter open model like Llama.
+
+The network contains eighty transformer layers, sixty-four attention heads, a head dimension of one hundred and twenty-eight, stored in sixteen-bit precision.
+
+Multiply that out, and the Key-Value cache consumes two point six two megabytes for every single token generated.
+
+For a modest conversation of four thousand tokens, the KV cache alone demands more than ten gigabytes of dedicated memory for a single user.
+
+Expand that to a modern context window of one hundred and twenty-eight thousand tokens, and the cache swells to over three hundred and forty gigabytes—consuming more memory than the entire seventy-billion-parameter neural network weights combined!
+
+When multiple users query the system simultaneously, the memory footprints collide. The GPU runs out of VRAM, and the system crashes with the dreaded Out of Memory error.

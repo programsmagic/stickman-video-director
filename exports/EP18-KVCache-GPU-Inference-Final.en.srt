@@ -1,0 +1,387 @@
+1
+00:00:00,000 --> 00:00:04,515
+Most people assume that running an artificial intelligence is pure, raw
+
+2
+00:00:04,565 --> 00:00:09,080
+computation—billions of mathematical equations crunching numbers at the speed of light.
+
+3
+00:00:09,130 --> 00:00:16,550
+If you inspect a forty-thousand-dollar state-of-the-art GPU during text generation, however, you will discover a shocking secret: the
+
+4
+00:00:16,600 --> 00:00:23,605
+most advanced silicon processors on earth spend more than ninety-nine percent of their time sitting completely idle.
+
+5
+00:00:23,655 --> 00:00:26,095
+This is the infamous Memory Wall.
+
+6
+00:00:26,145 --> 00:00:30,660
+When an AI reads your initial prompt, it processes all words
+
+7
+00:00:30,710 --> 00:00:34,810
+at once in a parallel burst of dense matrix multiplication.
+
+8
+00:00:34,860 --> 00:00:37,300
+Its computing engines are fully saturated.
+
+9
+00:00:37,350 --> 00:00:40,205
+But when it begins generating answers, it
+
+10
+00:00:40,255 --> 00:00:43,110
+produces exactly one token at a time.
+
+11
+00:00:43,160 --> 00:00:50,165
+To generate a single word, the processor must transfer the model's entire memory footprint—hundreds of gigabytes of
+
+12
+00:00:50,215 --> 00:00:56,805
+parameters—out of memory chips and into the compute cores, just to perform a single arithmetic step.
+
+13
+00:00:56,855 --> 00:00:59,295
+The processor is not compute-bound; it
+
+14
+00:00:59,345 --> 00:01:01,370
+is suffocating on memory bandwidth.
+
+15
+00:01:01,420 --> 00:01:03,860
+And without a crucial engineering breakthrough,
+
+16
+00:01:03,910 --> 00:01:06,350
+real-time AI would be physically impossible.
+
+17
+00:01:06,400 --> 00:01:09,341
+To understand why text generation is so
+
+18
+00:01:09,391 --> 00:01:12,333
+expensive, look inside the Transformer's self-attention mechanism.
+
+19
+00:01:12,383 --> 00:01:16,608
+Every single word must calculate its mathematical relationship with every
+
+20
+00:01:16,658 --> 00:01:20,454
+previous word by projecting them into Keys and Values.
+
+21
+00:01:20,504 --> 00:01:22,164
+Imagine writing a book.
+
+22
+00:01:22,214 --> 00:01:28,148
+To write word number five hundred, you first stop and re-read all four hundred
+
+23
+00:01:28,198 --> 00:01:33,704
+and ninety-nine previous words, calculating the grammar and context between every single pair.
+
+24
+00:01:33,754 --> 00:01:36,696
+To write word five hundred and one,
+
+25
+00:01:36,746 --> 00:01:39,688
+you repeat the entire process from scratch.
+
+26
+00:01:39,738 --> 00:01:43,108
+Without optimization, generating a thousand tokens requires a
+
+27
+00:01:43,158 --> 00:01:46,100
+quadratic explosion of calculations—O of N squared.
+
+28
+00:01:46,150 --> 00:01:48,664
+The solution is the Key-Value Cache.
+
+29
+00:01:48,714 --> 00:01:52,938
+Once the model calculates the Key and Value vectors for
+
+30
+00:01:52,988 --> 00:01:56,785
+past tokens, it saves them in high-speed GPU memory.
+
+31
+00:01:56,835 --> 00:02:01,059
+When generating the next word, it only calculates a single
+
+32
+00:02:01,109 --> 00:02:04,906
+Query vector and compares it against the stored cache.
+
+33
+00:02:04,956 --> 00:02:07,898
+Generation becomes O of one per step.
+
+34
+00:02:07,948 --> 00:02:11,318
+But saving all those past thoughts introduces a
+
+35
+00:02:11,368 --> 00:02:14,309
+terrifying new monster: the exponential memory tax.
+
+36
+00:02:14,360 --> 00:02:17,570
+How much memory does a thought actually take?
+
+37
+00:02:17,620 --> 00:02:20,423
+Let’s look at the cold arithmetic of
+
+38
+00:02:20,473 --> 00:02:23,276
+a standard seventy-billion-parameter open model like Llama.
+
+39
+00:02:23,326 --> 00:02:27,759
+The network contains eighty transformer layers, sixty-four attention heads, a head
+
+40
+00:02:27,809 --> 00:02:31,835
+dimension of one hundred and twenty-eight, stored in sixteen-bit precision.
+
+41
+00:02:31,885 --> 00:02:35,503
+Multiply that out, and the Key-Value cache consumes two
+
+42
+00:02:35,553 --> 00:02:39,171
+point six two megabytes for every single token generated.
+
+43
+00:02:39,221 --> 00:02:44,062
+For a modest conversation of four thousand tokens, the KV cache alone
+
+44
+00:02:44,112 --> 00:02:48,953
+demands more than ten gigabytes of dedicated memory for a single user.
+
+45
+00:02:49,003 --> 00:02:56,289
+Expand that to a modern context window of one hundred and twenty-eight thousand tokens, and the cache swells
+
+46
+00:02:56,339 --> 00:03:03,218
+to over three hundred and forty gigabytes—consuming more memory than the entire seventy-billion-parameter neural network weights combined!
+
+47
+00:03:03,268 --> 00:03:05,663
+When multiple users query the system
+
+48
+00:03:05,713 --> 00:03:07,701
+simultaneously, the memory footprints collide.
+
+49
+00:03:07,751 --> 00:03:11,369
+The GPU runs out of VRAM, and the system
+
+50
+00:03:11,419 --> 00:03:14,629
+crashes with the dreaded Out of Memory error.
+
+51
+00:03:14,680 --> 00:03:18,112
+The memory crisis was made far worse by
+
+52
+00:03:18,162 --> 00:03:21,159
+how operating systems traditionally allocate GPU memory.
+
+53
+00:03:21,210 --> 00:03:26,819
+Because an AI cannot predict how many words a user will request, serving
+
+54
+00:03:26,869 --> 00:03:32,478
+systems had to reserve contiguous blocks of memory for the worst-case maximum length.
+
+55
+00:03:32,528 --> 00:03:37,702
+Imagine a hotel where every single guest might stay for eight thousand
+
+56
+00:03:37,752 --> 00:03:42,491
+nights, so the hotel reserves an entire floor exclusively for them.
+
+57
+00:03:42,541 --> 00:03:46,409
+Even if they check out after five minutes, no
+
+58
+00:03:46,459 --> 00:03:50,327
+other guest is allowed to use those empty rooms.
+
+59
+00:03:50,377 --> 00:03:54,245
+Early serving systems wasted up to eighty percent of
+
+60
+00:03:54,295 --> 00:03:57,727
+total GPU memory on internal and external fragmentation!
+
+61
+00:03:57,778 --> 00:04:00,775
+In 2023, researchers at UC Berkeley introduced
+
+62
+00:04:00,825 --> 00:04:03,387
+PagedAttention, the core engine behind vLLM.
+
+63
+00:04:03,437 --> 00:04:09,481
+Borrowing the legendary concept of virtual memory and paging from classical operating systems, PagedAttention
+
+64
+00:04:09,532 --> 00:04:15,141
+slices the KV cache into small, fixed-size blocks of sixteen or thirty-two tokens.
+
+65
+00:04:15,191 --> 00:04:19,059
+These blocks can be scattered anywhere in non-contiguous physical
+
+66
+00:04:19,109 --> 00:04:22,541
+memory, mapped dynamically by a virtual block table.
+
+67
+00:04:22,591 --> 00:04:27,765
+Memory waste plummeted to under four percent, quadrupling the number of simultaneous
+
+68
+00:04:27,816 --> 00:04:32,990
+users a single GPU could serve without buying a single new chip.
+
+69
+00:04:33,040 --> 00:04:36,325
+Even with PagedAttention, transferring data between memory chips
+
+70
+00:04:36,375 --> 00:04:39,243
+and compute cores remains a brutal bottleneck.
+
+71
+00:04:39,293 --> 00:04:47,165
+On a modern graphics card, there are two distinct worlds: massive High Bandwidth Memory, which holds tens of gigabytes
+
+72
+00:04:47,215 --> 00:04:55,086
+but is comparatively slow, and tiny on-chip SRAM cache, which is lightning fast but holds only a few megabytes.
+
+73
+00:04:55,136 --> 00:04:58,422
+Standard attention calculations constantly write intermediate attention matrices
+
+74
+00:04:58,472 --> 00:05:01,757
+back and forth across the slow memory bus.
+
+75
+00:05:01,807 --> 00:05:04,676
+Enter FlashAttention, pioneered by researchers at Stanford.
+
+76
+00:05:04,726 --> 00:05:10,513
+Instead of computing the entire attention matrix at once, FlashAttention tiles the input tokens
+
+77
+00:05:10,563 --> 00:05:15,933
+into small bite-sized blocks that fit entirely inside the fast on-chip SRAM cache.
+
+78
+00:05:15,983 --> 00:05:21,770
+Using a mathematical insight called Online Softmax, it updates running maximums and normalizes probabilities
+
+79
+00:05:21,820 --> 00:05:27,606
+on the fly, without ever writing the massive quadratic attention matrix into slow memory.
+
+80
+00:05:27,656 --> 00:05:33,026
+By respecting the physical layout of the silicon, FlashAttention accelerates Transformer inference and
+
+81
+00:05:33,076 --> 00:05:38,030
+training by up to four times, with zero loss in mathematical precision.
+
+82
+00:05:38,080 --> 00:05:40,789
+Today, the frontier of AI inference
+
+83
+00:05:40,839 --> 00:05:43,548
+combines algorithmic intelligence with hardware physics.
+
+84
+00:05:43,598 --> 00:05:49,066
+Architectures now use Grouped-Query Attention, where dozens of attention heads share the
+
+85
+00:05:49,116 --> 00:05:54,124
+same Key and Value cache, slashing memory bandwidth requirements by eight-fold.
+
+86
+00:05:54,174 --> 00:05:58,723
+And in Speculative Decoding, we deploy a small, nimble draft
+
+87
+00:05:58,773 --> 00:06:03,322
+model to sprint ahead and quickly propose multiple candidate words.
+
+88
+00:06:03,372 --> 00:06:06,541
+The giant, powerful model then verifies all
+
+89
+00:06:06,591 --> 00:06:09,760
+candidates simultaneously in a single parallel computation.
+
+90
+00:06:09,810 --> 00:06:16,198
+Because verifying multiple tokens in parallel takes nearly the same time as generating one,
+
+91
+00:06:16,248 --> 00:06:22,176
+inference speeds double or triple without sacrificing a single drop of reasoning quality.
+
+92
+00:06:22,226 --> 00:06:25,395
+Understanding artificial intelligence is not just about
+
+93
+00:06:25,445 --> 00:06:28,154
+understanding neural weights and training algorithms.
+
+94
+00:06:28,204 --> 00:06:32,293
+It is about understanding the physics of silicon, the
+
+95
+00:06:32,343 --> 00:06:36,431
+flow of electrons, and the elegant architecture of memory.
+
+96
+00:06:36,481 --> 00:06:39,190
+When algorithms honor the machine, intelligence
+
+97
+00:06:39,240 --> 00:06:41,950
+moves at the speed of thought.

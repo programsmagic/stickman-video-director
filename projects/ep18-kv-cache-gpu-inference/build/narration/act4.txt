@@ -1,0 +1,15 @@
+The memory crisis was made far worse by how operating systems traditionally allocate GPU memory.
+
+Because an AI cannot predict how many words a user will request, serving systems had to reserve contiguous blocks of memory for the worst-case maximum length.
+
+Imagine a hotel where every single guest might stay for eight thousand nights, so the hotel reserves an entire floor exclusively for them. Even if they check out after five minutes, no other guest is allowed to use those empty rooms.
+
+Early serving systems wasted up to eighty percent of total GPU memory on internal and external fragmentation!
+
+In 2023, researchers at UC Berkeley introduced PagedAttention, the core engine behind vLLM.
+
+Borrowing the legendary concept of virtual memory and paging from classical operating systems, PagedAttention slices the KV cache into small, fixed-size blocks of sixteen or thirty-two tokens.
+
+These blocks can be scattered anywhere in non-contiguous physical memory, mapped dynamically by a virtual block table.
+
+Memory waste plummeted to under four percent, quadrupling the number of simultaneous users a single GPU could serve without buying a single new chip.

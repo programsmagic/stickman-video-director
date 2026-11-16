@@ -61,6 +61,11 @@
     "render:ep11:thumb": "node projects/ep17-test-time-compute/renders/render_ep17_thumbnail.mjs",
     "qa:ep11": "node projects/tools/qa_inspector.mjs exports/EP17-Test-Time-Compute-Reasoning-Final-1080p.mp4 --profile 1080p --out-dir projects/ep17-test-time-compute/qa",
     "upload:ep11": "node projects/tools/upload_ep17.mjs",
+    "render:ep12": "node projects/ep18-kv-cache-gpu-inference/renders/render_all_acts.mjs",
+    "render:ep12:subtitles": "node projects/ep18-kv-cache-gpu-inference/build/generate_ep18_subtitles.mjs",
+    "render:ep12:thumb": "node projects/ep18-kv-cache-gpu-inference/renders/render_ep18_thumbnail.mjs",
+    "qa:ep12": "node projects/tools/qa_inspector.mjs exports/EP18-KVCache-GPU-Inference-Final-1080p.mp4 --profile 1080p --out-dir projects/ep18-kv-cache-gpu-inference/qa",
+    "upload:ep12": "node projects/tools/upload_ep18.mjs",
     "auth:youtube": "node projects/tools/auth_youtube.mjs",
     "test:doctor": "node skills/directing-stickman-videos/scripts/autopilot.mjs doctor"
   },
