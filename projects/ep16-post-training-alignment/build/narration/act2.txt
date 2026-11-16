@@ -1,0 +1,7 @@
+The first step of alignment is Supervised Fine-Tuning, or SFT.
+
+Engineers hire expert human writers to curate tens of thousands of flawless demonstration dialogues. Every example follows a strict schema: a user prompt, followed by the ideal, helpful, and polite assistant response.
+
+We feed these dialogues back into the model, running standard gradient descent on the assistant's tokens. Through imitation learning, the model undergoes a personality transformation. It stops acting like an anarchic internet scraper and adopts the role of an attentive digital companion.
+
+Yet SFT has a fatal flaw: it only teaches the model to imitate what is written. It cannot explore creative answers, and it cannot learn what not to do. To reach super-human performance, imitation is not enough. The beast needs feedback.

@@ -1,0 +1,7 @@
+With a trained reward critic in place, we unleash the model using Proximal Policy Optimization, or PPO.
+
+The model generates responses, receives numerical rewards, and updates its weights to maximize its score. But neural networks are notorious gamblers: if left unchecked, the model will find unintended shortcuts—a failure mode called reward hacking.
+
+It might discover that printing excessive exclamation marks or rambling sycophantic flattery tricks the reward model into giving top marks.
+
+To prevent this, mathematicians built an invisible electric fence called the KL Divergence penalty. We constantly compare the new model's output probabilities against the original supervised reference model. If the model strays too far into degenerate reward-hacked gibberish, the KL penalty slashes its score. The model learns to be helpful without losing its mind.

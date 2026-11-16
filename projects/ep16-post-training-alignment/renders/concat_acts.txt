@@ -1,0 +1,6 @@
+file '/Users/prashantmishra/Developer/video-generator-stickman/exports/EP16-Act1-WildStallion-1080p.mp4'
+file '/Users/prashantmishra/Developer/video-generator-stickman/exports/EP16-Act2-SupervisedFineTuning-1080p.mp4'
+file '/Users/prashantmishra/Developer/video-generator-stickman/exports/EP16-Act3-PreferenceDuels-1080p.mp4'
+file '/Users/prashantmishra/Developer/video-generator-stickman/exports/EP16-Act4-PPO-KLElectricFence-1080p.mp4'
+file '/Users/prashantmishra/Developer/video-generator-stickman/exports/EP16-Act5-DirectPreferenceOptimization-1080p.mp4'
+file '/Users/prashantmishra/Developer/video-generator-stickman/exports/EP16-Act6-RefusalSteeringVectors-1080p.mp4'

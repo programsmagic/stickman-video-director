@@ -1,0 +1,323 @@
+1
+00:00:00,000 --> 00:00:04,252
+When an AI lab finishes spending fifty million dollars training a frontier
+
+2
+00:00:04,302 --> 00:00:08,196
+model, what they have created is not a helpful digital assistant.
+
+3
+00:00:08,246 --> 00:00:10,347
+It is a wild computational beast.
+
+4
+00:00:10,397 --> 00:00:14,649
+A raw base model has only one instinct: given a sequence of
+
+5
+00:00:14,699 --> 00:00:18,593
+text from the internet, predict the most statistically probable next token.
+
+6
+00:00:18,643 --> 00:00:22,178
+If you say to a raw base model, "Explain quantum
+
+7
+00:00:22,228 --> 00:00:25,405
+mechanics," it doesn't know it's supposed to help you.
+
+8
+00:00:25,455 --> 00:00:27,915
+" Or it might start generating a
+
+9
+00:00:27,965 --> 00:00:30,425
+random physics syllabus from a university website.
+
+10
+00:00:30,475 --> 00:00:34,010
+It has no concept of conversation, no moral compass, and
+
+11
+00:00:34,060 --> 00:00:37,595
+no idea that a human is even talking to it.
+
+12
+00:00:37,645 --> 00:00:40,463
+Before an AI can sit on your phone
+
+13
+00:00:40,513 --> 00:00:43,332
+and answer your questions, it must undergo post-training.
+
+14
+00:00:43,382 --> 00:00:45,841
+We have to tame the silicon beast.
+
+15
+00:00:48,759 --> 00:00:52,943
+The first step of alignment is Supervised Fine-Tuning, or SFT.
+
+16
+00:00:52,993 --> 00:00:55,907
+Engineers hire expert human writers to curate
+
+17
+00:00:55,957 --> 00:00:58,870
+tens of thousands of flawless demonstration dialogues.
+
+18
+00:00:58,920 --> 00:01:02,680
+Every example follows a strict schema: a user prompt,
+
+19
+00:01:02,730 --> 00:01:06,491
+followed by the ideal, helpful, and polite assistant response.
+
+20
+00:01:06,541 --> 00:01:09,878
+We feed these dialogues back into the model,
+
+21
+00:01:09,927 --> 00:01:13,264
+running standard gradient descent on the assistant's tokens.
+
+22
+00:01:13,314 --> 00:01:17,075
+Through imitation learning, the model undergoes a personality transformation.
+
+23
+00:01:17,125 --> 00:01:20,885
+It stops acting like an anarchic internet scraper and
+
+24
+00:01:20,935 --> 00:01:24,272
+adopts the role of an attentive digital companion.
+
+25
+00:01:24,322 --> 00:01:27,659
+Yet SFT has a fatal flaw: it only
+
+26
+00:01:27,709 --> 00:01:31,046
+teaches the model to imitate what is written.
+
+27
+00:01:31,096 --> 00:01:34,009
+It cannot explore creative answers, and it
+
+28
+00:01:34,059 --> 00:01:36,549
+cannot learn what not to do.
+
+29
+00:01:36,599 --> 00:01:39,936
+To reach super-human performance, imitation is not enough.
+
+30
+00:01:39,986 --> 00:01:41,629
+The beast needs feedback.
+
+31
+00:01:41,680 --> 00:01:45,857
+Writing perfect answers by hand is painfully slow and expensive.
+
+32
+00:01:45,907 --> 00:01:49,662
+But comparing two answers and picking the better one?
+
+33
+00:01:49,712 --> 00:01:52,198
+Humans can do that in seconds.
+
+34
+00:01:52,248 --> 00:01:54,735
+This is the core insight of
+
+35
+00:01:54,785 --> 00:01:57,272
+Reinforcement Learning from Human Feedback: RLHF.
+
+36
+00:01:57,322 --> 00:01:59,808
+We give the model a prompt
+
+37
+00:01:59,858 --> 00:02:01,922
+and generate two different answers.
+
+38
+00:02:01,972 --> 00:02:05,727
+A human judge reviews both and picks the winner.
+
+39
+00:02:05,777 --> 00:02:10,800
+We collect hundreds of thousands of these preference pairs, and use them
+
+40
+00:02:10,850 --> 00:02:15,450
+to train a completely separate neural network called the Reward Model.
+
+41
+00:02:15,500 --> 00:02:23,060
+Using the classic Bradley-Terry mathematical formula, the reward model learns to score any piece of text like a
+
+42
+00:02:23,110 --> 00:02:30,670
+strict critic: awarding high positive points for clarity, honesty, and safety, and penalizing arrogance, factual errors, and toxicity.
+
+43
+00:02:30,719 --> 00:02:34,567
+With a trained reward critic in place, we unleash
+
+44
+00:02:34,617 --> 00:02:38,031
+the model using Proximal Policy Optimization, or PPO.
+
+45
+00:02:38,081 --> 00:02:41,495
+The model generates responses, receives numerical rewards, and
+
+46
+00:02:41,545 --> 00:02:44,526
+updates its weights to maximize its score.
+
+47
+00:02:44,576 --> 00:02:48,856
+But neural networks are notorious gamblers: if left unchecked, the
+
+48
+00:02:48,906 --> 00:02:53,186
+model will find unintended shortcuts—a failure mode called reward hacking.
+
+49
+00:02:53,236 --> 00:02:57,516
+It might discover that printing excessive exclamation marks or rambling
+
+50
+00:02:57,566 --> 00:03:01,847
+sycophantic flattery tricks the reward model into giving top marks.
+
+51
+00:03:01,897 --> 00:03:04,878
+To prevent this, mathematicians built an invisible
+
+52
+00:03:04,928 --> 00:03:07,909
+electric fence called the KL Divergence penalty.
+
+53
+00:03:07,959 --> 00:03:10,940
+We constantly compare the new model's output
+
+54
+00:03:10,990 --> 00:03:13,971
+probabilities against the original supervised reference model.
+
+55
+00:03:14,021 --> 00:03:17,435
+If the model strays too far into degenerate
+
+56
+00:03:17,485 --> 00:03:20,899
+reward-hacked gibberish, the KL penalty slashes its score.
+
+57
+00:03:20,949 --> 00:03:25,229
+The model learns to be helpful without losing its mind.
+
+58
+00:03:25,280 --> 00:03:28,472
+Running classic RLHF was an engineering nightmare.
+
+59
+00:03:28,522 --> 00:03:34,495
+You had to keep four separate neural networks in GPU memory at once:
+
+60
+00:03:34,545 --> 00:03:40,518
+the policy model, the reference model, the reward model, and the value critic.
+
+61
+00:03:40,568 --> 00:03:42,371
+Training was notoriously unstable.
+
+62
+00:03:42,421 --> 00:03:46,540
+In 2023, Stanford researchers asked a brilliant mathematical question:
+
+63
+00:03:46,590 --> 00:03:50,247
+why train a separate reward model at all?
+
+64
+00:03:50,297 --> 00:03:53,489
+They introduced Direct Preference Optimization, or DPO.
+
+65
+00:03:53,540 --> 00:03:58,122
+By mathematically re-arranging the Bradley-Terry objective, they proved that the
+
+66
+00:03:58,172 --> 00:04:02,292
+language model itself implicitly defines its own optimal reward.
+
+67
+00:04:02,342 --> 00:04:08,778
+With DPO, you discard the reward model, throw away the complex PPO reinforcement loop,
+
+68
+00:04:08,828 --> 00:04:14,800
+and optimize the language model directly on preference pairs using standard cross-entropy loss.
+
+69
+00:04:14,850 --> 00:04:18,507
+DPO made alignment ten times cheaper, completely stable,
+
+70
+00:04:18,557 --> 00:04:21,749
+and accessible to the entire open-source world.
+
+71
+00:04:21,800 --> 00:04:25,579
+Even after alignment, safety remained a blunt instrument.
+
+72
+00:04:25,629 --> 00:04:32,280
+Early models were notorious for over-refusing: ask how to bypass a broken car lock
+
+73
+00:04:32,330 --> 00:04:38,981
+on your own driveway, and the model would scold you like a Victorian schoolmaster.
+
+74
+00:04:39,031 --> 00:04:43,767
+Recent breakthroughs in mechanistic interpretability revealed something stunning: refusal in
+
+75
+00:04:43,817 --> 00:04:48,554
+modern language models is not distributed across billions of parameters.
+
+76
+00:04:48,604 --> 00:04:51,904
+It is mediated by a single one-dimensional
+
+77
+00:04:51,954 --> 00:04:55,255
+direction in latent space: the refusal vector.
+
+78
+00:04:55,305 --> 00:05:01,956
+By isolating this exact directional vector in the residual stream, engineers can surgically tune
+
+79
+00:05:02,006 --> 00:05:08,178
+the model's refusal threshold—eliminating false refusals while maintaining robust safeguards against genuine harm.
+
+80
+00:05:08,228 --> 00:05:13,443
+Through SFT, preference optimization, and surgical steering, we transformed a wild
+
+81
+00:05:13,493 --> 00:05:18,229
+statistical autocomplete engine into a cooperative partner for human intellect.

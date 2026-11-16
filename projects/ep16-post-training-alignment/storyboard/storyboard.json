@@ -1,0 +1,88 @@
+{
+  "schemaVersion": "1.0",
+  "episodeId": "ep16-post-training-alignment",
+  "sceneId": "ep16-master-storyboard",
+  "title": "Post-Training & Alignment: Taming the Silicon Beast (RLHF, DPO & Refusal Vectors)",
+  "renderer": "canvas",
+  "duration": 318.28,
+  "fps": 30,
+  "resolution": {
+    "width": 1920,
+    "height": 1080
+  },
+  "narration": {
+    "asset": "../build/narration/full_feature.wav",
+    "start": 0.0,
+    "end": 318.28
+  },
+  "camera": {
+    "shot": "dynamic",
+    "movement": "staged-cutaways"
+  },
+  "visual": {
+    "metaphor": "Wild green binary stallion galloping in Roman arena, golden SFT demonstration leash, Bradley-Terry tournament scorecard judge, KL divergence purple electric fence, DPO mathematical tuning fork, and 1D refusal steering compass",
+    "background": "#080D1A",
+    "characters": [
+      {
+        "id": "magi",
+        "pose": "inspect",
+        "x": 480,
+        "y": 720,
+        "expression": "curious",
+        "blinking": true,
+        "breathing": true,
+        "contactShadow": true
+      }
+    ],
+    "props": [
+      "wild-binary-stallion",
+      "sft-demonstration-leash-podium",
+      "bradley-terry-scorecard-table",
+      "kl-divergence-electric-fence",
+      "dpo-mathematical-tuning-fork",
+      "refusal-steering-compass"
+    ]
+  },
+  "beats": [
+    {
+      "at": 0.0,
+      "action": "act1_the_wild_computational_stallion",
+      "description": "Magi in a sunlit Roman amphitheater facing a wild stallion made of green binary code; stallion tramples instruction signs, endlessly predicting chaotic internet continuations"
+    },
+    {
+      "at": 48.76,
+      "action": "act2_supervised_fine_tuning",
+      "description": "Arena transforms into royal equestrian academy; Magi holds golden demonstration leash, training the stallion along a structured track of curated [User] / [Assistant] dialogue scrolls"
+    },
+    {
+      "at": 101.68,
+      "action": "act3_bradley_terry_preference_duels",
+      "description": "Tournament duel stage where stallion emits responses A and B; Magi raises scorecards yw vs yl into the Bradley-Terry Reward Model critic to score clarity, honesty, and safety"
+    },
+    {
+      "at": 150.72,
+      "action": "act4_ppo_and_kl_electric_fence",
+      "description": "Stallion runs PPO obstacle course, discovering sycophantic reward-hacking shortcuts; an electric purple KL divergence fence shocks it back into stable distribution"
+    },
+    {
+      "at": 205.28,
+      "action": "act5_direct_preference_optimization",
+      "description": "Magi dismantles complex 4-model PPO apparatus with a wrench, replacing it with an elegant DPO tuning fork; proves closed-form language model preference alignment directly with cross-entropy"
+    },
+    {
+      "at": 261.80,
+      "action": "act6_refusal_steering_vectors",
+      "description": "Neural circuit laboratory where Magi uses a magnetic stylus on a 1D refusal compass needle in latent space; eliminates false refusals while maintaining safety; Magi and the regal stallion stand united"
+    }
+  ],
+  "audio": {
+    "foley": [
+      { "at": 3.0, "sound": "stallion_hoofbeats_and_binary_whinny" },
+      { "at": 52.0, "sound": "golden_leash_chime_and_scroll_unroll" },
+      { "at": 105.0, "sound": "judge_gavel_and_reward_meter_ding" },
+      { "at": 155.0, "sound": "electric_fence_purple_spark_zap" },
+      { "at": 210.0, "sound": "tuning_fork_crystal_resonance_chime" },
+      { "at": 265.0, "sound": "compass_needle_lock_and_harmonious_dawn" }
+    ]
+  }
+}

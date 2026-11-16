@@ -611,7 +611,8 @@ export function idleBreath(t, bpm = 16) {
   return {
     torsoDelta: inhale * 0.8,     // ±0.8 deg tilt
     hipYDelta: -inhale * 1.5,     // 1.5px vertical lift
-    armDelta: inhale * 1.2        // ±1.2 deg arm sway
+    armDelta: inhale * 1.2,       // ±1.2 deg arm sway
+    valueOf() { return this.hipYDelta; }
   };
 }
 

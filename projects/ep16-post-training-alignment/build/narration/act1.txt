@@ -1,0 +1,7 @@
+When an AI lab finishes spending fifty million dollars training a frontier model, what they have created is not a helpful digital assistant. It is a wild computational beast.
+
+A raw base model has only one instinct: given a sequence of text from the internet, predict the most statistically probable next token.
+
+If you say to a raw base model, "Explain quantum mechanics," it doesn't know it's supposed to help you. It might append a second question: "Explain general relativity." Or it might start generating a random physics syllabus from a university website. It has no concept of conversation, no moral compass, and no idea that a human is even talking to it.
+
+Before an AI can sit on your phone and answer your questions, it must undergo post-training. We have to tame the silicon beast.

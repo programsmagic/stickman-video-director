@@ -1,0 +1,7 @@
+Even after alignment, safety remained a blunt instrument. Early models were notorious for over-refusing: ask how to bypass a broken car lock on your own driveway, and the model would scold you like a Victorian schoolmaster.
+
+Recent breakthroughs in mechanistic interpretability revealed something stunning: refusal in modern language models is not distributed across billions of parameters. It is mediated by a single one-dimensional direction in latent space: the refusal vector.
+
+By isolating this exact directional vector in the residual stream, engineers can surgically tune the model's refusal threshold—eliminating false refusals while maintaining robust safeguards against genuine harm.
+
+Through SFT, preference optimization, and surgical steering, we transformed a wild statistical autocomplete engine into a cooperative partner for human intellect.

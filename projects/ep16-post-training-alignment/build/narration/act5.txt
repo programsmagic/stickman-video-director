@@ -1,0 +1,7 @@
+Running classic RLHF was an engineering nightmare. You had to keep four separate neural networks in GPU memory at once: the policy model, the reference model, the reward model, and the value critic. Training was notoriously unstable.
+
+In 2023, Stanford researchers asked a brilliant mathematical question: why train a separate reward model at all?
+
+They introduced Direct Preference Optimization, or DPO. By mathematically re-arranging the Bradley-Terry objective, they proved that the language model itself implicitly defines its own optimal reward.
+
+With DPO, you discard the reward model, throw away the complex PPO reinforcement loop, and optimize the language model directly on preference pairs using standard cross-entropy loss. DPO made alignment ten times cheaper, completely stable, and accessible to the entire open-source world.

@@ -1,0 +1,12 @@
+{
+  "kind": "speech",
+  "model": "gemini-3.8-flash-tts",
+  "requested_at": "2026-11-16T03:22:36.854Z",
+  "request_id": "d9b3b702-1c28-4563-8359-b9878966b7b0",
+  "status": "complete",
+  "warning": "One request only; inspect provider history before retrying",
+  "key_index": 3,
+  "mime_type": "audio/wav",
+  "output": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep16-post-training-alignment/build/narration/act6.wav",
+  "sha256": "d9659002b7bb761f01501a8ef0cf56b8b7c0d4a11597e10ab35e92d256ce3558"
+}

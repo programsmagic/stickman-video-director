@@ -1,0 +1,7 @@
+Writing perfect answers by hand is painfully slow and expensive. But comparing two answers and picking the better one? Humans can do that in seconds.
+
+This is the core insight of Reinforcement Learning from Human Feedback: RLHF.
+
+We give the model a prompt and generate two different answers. A human judge reviews both and picks the winner. We collect hundreds of thousands of these preference pairs, and use them to train a completely separate neural network called the Reward Model.
+
+Using the classic Bradley-Terry mathematical formula, the reward model learns to score any piece of text like a strict critic: awarding high positive points for clarity, honesty, and safety, and penalizing arrogance, factual errors, and toxicity.

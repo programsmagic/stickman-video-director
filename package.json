@@ -51,6 +51,11 @@
     "render:ep09:thumb": "node projects/ep15-rag-vector-dbs/renders/render_ep15_thumbnail.mjs",
     "qa:ep09": "node projects/tools/qa_inspector.mjs exports/EP15-RAG-Vector-DBs-Final-1080p.mp4 --profile 1080p --out-dir projects/ep15-rag-vector-dbs/qa",
     "upload:ep09": "node projects/tools/upload_ep15.mjs",
+    "render:ep10": "node projects/ep16-post-training-alignment/renders/render_all_acts.mjs",
+    "render:ep10:subtitles": "node projects/ep16-post-training-alignment/build/generate_ep16_subtitles.mjs",
+    "render:ep10:thumb": "node projects/ep16-post-training-alignment/renders/render_ep16_thumbnail.mjs",
+    "qa:ep10": "node projects/tools/qa_inspector.mjs exports/EP16-Post-Training-Alignment-Final-1080p.mp4 --profile 1080p --out-dir projects/ep16-post-training-alignment/qa",
+    "upload:ep10": "node projects/tools/upload_ep16.mjs",
     "auth:youtube": "node projects/tools/auth_youtube.mjs",
     "test:doctor": "node skills/directing-stickman-videos/scripts/autopilot.mjs doctor"
   },
