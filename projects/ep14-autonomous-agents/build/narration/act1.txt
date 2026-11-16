@@ -1,0 +1,7 @@
+For the first few years of the AI revolution, large language models were like caged oracles.
+
+You could ask them to explain quantum physics, translate ancient Greek, or write a Shakespearean sonnet, and they would answer with astonishing brilliance. But they were completely trapped inside their own heads.
+
+If you asked them what the weather was outside right now, they had no eyes to see. If you asked them to run a program, they had no fingers to type. If a fire broke out in the room, they could calculate the rate of heat transfer, but could not pour a single drop of water.
+
+They were passive next-token predictors, frozen in time at the date of their training cut-off. To turn a passive predictor into an autonomous agent, we had to give the brain hands, a tool belt, and the ability to interact with the physical world.

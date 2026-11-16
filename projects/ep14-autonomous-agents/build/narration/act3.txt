@@ -1,0 +1,9 @@
+But how does a neural network made of floating-point probabilities actually talk to a computer terminal or an API?
+
+Computers are ruthless. If a program expects valid code and you give it conversational English, the system crashes.
+
+The secret is structured tool calling. During fine-tuning, models are trained on strict JSON schemas that describe every available function, its parameters, and required types.
+
+When the agent decides to act, its attention mechanism suppresses ordinary conversational tokens. Instead, it constrains its output logits to emit perfectly formatted, machine-readable JSON: the exact tool name, followed by its arguments.
+
+The neural network stops behaving like a chat partner, and starts behaving like an API compiler.

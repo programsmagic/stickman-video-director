@@ -1,0 +1,347 @@
+1
+00:00:00,000 --> 00:00:02,723
+For the first few years of the AI
+
+2
+00:00:02,773 --> 00:00:05,496
+revolution, large language models were like caged oracles.
+
+3
+00:00:05,546 --> 00:00:09,656
+You could ask them to explain quantum physics, translate ancient Greek, or
+
+4
+00:00:09,706 --> 00:00:13,469
+write a Shakespearean sonnet, and they would answer with astonishing brilliance.
+
+5
+00:00:13,519 --> 00:00:16,589
+But they were completely trapped inside their own heads.
+
+6
+00:00:16,640 --> 00:00:19,710
+If you asked them what the weather was outside
+
+7
+00:00:19,760 --> 00:00:22,483
+right now, they had no eyes to see.
+
+8
+00:00:22,533 --> 00:00:24,910
+If you asked them to run a
+
+9
+00:00:24,960 --> 00:00:27,336
+program, they had no fingers to type.
+
+10
+00:00:27,386 --> 00:00:31,843
+If a fire broke out in the room, they could calculate the rate
+
+11
+00:00:31,893 --> 00:00:36,003
+of heat transfer, but could not pour a single drop of water.
+
+12
+00:00:36,053 --> 00:00:38,776
+They were passive next-token predictors, frozen in time
+
+13
+00:00:38,826 --> 00:00:41,203
+at the date of their training cut-off.
+
+14
+00:00:41,253 --> 00:00:46,056
+To turn a passive predictor into an autonomous agent, we had to give the
+
+15
+00:00:46,106 --> 00:00:50,910
+brain hands, a tool belt, and the ability to interact with the physical world.
+
+16
+00:00:50,960 --> 00:00:54,500
+In 2022, researchers at Princeton and Google introduced
+
+17
+00:00:54,549 --> 00:00:58,090
+a breakthrough framework called ReAct: Reasoning and Acting.
+
+18
+00:00:58,140 --> 00:01:01,231
+Before ReAct, AI models tried to solve
+
+19
+00:01:01,281 --> 00:01:04,372
+problems in one of two flawed ways.
+
+20
+00:01:04,422 --> 00:01:09,757
+Either they purely reasoned through chain-of-thought, hallucinating facts when they did not
+
+21
+00:01:09,807 --> 00:01:14,693
+know the answer, or they blindly took actions without planning ahead.
+
+22
+00:01:14,743 --> 00:01:18,283
+ReAct unites both into an infinite three-part loop.
+
+23
+00:01:18,333 --> 00:01:21,424
+First comes Thought: the model silently plans
+
+24
+00:01:21,474 --> 00:01:24,566
+its next step on an internal scratchpad.
+
+25
+00:01:24,616 --> 00:01:28,156
+Second comes Action: the model chooses a specific
+
+26
+00:01:28,206 --> 00:01:31,746
+tool, like searching Google or querying a database.
+
+27
+00:01:31,796 --> 00:01:36,233
+And third comes Observation: the external world executes the command
+
+28
+00:01:36,283 --> 00:01:40,272
+and feeds the real result back into the prompt.
+
+29
+00:01:40,322 --> 00:01:44,311
+By turning this three-gear loop over and over, the
+
+30
+00:01:44,361 --> 00:01:48,350
+model navigates complex tasks one step at a time.
+
+31
+00:01:48,400 --> 00:01:52,782
+But how does a neural network made of floating-point probabilities
+
+32
+00:01:52,832 --> 00:01:56,771
+actually talk to a computer terminal or an API?
+
+33
+00:01:56,821 --> 00:01:58,101
+Computers are ruthless.
+
+34
+00:01:58,151 --> 00:02:01,647
+If a program expects valid code and you
+
+35
+00:02:01,697 --> 00:02:04,750
+give it conversational English, the system crashes.
+
+36
+00:02:04,800 --> 00:02:07,409
+The secret is structured tool calling.
+
+37
+00:02:07,459 --> 00:02:11,841
+During fine-tuning, models are trained on strict JSON schemas that
+
+38
+00:02:11,891 --> 00:02:15,831
+describe every available function, its parameters, and required types.
+
+39
+00:02:15,881 --> 00:02:18,933
+When the agent decides to act, its
+
+40
+00:02:18,983 --> 00:02:21,593
+attention mechanism suppresses ordinary conversational tokens.
+
+41
+00:02:21,643 --> 00:02:26,025
+Instead, it constrains its output logits to emit perfectly formatted,
+
+42
+00:02:26,075 --> 00:02:30,458
+machine-readable JSON: the exact tool name, followed by its arguments.
+
+43
+00:02:30,508 --> 00:02:34,004
+The neural network stops behaving like a chat
+
+44
+00:02:34,054 --> 00:02:37,550
+partner, and starts behaving like an API compiler.
+
+45
+00:02:37,600 --> 00:02:42,061
+Once the model emits a tool call, control passes completely outside
+
+46
+00:02:42,111 --> 00:02:46,161
+the neural network to an execution harness called the environment.
+
+47
+00:02:46,211 --> 00:02:49,852
+The harness reads the JSON payload, checks permissions inside
+
+48
+00:02:49,902 --> 00:02:53,133
+a secure sandbox, and runs the real command.
+
+49
+00:02:53,183 --> 00:02:56,004
+It executes the shell script, queries the
+
+50
+00:02:56,054 --> 00:02:58,874
+SQL database, or navigates a browser page.
+
+51
+00:02:58,924 --> 00:03:01,745
+Crucially, the model does not run the
+
+52
+00:03:01,795 --> 00:03:04,616
+code itself—it delegates execution to the computer.
+
+53
+00:03:04,666 --> 00:03:09,537
+The computer captures the standard output, errors, and return codes, and injects
+
+54
+00:03:09,587 --> 00:03:14,458
+that raw text back into the agent's context window as an Observation.
+
+55
+00:03:14,508 --> 00:03:18,149
+The agent reads what the world just did, updates
+
+56
+00:03:18,199 --> 00:03:21,430
+its understanding, and decides what to do next.
+
+57
+00:03:21,480 --> 00:03:25,080
+What separates a naive script from a truly intelligent
+
+58
+00:03:25,130 --> 00:03:28,731
+agent is how it responds when things go wrong.
+
+59
+00:03:28,781 --> 00:03:32,787
+In traditional software, an unhandled error crashes the entire program.
+
+60
+00:03:32,837 --> 00:03:35,220
+But in an autonomous agent, an
+
+61
+00:03:35,270 --> 00:03:37,248
+error is simply another observation.
+
+62
+00:03:37,298 --> 00:03:43,738
+Through a technique called Reflexion, pioneered by researchers at MIT and Princeton, when an agent hits
+
+63
+00:03:43,788 --> 00:03:49,822
+a syntax error, a 404 page, or a failing unit test, it does not panic.
+
+64
+00:03:49,872 --> 00:03:53,879
+It reads the error message, logs a self-reflective note about
+
+65
+00:03:53,929 --> 00:03:57,529
+what went wrong into its working memory, and backtracks.
+
+66
+00:03:57,579 --> 00:04:00,368
+It analyzes the bug, rewrites the code,
+
+67
+00:04:00,418 --> 00:04:03,208
+and tests again until the build passes.
+
+68
+00:04:03,258 --> 00:04:05,641
+True agency is the ability to
+
+69
+00:04:05,691 --> 00:04:07,669
+recover from your own mistakes.
+
+70
+00:04:07,720 --> 00:04:11,036
+Today, the frontier has moved beyond single agents.
+
+71
+00:04:11,086 --> 00:04:13,561
+We are now building multi-agent swarms.
+
+72
+00:04:13,611 --> 00:04:16,507
+Just like a human company, complex work
+
+73
+00:04:16,557 --> 00:04:19,453
+is too large for a single mind.
+
+74
+00:04:19,503 --> 00:04:21,978
+Instead, a coordinator agent breaks a
+
+75
+00:04:22,028 --> 00:04:24,082
+massive objective into specialized roles.
+
+76
+00:04:24,132 --> 00:04:26,186
+One subagent researches the documentation.
+
+77
+00:04:26,236 --> 00:04:29,553
+Another writes the code in a sandboxed branch.
+
+78
+00:04:29,603 --> 00:04:32,078
+A third writes rigorous automated tests,
+
+79
+00:04:32,128 --> 00:04:34,182
+while a fourth audits security.
+
+80
+00:04:34,232 --> 00:04:37,549
+They communicate across shared message boards, challenging each
+
+81
+00:04:37,599 --> 00:04:40,495
+other's assumptions and correcting errors in parallel.
+
+82
+00:04:40,545 --> 00:04:44,283
+We did not just teach computers how to talk.
+
+83
+00:04:44,333 --> 00:04:47,649
+We gave them hands, tools, and the power
+
+84
+00:04:47,699 --> 00:04:51,016
+to work alongside us to build the future.
+
+85
+00:04:51,066 --> 00:04:51,858
+I'm Magi.
+
+86
+00:04:51,908 --> 00:04:54,804
+Subscribe to Programs Magic, and let's keep
+
+87
+00:04:54,854 --> 00:04:57,750
+unraveling the living architecture of artificial intelligence.

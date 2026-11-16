@@ -1,7 +1,7 @@
 # Studio Operational Manual & Agent Guidelines
 **Repository**: `video-generator-stickman`  
 **Last Updated**: November 15, 2026  
-**Status**: Episode 02 (How AI Actually Works - Definitive Edition 11m 39s) Complete & Scheduled, Episode 09 (Can AI Ever Become Conscious? 5m 32s) Complete & Scheduled, Episode 10 (The Geometry of Thinking 4m 50s 1080p Master) Complete & Ready, Episode 11 (The Token Illusion 4m 56s 1080p Master) Complete & Ready, Episode 12 (The Physics of Diffusion 5m 31s 1080p Master) Complete & Ready, Episode 13 (The Multimodal Mind 5m 26s 1080p Master) Complete & Ready, Episode 01 (History of AI / EP07 7m 07s) Published  
+**Status**: Episode 02 (How AI Actually Works - Definitive Edition 11m 39s) Complete & Scheduled, Episode 09 (Can AI Ever Become Conscious? 5m 32s) Complete & Scheduled, Episode 10 (The Geometry of Thinking 4m 50s 1080p Master) Complete & Ready, Episode 11 (The Token Illusion 4m 56s 1080p Master) Complete & Ready, Episode 12 (The Physics of Diffusion 5m 31s 1080p Master) Complete & Ready, Episode 13 (The Multimodal Mind 5m 26s 1080p Master) Complete & Ready, Episode 14 (The Architecture of Autonomous Agents 4m 58s 1080p Master) Complete & Ready, Episode 01 (History of AI / EP07 7m 07s) Published  
 **Comprehensive Studio & Animation Guide**: [`STUDIO_PRODUCTION_GUIDE.md`](file:///Users/prashantmishra/Developer/video-generator-stickman/STUDIO_PRODUCTION_GUIDE.md) (Single source of truth for technical architecture, IK kinematics, procedural Foley audio, 21 skills, and rendering pipeline)  
 **Master Architectural Blueprint**: [`PROGRAMS_MAGIC_AI_VIDEO_STUDIO_MASTER_BLUEPRINT.md`](file:///Users/prashantmishra/Developer/video-generator-stickman/PROGRAMS_MAGIC_AI_VIDEO_STUDIO_MASTER_BLUEPRINT.md) (Expert blueprint for quality evolution, scene schema 1.0, and 1080p foundation)
 
@@ -80,6 +80,20 @@
   - **Act 5**: [`exports/EP13-Act5-Omnimodality-1080p.mp4`](file:///Users/prashantmishra/Developer/video-generator-stickman/exports/EP13-Act5-Omnimodality-1080p.mp4) (54.9s - Clunky 3-stage Frankenstein pipeline vs 280ms native omnimodal core)
   - **Act 6**: [`exports/EP13-Act6-UnifiedMind-1080p.mp4`](file:///Users/prashantmishra/Developer/video-generator-stickman/exports/EP13-Act6-UnifiedMind-1080p.mp4) (46.9s - Three sensory rivers converging into diamond prism, cosmic intellect beam)
 
+- **Episode 14 (Episode 08 of Series): The Architecture of Autonomous Agents (ReAct, Tool Calling, Environment Loops & Self-Correction)**:
+  - **YouTube Premiere**: Scheduled for **Tuesday, Dec 29, 2026 @ 19:00 UTC (2:00 PM EST)**
+  - **Full Feature Film**: [`exports/EP14-Autonomous-Agents-Final-1080p.mp4`](file:///Users/prashantmishra/Developer/video-generator-stickman/exports/EP14-Autonomous-Agents-Final-1080p.mp4) (4m 58s, 1920x1080, 30fps, 48kHz Foley + Gemini Bodi narration)
+  - **Subtitles**: [`exports/EP14-Autonomous-Agents-Final.en.srt`](file:///Users/prashantmishra/Developer/video-generator-stickman/exports/EP14-Autonomous-Agents-Final.en.srt) (87 precision word-aligned cues)
+  - **Thumbnail**: [`exports/EP14-thumbnail.png`](file:///Users/prashantmishra/Developer/video-generator-stickman/exports/EP14-thumbnail.png) (1280x720, custom mobile CTR design)
+  - **Publishing Metadata**: [`projects/ep14-autonomous-agents/publishing/metadata.md`](file:///Users/prashantmishra/Developer/video-generator-stickman/projects/ep14-autonomous-agents/publishing/metadata.md)
+  - **QA Report**: [`projects/ep14-autonomous-agents/qa/qa_report.md`](file:///Users/prashantmishra/Developer/video-generator-stickman/projects/ep14-autonomous-agents/qa/qa_report.md) (100% PASS)
+  - **Act 1**: [`exports/EP14-Act1-CagedOracle-1080p.mp4`](file:///Users/prashantmishra/Developer/video-generator-stickman/exports/EP14-Act1-CagedOracle-1080p.mp4) (49.0s - Caged Oracle, glass bell jar, frozen pretraining weights, missing hands)
+  - **Act 2**: [`exports/EP14-Act2-ReActSymphony-1080p.mp4`](file:///Users/prashantmishra/Developer/video-generator-stickman/exports/EP14-Act2-ReActSymphony-1080p.mp4) (46.8s - Yao 2022 ReAct loop, 3-step Thought-Action-Observation engine, chalk chalkboard)
+  - **Act 3**: [`exports/EP14-Act3-ToolCalling-1080p.mp4`](file:///Users/prashantmishra/Developer/video-generator-stickman/exports/EP14-Act3-ToolCalling-1080p.mp4) (50.5s - JSON Schema forge, strict grammar compiler, API bridge conduits)
+  - **Act 4**: [`exports/EP14-Act4-EnvironmentLoop-1080p.mp4`](file:///Users/prashantmishra/Developer/video-generator-stickman/exports/EP14-Act4-EnvironmentLoop-1080p.mp4) (49.8s - Real-world sandbox, terminal compiler, dynamic observation feedback loop)
+  - **Act 5**: [`exports/EP14-Act5-SelfCorrection-1080p.mp4`](file:///Users/prashantmishra/Developer/video-generator-stickman/exports/EP14-Act5-SelfCorrection-1080p.mp4) (52.2s - Shinn 2023 Reflexion memory bank, backtracking, self-debugging diagnostic scan)
+  - **Act 6**: [`exports/EP14-Act6-MultiAgentSwarms-1080p.mp4`](file:///Users/prashantmishra/Developer/video-generator-stickman/exports/EP14-Act6-MultiAgentSwarms-1080p.mp4) (49.5s - Multi-agent swarm, coordinator orchestrator, specialized agent assembly line finale)
+
 - **Episode 09: Can AI Ever Become Conscious? (The Chinese Room, Qualia & Inside the Minds of Silicon)**:
   - **YouTube Premiere**: Scheduled for **Tuesday, Nov 24, 2026 @ 19:00 UTC (2:00 PM EST)**
   - **Full Feature Film**: [`exports/EP09-Can-AI-Become-Conscious-Final.mp4`](file:///Users/prashantmishra/Developer/video-generator-stickman/exports/EP09-Can-AI-Become-Conscious-Final.mp4) (5m 32s, 1280x720, 30fps, 48kHz Foley + Gemini Bodi narration)
@@ -142,6 +156,12 @@
 | **Episode 05** (EP11) | **The Token Illusion: How Machines Read Without Eyes** | High-speed BPE slicing guillotine, Strawberry paradox, BPE vault, SolidGoldMagikarp glitch, Byte Latent Transformer | **Completed (1080p Master)** | **4m 56s** |
 | **Episode 06** (EP12) | **The Physics of Diffusion: Unmaking Noise into Art** | Reverse thermodynamics, Langevin dynamics, Score-based denoising, Latent unet | **Completed (1080p Master)** | **5m 31s** |
 | **Episode 07** (EP13) | **The Multimodal Mind: How AI Hears, Sees & Speaks at Once** | Audio latent spectrograms, Vision transformers, Cross-modal alignment, Omnimodal unified latents | **Completed (1080p Master)** | **5m 26s** |
+| **Episode 08** (EP14) | **The Architecture of Autonomous Agents** | ReAct loops, tool calling, JSON schema, environment feedback, self-correction | **Completed (1080p Master)** | **4m 58s** |
+| **Episode 09** (EP15) | **Retrieval-Augmented Generation & Vector DBs** | External memory, 1536-D embeddings, HNSW graph search, semantic routing, reranking | **Scheduled** | ~5m 30s |
+| **Episode 10** (EP16) | **Post-Training & Alignment: Taming the Silicon Beast** | SFT, RLHF, DPO, reward models, KL divergence tether, refusal steering | **Scheduled** | ~5m 30s |
+| **Episode 11** (EP17) | **Test-Time Compute & The Reasoning Revolution** | OpenAI o1/o3, DeepSeek-R1, MCTS tree search, Process Reward Models (PRMs), verification | **Scheduled** | ~5m 30s |
+| **Episode 12** (EP18) | **KV Cache & The Mechanics of GPU Inference** | Memory bandwidth wall, Key-Value cache, PagedAttention, vLLM, FlashAttention, quantization | **Scheduled** | ~5m 30s |
+| **Episode 13** (EP19) | **Mechanistic Interpretability & Superintelligence** | Sparse Autoencoders (SAEs), polysemantic neurons, circuits, steering vectors, AGI synthesis | **Scheduled (Grand Finale)** | ~6m 00s |
 
 ### Track B: High-RPM "What If" & Conceptual Series (from `projects/research/topics.csv`)
 | Topic | Format Family | Demand Score | Gap | RPM Tier |

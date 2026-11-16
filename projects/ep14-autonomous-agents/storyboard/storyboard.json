@@ -1,0 +1,102 @@
+{
+  "schemaVersion": "1.0",
+  "episodeId": "ep14-autonomous-agents",
+  "sceneId": "ep14-master-storyboard",
+  "title": "The Architecture of Autonomous Agents: ReAct, Tool Calling & Self-Correction",
+  "renderer": "canvas",
+  "duration": 297.80,
+  "fps": 30,
+  "resolution": {
+    "width": 1920,
+    "height": 1080
+  },
+  "narration": {
+    "asset": "../build/narration/full_feature.wav",
+    "start": 0.0,
+    "end": 297.80
+  },
+  "camera": {
+    "shot": "dynamic",
+    "movement": "staged-cutaways"
+  },
+  "visual": {
+    "metaphor": "Glass bell jar oracle to mechanical limbs, 3-gear ReAct clockwork loop, hydraulic JSON schema stamping press, sandboxed environment execution conveyor, Reflexion self-correcting mirror, and multi-agent swarm constellation",
+    "background": "#080D1A",
+    "characters": [
+      {
+        "id": "magi",
+        "pose": "inspect",
+        "x": 480,
+        "y": 720,
+        "expression": "curious",
+        "blinking": true,
+        "breathing": true,
+        "contactShadow": true
+      }
+    ],
+    "props": [
+      "glass-bell-jar-oracle",
+      "three-gear-react-mechanism",
+      "hydraulic-json-stamping-press",
+      "sandboxed-environment-conveyor",
+      "reflexion-mirror-stack-trace",
+      "multi-agent-constellation-board"
+    ]
+  },
+  "beats": [
+    {
+      "at": 0.0,
+      "action": "act1_the_caged_oracle",
+      "description": "Magi in antique lab observing a glowing neural brain trapped in a glass bell jar; quotes thermodynamics as small fire starts, but cannot pour water until Magi unlocks it"
+    },
+    {
+      "at": 50.96,
+      "action": "act2_react_symphony",
+      "description": "Magi pulls a brass lever turning three enormous interlocking golden gears: Thought (internal scratchpad), Action (tool choice), and Observation (real-world feedback)"
+    },
+    {
+      "at": 108.40,
+      "action": "act3_tool_calling_json_grammar",
+      "description": "Unstructured neural tokens enter a precision blueprint table; hydraulic brass stamping press clamps fuzzy thoughts into valid JSON function calls with strict schemas"
+    },
+    {
+      "at": 157.60,
+      "action": "act4_environment_execution_loop",
+      "description": "Control passes to the execution harness; automated robotic arms execute bash commands, query SQL databases, and navigate live browsers, returning text observations"
+    },
+    {
+      "at": 201.48,
+      "action": "act5_self_correction_reflexion",
+      "description": "Tool fails with a red buzzer; Magi inspects the glowing Reflexion mirror, analyzes the stack trace, backtracks one step, adjusts the code, and passes the test"
+    },
+    {
+      "at": 247.72,
+      "action": "act6_multi_agent_swarm_horizon",
+      "description": "Magi coordinates four specialized subagent drones (Researcher, Coder, Tester, Reviewer) on a shared luminous message board, synthesizing the future of work"
+    }
+  ],
+  "labels": [
+    {
+      "text": "EPISODE 08: THE ARCHITECTURE OF AUTONOMOUS AGENTS",
+      "at": 1.0,
+      "style": "CaveatHand-24"
+    },
+    {
+      "text": "REACT LOOPS, TOOL CALLING & SELF-CORRECTION",
+      "at": 2.5,
+      "style": "NotoSans-28"
+    }
+  ],
+  "audio": [
+    { "type": "sfx", "asset": "bell_jar_glass_tap_resonance", "at": 5.0, "gain": 0.45 },
+    { "type": "sfx", "asset": "clockwork_three_gear_ratchet", "at": 56.0, "gain": 0.55 },
+    { "type": "sfx", "asset": "hydraulic_press_stamp_clamp", "at": 115.0, "gain": 0.60 },
+    { "type": "sfx", "asset": "robotic_arm_terminal_keystrokes", "at": 164.0, "gain": 0.50 },
+    { "type": "sfx", "asset": "reflexion_mirror_hum_ding", "at": 210.0, "gain": 0.55 },
+    { "type": "sfx", "asset": "swarm_constellation_harmonic_crescendo", "at": 255.0, "gain": 0.65 }
+  ],
+  "transitionOut": {
+    "type": "fade_to_black",
+    "duration": 1.5
+  }
+}

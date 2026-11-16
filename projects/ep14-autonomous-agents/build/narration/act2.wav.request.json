@@ -1,0 +1,12 @@
+{
+  "kind": "speech",
+  "model": "gemini-3.8-flash-tts",
+  "requested_at": "2026-11-15T17:06:13.202Z",
+  "request_id": "ac6c78c8-0623-45a9-9dfc-6e394c459caa",
+  "status": "complete",
+  "warning": "One request only; inspect provider history before retrying",
+  "key_index": 1,
+  "mime_type": "audio/wav",
+  "output": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep14-autonomous-agents/build/narration/act2.wav",
+  "sha256": "e13658fe658fc1055a8b33610967a2b079dd72bcbb374edd14d45f9bf9cbf4fb"
+}

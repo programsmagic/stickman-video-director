@@ -1,0 +1,7 @@
+What separates a naive script from a truly intelligent agent is how it responds when things go wrong.
+
+In traditional software, an unhandled error crashes the entire program. But in an autonomous agent, an error is simply another observation.
+
+Through a technique called Reflexion, pioneered by researchers at MIT and Princeton, when an agent hits a syntax error, a 404 page, or a failing unit test, it does not panic.
+
+It reads the error message, logs a self-reflective note about what went wrong into its working memory, and backtracks. It analyzes the bug, rewrites the code, and tests again until the build passes. True agency is the ability to recover from your own mistakes.

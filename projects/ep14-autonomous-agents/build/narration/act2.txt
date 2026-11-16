@@ -1,0 +1,9 @@
+In 2022, researchers at Princeton and Google introduced a breakthrough framework called ReAct: Reasoning and Acting.
+
+Before ReAct, AI models tried to solve problems in one of two flawed ways. Either they purely reasoned through chain-of-thought, hallucinating facts when they did not know the answer, or they blindly took actions without planning ahead.
+
+ReAct unites both into an infinite three-part loop. First comes Thought: the model silently plans its next step on an internal scratchpad.
+
+Second comes Action: the model chooses a specific tool, like searching Google or querying a database.
+
+And third comes Observation: the external world executes the command and feeds the real result back into the prompt. By turning this three-gear loop over and over, the model navigates complex tasks one step at a time.

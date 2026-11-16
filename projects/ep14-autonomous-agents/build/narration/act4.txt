@@ -1,0 +1,7 @@
+Once the model emits a tool call, control passes completely outside the neural network to an execution harness called the environment.
+
+The harness reads the JSON payload, checks permissions inside a secure sandbox, and runs the real command. It executes the shell script, queries the SQL database, or navigates a browser page.
+
+Crucially, the model does not run the code itself—it delegates execution to the computer.
+
+The computer captures the standard output, errors, and return codes, and injects that raw text back into the agent's context window as an Observation. The agent reads what the world just did, updates its understanding, and decides what to do next.
