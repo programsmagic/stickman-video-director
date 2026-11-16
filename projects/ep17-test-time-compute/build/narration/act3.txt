@@ -1,0 +1,7 @@
+When a reasoning model begins to work, something extraordinary happens behind the curtain. It opens a hidden internal scratchpad enclosed in special thought tokens.
+
+Here, the model carries out an internal monologue. It decomposes the user's request into atomic sub-goals. It translates ambiguous word problems into rigorous mathematical formalisms. It generates hypothetical test cases and checks whether its intermediate steps satisfy the laws of logic.
+
+Crucially, this is not just normal text generation with a prompt telling the model to "think step by step."
+
+Through reinforcement learning, the model learned how to use this scratchpad as a dynamic working memory. If a line of reasoning leads to a mathematical impossibility, the model recognizes the dead end, crosses it out, and pivots to an alternative strategy—just like a human mathematician working through problems on a messy chalkboard.

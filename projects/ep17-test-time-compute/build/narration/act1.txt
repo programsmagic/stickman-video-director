@@ -1,0 +1,9 @@
+For years, artificial intelligence suffered from a fatal psychological defect: it was physically incapable of pausing to think.
+
+In human psychology, Daniel Kahneman described two modes of thought. System 1 is fast, instinctive, and automatic—like recognizing a familiar face or dodging a falling cup. System 2 is slow, deliberate, and logical—like calculating seventeen times twenty-four or planning five moves ahead in chess.
+
+Every standard large language model—from GPT-3 to GPT-4—operated purely as System 1. Because of their autoregressive architecture, every single token costs the exact same amount of compute: a single forward pass through the transformer layers.
+
+Ask the model, "What is the capital of France?" and it spends a split second calculating. Ask it to prove a complex theorem in algebraic topology, and it spends the exact same split second.
+
+When humans try to solve impossible math problems in one breath, we blunder. And for a long time, so did our machines.

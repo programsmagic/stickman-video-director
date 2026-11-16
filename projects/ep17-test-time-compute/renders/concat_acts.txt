@@ -1,0 +1,6 @@
+file '/Users/prashantmishra/Developer/video-generator-stickman/exports/EP17-Act1-FastThinkingTrap-1080p.mp4'
+file '/Users/prashantmishra/Developer/video-generator-stickman/exports/EP17-Act2-SecondScalingLaw-1080p.mp4'
+file '/Users/prashantmishra/Developer/video-generator-stickman/exports/EP17-Act3-ThoughtScratchpad-1080p.mp4'
+file '/Users/prashantmishra/Developer/video-generator-stickman/exports/EP17-Act4-ProcessRewardModels-1080p.mp4'
+file '/Users/prashantmishra/Developer/video-generator-stickman/exports/EP17-Act5-DeepSeekR1AhaMoment-1080p.mp4'
+file '/Users/prashantmishra/Developer/video-generator-stickman/exports/EP17-Act6-MCTSReasoningFrontier-1080p.mp4'

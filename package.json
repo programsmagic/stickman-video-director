@@ -56,6 +56,11 @@
     "render:ep10:thumb": "node projects/ep16-post-training-alignment/renders/render_ep16_thumbnail.mjs",
     "qa:ep10": "node projects/tools/qa_inspector.mjs exports/EP16-Post-Training-Alignment-Final-1080p.mp4 --profile 1080p --out-dir projects/ep16-post-training-alignment/qa",
     "upload:ep10": "node projects/tools/upload_ep16.mjs",
+    "render:ep11": "node projects/ep17-test-time-compute/renders/render_all_acts.mjs",
+    "render:ep11:subtitles": "node projects/ep17-test-time-compute/build/generate_ep17_subtitles.mjs",
+    "render:ep11:thumb": "node projects/ep17-test-time-compute/renders/render_ep17_thumbnail.mjs",
+    "qa:ep11": "node projects/tools/qa_inspector.mjs exports/EP17-Test-Time-Compute-Reasoning-Final-1080p.mp4 --profile 1080p --out-dir projects/ep17-test-time-compute/qa",
+    "upload:ep11": "node projects/tools/upload_ep17.mjs",
     "auth:youtube": "node projects/tools/auth_youtube.mjs",
     "test:doctor": "node skills/directing-stickman-videos/scripts/autopilot.mjs doctor"
   },

@@ -1,0 +1,383 @@
+1
+00:00:00,000 --> 00:00:03,877
+For years, artificial intelligence suffered from a fatal psychological
+
+2
+00:00:03,927 --> 00:00:07,804
+defect: it was physically incapable of pausing to think.
+
+3
+00:00:07,854 --> 00:00:12,167
+In human psychology, Daniel Kahneman described two modes of thought.
+
+4
+00:00:12,217 --> 00:00:15,658
+System 1 is fast, instinctive, and automatic—like recognizing
+
+5
+00:00:15,708 --> 00:00:19,148
+a familiar face or dodging a falling cup.
+
+6
+00:00:19,198 --> 00:00:23,076
+System 2 is slow, deliberate, and logical—like calculating seventeen
+
+7
+00:00:23,126 --> 00:00:27,003
+times twenty-four or planning five moves ahead in chess.
+
+8
+00:00:27,053 --> 00:00:29,621
+Every standard large language model—from GPT-3
+
+9
+00:00:29,671 --> 00:00:32,239
+to GPT-4—operated purely as System 1.
+
+10
+00:00:32,289 --> 00:00:37,475
+Because of their autoregressive architecture, every single token costs the exact same
+
+11
+00:00:37,525 --> 00:00:42,274
+amount of compute: a single forward pass through the transformer layers.
+
+12
+00:00:42,324 --> 00:00:45,765
+" and it spends a split second calculating.
+
+13
+00:00:45,815 --> 00:00:49,692
+Ask it to prove a complex theorem in algebraic
+
+14
+00:00:49,742 --> 00:00:53,619
+topology, and it spends the exact same split second.
+
+15
+00:00:53,669 --> 00:00:56,674
+When humans try to solve impossible math
+
+16
+00:00:56,724 --> 00:00:59,292
+problems in one breath, we blunder.
+
+17
+00:00:59,342 --> 00:01:03,219
+And for a long time, so did our machines.
+
+18
+00:01:06,760 --> 00:01:10,025
+For a decade, the entire AI industry worshipped
+
+19
+00:01:10,075 --> 00:01:13,341
+a single golden rule: the Chinchilla scaling laws.
+
+20
+00:01:13,391 --> 00:01:18,314
+If you wanted a smarter model, you had to make the neural
+
+21
+00:01:18,364 --> 00:01:22,873
+network bigger, collect more internet data, and run supercomputers for longer.
+
+22
+00:01:22,923 --> 00:01:26,188
+But in 2024, researchers hit a breakthrough: pre-training
+
+23
+00:01:26,238 --> 00:01:29,504
+was not the only place to scale compute.
+
+24
+00:01:29,554 --> 00:01:32,405
+You could scale compute at test time.
+
+25
+00:01:32,455 --> 00:01:35,306
+Instead of demanding an immediate answer, what
+
+26
+00:01:35,356 --> 00:01:38,207
+if we pay the model to deliberate?
+
+27
+00:01:38,257 --> 00:01:44,010
+What if we let the model generate thousands of internal tokens—exploring hypotheses, checking its
+
+28
+00:01:44,060 --> 00:01:49,397
+work, and discarding flawed deductions before showing a single word to the human?
+
+29
+00:01:49,447 --> 00:01:54,371
+This was the core revelation behind OpenAI's o1 and modern reasoning models:
+
+30
+00:01:54,421 --> 00:01:58,930
+accuracy on complex scientific reasoning doesn't just scale with training data.
+
+31
+00:01:58,980 --> 00:02:02,660
+It scales directly with the logarithm of thinking time.
+
+32
+00:02:02,710 --> 00:02:06,390
+We discovered the second scaling law of artificial intelligence.
+
+33
+00:02:06,439 --> 00:02:09,311
+When a reasoning model begins to work,
+
+34
+00:02:09,361 --> 00:02:11,815
+something extraordinary happens behind the curtain.
+
+35
+00:02:11,865 --> 00:02:14,319
+It opens a hidden internal scratchpad
+
+36
+00:02:14,369 --> 00:02:16,406
+enclosed in special thought tokens.
+
+37
+00:02:16,456 --> 00:02:19,745
+Here, the model carries out an internal monologue.
+
+38
+00:02:19,795 --> 00:02:23,084
+It decomposes the user's request into atomic sub-goals.
+
+39
+00:02:23,134 --> 00:02:26,840
+It translates ambiguous word problems into rigorous mathematical formalisms.
+
+40
+00:02:26,890 --> 00:02:30,179
+It generates hypothetical test cases and checks whether
+
+41
+00:02:30,229 --> 00:02:33,517
+its intermediate steps satisfy the laws of logic.
+
+42
+00:02:33,567 --> 00:02:37,274
+" Through reinforcement learning, the model learned how to
+
+43
+00:02:37,324 --> 00:02:40,612
+use this scratchpad as a dynamic working memory.
+
+44
+00:02:40,662 --> 00:02:48,125
+If a line of reasoning leads to a mathematical impossibility, the model recognizes the dead end, crosses it
+
+45
+00:02:48,175 --> 00:02:55,637
+out, and pivots to an alternative strategy—just like a human mathematician working through problems on a messy chalkboard.
+
+46
+00:03:03,199 --> 00:03:06,178
+How do you teach a machine to
+
+47
+00:03:06,228 --> 00:03:09,207
+reason soundly instead of hallucinating convincing nonsense?
+
+48
+00:03:09,257 --> 00:03:13,101
+The secret lies in how we grade its work.
+
+49
+00:03:13,151 --> 00:03:15,697
+In classic reinforcement learning, models were
+
+50
+00:03:15,747 --> 00:03:18,293
+evaluated by an Outcome Reward Model.
+
+51
+00:03:18,343 --> 00:03:23,053
+The model generated a full twenty-step proof, and the grader only
+
+52
+00:03:23,103 --> 00:03:27,380
+checked if the final answer at the bottom was correct.
+
+53
+00:03:27,430 --> 00:03:29,976
+This created a dangerous trap known
+
+54
+00:03:30,026 --> 00:03:32,139
+as the credit assignment problem.
+
+55
+00:03:32,189 --> 00:03:37,764
+If the model made a lucky algebraic mistake that somehow canceled out and
+
+56
+00:03:37,814 --> 00:03:43,389
+landed on the right answer, the outcome grader awarded top marks—reinforcing broken logic!
+
+57
+00:03:43,439 --> 00:03:47,716
+To fix this, researchers introduced Process Reward Models, or PRMs.
+
+58
+00:03:47,766 --> 00:03:51,610
+Instead of waiting for the end of the exam,
+
+59
+00:03:51,660 --> 00:03:55,504
+a process reward model inspects every single deduction step.
+
+60
+00:03:55,554 --> 00:03:58,965
+It awards credit for valid logical transitions and
+
+61
+00:03:59,015 --> 00:04:02,427
+instantly penalizes logical fallacies the moment they occur.
+
+62
+00:04:02,477 --> 00:04:05,888
+By grading the journey rather than just the
+
+63
+00:04:05,938 --> 00:04:09,349
+destination, we trained models to become rigorous truth-seekers.
+
+64
+00:04:09,399 --> 00:04:14,241
+For years, everyone assumed that to teach an AI to think
+
+65
+00:04:14,291 --> 00:04:19,133
+like a human, you had to feed it human chain-of-thought demonstrations.
+
+66
+00:04:19,183 --> 00:04:22,246
+Then came DeepSeek-R1, and shattered that assumption.
+
+67
+00:04:22,296 --> 00:04:27,582
+The researchers took a raw base model called DeepSeek-R1-Zero and applied pure
+
+68
+00:04:27,632 --> 00:04:32,474
+reinforcement learning using Group Relative Policy Optimization—with zero human demonstration data.
+
+69
+00:04:32,524 --> 00:04:36,032
+The only feedback the model received was a
+
+70
+00:04:36,082 --> 00:04:39,145
+rule-based verifier: did the computer code compile?
+
+71
+00:04:39,195 --> 00:04:42,258
+Did the math answer match ground truth?
+
+72
+00:04:42,308 --> 00:04:44,926
+Left completely on its own to
+
+73
+00:04:44,976 --> 00:04:47,149
+maximize reward, something magical emerged.
+
+74
+00:04:47,199 --> 00:04:50,262
+The model spontaneously discovered how to reason.
+
+75
+00:04:50,312 --> 00:04:54,709
+It learned to allocate more thinking tokens to harder problems.
+
+76
+00:04:54,759 --> 00:04:57,822
+It learned to double-check its own arithmetic.
+
+77
+00:04:57,872 --> 00:05:03,159
+And most remarkably, it produced emergent self-reflection: spontaneously typing words like, "Wait,
+
+78
+00:05:03,209 --> 00:05:08,495
+let me rethink this," and backtracking when it detected its own errors.
+
+79
+00:05:08,545 --> 00:05:12,498
+Reasoning was not something we programmed into the machine.
+
+80
+00:05:12,548 --> 00:05:15,166
+It was an emergent survival strategy
+
+81
+00:05:15,216 --> 00:05:17,389
+discovered by the algorithm itself.
+
+82
+00:05:17,439 --> 00:05:22,304
+We are witnessing the fusion of large language models with the
+
+83
+00:05:22,354 --> 00:05:26,772
+algorithms that conquered Chess and Go: Monte Carlo Tree Search.
+
+84
+00:05:26,822 --> 00:05:30,793
+Instead of predicting tokens along a single linear path,
+
+85
+00:05:30,843 --> 00:05:34,367
+future intelligence navigates an expansive tree of thoughts.
+
+86
+00:05:34,417 --> 00:05:38,388
+It samples alternative futures, scores each branch with process
+
+87
+00:05:38,438 --> 00:05:42,409
+verifiers, prunes dead ends, and backtracks with mathematical certainty.
+
+88
+00:05:42,459 --> 00:05:45,089
+Test-time compute has transformed artificial intelligence.
+
+89
+00:05:45,139 --> 00:05:47,770
+We began with a raw autocomplete
+
+90
+00:05:47,820 --> 00:05:50,450
+engine predicting words on the internet.
+
+91
+00:05:50,500 --> 00:05:56,258
+We aligned it with human values, gave it external memory with RAG, and
+
+92
+00:05:56,308 --> 00:06:01,620
+now, we have given it the ability to deliberate, self-correct, and reason.
+
+93
+00:06:01,670 --> 00:06:05,194
+When machines can think before they speak, they
+
+94
+00:06:05,244 --> 00:06:08,321
+cease to be mirrors of human text.
+
+95
+00:06:08,371 --> 00:06:11,895
+They become engines of discovery—poised to solve the
+
+96
+00:06:11,945 --> 00:06:15,469
+deepest unsolved mysteries of mathematics, physics, and science.

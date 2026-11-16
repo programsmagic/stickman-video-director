@@ -1,0 +1,9 @@
+We are witnessing the fusion of large language models with the algorithms that conquered Chess and Go: Monte Carlo Tree Search.
+
+Instead of predicting tokens along a single linear path, future intelligence navigates an expansive tree of thoughts. It samples alternative futures, scores each branch with process verifiers, prunes dead ends, and backtracks with mathematical certainty.
+
+Test-time compute has transformed artificial intelligence.
+
+We began with a raw autocomplete engine predicting words on the internet. We aligned it with human values, gave it external memory with RAG, and now, we have given it the ability to deliberate, self-correct, and reason.
+
+When machines can think before they speak, they cease to be mirrors of human text. They become engines of discovery—poised to solve the deepest unsolved mysteries of mathematics, physics, and science.

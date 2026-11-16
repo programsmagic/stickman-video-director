@@ -1,0 +1,12 @@
+{
+  "kind": "speech",
+  "model": "gemini-3.8-flash-tts",
+  "requested_at": "2026-11-16T08:31:55.207Z",
+  "request_id": "e69f3341-6058-4bc8-89b5-bf4fc755062f",
+  "status": "complete",
+  "warning": "One request only; inspect provider history before retrying",
+  "key_index": 1,
+  "mime_type": "audio/wav",
+  "output": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep17-test-time-compute/build/narration/act5.wav",
+  "sha256": "73c578aa51e49783736e8b4064a022d58e7cbb0beb6b2fb5fddfc0f2ae0cad0b"
+}

@@ -1,0 +1,9 @@
+How do you teach a machine to reason soundly instead of hallucinating convincing nonsense?
+
+The secret lies in how we grade its work. In classic reinforcement learning, models were evaluated by an Outcome Reward Model. The model generated a full twenty-step proof, and the grader only checked if the final answer at the bottom was correct.
+
+This created a dangerous trap known as the credit assignment problem. If the model made a lucky algebraic mistake that somehow canceled out and landed on the right answer, the outcome grader awarded top marks—reinforcing broken logic!
+
+To fix this, researchers introduced Process Reward Models, or PRMs.
+
+Instead of waiting for the end of the exam, a process reward model inspects every single deduction step. It awards credit for valid logical transitions and instantly penalizes logical fallacies the moment they occur. By grading the journey rather than just the destination, we trained models to become rigorous truth-seekers.

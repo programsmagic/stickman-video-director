@@ -1,0 +1,7 @@
+For a decade, the entire AI industry worshipped a single golden rule: the Chinchilla scaling laws. If you wanted a smarter model, you had to make the neural network bigger, collect more internet data, and run supercomputers for longer.
+
+But in 2024, researchers hit a breakthrough: pre-training was not the only place to scale compute. You could scale compute at test time.
+
+Instead of demanding an immediate answer, what if we pay the model to deliberate? What if we let the model generate thousands of internal tokens—exploring hypotheses, checking its work, and discarding flawed deductions before showing a single word to the human?
+
+This was the core revelation behind OpenAI's o1 and modern reasoning models: accuracy on complex scientific reasoning doesn't just scale with training data. It scales directly with the logarithm of thinking time. We discovered the second scaling law of artificial intelligence.

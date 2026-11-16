@@ -1,0 +1,80 @@
+{
+  "schemaVersion": "1.0",
+  "episodeId": "ep17-test-time-compute",
+  "sceneId": "ep17-master-storyboard",
+  "title": "Test-Time Compute: How AI Learned to Think Before It Speaks (Inside OpenAI o1, DeepSeek-R1 & PRMs)",
+  "renderer": "canvas",
+  "duration": 375.52,
+  "fps": 30,
+  "resolution": {
+    "width": 1920,
+    "height": 1080
+  },
+  "narration": {
+    "asset": "../build/narration/full_feature.wav",
+    "start": 0.0,
+    "end": 375.52
+  },
+  "camera": {
+    "shot": "dynamic",
+    "movement": "staged-cutaways"
+  },
+  "visual": {
+    "metaphor": "Robotic auctioneer podium vs cognitive puzzle board, 3D pre-training vs test-time scaling coordinate space, transparent internal thought scratchpad with branching deduction trees, dual robotic assembly line inspectors (ORM vs PRM), DeepSeek-R1 pure RL labyrinth with spontaneous 'Aha!' moment, and cosmic Monte Carlo Tree Search constellation",
+    "background": "#050A1A",
+    "characters": [
+      {
+        "id": "magi",
+        "pose": "inspect",
+        "x": 480,
+        "y": 720,
+        "expression": "thoughtful",
+        "blinking": true,
+        "breathing": true,
+        "contactShadow": true
+      }
+    ],
+    "props": [
+      "auctioneer-podium",
+      "bat-ball-puzzle-board",
+      "second-scaling-law-graph",
+      "clockwork-deliberation-pendulum",
+      "transparent-thought-scratchpad",
+      "orm-prm-assembly-inspectors",
+      "deepseek-r1-logic-labyrinth",
+      "mcts-cosmic-tree"
+    ]
+  },
+  "beats": [
+    {
+      "at": 0.0,
+      "action": "act1_the_fast_thinking_trap",
+      "description": "Cognitive psychology laboratory; fast robotic auctioneer spits instant wrong answers to the bat-and-ball riddle; Kahneman System 1 vs System 2 split"
+    },
+    {
+      "at": 66.76,
+      "action": "act2_the_second_scaling_law",
+      "description": "Manim 3D coordinate space; Chinchilla pre-training scaling curve plateaus while test-time compute curve shoots vertically; small 8B model out-reasoning 70B model"
+    },
+    {
+      "at": 126.44,
+      "action": "act3_inside_the_thought_scratchpad",
+      "description": "Transparent LLM chamber; glowing cyan token blocks construct a dynamic working memory with hypotheses, verification checks, and backtracking"
+    },
+    {
+      "at": 183.20,
+      "action": "act4_process_reward_models",
+      "description": "Mathematical assembly line; Outcome Reward Model (ORM) checks only final digit while Process Reward Model (PRM) scans each deduction step with surgical laser verification"
+    },
+    {
+      "at": 249.40,
+      "action": "act5_deepseek_r1_aha_moment",
+      "description": "Dark digital labyrinth; DeepSeek-R1-Zero with pure GRPO reinforcement learning spontaneously discovers self-reflection, pauses to rethink, and reaches the eureka summit"
+    },
+    {
+      "at": 317.44,
+      "action": "act6_mcts_reasoning_frontier",
+      "description": "Breathtaking cosmic Monte Carlo Tree of Thoughts; AlphaZero meets language models; pruning dead ends and expanding truth paths into super-human scientific discovery"
+    }
+  ]
+}
