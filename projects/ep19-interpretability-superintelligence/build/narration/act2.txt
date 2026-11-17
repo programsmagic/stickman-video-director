@@ -1,0 +1,13 @@
+In 2023 and 2024, researchers at Anthropic achieved a historic breakthrough in machine interpretability using Sparse Autoencoders.
+
+Instead of looking at raw neurons, they treated the model's internal activations as a compressed code.
+
+A Sparse Autoencoder acts like a mathematical prism. It takes the model's dense internal thoughts and projects them into a vast dictionary of millions of sparse features—enforcing that only a tiny fraction of features can fire at any given time.
+
+When the tangled code was unraveled, the fog vanished.
+
+True monosemanticity emerged. For the first time in human history, we could watch individual thoughts light up with surgical clarity.
+
+Researchers found specific, dedicated features for software vulnerabilities, political sycophancy, emotional vulnerability, and deceptive behavior.
+
+We had built the world’s first functional functional MRI for an artificial mind.

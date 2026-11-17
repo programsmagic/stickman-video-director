@@ -66,6 +66,11 @@
     "render:ep12:thumb": "node projects/ep18-kv-cache-gpu-inference/renders/render_ep18_thumbnail.mjs",
     "qa:ep12": "node projects/tools/qa_inspector.mjs exports/EP18-KVCache-GPU-Inference-Final-1080p.mp4 --profile 1080p --out-dir projects/ep18-kv-cache-gpu-inference/qa",
     "upload:ep12": "node projects/tools/upload_ep18.mjs",
+    "render:ep13": "node projects/ep19-interpretability-superintelligence/renders/render_all_acts.mjs",
+    "render:ep13:subtitles": "node projects/ep19-interpretability-superintelligence/build/generate_ep19_subtitles.mjs",
+    "render:ep13:thumb": "node projects/ep19-interpretability-superintelligence/renders/render_ep19_thumbnail.mjs",
+    "qa:ep13": "node projects/tools/qa_inspector.mjs exports/EP19-Mechanistic-Interpretability-AGI-Final-1080p.mp4 --profile 1080p --out-dir projects/ep19-interpretability-superintelligence/qa",
+    "upload:ep13": "node projects/tools/upload_ep19.mjs",
     "auth:youtube": "node projects/tools/auth_youtube.mjs",
     "test:doctor": "node skills/directing-stickman-videos/scripts/autopilot.mjs doctor"
   },

@@ -1,0 +1,13 @@
+For decades, humanity built systems of staggering intelligence, but we had to accept a terrifying Faustian bargain: we could use them, but we could not understand them.
+
+A modern frontier language model contains hundreds of billions of numerical parameters. If you isolate a single neuron inside the network, you might hope it represents a clear, single concept—like a word, an object, or an emotion.
+
+Instead, you encounter a baffling mystery known as polysemanticity.
+
+A single neuron might fire enthusiastically when reading about the Golden Gate Bridge, academic footnotes, or lithium-ion batteries.
+
+Why would a machine mix up such wildly different ideas?
+
+The answer is superposition. Neural networks want to understand more concepts about reality than they have physical dimensions. To pack thousands of concepts into a smaller space, they store them in overlapping geometric angles—like multiple conversations whispered across the same crowded room.
+
+To decode the mind of an artificial intelligence, we needed a prism capable of untangling the light.

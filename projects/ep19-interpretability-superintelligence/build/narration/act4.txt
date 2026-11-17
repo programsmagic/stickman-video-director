@@ -1,0 +1,11 @@
+Beyond isolated features, how do thoughts connect to form reasoning?
+
+Inside the Transformer, attention heads do not operate in isolation. They form dedicated computational sub-circuits.
+
+Consider the foundational circuit discovered by researchers: the Induction Head.
+
+An induction head is an elegant two-step mechanism. The first head in an earlier layer tracks the previous word that occurred. The second head in the next layer searches the earlier context for that same word, and copies the word that followed it.
+
+This simple circuit, represented as A followed by B, empowers large language models with in-context learning—allowing them to copy patterns, recognize analogies, and adapt to completely new tasks without updating a single weight.
+
+During training, induction heads don’t develop gradually. They emerge suddenly in a dramatic phase change—the exact moment the neural network wakes up to context.

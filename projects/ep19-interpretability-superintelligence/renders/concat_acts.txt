@@ -1,0 +1,6 @@
+file '/Users/prashantmishra/Developer/video-generator-stickman/exports/EP19-Act1-BlackBoxPolysemantic-1080p.mp4'
+file '/Users/prashantmishra/Developer/video-generator-stickman/exports/EP19-Act2-SparseAutoencoders-1080p.mp4'
+file '/Users/prashantmishra/Developer/video-generator-stickman/exports/EP19-Act3-GoldenGateClaude-1080p.mp4'
+file '/Users/prashantmishra/Developer/video-generator-stickman/exports/EP19-Act4-TransformerCircuitsInduction-1080p.mp4'
+file '/Users/prashantmishra/Developer/video-generator-stickman/exports/EP19-Act5-SuperalignmentOversight-1080p.mp4'
+file '/Users/prashantmishra/Developer/video-generator-stickman/exports/EP19-Act6-GrandSynthesisAGI-1080p.mp4'

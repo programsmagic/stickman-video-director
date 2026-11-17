@@ -1,0 +1,12 @@
+{
+  "kind": "speech",
+  "model": "gemini-3.8-flash-tts",
+  "requested_at": "2026-11-16T17:53:13.909Z",
+  "request_id": "c0ba0b45-ec30-4822-9fb1-3ac09dd823b2",
+  "status": "complete",
+  "warning": "One request only; inspect provider history before retrying",
+  "key_index": 1,
+  "mime_type": "audio/wav",
+  "output": "/Users/prashantmishra/Developer/video-generator-stickman/projects/ep19-interpretability-superintelligence/build/narration/act1.wav",
+  "sha256": "7336eff4bcf138de6b82dc50b07692f074c7f1892f206ded2c8cc04792de0e0e"
+}

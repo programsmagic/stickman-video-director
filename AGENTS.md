@@ -1,7 +1,7 @@
 # Studio Operational Manual & Agent Guidelines
 **Repository**: `video-generator-stickman`  
 **Last Updated**: November 15, 2026  
-**Status**: Episode 02 (How AI Actually Works - Definitive Edition 11m 39s) Complete & Scheduled, Episode 09 (Can AI Ever Become Conscious? 5m 32s) Complete & Scheduled, Episode 10 (The Geometry of Thinking 4m 50s 1080p Master) Complete & Ready, Episode 11 (The Token Illusion 4m 56s 1080p Master) Complete & Ready, Episode 12 (The Physics of Diffusion 5m 31s 1080p Master) Complete & Ready, Episode 13 (The Multimodal Mind 5m 26s 1080p Master) Complete & Ready, Episode 14 (The Architecture of Autonomous Agents 4m 58s 1080p Master) Complete & Ready, Episode 15 (RAG & Vector Databases 5m 37s 1080p Master) Complete & Ready, Episode 16 (Post-Training & Alignment 5m 18s 1080p Master) Complete & Ready, Episode 17 (Test-Time Compute & The Reasoning Revolution 6m 15s 1080p Master) Complete & Ready, Episode 18 (KV Cache & GPU Inference 6m 42s 1080p Master) Complete & Ready, Episode 01 (History of AI / EP07 7m 07s) Published  
+**Status**: All 13 Episodes Complete & Ready (100% Full Series Curriculum Complete): Episode 01 (History of AI / EP07 7m 07s) Published, Episode 02 (How AI Actually Works - Definitive Edition 11m 39s) Scheduled, Episode 09 (Can AI Ever Become Conscious? 5m 32s) Scheduled, Episode 10 (The Geometry of Thinking 4m 50s 1080p Master) Ready, Episode 11 (The Token Illusion 4m 56s 1080p Master) Ready, Episode 12 (The Physics of Diffusion 5m 31s 1080p Master) Ready, Episode 13 (The Multimodal Mind 5m 26s 1080p Master) Ready, Episode 14 (The Architecture of Autonomous Agents 4m 58s 1080p Master) Ready, Episode 15 (RAG & Vector Databases 5m 37s 1080p Master) Ready, Episode 16 (Post-Training & Alignment 5m 18s 1080p Master) Ready, Episode 17 (Test-Time Compute & The Reasoning Revolution 6m 15s 1080p Master) Ready, Episode 18 (KV Cache & GPU Inference 6m 42s 1080p Master) Ready, Episode 19 (Mechanistic Interpretability & Superintelligence 6m 08s 1080p Master - The Grand Finale) Ready  
 **Comprehensive Studio & Animation Guide**: [`STUDIO_PRODUCTION_GUIDE.md`](file:///Users/prashantmishra/Developer/video-generator-stickman/STUDIO_PRODUCTION_GUIDE.md) (Single source of truth for technical architecture, IK kinematics, procedural Foley audio, 21 skills, and rendering pipeline)  
 **Master Architectural Blueprint**: [`PROGRAMS_MAGIC_AI_VIDEO_STUDIO_MASTER_BLUEPRINT.md`](file:///Users/prashantmishra/Developer/video-generator-stickman/PROGRAMS_MAGIC_AI_VIDEO_STUDIO_MASTER_BLUEPRINT.md) (Expert blueprint for quality evolution, scene schema 1.0, and 1080p foundation)
 
@@ -108,6 +108,44 @@
   - **Act 5**: [`exports/EP15-Act5-CrossEncoderReranker-1080p.mp4`](file:///Users/prashantmishra/Developer/video-generator-stickman/exports/EP15-Act5-CrossEncoderReranker-1080p.mp4) (52.4s - Courtroom judge inspection, deep cross-attention transformer, rejection stamps, top-3 needles)
   - **Act 6**: [`exports/EP15-Act6-AgenticRAG-1080p.mp4`](file:///Users/prashantmishra/Developer/video-generator-stickman/exports/EP15-Act6-AgenticRAG-1080p.mp4) (55.4s - Holographic cockpit, Self-RAG reflection tokens [Retrieve, IsRel, IsSup], living external mind)
 
+- **Episode 16 (Episode 10 of Series): Post-Training & Alignment: Taming the Silicon Beast (RLHF, DPO & Refusal Vectors)**:
+  - **YouTube Premiere**: Scheduled for **Tuesday, Jan 12, 2027 @ 19:00 UTC (2:00 PM EST)**
+  - **Full Feature Film**: [`exports/EP16-Post-Training-Alignment-Final-1080p.mp4`](file:///Users/prashantmishra/Developer/video-generator-stickman/exports/EP16-Post-Training-Alignment-Final-1080p.mp4) (5m 18s, 1920x1080, 30fps, 48kHz Foley + Gemini Bodi narration)
+  - **Subtitles**: [`exports/EP16-Post-Training-Alignment-Final.en.srt`](file:///Users/prashantmishra/Developer/video-generator-stickman/exports/EP16-Post-Training-Alignment-Final.en.srt) (88 precision word-aligned cues)
+  - **Thumbnail**: [`exports/EP16-thumbnail.png`](file:///Users/prashantmishra/Developer/video-generator-stickman/exports/EP16-thumbnail.png) (1280x720, custom mobile CTR design)
+  - **Publishing Metadata**: [`projects/ep16-post-training-alignment/publishing/metadata.md`](file:///Users/prashantmishra/Developer/video-generator-stickman/projects/ep16-post-training-alignment/publishing/metadata.md)
+  - **QA Report**: [`projects/ep16-post-training-alignment/qa/qa_report.md`](file:///Users/prashantmishra/Developer/video-generator-stickman/projects/ep16-post-training-alignment/qa/qa_report.md) (100% PASS)
+
+- **Episode 17 (Episode 11 of Series): Test-Time Compute & The Reasoning Revolution (OpenAI o1, DeepSeek-R1, MCTS & PRMs)**:
+  - **YouTube Premiere**: Scheduled for **Tuesday, Jan 19, 2027 @ 19:00 UTC (2:00 PM EST)**
+  - **Full Feature Film**: [`exports/EP17-Test-Time-Compute-Reasoning-Final-1080p.mp4`](file:///Users/prashantmishra/Developer/video-generator-stickman/exports/EP17-Test-Time-Compute-Reasoning-Final-1080p.mp4) (6m 15s, 1920x1080, 30fps, 48kHz Foley + Gemini Bodi narration)
+  - **Subtitles**: [`exports/EP17-Test-Time-Compute-Reasoning-Final.en.srt`](file:///Users/prashantmishra/Developer/video-generator-stickman/exports/EP17-Test-Time-Compute-Reasoning-Final.en.srt) (94 precision word-aligned cues)
+  - **Thumbnail**: [`exports/EP17-thumbnail.png`](file:///Users/prashantmishra/Developer/video-generator-stickman/exports/EP17-thumbnail.png) (1280x720, custom mobile CTR design)
+  - **Publishing Metadata**: [`projects/ep17-test-time-compute/publishing/metadata.md`](file:///Users/prashantmishra/Developer/video-generator-stickman/projects/ep17-test-time-compute/publishing/metadata.md)
+  - **QA Report**: [`projects/ep17-test-time-compute/qa/qa_report.md`](file:///Users/prashantmishra/Developer/video-generator-stickman/projects/ep17-test-time-compute/qa/qa_report.md) (100% PASS)
+
+- **Episode 18 (Episode 12 of Series): The Mechanics of GPU Inference: KV Cache, PagedAttention & The Memory Wall**:
+  - **YouTube Premiere**: Scheduled for **Tuesday, Jan 26, 2027 @ 19:00 UTC (2:00 PM EST)**
+  - **Full Feature Film**: [`exports/EP18-KVCache-GPU-Inference-Final-1080p.mp4`](file:///Users/prashantmishra/Developer/video-generator-stickman/exports/EP18-KVCache-GPU-Inference-Final-1080p.mp4) (6m 42s, 1920x1080, 30fps, 48kHz Foley + Gemini Bodi narration)
+  - **Subtitles**: [`exports/EP18-KVCache-GPU-Inference-Final.en.srt`](file:///Users/prashantmishra/Developer/video-generator-stickman/exports/EP18-KVCache-GPU-Inference-Final.en.srt) (97 precision word-aligned cues)
+  - **Thumbnail**: [`exports/EP18-thumbnail.png`](file:///Users/prashantmishra/Developer/video-generator-stickman/exports/EP18-thumbnail.png) (1280x720, custom mobile CTR design)
+  - **Publishing Metadata**: [`projects/ep18-kv-cache-gpu-inference/publishing/metadata.md`](file:///Users/prashantmishra/Developer/video-generator-stickman/projects/ep18-kv-cache-gpu-inference/publishing/metadata.md)
+  - **QA Report**: [`projects/ep18-kv-cache-gpu-inference/qa/qa_report.md`](file:///Users/prashantmishra/Developer/video-generator-stickman/projects/ep18-kv-cache-gpu-inference/qa/qa_report.md) (100% PASS)
+
+- **Episode 19 (Episode 13 of Series): Mechanistic Interpretability & Superintelligence (The AGI Grand Finale)**:
+  - **YouTube Premiere**: Scheduled for **Tuesday, Feb 02, 2027 @ 19:00 UTC (2:00 PM EST)**
+  - **Full Feature Film**: [`exports/EP19-Mechanistic-Interpretability-AGI-Final-1080p.mp4`](file:///Users/prashantmishra/Developer/video-generator-stickman/exports/EP19-Mechanistic-Interpretability-AGI-Final-1080p.mp4) (6m 08s, 1920x1080, 30fps, 48kHz Foley + Gemini Bodi narration)
+  - **Subtitles**: [`exports/EP19-Mechanistic-Interpretability-AGI-Final.en.srt`](file:///Users/prashantmishra/Developer/video-generator-stickman/exports/EP19-Mechanistic-Interpretability-AGI-Final.en.srt) (90 precision word-aligned cues)
+  - **Thumbnail**: [`exports/EP19-thumbnail.png`](file:///Users/prashantmishra/Developer/video-generator-stickman/exports/EP19-thumbnail.png) (1280x720, custom mobile CTR design)
+  - **Publishing Metadata**: [`projects/ep19-interpretability-superintelligence/publishing/metadata.md`](file:///Users/prashantmishra/Developer/video-generator-stickman/projects/ep19-interpretability-superintelligence/publishing/metadata.md)
+  - **QA Report**: [`projects/ep19-interpretability-superintelligence/qa/qa_report.md`](file:///Users/prashantmishra/Developer/video-generator-stickman/projects/ep19-interpretability-superintelligence/qa/qa_report.md) (100% PASS)
+  - **Act 1**: [`exports/EP19-Act1-BlackBoxPolysemantic-1080p.mp4`](file:///Users/prashantmishra/Developer/video-generator-stickman/exports/EP19-Act1-BlackBoxPolysemantic-1080p.mp4) (67.1s - The Black Box Dilemma & Polysemantic Neurons)
+  - **Act 2**: [`exports/EP19-Act2-SparseAutoencoders-1080p.mp4`](file:///Users/prashantmishra/Developer/video-generator-stickman/exports/EP19-Act2-SparseAutoencoders-1080p.mp4) (59.8s - Sparse Autoencoders: The Prisms of the Mind)
+  - **Act 3**: [`exports/EP19-Act3-GoldenGateClaude-1080p.mp4`](file:///Users/prashantmishra/Developer/video-generator-stickman/exports/EP19-Act3-GoldenGateClaude-1080p.mp4) (63.1s - The Golden Gate Claude Experiment & Causal Steering)
+  - **Act 4**: [`exports/EP19-Act4-TransformerCircuitsInduction-1080p.mp4`](file:///Users/prashantmishra/Developer/video-generator-stickman/exports/EP19-Act4-TransformerCircuitsInduction-1080p.mp4) (59.4s - Transformer Circuits & Induction Heads)
+  - **Act 5**: [`exports/EP19-Act5-SuperalignmentOversight-1080p.mp4`](file:///Users/prashantmishra/Developer/video-generator-stickman/exports/EP19-Act5-SuperalignmentOversight-1080p.mp4) (58.7s - Superalignment & Scalable Oversight)
+  - **Act 6**: [`exports/EP19-Act6-GrandSynthesisAGI-1080p.mp4`](file:///Users/prashantmishra/Developer/video-generator-stickman/exports/EP19-Act6-GrandSynthesisAGI-1080p.mp4) (60.0s - The Grand Synthesis: From Sand to Superintelligence)
+
 - **Episode 09: Can AI Ever Become Conscious? (The Chinese Room, Qualia & Inside the Minds of Silicon)**:
   - **YouTube Premiere**: Scheduled for **Tuesday, Nov 24, 2026 @ 19:00 UTC (2:00 PM EST)**
   - **Full Feature Film**: [`exports/EP09-Can-AI-Become-Conscious-Final.mp4`](file:///Users/prashantmishra/Developer/video-generator-stickman/exports/EP09-Can-AI-Become-Conscious-Final.mp4) (5m 32s, 1280x720, 30fps, 48kHz Foley + Gemini Bodi narration)
@@ -173,9 +211,9 @@
 | **Episode 08** (EP14) | **The Architecture of Autonomous Agents** | ReAct loops, tool calling, JSON schema, environment feedback, self-correction | **Completed (1080p Master)** | **4m 58s** |
 | **Episode 09** (EP15) | **Retrieval-Augmented Generation & Vector DBs** | External memory, 1536-D embeddings, HNSW graph search, semantic routing, reranking | **Completed (1080p Master)** | **5m 37s** |
 | **Episode 10** (EP16) | **Post-Training & Alignment: Taming the Silicon Beast** | SFT, RLHF, DPO, reward models, KL divergence tether, refusal steering | **Completed (1080p Master)** | **5m 18s** |
-| **Episode 11** (EP17) | **Test-Time Compute & The Reasoning Revolution** | OpenAI o1/o3, DeepSeek-R1, MCTS tree search, Process Reward Models (PRMs), verification | **Scheduled** | ~5m 30s |
-| **Episode 12** (EP18) | **KV Cache & The Mechanics of GPU Inference** | Memory bandwidth wall, Key-Value cache, PagedAttention, vLLM, FlashAttention, quantization | **Scheduled** | ~5m 30s |
-| **Episode 13** (EP19) | **Mechanistic Interpretability & Superintelligence** | Sparse Autoencoders (SAEs), polysemantic neurons, circuits, steering vectors, AGI synthesis | **Scheduled (Grand Finale)** | ~6m 00s |
+| **Episode 11** (EP17) | **Test-Time Compute & The Reasoning Revolution** | OpenAI o1/o3, DeepSeek-R1, MCTS tree search, Process Reward Models (PRMs), verification | **Completed (1080p Master)** | **6m 15s** |
+| **Episode 12** (EP18) | **KV Cache & The Mechanics of GPU Inference** | Memory bandwidth wall, Key-Value cache, PagedAttention, vLLM, FlashAttention, quantization | **Completed (1080p Master)** | **6m 42s** |
+| **Episode 13** (EP19) | **Mechanistic Interpretability & Superintelligence** | Sparse Autoencoders (SAEs), polysemantic neurons, circuits, steering vectors, AGI synthesis | **Completed (1080p Master - Grand Finale)** | **6m 08s** |
 
 ### Track B: High-RPM "What If" & Conceptual Series (from `projects/research/topics.csv`)
 | Topic | Format Family | Demand Score | Gap | RPM Tier |

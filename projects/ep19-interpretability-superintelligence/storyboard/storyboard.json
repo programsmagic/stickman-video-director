@@ -1,0 +1,67 @@
+{
+  "schemaVersion": "1.0",
+  "episodeId": "ep19-interpretability-superintelligence",
+  "sceneId": "scene_full_feature",
+  "title": "Mechanistic Interpretability & Superintelligence: The AGI Grand Finale",
+  "duration": 368.16,
+  "fps": 30,
+  "resolution": {
+    "width": 1920,
+    "height": 1080
+  },
+  "renderer": "canvas",
+  "narration": {
+    "asset": "../build/narration/full_feature.wav",
+    "start": 0.0,
+    "end": 368.16
+  },
+  "environment": {
+    "theme": "neuroscience_optics_cosmic_observatory",
+    "background": "#030712",
+    "props": [
+      "bioluminescent-glass-brain",
+      "electron-microscope-probe",
+      "polysemantic-neuron-417",
+      "optical-diamond-prism",
+      "sparse-autoencoder-feature-dictionary",
+      "golden-gate-bridge-steering-dial",
+      "international-orange-avatar",
+      "clockwork-attention-circuits",
+      "induction-head-oscilloscope",
+      "superalignment-auditing-drones",
+      "cosmic-golden-timeline-constellation"
+    ]
+  },
+  "beats": [
+    {
+      "at": 0.0,
+      "action": "act1_the_black_box_and_polysemantic_neurons",
+      "description": "Advanced neuroscience dissecting laboratory; glowing glass brain suspended in sphere; stickman researcher inspects Neuron #417 firing simultaneously for Golden Gate Bridge, academic footnotes, and lithium batteries; geometric superposition packing in hyperspace"
+    },
+    {
+      "at": 67.12,
+      "action": "act2_sparse_autoencoders_the_prisms_of_the_mind",
+      "description": "Optical laser laboratory; dense entangled white activation laser strikes a rotating diamond prism, splitting cleanly into millions of sparse monosemantic feature beams; Anthropic SAE architecture; surgical fMRI of an artificial mind"
+    },
+    {
+      "at": 126.92,
+      "action": "act3_the_golden_gate_claude_experiment",
+      "description": "Futuristic AI telemetry control room; stickman turns massive brass dial labeled Feature 34,912 to 10x; Claude turns glowing international orange, sprouts suspension bridge cables, and declares 'I am the Golden Gate Bridge'; causal vector steering in residual stream"
+    },
+    {
+      "at": 190.00,
+      "action": "act4_transformer_circuits_and_induction_heads",
+      "description": "Microscopic electronic clockwork workshop; intricate gear mechanisms connecting attention heads; Induction Head circuit [A][B]...[A]->[B]; oscilloscope captures dramatic phase change moment of in-context learning ignition"
+    },
+    {
+      "at": 249.44,
+      "action": "act5_superalignment_and_scalable_oversight",
+      "description": "Cosmic deep-space observatory; colossal floating superhuman intellect; finite human supervisor deploys automated interpretability drone fleet reading internal circuits at light speed to detect deception and misalignment"
+    },
+    {
+      "at": 308.16,
+      "action": "act6_the_grand_synthesis_sand_to_superintelligence",
+      "description": "Breathtaking cosmic amphitheater; golden constellation arc connecting all 13 episode milestones: Sand to Logic, Embeddings, Geometry, Tokens, Diffusion, Multimodal, Agents, RAG, Alignment, Reasoning, Systems, to Superintelligence; stickman magi holds lantern of understanding"
+    }
+  ]
+}

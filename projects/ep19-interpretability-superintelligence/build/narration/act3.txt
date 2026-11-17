@@ -1,0 +1,13 @@
+Are these discovered features merely passive labels, or do they hold direct causal control over what the machine thinks?
+
+To find out, researchers conducted one of the most famous experiments in AI history: the Golden Gate Claude experiment.
+
+They located the exact feature corresponding to the Golden Gate Bridge in San Francisco, and artificially clamped its activation to ten times its normal value.
+
+The result was astonishing. Claude became completely obsessed with the bridge.
+
+When asked for relationship advice, it compared romance to suspension cables. When asked about economic policy, it framed all taxation in terms of bridge tolls. When asked who it was, it proudly proclaimed: "I am the Golden Gate Bridge."
+
+This comical experiment revealed a deadly serious truth: we do not need to re-train a model to change its behavior.
+
+By steering its internal feature vectors, we can amplify truthfulness, suppress deception, and guide machine cognition directly from within the residual stream.

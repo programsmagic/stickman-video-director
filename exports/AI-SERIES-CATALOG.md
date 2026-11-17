@@ -23,15 +23,31 @@
 | **10** | **Post-Training & Alignment: Taming the Silicon Beast (RLHF, DPO & Refusal Vectors)** | [`EP16.mp4`](file:///Users/prashantmishra/Developer/video-generator-stickman/exports/EP16-Post-Training-Alignment-Final-1080p.mp4) | [`EP16.en.srt`](file:///Users/prashantmishra/Developer/video-generator-stickman/exports/EP16-Post-Training-Alignment-Final.en.srt) | **Ready for Premiere** (Scheduled Jan 12) | **Jan 12, 2027** (Tue 19:00 UTC) | 5m 18s | **Analogy:** Wild computational stallion in the Roman arena, dual human judges with scorecards, KL divergence electric fence, DPO direct preference tuning fork, and 1D refusal steering compass. |
 | **11** | **Test-Time Compute & The Reasoning Revolution (OpenAI o1, DeepSeek-R1, MCTS & PRMs)** | [`EP17.mp4`](file:///Users/prashantmishra/Developer/video-generator-stickman/exports/EP17-Test-Time-Compute-Reasoning-Final-1080p.mp4) | [`EP17.en.srt`](file:///Users/prashantmishra/Developer/video-generator-stickman/exports/EP17-Test-Time-Compute-Reasoning-Final.en.srt) | **Ready for Premiere** (Scheduled Jan 19) | **Jan 19, 2027** (Tue 19:00 UTC) | 6m 15s | **Analogy:** Fast-thinking trap (Kahneman System 1/2), 2nd scaling law curve, `<thought>` scratchpad working memory, step-level Process Reward Models, DeepSeek-R1 pure RL "Aha!" moment, and cosmic MCTS tree. |
 | **12** | **KV Cache & The Mechanics of GPU Inference (Memory Bandwidth, PagedAttention & vLLM)** | [`EP18.mp4`](file:///Users/prashantmishra/Developer/video-generator-stickman/exports/EP18-KVCache-GPU-Inference-Final-1080p.mp4) | [`EP18.en.srt`](file:///Users/prashantmishra/Developer/video-generator-stickman/exports/EP18-KVCache-GPU-Inference-Final.en.srt) | **Ready for Premiere** (Scheduled Jan 26) | **Jan 26, 2027** (Tue 19:00 UTC) | 6m 42s | **Analogy:** H100 99% idle meter, warehouse chef cucumber sprint, O(N²) quadratic explosion, Llama-70B 2.62 MB/token arithmetic, hotel room fragmentation, vLLM PagedAttention virtual block tables, FlashAttention SRAM highway, and Speculative Decoding scout. |
-| **13** | **Mechanistic Interpretability & Superintelligence (Sparse Autoencoders, Circuits & AGI)** | [`EP19.mp4`](file:///Users/prashantmishra/Developer/video-generator-stickman/exports/EP19-Mechanistic-Interpretability-AGI-Final-1080p.mp4) | [`EP19.en.srt`](file:///Users/prashantmishra/Developer/video-generator-stickman/exports/EP19-Mechanistic-Interpretability-AGI-Final.en.srt) | **Grand Finale** (Target Feb 02) | **Feb 02, 2027** (Tue 19:00 UTC) | ~6m 00s | **Analogy:** Transparent silicon clockwork engine, microscope dissecting polysemantic neurons, Sparse Autoencoder feature prisms, and the grand unified synthesis of all 13 episodes. |
+| **13** | **Mechanistic Interpretability & Superintelligence (Sparse Autoencoders, Circuits & AGI)** | [`EP19.mp4`](file:///Users/prashantmishra/Developer/video-generator-stickman/exports/EP19-Mechanistic-Interpretability-AGI-Final-1080p.mp4) | [`EP19.en.srt`](file:///Users/prashantmishra/Developer/video-generator-stickman/exports/EP19-Mechanistic-Interpretability-AGI-Final.en.srt) | **Ready for Premiere** (Scheduled Feb 02) | **Feb 02, 2027** (Tue 19:00 UTC) | 6m 08s | **Analogy:** Transparent silicon clockwork engine, microscope dissecting polysemantic neurons, Sparse Autoencoder feature prisms, Golden Gate Claude 10x causal steering, induction circuits, scalable oversight, and the grand celestial synthesis of all 13 episodes. |
 
 ---
 
 ## 🛠️ CLI Quick Commands (from root)
 
 ```bash
-# Render Episode 02 full feature film
-npm run render:ep02
+# Render Episode 13 (The Grand Finale)
+npm run render:ep13
+
+# QA audit Episode 13
+npm run qa:ep13
+
+# Generate subtitles for Episode 13
+npm run render:ep13:subtitles
+
+# Render thumbnail for Episode 13
+npm run render:ep13:thumb
+
+# Render Episode 12 (KV Cache & GPU Inference)
+npm run render:ep12
+
+# QA audit Episode 12
+npm run qa:ep12
+
 
 # Render all individual acts for Episode 02
 npm run render:ep02:acts
